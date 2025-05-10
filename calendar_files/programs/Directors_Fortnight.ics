@@ -1,0 +1,1111 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cannes Film Festival//Screenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cannes Film Festival Screenings
+X-WR-TIMEZONE:Europe/Paris
+
+BEGIN:VEVENT
+UID:92e730f4-0dc5-4dd1-a866-b8e9496dd4f1
+DTSTART:20250514T064500Z
+DTEND:20250514T083700Z
+SUMMARY:ENZO - Théâtre Croisette
+LOCATION:3 Rue Frédéric Amouretti 1
+DESCRIPTION:Program: Directors' Fortnight<br>Director: LAURENT CANTET\, ROBIN
+ CAMPILLO<br>Theater: Théâtre Croisette<br><a href="https://ticketonline1.f
+ estival-cannes.com/fiche?idproj=sNQT7dcEH84%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:e49c22a5-edd3-49f5-acc5-5007dee90d54
+DTSTART:20250514T094500Z
+DTEND:20250514T110000Z
+SUMMARY:FACTORY CEARÁ BRASIL - Théâtre Croisette
+LOCATION:3 Rue Frédéric Amouretti 1
+DESCRIPTION:Program: Directors' Fortnight<br>Director: <br>Theater: Théâtre
+ Croisette<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpr
+ oj=Q778xH6uOJs%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:cea751fc-538b-4003-bc8d-c58c96b0f6fa
+DTSTART:20250514T120000Z
+DTEND:20250514T141500Z
+SUMMARY:I'M NOT THERE + MASTERCLASS TODD HAYNES - Théâtre Croisette
+LOCATION:3 Rue Frédéric Amouretti 1
+DESCRIPTION:Program: Directors' Fortnight<br>Director: TODD HAYNES<br>Theater: Théâtre
+ Croisette<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpr
+ oj=0EoZ%2BnD%2BXRM%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:127efd61-3901-4b98-88c4-8d9cd7c0db91
+DTSTART:20250514T170000Z
+DTEND:20250514T184200Z
+SUMMARY:ENZO - Théâtre Croisette
+LOCATION:3 Rue Frédéric Amouretti 1
+DESCRIPTION:Program: Directors' Fortnight<br>Director: LAURENT CANTET\, ROBIN
+ CAMPILLO<br>Theater: Théâtre Croisette<br><a href="https://ticketonline1.f
+ estival-cannes.com/fiche?idproj=OcOR8nFWtmM%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:a0571474-a09d-477f-a096-cb687299f01c
+DTSTART:20250514T200000Z
+DTEND:20250514T214200Z
+SUMMARY:ENZO - Théâtre Croisette
+LOCATION:3 Rue Frédéric Amouretti 1
+DESCRIPTION:Program: Directors' Fortnight<br>Director: LAURENT CANTET\, ROBIN
+ CAMPILLO<br>Theater: Théâtre Croisette<br><a href="https://ticketonline1.f
+ estival-cannes.com/fiche?idproj=ViXhuv2o3hA%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2724b6a1-332c-4509-a7c8-ec5904ced895
+DTSTART:20250515T064500Z
+DTEND:20250515T080700Z
+SUMMARY:LA MORT N'EXISTE PAS (DEATH DOES NOT EXIST) - Théâtre Croisette
+LOCATION:3 Rue Frédéric Amouretti 1
+DESCRIPTION:Program: Directors' Fortnight<br>Director: FÉLIX
+ DUFOUR-LAPERRIÈRE<br>Theater: Théâtre Croisette<br><a href="https://ticket
+ online1.festival-cannes.com/fiche?idproj=%2FTCkbscdLO8%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:258246be-c1af-4031-a05c-4765194a1dee
+DTSTART:20250515T070000Z
+DTEND:20250515T084200Z
+SUMMARY:ENZO - Licorne
+LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Directors' Fortnight<br>Director: LAURENT CANTET\, ROBIN
+ CAMPILLO<br>Theater: Licorne<br><a href="https://ticketonline1.festival-ca
+ nnes.com/fiche?idproj=P16sOYOgDJk%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:6d90cdef-091f-42ed-bd48-312a8686eed7
+DTSTART:20250515T091500Z
+DTEND:20250515T110300Z
+SUMMARY:L'ENGLOUTIE (THE GIRL IN THE SNOW) - Théâtre Croisette
+LOCATION:3 Rue Frédéric Amouretti 1
+DESCRIPTION:Program: Directors' Fortnight<br>Director: LOUISE HÉMON<br>Theater:
+ Théâtre Croisette<br><a href="https://ticketonline1.festival-cannes.com/fi
+ che?idproj=AVzL6q%2B0KqI%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:74d9685e-4d62-4256-b42d-c7634bb71940
+DTSTART:20250515T121500Z
+DTEND:20250515T142000Z
+SUMMARY:BRAND NEW LANDSCAPE - Théâtre Croisette
+LOCATION:3 Rue Frédéric Amouretti 1
+DESCRIPTION:Program: Directors' Fortnight<br>Director: YUIGA DANZUKA<br>Theater:
+ Théâtre Croisette<br><a href="https://ticketonline1.festival-cannes.com/fi
+ che?idproj=v7FFH1aQ64Y%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:d0aa139c-cf2f-453a-a8b6-2310d0180611
+DTSTART:20250515T143000Z
+DTEND:20250515T153500Z
+SUMMARY:FACTORY CEARÁ-BRAZIL - Studio 13
+LOCATION:23 Av. du Dr Raymond Picaud 06400 Cannes
+DESCRIPTION:Program: Directors' Fortnight<br>Director: <br>Theater: Studio 13<br><a
+ href="https://ticketonline1.festival-cannes.com/fiche?idproj=LLmp2okCHQ4%3
+ D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:0a20eaff-20af-4fb7-9dae-107d17876a30
+DTSTART:20250515T153000Z
+DTEND:20250515T164200Z
+SUMMARY:LA MORT N'EXISTE PAS (DEATH DOES NOT EXIST) - Théâtre Croisette
+LOCATION:3 Rue Frédéric Amouretti 1
+DESCRIPTION:Program: Directors' Fortnight<br>Director: FÉLIX
+ DUFOUR-LAPERRIÈRE<br>Theater: Théâtre Croisette<br><a href="https://ticket
+ online1.festival-cannes.com/fiche?idproj=b%2FT1ZXNW5F8%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:5d678d86-9c68-40bd-bd31-96a2487e77ec
+DTSTART:20250515T170000Z
+DTEND:20250515T184200Z
+SUMMARY:ENZO - Alexandre III
+LOCATION:19 Bd Alexandre III 06400 Cannes
+DESCRIPTION:Program: Directors' Fortnight<br>Director: LAURENT CANTET\, ROBIN
+ CAMPILLO<br>Theater: Alexandre III<br><a href="https://ticketonline1.festi
+ val-cannes.com/fiche?idproj=K9cFNjrXJdw%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:64d793c1-459d-4f5e-868f-7c11fa27387f
+DTSTART:20250515T180000Z
+DTEND:20250515T193800Z
+SUMMARY:L'ENGLOUTIE (THE GIRL IN THE SNOW) - Théâtre Croisette
+LOCATION:3 Rue Frédéric Amouretti 1
+DESCRIPTION:Program: Directors' Fortnight<br>Director: LOUISE HÉMON<br>Theater:
+ Théâtre Croisette<br><a href="https://ticketonline1.festival-cannes.com/fi
+ che?idproj=HiLYpNkvHsc%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:44aaef0d-2042-4526-bcb6-cdb345d97219
+DTSTART:20250516T064500Z
+DTEND:20250516T083700Z
+SUMMARY:THE PRESIDENT'S CAKE - Théâtre Croisette
+LOCATION:3 Rue Frédéric Amouretti 1
+DESCRIPTION:Program: Directors' Fortnight<br>Director: HASAN HADI<br>Theater: Théâtre
+ Croisette<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpr
+ oj=6WG7ZVJL%2BgA%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ee56a8a9-713d-4b0d-9e43-945d84d98523
+DTSTART:20250516T090000Z
+DTEND:20250516T101200Z
+SUMMARY:LA MORT N'EXISTE PAS (DEATH DOES NOT EXIST) - Raimu
+LOCATION:Chemin de la Borde 06150 Cannes La Bocca
+DESCRIPTION:Program: Directors' Fortnight<br>Director: FÉLIX
+ DUFOUR-LAPERRIÈRE<br>Theater: Raimu<br><a href="https://ticketonline1.fest
+ ival-cannes.com/fiche?idproj=PZzxJQg1B2Q%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:51b5bd7d-8571-434b-a4d7-97e010996155
+DTSTART:20250516T093000Z
+DTEND:20250516T111200Z
+SUMMARY:ENZO - Arcades 1
+LOCATION:77 Rue Félix Faure 06400 Cannes
+DESCRIPTION:Program: Directors' Fortnight<br>Director: LAURENT CANTET\, ROBIN
+ CAMPILLO<br>Theater: Arcades 1<br><a href="https://ticketonline1.festival-
+ cannes.com/fiche?idproj=1YHtX7J1cDw%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:0fc33fb1-a9e6-4f57-a99b-b682bb4b5bbc
+DTSTART:20250516T094500Z
+DTEND:20250516T113000Z
+SUMMARY:QUE MA VOLONTÉ SOIT FAITE (HER WILL BE DONE) - Théâtre Croisette
+LOCATION:3 Rue Frédéric Amouretti 1
+DESCRIPTION:Program: Directors' Fortnight<br>Director: JULIA KOWALSKI<br>Theater:
+ Théâtre Croisette<br><a href="https://ticketonline1.festival-cannes.com/fi
+ che?idproj=UcQSl6%2B3Wa0%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:b2b2dd69-3b8e-479a-9571-eceaff6bfff9
+DTSTART:20250516T120000Z
+DTEND:20250516T133800Z
+SUMMARY:L'ENGLOUTIE (THE GIRL IN THE SNOW) - Alexandre III
+LOCATION:19 Bd Alexandre III 06400 Cannes
+DESCRIPTION:Program: Directors' Fortnight<br>Director: LOUISE HÉMON<br>Theater:
+ Alexandre III<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+ idproj=5qw33eqn5l4%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:89ffeb61-ca93-4b78-9b7b-0dd5d9a01752
+DTSTART:20250516T124500Z
+DTEND:20250516T144000Z
+SUMMARY:BRAND NEW LANDSCAPE - Théâtre Croisette
+LOCATION:3 Rue Frédéric Amouretti 1
+DESCRIPTION:Program: Directors' Fortnight<br>Director: YUIGA DANZUKA<br>Theater:
+ Théâtre Croisette<br><a href="https://ticketonline1.festival-cannes.com/fi
+ che?idproj=9SRK335Q6C0%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:64e509ea-87c7-4e83-84b7-4247391b5212
+DTSTART:20250516T143000Z
+DTEND:20250516T160800Z
+SUMMARY:L'ENGLOUTIE (THE GIRL IN THE SNOW) - Raimu
+LOCATION:Chemin de la Borde 06150 Cannes La Bocca
+DESCRIPTION:Program: Directors' Fortnight<br>Director: LOUISE HÉMON<br>Theater:
+ Raimu<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=9
+ 4Z%2FXPMwPRU%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:28fe0468-5cc1-4ded-b848-b2aa0c7b5100
+DTSTART:20250516T143000Z
+DTEND:20250516T154200Z
+SUMMARY:LA MORT N'EXISTE PAS (DEATH DOES NOT EXIST) - Studio 13
+LOCATION:23 Av. du Dr Raymond Picaud 06400 Cannes
+DESCRIPTION:Program: Directors' Fortnight<br>Director: FÉLIX
+ DUFOUR-LAPERRIÈRE<br>Theater: Studio 13<br><a href="https://ticketonline1.
+ festival-cannes.com/fiche?idproj=SUnVmka3LG0%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:a2712235-5778-4f0a-aad2-3138b353d0ac
+DTSTART:20250516T154500Z
+DTEND:20250516T172700Z
+SUMMARY:THE PRESIDENT'S CAKE - Théâtre Croisette
+LOCATION:3 Rue Frédéric Amouretti 1
+DESCRIPTION:Program: Directors' Fortnight<br>Director: HASAN HADI<br>Theater: Théâtre
+ Croisette<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpr
+ oj=Vxq1n%2Fi4gCc%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ab03ed9e-0a29-49a7-93d5-e7bdbea4c9f3
+DTSTART:20250516T170000Z
+DTEND:20250516T185500Z
+SUMMARY:BRAND NEW LANDSCAPE - Alexandre III
+LOCATION:19 Bd Alexandre III 06400 Cannes
+DESCRIPTION:Program: Directors' Fortnight<br>Director: YUIGA DANZUKA<br>Theater:
+ Alexandre III<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+ idproj=OgbN2P5PsJ0%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:5fae8648-2ed7-4ef9-9982-44feaed5f5db
+DTSTART:20250516T183000Z
+DTEND:20250516T200500Z
+SUMMARY:QUE MA VOLONTÉ SOIT FAITE (HER WILL BE DONE) - Théâtre Croisette
+LOCATION:3 Rue Frédéric Amouretti 1
+DESCRIPTION:Program: Directors' Fortnight<br>Director: JULIA KOWALSKI<br>Theater:
+ Théâtre Croisette<br><a href="https://ticketonline1.festival-cannes.com/fi
+ che?idproj=Mcv60kAsTNI%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:cbbc073e-ba00-4f3b-968b-88edea2204f9
+DTSTART:20250516T203000Z
+DTEND:20250516T213500Z
+SUMMARY:FACTORY CEARÁ BRASIL - Arcades 1
+LOCATION:77 Rue Félix Faure 06400 Cannes
+DESCRIPTION:Program: Directors' Fortnight<br>Director: <br>Theater: Arcades 1<br><a
+ href="https://ticketonline1.festival-cannes.com/fiche?idproj=EHbSOspWW8I%3
+ D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:4f58c34c-1174-4e66-8942-e30628190537
+DTSTART:20250517T064500Z
+DTEND:20250517T082600Z
+SUMMARY:LA DANSE DES RENARDS (WILD FOXES) - Théâtre Croisette
+LOCATION:3 Rue Frédéric Amouretti 1
+DESCRIPTION:Program: Directors' Fortnight<br>Director: VALÉRY CARNOY<br>Theater:
+ Théâtre Croisette<br><a href="https://ticketonline1.festival-cannes.com/fi
+ che?idproj=9koZVp9B4XU%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:e8618339-a366-48c7-84e3-9ca2c67f1879
+DTSTART:20250517T070000Z
+DTEND:20250517T083800Z
+SUMMARY:L'ENGLOUTIE (THE GIRL IN THE SNOW) - Licorne
+LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Directors' Fortnight<br>Director: LOUISE HÉMON<br>Theater:
+ Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+ =JjeCTPzm7zY%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:33aa3c3d-bdce-45a3-9058-3ff8ed348351
+DTSTART:20250517T090000Z
+DTEND:20250517T103500Z
+SUMMARY:QUE MA VOLONTÉ SOIT FAITE (HER WILL BE DONE) - Raimu
+LOCATION:Chemin de la Borde 06150 Cannes La Bocca
+DESCRIPTION:Program: Directors' Fortnight<br>Director: JULIA KOWALSKI<br>Theater:
+ Raimu<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=L
+ 3EuI94PxCo%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f594e244-ce06-4f81-9701-fef339ad327e
+DTSTART:20250517T093000Z
+DTEND:20250517T111200Z
+SUMMARY:THE PRESIDENT'S CAKE - Arcades 1
+LOCATION:77 Rue Félix Faure 06400 Cannes
+DESCRIPTION:Program: Directors' Fortnight<br>Director: HASAN HADI<br>Theater: Arcades
+ 1<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=CWUXP
+ OPfI0A%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:7184b434-656a-45ff-9253-2c9beb6126eb
+DTSTART:20250517T094500Z
+DTEND:20250517T112100Z
+SUMMARY:MIROIRS NO.3 - Théâtre Croisette
+LOCATION:3 Rue Frédéric Amouretti 1
+DESCRIPTION:Program: Directors' Fortnight<br>Director: CHRISTIAN PETZOLD<br>Theater:
+ Théâtre Croisette<br><a href="https://ticketonline1.festival-cannes.com/fi
+ che?idproj=%2B1SXTd4fHIs%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:6550c323-7460-4266-978d-d8f59e304d88
+DTSTART:20250517T120000Z
+DTEND:20250517T131200Z
+SUMMARY:LA MORT N'EXISTE PAS (DEATH DOES NOT EXIST) - Alexandre III
+LOCATION:19 Bd Alexandre III 06400 Cannes
+DESCRIPTION:Program: Directors' Fortnight<br>Director: FÉLIX
+ DUFOUR-LAPERRIÈRE<br>Theater: Alexandre III<br><a href="https://ticketonli
+ ne1.festival-cannes.com/fiche?idproj=dBPJ11sKbMs%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:260f651c-0f0d-4b3a-a0dc-7ab33c4ca0f6
+DTSTART:20250517T124500Z
+DTEND:20250517T141600Z
+SUMMARY:LA DANSE DES RENARDS (WILD FOXES) - Théâtre Croisette
+LOCATION:3 Rue Frédéric Amouretti 1
+DESCRIPTION:Program: Directors' Fortnight<br>Director: VALÉRY CARNOY<br>Theater:
+ Théâtre Croisette<br><a href="https://ticketonline1.festival-cannes.com/fi
+ che?idproj=BfL21JFr7Ao%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:126a1fae-7880-42b0-b0a4-0de05c4862b8
+DTSTART:20250517T143000Z
+DTEND:20250517T161200Z
+SUMMARY:THE PRESIDENT'S CAKE - Raimu
+LOCATION:Chemin de la Borde 06150 Cannes La Bocca
+DESCRIPTION:Program: Directors' Fortnight<br>Director: HASAN HADI<br>Theater:
+ Raimu<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=l
+ sM1GKdRJD0%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:56dc304a-e338-49bb-94af-8587080b6c50
+DTSTART:20250517T143000Z
+DTEND:20250517T162500Z
+SUMMARY:BRAND NEW LANDSCAPE - Studio 13
+LOCATION:23 Av. du Dr Raymond Picaud 06400 Cannes
+DESCRIPTION:Program: Directors' Fortnight<br>Director: YUIGA DANZUKA<br>Theater:
+ Studio 13<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpr
+ oj=Royvk1IQgIY%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:414cd834-4908-42cf-bbc7-8a9fe3aab622
+DTSTART:20250517T153000Z
+DTEND:20250517T165600Z
+SUMMARY:MIROIRS NO.3 - Théâtre Croisette
+LOCATION:3 Rue Frédéric Amouretti 1
+DESCRIPTION:Program: Directors' Fortnight<br>Director: CHRISTIAN PETZOLD<br>Theater:
+ Théâtre Croisette<br><a href="https://ticketonline1.festival-cannes.com/fi
+ che?idproj=w48r4wBlmK8%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:0ee90694-d548-4035-96f6-9c1502aef44d
+DTSTART:20250517T170000Z
+DTEND:20250517T184200Z
+SUMMARY:THE PRESIDENT'S CAKE - Alexandre III
+LOCATION:19 Bd Alexandre III 06400 Cannes
+DESCRIPTION:Program: Directors' Fortnight<br>Director: HASAN HADI<br>Theater:
+ Alexandre III<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+ idproj=hoBGeHVFQGo%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:9714e368-0363-4158-97d2-bac0fb7a1ba1
+DTSTART:20250517T183000Z
+DTEND:20250517T200800Z
+SUMMARY:DANGEROUS ANIMALS - Théâtre Croisette
+LOCATION:3 Rue Frédéric Amouretti 1
+DESCRIPTION:Program: Directors' Fortnight<br>Director: SEAN BYRNE<br>Theater: Théâtre
+ Croisette<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpr
+ oj=DISrPNVkZRw%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:1b9a2247-bab4-422e-85f6-7c10e305addc
+DTSTART:20250517T203000Z
+DTEND:20250517T220500Z
+SUMMARY:QUE MA VOLONTÉ SOIT FAITE (HER WILL BE DONE) - Arcades 1
+LOCATION:77 Rue Félix Faure 06400 Cannes
+DESCRIPTION:Program: Directors' Fortnight<br>Director: JULIA KOWALSKI<br>Theater:
+ Arcades 1<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpr
+ oj=N86MyCxGTuQ%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:0aa11abf-1adf-4223-960b-d7794aebbac1
+DTSTART:20250518T064500Z
+DTEND:20250518T094900Z
+SUMMARY:KOKUHO - Théâtre Croisette
+LOCATION:3 Rue Frédéric Amouretti 1
+DESCRIPTION:Program: Directors' Fortnight<br>Director: LEE SANG-IL<br>Theater: Théâtre
+ Croisette<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpr
+ oj=Z%2FrWZ0T250Q%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:e5a42210-dfcd-4694-a4e3-f5f36badc3e8
+DTSTART:20250518T090000Z
+DTEND:20250518T103500Z
+SUMMARY:QUE MA VOLONTÉ SOIT FAITE (HER WILL BE DONE) - Alexandre III
+LOCATION:19 Bd Alexandre III 06400 Cannes
+DESCRIPTION:Program: Directors' Fortnight<br>Director: JULIA KOWALSKI<br>Theater:
+ Alexandre III<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+ idproj=Z9rpcAlJ%2Fbw%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:81261696-0042-41e3-9c4b-62d4888b9a6d
+DTSTART:20250518T090000Z
+DTEND:20250518T103100Z
+SUMMARY:LA DANSE DES RENARDS (WILD FOXES) - Raimu
+LOCATION:Chemin de la Borde 06150 Cannes La Bocca
+DESCRIPTION:Program: Directors' Fortnight<br>Director: VALÉRY CARNOY<br>Theater:
+ Raimu<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=R
+ 9ot%2F0%2B%2Fy%2BI%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ab90b106-95a7-4cda-a49a-aad7053a50ed
+DTSTART:20250518T093000Z
+DTEND:20250518T105600Z
+SUMMARY:MIROIRS NO.3 - Arcades 1
+LOCATION:77 Rue Félix Faure 06400 Cannes
+DESCRIPTION:Program: Directors' Fortnight<br>Director: CHRISTIAN PETZOLD<br>Theater:
+ Arcades 1<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpr
+ oj=3Cmy84NGZh4%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:8f0779fc-0645-4bfb-a39c-ff38791d9e10
+DTSTART:20250518T110000Z
+DTEND:20250518T125000Z
+SUMMARY:AMOUR APOCALYPSE (PEAK EVERYTHING) - Théâtre Croisette
+LOCATION:3 Rue Frédéric Amouretti 1
+DESCRIPTION:Program: Directors' Fortnight<br>Director: ANNE ÉMOND<br>Theater: Théâtre
+ Croisette<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpr
+ oj=2QLOGJPtnuk%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:77e4d5f7-bf1b-4a77-8651-e801b43ffd1c
+DTSTART:20250518T120000Z
+DTEND:20250518T132600Z
+SUMMARY:MIROIRS NO.3 - Alexandre III
+LOCATION:19 Bd Alexandre III 06400 Cannes
+DESCRIPTION:Program: Directors' Fortnight<br>Director: CHRISTIAN PETZOLD<br>Theater:
+ Alexandre III<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+ idproj=%2F%2BOY9aO%2BSgE%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:46470f75-21bf-46f3-bbc5-285ddb407a5f
+DTSTART:20250518T140000Z
+DTEND:20250518T165400Z
+SUMMARY:KOKUHO - Théâtre Croisette
+LOCATION:3 Rue Frédéric Amouretti 1
+DESCRIPTION:Program: Directors' Fortnight<br>Director: LEE SANG-IL<br>Theater: Théâtre
+ Croisette<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpr
+ oj=Ke50BqET55U%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:05eae54f-f64a-4457-9983-8a1aaf7695af
+DTSTART:20250518T143000Z
+DTEND:20250518T155600Z
+SUMMARY:MIROIRS NO.3 - Raimu
+LOCATION:Chemin de la Borde 06150 Cannes La Bocca
+DESCRIPTION:Program: Directors' Fortnight<br>Director: CHRISTIAN PETZOLD<br>Theater:
+ Raimu<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=r
+ MP95JsrlTE%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:b9a3ea96-02fb-497f-af1a-ff466a56d7c7
+DTSTART:20250518T144500Z
+DTEND:20250518T161600Z
+SUMMARY:LA DANSE DES RENARDS (WILD FOXES) - Studio 13
+LOCATION:23 Av. du Dr Raymond Picaud 06400 Cannes
+DESCRIPTION:Program: Directors' Fortnight<br>Director: VALÉRY CARNOY<br>Theater:
+ Studio 13<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpr
+ oj=TqzusfU49Os%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:c2b237de-9b50-45bb-9728-cb49450b1b58
+DTSTART:20250518T170000Z
+DTEND:20250518T183800Z
+SUMMARY:DANGEROUS ANIMALS - Alexandre III
+LOCATION:19 Bd Alexandre III 06400 Cannes
+DESCRIPTION:Program: Directors' Fortnight<br>Director: SEAN BYRNE<br>Theater:
+ Alexandre III<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+ idproj=%2B%2BwVjL6h1g4%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2a1a4e1a-4b7a-4b7d-9372-bbb80e1785f6
+DTSTART:20250518T181500Z
+DTEND:20250518T195500Z
+SUMMARY:AMOUR APOCALYPSE (PEAK EVERYTHING) - Théâtre Croisette
+LOCATION:3 Rue Frédéric Amouretti 1
+DESCRIPTION:Program: Directors' Fortnight<br>Director: ANNE ÉMOND<br>Theater: Théâtre
+ Croisette<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpr
+ oj=mNyW368mlGU%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:5f85b6e1-20c8-431c-abea-e9a53de12eee
+DTSTART:20250518T203000Z
+DTEND:20250518T220800Z
+SUMMARY:DANGEROUS ANIMALS - Arcades 1
+LOCATION:77 Rue Félix Faure 06400 Cannes
+DESCRIPTION:Program: Directors' Fortnight<br>Director: SEAN BYRNE<br>Theater: Arcades
+ 1<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=wi7DV
+ bHMPWI%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:86b8f580-dca4-47ef-a3fb-b8f1527b917e
+DTSTART:20250519T064500Z
+DTEND:20250519T083800Z
+SUMMARY:LUCKY LU - Théâtre Croisette
+LOCATION:3 Rue Frédéric Amouretti 1
+DESCRIPTION:Program: Directors' Fortnight<br>Director: LLOYD LEE CHOI<br>Theater:
+ Théâtre Croisette<br><a href="https://ticketonline1.festival-cannes.com/fi
+ che?idproj=0EL9f%2FxHlx4%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:7e714d9c-defc-4294-a775-a2ee077b78e1
+DTSTART:20250519T070000Z
+DTEND:20250519T084000Z
+SUMMARY:AMOUR APOCALYPSE (PEAK EVERYTHING) - Licorne
+LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Directors' Fortnight<br>Director: ANNE ÉMOND<br>Theater:
+ Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+ =6Cz5EP2JZ5M%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:3d7001ae-6085-4413-8f71-dceaf0c5b49c
+DTSTART:20250519T093000Z
+DTEND:20250519T111000Z
+SUMMARY:AMOUR APOCALYPSE (PEAK EVERYTHING) - Arcades 1
+LOCATION:77 Rue Félix Faure 06400 Cannes
+DESCRIPTION:Program: Directors' Fortnight<br>Director: ANNE ÉMOND<br>Theater: Arcades
+ 1<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=p1khC
+ AQfyDI%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:592e2645-e3c1-4224-aab3-ded495551807
+DTSTART:20250519T094500Z
+DTEND:20250519T113000Z
+SUMMARY:CLASSE MOYENNE (THE PARTY'S OVER!) - Théâtre Croisette
+LOCATION:3 Rue Frédéric Amouretti 1
+DESCRIPTION:Program: Directors' Fortnight<br>Director: ANTONY CORDIER<br>Theater:
+ Théâtre Croisette<br><a href="https://ticketonline1.festival-cannes.com/fi
+ che?idproj=3jtN8vErKd0%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:1be5839e-3dde-45de-b99a-a79913e717ee
+DTSTART:20250519T124500Z
+DTEND:20250519T142800Z
+SUMMARY:LUCKY LU - Théâtre Croisette
+LOCATION:3 Rue Frédéric Amouretti 1
+DESCRIPTION:Program: Directors' Fortnight<br>Director: LLOYD LEE CHOI<br>Theater:
+ Théâtre Croisette<br><a href="https://ticketonline1.festival-cannes.com/fi
+ che?idproj=q4PeGVEpryI%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:70a11980-0097-49e6-bc74-f50680e3ad80
+DTSTART:20250519T143000Z
+DTEND:20250519T162500Z
+SUMMARY:BRAND NEW LANDSCAPE - Raimu
+LOCATION:Chemin de la Borde 06150 Cannes La Bocca
+DESCRIPTION:Program: Directors' Fortnight<br>Director: YUIGA DANZUKA<br>Theater:
+ Raimu<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=Z
+ QOjIqCzSnQ%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:52f1de47-00e3-456d-8b67-195edbff0b06
+DTSTART:20250519T143000Z
+DTEND:20250519T172400Z
+SUMMARY:KOKUHO - Studio 13
+LOCATION:23 Av. du Dr Raymond Picaud 06400 Cannes
+DESCRIPTION:Program: Directors' Fortnight<br>Director: LEE SANG-IL<br>Theater: Studio
+ 13<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=U6uD
+ 92aGsvw%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:b629286b-9619-411e-8515-dcd985e22e79
+DTSTART:20250519T154500Z
+DTEND:20250519T173000Z
+SUMMARY:GIRL ON EDGE - Théâtre Croisette
+LOCATION:3 Rue Frédéric Amouretti 1
+DESCRIPTION:Program: Directors' Fortnight<br>Director: ZHOU JIANGYE<br>Theater:
+ Théâtre Croisette<br><a href="https://ticketonline1.festival-cannes.com/fi
+ che?idproj=GbEmjBBKUZA%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f51ff0f9-060f-49bc-b384-8b090be2e671
+DTSTART:20250519T170000Z
+DTEND:20250519T184000Z
+SUMMARY:AMOUR APOCALYSPE (PEAK EVERYTHING) - Alexandre III
+LOCATION:19 Bd Alexandre III 06400 Cannes
+DESCRIPTION:Program: Directors' Fortnight<br>Director: ANNE ÉMOND<br>Theater:
+ Alexandre III<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+ idproj=rpnLOMY0w2c%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:afcee23c-4aec-4eb6-9c6b-8768795a0a4d
+DTSTART:20250519T184500Z
+DTEND:20250519T202000Z
+SUMMARY:CLASSE MOYENNE (THE PARTY'S OVER!) - Théâtre Croisette
+LOCATION:3 Rue Frédéric Amouretti 1
+DESCRIPTION:Program: Directors' Fortnight<br>Director: ANTONY CORDIER<br>Theater:
+ Théâtre Croisette<br><a href="https://ticketonline1.festival-cannes.com/fi
+ che?idproj=R%2FLNv5mO9VQ%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:6219d420-8e09-4eff-8422-2ed74c93695a
+DTSTART:20250519T203000Z
+DTEND:20250519T220100Z
+SUMMARY:LA DANSE DES RENARDS (WILD FOXES) - Arcades 1
+LOCATION:77 Rue Félix Faure 06400 Cannes
+DESCRIPTION:Program: Directors' Fortnight<br>Director: VALÉRY CARNOY<br>Theater:
+ Arcades 1<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpr
+ oj=KhOuY3%2FXayc%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:a337f4b9-47f0-438f-b928-0a6db8cc904f
+DTSTART:20250520T064500Z
+DTEND:20250520T081600Z
+SUMMARY:INDOMPTABLES (UNTAMABLE) - Théâtre Croisette
+LOCATION:3 Rue Frédéric Amouretti 1
+DESCRIPTION:Program: Directors' Fortnight<br>Director: THOMAS NGIJOL<br>Theater:
+ Théâtre Croisette<br><a href="https://ticketonline1.festival-cannes.com/fi
+ che?idproj=e8x0iRnVQQw%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2d51f854-d378-4432-b903-4f56b46c292e
+DTSTART:20250520T093000Z
+DTEND:20250520T112500Z
+SUMMARY:GIRL ON EDGE - Théâtre Croisette
+LOCATION:3 Rue Frédéric Amouretti 1
+DESCRIPTION:Program: Directors' Fortnight<br>Director: JINGHAO ZHOU<br>Theater:
+ Théâtre Croisette<br><a href="https://ticketonline1.festival-cannes.com/fi
+ che?idproj=7R5IYLDuRww%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:62a25f81-e940-462f-85c2-d172081819a6
+DTSTART:20250520T093000Z
+DTEND:20250520T110500Z
+SUMMARY:CLASSE MOYENNE (THE PARTY'S OVER!) - Arcades 1
+LOCATION:77 Rue Félix Faure 06400 Cannes
+DESCRIPTION:Program: Directors' Fortnight<br>Director: ANTONY CORDIER<br>Theater:
+ Arcades 1<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpr
+ oj=gqsm08HZz4E%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:9b59bede-a9cf-435d-9136-9342fc3d6d94
+DTSTART:20250520T123000Z
+DTEND:20250520T143100Z
+SUMMARY:FILM SURPRISE + MASTERCLASS ALAIN CHABAT - Théâtre Croisette
+LOCATION:3 Rue Frédéric Amouretti 1
+DESCRIPTION:Program: Directors' Fortnight<br>Director: <br>Theater: Théâtre
+ Croisette<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpr
+ oj=iKqzkJ050Ts%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:afa224a4-1107-45f4-8335-833adfc70cca
+DTSTART:20250520T143000Z
+DTEND:20250520T161500Z
+SUMMARY:GIRL ON EDGE - Raimu
+LOCATION:Chemin de la Borde 06150 Cannes La Bocca
+DESCRIPTION:Program: Directors' Fortnight<br>Director: ZHOU JIANGYE<br>Theater:
+ Raimu<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=m
+ URkg0syGGk%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:6f78b45f-cd36-4e33-9d98-d4dbbc5924fc
+DTSTART:20250520T143000Z
+DTEND:20250520T161300Z
+SUMMARY:LUCKY LU - Studio 13
+LOCATION:23 Av. du Dr Raymond Picaud 06400 Cannes
+DESCRIPTION:Program: Directors' Fortnight<br>Director: LLOYD LEE CHOI<br>Theater:
+ Studio 13<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpr
+ oj=eHCgtdyEvaM%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:991cee74-1e18-40c8-8fad-feb2cc11b991
+DTSTART:20250520T170000Z
+DTEND:20250520T183500Z
+SUMMARY:CLASSE MOYENNE (THE PARTY'S OVER) - Alexandre III
+LOCATION:19 Bd Alexandre III 06400 Cannes
+DESCRIPTION:Program: Directors' Fortnight<br>Director: ANTONY CORDIER<br>Theater:
+ Alexandre III<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+ idproj=fbJ40JZ5vd4%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:a53a93f6-87fb-4dda-8069-21fa199cbfd5
+DTSTART:20250520T171500Z
+DTEND:20250520T183600Z
+SUMMARY:INDOMPTABLES (UNTAMABLE) - Théâtre Croisette
+LOCATION:3 Rue Frédéric Amouretti 1
+DESCRIPTION:Program: Directors' Fortnight<br>Director: THOMAS NGIJOL<br>Theater:
+ Théâtre Croisette<br><a href="https://ticketonline1.festival-cannes.com/fi
+ che?idproj=qy4Uq%2FxneGY%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:3a12c50f-43e0-49d0-92b2-01879f4de709
+DTSTART:20250520T194500Z
+DTEND:20250520T212300Z
+SUMMARY:DANGEROUS ANIMALS - Théâtre Croisette
+LOCATION:3 Rue Frédéric Amouretti 1
+DESCRIPTION:Program: Directors' Fortnight<br>Director: SEAN BYRNE<br>Theater: Théâtre
+ Croisette<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpr
+ oj=PhXVlSIZ0SE%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:b08a74c5-c593-447c-8760-c8d5a8aff972
+DTSTART:20250520T203000Z
+DTEND:20250520T221300Z
+SUMMARY:LUCKY LU - Arcades 1
+LOCATION:77 Rue Félix Faure 06400 Cannes
+DESCRIPTION:Program: Directors' Fortnight<br>Director: LLOYD LEE CHOI<br>Theater:
+ Arcades 1<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpr
+ oj=3F9%2F%2BI6pnTE%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:df3b69cb-da16-47c6-b4ea-570515436392
+DTSTART:20250521T064500Z
+DTEND:20250521T084600Z
+SUMMARY:MILITANTROPOS - Théâtre Croisette
+LOCATION:3 Rue Frédéric Amouretti 1
+DESCRIPTION:Program: Directors' Fortnight<br>Director: Yelizaveta SMITH\, Alina
+ GORLOVA\, Simon MOZ...<br>Theater: Théâtre Croisette<br><a href="https://t
+ icketonline1.festival-cannes.com/fiche?idproj=DlsbFYMc6E8%3D">Event
+ link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f47f2842-1d47-4cd8-b7b3-4c27804a4c4d
+DTSTART:20250521T070000Z
+DTEND:20250521T082100Z
+SUMMARY:INDOMPTABLES (UNTAMABLE) - Licorne
+LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Directors' Fortnight<br>Director: THOMAS NGIJOL<br>Theater:
+ Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+ =3fXdRd0Wk%2BI%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:afe2e24a-498b-4dca-96fb-c9473317d62a
+DTSTART:20250521T090000Z
+DTEND:20250521T102100Z
+SUMMARY:INDOMPTABLES (UNTAMABLE) - Raimu
+LOCATION:Chemin de la Borde 06150 Cannes La Bocca
+DESCRIPTION:Program: Directors' Fortnight<br>Director: THOMAS NGIJOL<br>Theater:
+ Raimu<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=9
+ kg0lubEu8g%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:dd5a086b-524a-42b4-9dfc-6c3341a48424
+DTSTART:20250521T093000Z
+DTEND:20250521T105100Z
+SUMMARY:INDOMPTABLES (UNTAMABLE) - Arcades 1
+LOCATION:77 Rue Félix Faure 06400 Cannes
+DESCRIPTION:Program: Directors' Fortnight<br>Director: THOMAS NGIJOL<br>Theater:
+ Arcades 1<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpr
+ oj=X4SK%2FPyq3eM%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:36fe81c4-43da-4905-9e11-d56d86fe6c18
+DTSTART:20250521T093000Z
+DTEND:20250521T122400Z
+SUMMARY:KOKUHO - Alexandre III
+LOCATION:19 Bd Alexandre III 06400 Cannes
+DESCRIPTION:Program: Directors' Fortnight<br>Director: LEE SANG-IL<br>Theater:
+ Alexandre III<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+ idproj=OSaf3fh%2FHsE%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ba6f5fc9-f538-4261-aabf-b49de639ba92
+DTSTART:20250521T100000Z
+DTEND:20250521T114200Z
+SUMMARY:LES FILLES DÉSIR (THE GIRLS WE WANT) - Théâtre Croisette
+LOCATION:3 Rue Frédéric Amouretti 1
+DESCRIPTION:Program: Directors' Fortnight<br>Director: PRÏNCIA CAR<br>Theater: Théâtre
+ Croisette<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpr
+ oj=7R5IZiruny8%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:1ef0b8c8-bfe7-4774-927f-3deb20569e64
+DTSTART:20250521T143000Z
+DTEND:20250521T160500Z
+SUMMARY:CLASSE MOYENNE (THE PARTY'S OVER) - Raimu
+LOCATION:Chemin de la Borde 06150 Cannes La Bocca
+DESCRIPTION:Program: Directors' Fortnight<br>Director: ANTONY CORDIER<br>Theater:
+ Raimu<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=3
+ vshMcACGio%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:9acdb349-87d3-409d-843a-2ac9a90cca57
+DTSTART:20250521T143000Z
+DTEND:20250521T155100Z
+SUMMARY:INDOMPTABLES (UNTAMABLE) - Studio 13
+LOCATION:23 Av. du Dr Raymond Picaud 06400 Cannes
+DESCRIPTION:Program: Directors' Fortnight<br>Director: THOMAS NGIJOL<br>Theater:
+ Studio 13<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpr
+ oj=qsB%2B2TLkFMI%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:fccf9a61-3740-46b2-a8f2-d79da1522427
+DTSTART:20250521T154500Z
+DTEND:20250521T173600Z
+SUMMARY:MILITANTROPOS - Théâtre Croisette
+LOCATION:3 Rue Frédéric Amouretti 1
+DESCRIPTION:Program: Directors' Fortnight<br>Director: Yelizaveta SMITH\, Alina
+ GORLOVA\, Simon MOZ...<br>Theater: Théâtre Croisette<br><a href="https://t
+ icketonline1.festival-cannes.com/fiche?idproj=Oml5Kn5Mu1I%3D">Event
+ link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:bc071fb9-caea-496a-a9eb-26e319a63f8b
+DTSTART:20250521T170000Z
+DTEND:20250521T184300Z
+SUMMARY:LUCKY LU - Alexandre III
+LOCATION:19 Bd Alexandre III 06400 Cannes
+DESCRIPTION:Program: Directors' Fortnight<br>Director: LLOYD LEE CHOI<br>Theater:
+ Alexandre III<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+ idproj=UhErwuVoaK4%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:8600adbe-9299-4c8f-a695-6eb6aa49d68b
+DTSTART:20250521T184500Z
+DTEND:20250521T201700Z
+SUMMARY:LES FILLES DÉSIR (THE GIRLS WE WANT) - Théâtre Croisette
+LOCATION:3 Rue Frédéric Amouretti 1
+DESCRIPTION:Program: Directors' Fortnight<br>Director: PRÏNCIA CAR<br>Theater: Théâtre
+ Croisette<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpr
+ oj=nd84lGk1Nfw%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:cac5666a-1cc1-4aec-b525-7611b9d14938
+DTSTART:20250521T203000Z
+DTEND:20250521T221500Z
+SUMMARY:GIRL ON EDGE - Arcades 1
+LOCATION:77 Rue Félix Faure 06400 Cannes
+DESCRIPTION:Program: Directors' Fortnight<br>Director: JINGHAO ZHOU<br>Theater:
+ Arcades 1<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpr
+ oj=woTEMATLUq4%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2e7c53d1-6155-4abf-95c3-3094e15bbb60
+DTSTART:20250522T064500Z
+DTEND:20250522T083800Z
+SUMMARY:SORRY\, BABY - Théâtre Croisette
+LOCATION:3 Rue Frédéric Amouretti 1
+DESCRIPTION:Program: Directors' Fortnight<br>Director: EVA VICTOR<br>Theater: Théâtre
+ Croisette<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpr
+ oj=A1oCwGrjyJo%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:e07ed8f0-90fd-4f74-9af7-2fcb63c1ab29
+DTSTART:20250522T094500Z
+DTEND:20250522T122500Z
+SUMMARY:YES - Théâtre Croisette
+LOCATION:3 Rue Frédéric Amouretti 1
+DESCRIPTION:Program: Directors' Fortnight<br>Director: NADAV LAPID<br>Theater: Théâtre
+ Croisette<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpr
+ oj=7Cx%2FQiQa19c%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:4702816e-e6b8-44d7-9753-7e1b66543234
+DTSTART:20250522T100000Z
+DTEND:20250522T115100Z
+SUMMARY:MILITANTROPOS - Olympia 8
+LOCATION:5 Rue de la Pompe\, 06400 Cannes\, France
+DESCRIPTION:Program: Directors' Fortnight<br>Director: Yelizaveta SMITH\, Alina
+ GORLOVA\, Simon MOZ...<br>Theater: Olympia 8<br><a href="https://ticketonl
+ ine1.festival-cannes.com/fiche?idproj=DmehMXFFBN4%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:791f7929-1a3e-441a-852c-9ca84343bfc7
+DTSTART:20250522T143000Z
+DTEND:20250522T162100Z
+SUMMARY:MILITANTROPOS - Raimu
+LOCATION:Chemin de la Borde 06150 Cannes La Bocca
+DESCRIPTION:Program: Directors' Fortnight<br>Director: Yelizaveta SMITH\, Alina
+ GORLOVA\, Simon MOZ...<br>Theater: Raimu<br><a href="https://ticketonline1
+ .festival-cannes.com/fiche?idproj=J6cccnTY8Bc%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:89ce95a1-1752-47f9-8b94-56babd34faef
+DTSTART:20250522T143000Z
+DTEND:20250522T160200Z
+SUMMARY:LES FILLES DÉSIR (THE GIRLS WE WANT) - Studio 13
+LOCATION:23 Av. du Dr Raymond Picaud 06400 Cannes
+DESCRIPTION:Program: Directors' Fortnight<br>Director: PRÏNCIA CAR<br>Theater: Studio
+ 13<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=9A%2
+ Bx10eiOLc%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:3a93fa67-af43-448f-bdab-b0f0a883c10a
+DTSTART:20250522T170000Z
+DTEND:20250522T183000Z
+SUMMARY:COURTS 1 (SHORTS 1) - Alexandre III
+LOCATION:19 Bd Alexandre III 06400 Cannes
+DESCRIPTION:Program: Directors' Fortnight<br>Director: FRANTZ SAMUEL
+ SUFFREN<br>Theater: Alexandre III<br><a href="https://ticketonline1.festiv
+ al-cannes.com/fiche?idproj=E%2B1TiCQDcsM%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:91ebd8fe-33e0-49a3-a6f7-372d88249193
+DTSTART:20250522T170000Z
+DTEND:20250522T184300Z
+SUMMARY:SORRY\, BABY - Théâtre Croisette
+LOCATION:3 Rue Frédéric Amouretti 1
+DESCRIPTION:Program: Directors' Fortnight<br>Director: EVA VICTOR<br>Theater: Théâtre
+ Croisette<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpr
+ oj=y8SgQGlFUlo%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:625549cf-ac1e-4a71-a37c-17b4095bf620
+DTSTART:20250522T183000Z
+DTEND:20250522T200200Z
+SUMMARY:LES FILLES DÉSIR (THE GIRLS WE WANT) - Olympia 8
+LOCATION:5 Rue de la Pompe\, 06400 Cannes\, France
+DESCRIPTION:Program: Directors' Fortnight<br>Director: PRÏNCIA CAR<br>Theater: Olympia
+ 8<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=dfgOr
+ N%2FVHOY%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:82bc4ba3-223f-4313-896e-8956a5667511
+DTSTART:20250523T070000Z
+DTEND:20250523T084300Z
+SUMMARY:SORRY\, BABY - Licorne
+LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Directors' Fortnight<br>Director: EVA VICTOR<br>Theater:
+ Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+ =n1Xk7BD%2Byi4%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:c57d84d8-25b9-49dd-8e1d-bb246ebd575e
+DTSTART:20250523T090000Z
+DTEND:20250523T105200Z
+SUMMARY:THE PRESIDENT'S CAKE - Théâtre Croisette
+LOCATION:3 Rue Frédéric Amouretti 1
+DESCRIPTION:Program: Directors' Fortnight<br>Director: HASAN HADI<br>Theater: Théâtre
+ Croisette<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpr
+ oj=VtMxpLy5frw%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:a33fd740-654f-48b1-a7d9-36535ec7905c
+DTSTART:20250523T100000Z
+DTEND:20250523T114300Z
+SUMMARY:SORRY\, BABY - Olympia 8
+LOCATION:5 Rue de la Pompe\, 06400 Cannes\, France
+DESCRIPTION:Program: Directors' Fortnight<br>Director: EVA VICTOR<br>Theater: Olympia
+ 8<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=%2FY%
+ 2F0Pqd%2BntU%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:84d4eef6-76ac-499f-821f-1c361b8e4151
+DTSTART:20250523T113000Z
+DTEND:20250523T140000Z
+SUMMARY:YES - Théâtre Croisette
+LOCATION:3 Rue Frédéric Amouretti 1
+DESCRIPTION:Program: Directors' Fortnight<br>Director: NADAV LAPID<br>Theater: Théâtre
+ Croisette<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpr
+ oj=7U5ByawnF4A%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2e4b7ba4-094d-42ac-84e6-ea52408ab846
+DTSTART:20250523T143000Z
+DTEND:20250523T161300Z
+SUMMARY:SORRY\, BABY - Raimu
+LOCATION:Chemin de la Borde 06150 Cannes La Bocca
+DESCRIPTION:Program: Directors' Fortnight<br>Director: EVA VICTOR<br>Theater:
+ Raimu<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=O
+ w7wElD9ZO0%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:d467bfac-1cd3-4242-8078-35e0530f664f
+DTSTART:20250523T143000Z
+DTEND:20250523T170000Z
+SUMMARY:YES - Studio 13
+LOCATION:23 Av. du Dr Raymond Picaud 06400 Cannes
+DESCRIPTION:Program: Directors' Fortnight<br>Director: NADAV LAPID<br>Theater: Studio
+ 13<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=syYm
+ 1BrX2E8%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f4f907ed-a80c-4ea9-a7fc-615bcb28b18b
+DTSTART:20250523T144500Z
+DTEND:20250523T161100Z
+SUMMARY:MIROIRS NO.3 - Théâtre Croisette
+LOCATION:3 Rue Frédéric Amouretti 1
+DESCRIPTION:Program: Directors' Fortnight<br>Director: CHRISTIAN PETZOLD<br>Theater:
+ Théâtre Croisette<br><a href="https://ticketonline1.festival-cannes.com/fi
+ che?idproj=E83GPkO4MCo%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:0e0e27d8-3bef-46bd-bb36-7cc3ff335ffa
+DTSTART:20250523T170000Z
+DTEND:20250523T184200Z
+SUMMARY:ENZO - Théâtre Croisette
+LOCATION:3 Rue Frédéric Amouretti 1
+DESCRIPTION:Program: Directors' Fortnight<br>Director: LAURENT CANTET\, ROBIN
+ CAMPILLO<br>Theater: Théâtre Croisette<br><a href="https://ticketonline1.f
+ estival-cannes.com/fiche?idproj=CZOuPsA7bMA%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:d273d27c-3f1f-4034-8c21-254d21927deb
+DTSTART:20250523T183000Z
+DTEND:20250523T210000Z
+SUMMARY:YES - Olympia 8
+LOCATION:5 Rue de la Pompe\, 06400 Cannes\, France
+DESCRIPTION:Program: Directors' Fortnight<br>Director: NADAV LAPID<br>Theater: Olympia
+ 8<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=ZCoUg
+ ral%2Bs0%3D">Event link</a>
+END:VEVENT
+
+END:VCALENDAR

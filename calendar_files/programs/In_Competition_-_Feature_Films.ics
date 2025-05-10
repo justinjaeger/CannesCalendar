@@ -1,0 +1,1902 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cannes Film Festival//Screenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cannes Film Festival Screenings
+X-WR-TIMEZONE:Europe/Paris
+
+BEGIN:VEVENT
+UID:e8a20d96-5580-4cea-9856-e25ab8086e5d
+DTSTART:20250514T130000Z
+DTEND:20250514T152900Z
+SUMMARY:SOUND OF FALLING - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: MASCHA
+ SCHILINSKI<br>Theater: Grand Théâtre Lumière<br><a href="https://ticketonl
+ ine1.festival-cannes.com/fiche?idproj=EsrfYJj331o%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:bad3caae-9972-4b6a-a82f-00658ad6c9e7
+DTSTART:20250514T133000Z
+DTEND:20250514T155900Z
+SUMMARY:SOUND OF FALLING - Bazin Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: MASCHA
+ SCHILINSKI<br>Theater: Bazin Theatre<br><a href="https://ticketonline1.fes
+ tival-cannes.com/fiche?idproj=4l6X1y578qc%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:b80dfa4d-17e3-4c38-b659-5a18bbc16211
+DTSTART:20250514T201500Z
+DTEND:20250514T221300Z
+SUMMARY:TWO PROSECUTORS (DEUX PROCUREURS) - Debussy Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: SERGEI
+ LOZNITSA<br>Theater: Debussy Theatre<br><a href="https://ticketonline1.fes
+ tival-cannes.com/fiche?idproj=4qQqoLKJQbI%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:76715a8a-9e9d-4a51-8ae0-351aa0a1b0e9
+DTSTART:20250514T201500Z
+DTEND:20250514T221300Z
+SUMMARY:TWO PROSECUTORS (DEUX PROCUREURS) - Bazin Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: SERGEI
+ LOZNITSA<br>Theater: Bazin Theatre<br><a href="https://ticketonline1.festi
+ val-cannes.com/fiche?idproj=mmSAl%2FuDXSQ%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:9abddd43-2f70-47d2-8b7b-cbe8a7ed278d
+DTSTART:20250514T203000Z
+DTEND:20250514T222800Z
+SUMMARY:TWO PROSECUTORS (DEUX PROCUREURS) - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: SERGEI
+ LOZNITSA<br>Theater: Grand Théâtre Lumière<br><a href="https://ticketonlin
+ e1.festival-cannes.com/fiche?idproj=Eg9uowaAmpA%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:a928420f-17e1-474e-a23f-f3b6a538bfb1
+DTSTART:20250515T063000Z
+DTEND:20250515T082800Z
+SUMMARY:TWO PROSECUTORS (DEUX PROCUREURS) - Agnès Varda Theatre
+LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: SERGEI
+ LOZNITSA<br>Theater: Agnès Varda Theatre<br><a href="https://ticketonline1
+ .festival-cannes.com/fiche?idproj=yOSgGA9%2Bwxo%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:6f5fb2fd-89ec-4903-b51a-720c2401bc53
+DTSTART:20250515T090000Z
+DTEND:20250515T112900Z
+SUMMARY:SOUND OF FALLING - Agnès Varda Theatre
+LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: MASCHA
+ SCHILINSKI<br>Theater: Agnès Varda Theatre<br><a href="https://ticketonlin
+ e1.festival-cannes.com/fiche?idproj=HGoHSN71qt0%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f5b92fd6-23d2-48cd-b1f5-8c736ccd35bb
+DTSTART:20250515T093000Z
+DTEND:20250515T115900Z
+SUMMARY:SOUND OF FALLING - Cineum Imax
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: MASCHA
+ SCHILINSKI<br>Theater: Cineum Imax<br><a href="https://ticketonline1.festi
+ val-cannes.com/fiche?idproj=oFB%2BqpDxH9A%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:b271f7a3-9de4-42d8-8a16-8eea12aec360
+DTSTART:20250515T100000Z
+DTEND:20250515T115800Z
+SUMMARY:TWO PROSECUTORS (DEUX PROCUREURS) - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: SERGEI
+ LOZNITSA<br>Theater: Grand Théâtre Lumière<br><a href="https://ticketonlin
+ e1.festival-cannes.com/fiche?idproj=vZ3bh4TXKZk%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:12a51b20-4d21-4341-a420-f890357b2881
+DTSTART:20250515T120000Z
+DTEND:20250515T135800Z
+SUMMARY:TWO PROSECUTORS - Licorne
+LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: SERGEI
+ LOZNITSA<br>Theater: Licorne<br><a href="https://ticketonline1.festival-ca
+ nnes.com/fiche?idproj=%2BdUjvEUnocU%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:17d9d59f-4406-4caf-9f25-127d87161260
+DTSTART:20250515T124500Z
+DTEND:20250515T144300Z
+SUMMARY:TWO PROSECUTORS (DEUX PROCUREURS) - Cineum Imax
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: SERGEI
+ LOZNITSA<br>Theater: Cineum Imax<br><a href="https://ticketonline1.festiva
+ l-cannes.com/fiche?idproj=%2F%2B5evScCcX8%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:aee38373-c931-4ce4-844e-07e41713f91d
+DTSTART:20250515T124500Z
+DTEND:20250515T151400Z
+SUMMARY:SOUND OF FALLING - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: MASCHA
+ SCHILINSKI<br>Theater: Grand Théâtre Lumière<br><a href="https://ticketonl
+ ine1.festival-cannes.com/fiche?idproj=zzNip72TtT8%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:dbbf6bad-a44e-44d1-b28c-d05f4ca98395
+DTSTART:20250515T150000Z
+DTEND:20250515T165500Z
+SUMMARY:DOSSIER 137 (CASE 137) - Debussy Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: DOMINIK
+ MOLL<br>Theater: Debussy Theatre<br><a href="https://ticketonline1.festiva
+ l-cannes.com/fiche?idproj=aH1TqdqPHBo%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:af88fb30-694b-46bd-9e66-33527e701721
+DTSTART:20250515T151500Z
+DTEND:20250515T171000Z
+SUMMARY:DOSSIER 137 (CASE 137) - Bazin Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: DOMINIK
+ MOLL<br>Theater: Bazin Theatre<br><a href="https://ticketonline1.festival-
+ cannes.com/fiche?idproj=jdADXCJvPuE%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ade89b53-a981-4209-a194-1c2143b6ee52
+DTSTART:20250515T163000Z
+DTEND:20250515T182500Z
+SUMMARY:DOSSIER 137 (CASE 137) - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: DOMINIK
+ MOLL<br>Theater: Grand Théâtre Lumière<br><a href="https://ticketonline1.f
+ estival-cannes.com/fiche?idproj=lHAEsRIepRk%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:87e761d1-77a2-4d6a-859d-863d773c934a
+DTSTART:20250515T170000Z
+DTEND:20250515T192900Z
+SUMMARY:SOUND OF FALLING - Licorne
+LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: MASCHA
+ SCHILINSKI<br>Theater: Licorne<br><a href="https://ticketonline1.festival-
+ cannes.com/fiche?idproj=OiAyPRGNc%2Fk%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:71bee778-9fa8-47c6-a814-2d81f2fe820a
+DTSTART:20250515T193000Z
+DTEND:20250515T213000Z
+SUMMARY:SIRAT - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: OLIVER
+ LAXE<br>Theater: Grand Théâtre Lumière<br><a href="https://ticketonline1.f
+ estival-cannes.com/fiche?idproj=pSPBOySYy%2Bs%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2da06278-55b6-4465-a33d-2a8cc5fc7995
+DTSTART:20250515T194500Z
+DTEND:20250515T214500Z
+SUMMARY:SIRAT - Debussy Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: OLIVER
+ LAXE<br>Theater: Debussy Theatre<br><a href="https://ticketonline1.festiva
+ l-cannes.com/fiche?idproj=QaX7ENhAhNQ%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:07445129-bfad-4b90-a8c3-96a2ad57e910
+DTSTART:20250515T200000Z
+DTEND:20250515T220000Z
+SUMMARY:SIRAT - Bazin Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: OLIVER
+ LAXE<br>Theater: Bazin Theatre<br><a href="https://ticketonline1.festival-
+ cannes.com/fiche?idproj=Dl7c1VYiazQ%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:d1ba4c1c-4a78-498a-9776-5bb2c3656a2c
+DTSTART:20250516T063000Z
+DTEND:20250516T083000Z
+SUMMARY:SIRAT - Agnès Varda Theatre
+LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: OLIVER
+ LAXE<br>Theater: Agnès Varda Theatre<br><a href="https://ticketonline1.fes
+ tival-cannes.com/fiche?idproj=vS8AxON2GQE%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:82b72a61-3cbb-4d80-aa37-c2185c3c1323
+DTSTART:20250516T064500Z
+DTEND:20250516T084000Z
+SUMMARY:DOSSIER 137 (CASE 137) - Cineum Imax
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: DOMINIK
+ MOLL<br>Theater: Cineum Imax<br><a href="https://ticketonline1.festival-ca
+ nnes.com/fiche?idproj=rl5reGexpno%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:e08f1e69-4e52-4b2f-ac64-f599fabe39a1
+DTSTART:20250516T064500Z
+DTEND:20250516T091400Z
+SUMMARY:SOUND OF FALLING - Cineum Aurore
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: MASCHA
+ SCHILINSKI<br>Theater: Cineum Aurore<br><a href="https://ticketonline1.fes
+ tival-cannes.com/fiche?idproj=6%2BAJbGlYlYA%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:5d43bc01-7786-4c2c-a932-cf1cced98b66
+DTSTART:20250516T070000Z
+DTEND:20250516T085500Z
+SUMMARY:DOSSIER 137 (CASE 137) - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: DOMINIK
+ MOLL<br>Theater: Grand Théâtre Lumière<br><a href="https://ticketonline1.f
+ estival-cannes.com/fiche?idproj=z2%2FG6ezmR0I%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:b7a42028-add3-4ec4-87d5-3e114c3fc855
+DTSTART:20250516T090000Z
+DTEND:20250516T105500Z
+SUMMARY:DOSSIER 137 (CASE 137) - Agnès Varda Theatre
+LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: DOMINIK
+ MOLL<br>Theater: Agnès Varda Theatre<br><a href="https://ticketonline1.fes
+ tival-cannes.com/fiche?idproj=2AAEUtUaOlI%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:fd1cd370-45b3-44ab-8578-5ec6aa08f4d5
+DTSTART:20250516T091500Z
+DTEND:20250516T111500Z
+SUMMARY:SIRAT - Cineum Imax
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: OLIVER
+ LAXE<br>Theater: Cineum Imax<br><a href="https://ticketonline1.festival-ca
+ nnes.com/fiche?idproj=Z6lQDADylmw%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2b4b9f27-6b18-4828-bfcd-8fd6919768f6
+DTSTART:20250516T094500Z
+DTEND:20250516T114300Z
+SUMMARY:TWO PROSECUTORS (DEUX PROCUREURS) - Cineum Aurore
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: SERGEI
+ LOZNITSA<br>Theater: Cineum Aurore<br><a href="https://ticketonline1.festi
+ val-cannes.com/fiche?idproj=FRrQ2eZvo64%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:1cee4d52-fa08-4a02-91f4-13247f4b0752
+DTSTART:20250516T100000Z
+DTEND:20250516T120000Z
+SUMMARY:SIRAT - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: OLIVER
+ LAXE<br>Theater: Grand Théâtre Lumière<br><a href="https://ticketonline1.f
+ estival-cannes.com/fiche?idproj=9h787IZrWUY%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:03fc1766-1225-4e5d-ad51-29029400933d
+DTSTART:20250516T130000Z
+DTEND:20250516T144600Z
+SUMMARY:LA PETITE DERNIÈRE - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: HAFSIA
+ HERZI<br>Theater: Grand Théâtre Lumière<br><a href="https://ticketonline1.
+ festival-cannes.com/fiche?idproj=LRcqRGdwiFs%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f38e9d8b-79e4-4e11-a627-3afd1f7e43e8
+DTSTART:20250516T130000Z
+DTEND:20250516T144600Z
+SUMMARY:LA PETITE DERNIÈRE - Bazin Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: HAFSIA
+ HERZI<br>Theater: Bazin Theatre<br><a href="https://ticketonline1.festival
+ -cannes.com/fiche?idproj=7mPCKod7dGU%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:144a766f-09a4-42f7-82fb-8e7241e11d63
+DTSTART:20250516T145500Z
+DTEND:20250516T172000Z
+SUMMARY:EDDINGTON - Debussy Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: ARI ASTER<br>Theater:
+ Debussy Theatre<br><a href="https://ticketonline1.festival-cannes.com/fich
+ e?idproj=lIVdSyExSGg%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:71c69fee-ce92-4a0d-8da3-64bd96d822f5
+DTSTART:20250516T151500Z
+DTEND:20250516T174000Z
+SUMMARY:EDDINGTON - Bazin Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: ARI ASTER<br>Theater:
+ Bazin Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+ idproj=1JfL8LijjjA%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:d5689612-6203-4140-bb25-92bee8af2c84
+DTSTART:20250516T164500Z
+DTEND:20250516T191000Z
+SUMMARY:EDDINGTON - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: ARI ASTER<br>Theater:
+ Grand Théâtre Lumière<br><a href="https://ticketonline1.festival-cannes.co
+ m/fiche?idproj=LY3srAEgReY%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:4c904b1c-60fe-4616-8c58-ab3853356ca6
+DTSTART:20250516T170000Z
+DTEND:20250516T185500Z
+SUMMARY:DOSSIER 137 - Licorne
+LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: DOMINIK
+ MOLL<br>Theater: Licorne<br><a href="https://ticketonline1.festival-cannes
+ .com/fiche?idproj=5iKvZzKpC8o%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:5a86a66a-9b5b-41a2-b7e5-2265e16f4242
+DTSTART:20250516T193000Z
+DTEND:20250516T213000Z
+SUMMARY:SIRÂT - Licorne
+LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: OLIVER
+ LAXE<br>Theater: Licorne<br><a href="https://ticketonline1.festival-cannes
+ .com/fiche?idproj=40JSyPgrWB0%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:b6b141c6-48ab-4745-9810-f9ea6d4a83e0
+DTSTART:20250517T063000Z
+DTEND:20250517T085500Z
+SUMMARY:EDDINGTON - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: ARI ASTER<br>Theater:
+ Grand Théâtre Lumière<br><a href="https://ticketonline1.festival-cannes.co
+ m/fiche?idproj=%2FQtFdoz3VrY%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f2401171-1b83-4c21-b4c1-d60699c35a37
+DTSTART:20250517T063000Z
+DTEND:20250517T081600Z
+SUMMARY:LA PETITE DERNIÈRE - Agnès Varda Theatre
+LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: HAFSIA
+ HERZI<br>Theater: Agnès Varda Theatre<br><a href="https://ticketonline1.fe
+ stival-cannes.com/fiche?idproj=1SMBr3V6xN0%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:dd60d402-77ab-43a8-94d0-15a1fc3c87ef
+DTSTART:20250517T064500Z
+DTEND:20250517T083100Z
+SUMMARY:LA PETITE DERNIÈRE - Cineum Imax
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: HAFSIA
+ HERZI<br>Theater: Cineum Imax<br><a href="https://ticketonline1.festival-c
+ annes.com/fiche?idproj=kqbmgfE%2BQEQ%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:c84c0f7b-e903-4c19-896d-90ec1c28805a
+DTSTART:20250517T071500Z
+DTEND:20250517T091300Z
+SUMMARY:TWO PROSECUTORS (DEUX PROCUREURS) - Cineum Screen X
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: SERGEI
+ LOZNITSA<br>Theater: Cineum Screen X<br><a href="https://ticketonline1.fes
+ tival-cannes.com/fiche?idproj=jf1bWEqXDE4%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:bec73a90-96bf-454c-9bae-95204d211a6d
+DTSTART:20250517T090000Z
+DTEND:20250517T112500Z
+SUMMARY:EDDINGTON - Cineum Imax
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: ARI ASTER<br>Theater:
+ Cineum Imax<br><a href="https://ticketonline1.festival-cannes.com/fiche?id
+ proj=8%2Fb6lEqu4i4%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:bc69e16d-8bb4-48d6-9780-7254553beefd
+DTSTART:20250517T094500Z
+DTEND:20250517T121400Z
+SUMMARY:SOUND OF FALLING - Cineum Screen X
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: MASCHA
+ SCHILINSKI<br>Theater: Cineum Screen X<br><a href="https://ticketonline1.f
+ estival-cannes.com/fiche?idproj=K%2BBw5HURfJI%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:5e481f0f-ead9-43a1-b2ad-9ab29dbfd308
+DTSTART:20250517T094500Z
+DTEND:20250517T113100Z
+SUMMARY:LA PETITE DERNIÈRE - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: HAFSIA
+ HERZI<br>Theater: Grand Théâtre Lumière<br><a href="https://ticketonline1.
+ festival-cannes.com/fiche?idproj=kAtNDw3v%2F8U%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:e8ca559e-4d64-4e62-aff1-233fb7a9631d
+DTSTART:20250517T103000Z
+DTEND:20250517T125500Z
+SUMMARY:EDDINGTON - Agnès Varda Theatre
+LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: ARI ASTER<br>Theater:
+ Agnès Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/
+ fiche?idproj=oTSi96lYpz8%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:bf1733cd-9981-4d3b-9864-be7f93f42352
+DTSTART:20250517T113000Z
+DTEND:20250517T132500Z
+SUMMARY:DOSSIER 137 (CASE 137) - Cineum Aurore
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: DOMINIK
+ MOLL<br>Theater: Cineum Aurore<br><a href="https://ticketonline1.festival-
+ cannes.com/fiche?idproj=cNh00gsgHt4%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:e93b3037-b68b-4c5e-8eca-2c2eb991c6dc
+DTSTART:20250517T130000Z
+DTEND:20250517T145600Z
+SUMMARY:RENOIR - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: HAYAKAWA
+ CHIE<br>Theater: Grand Théâtre Lumière<br><a href="https://ticketonline1.f
+ estival-cannes.com/fiche?idproj=5nXjgyI2ccA%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:1d55db9e-9294-404f-be23-1335e9359952
+DTSTART:20250517T133000Z
+DTEND:20250517T152600Z
+SUMMARY:RENOIR - Bazin Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: HAYAKAWA
+ CHIE<br>Theater: Bazin Theatre<br><a href="https://ticketonline1.festival-
+ cannes.com/fiche?idproj=Mnn%2BNNDtZwg%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:533d8d06-c6db-4d97-9e3f-c11b878024fd
+DTSTART:20250517T140000Z
+DTEND:20250517T160000Z
+SUMMARY:SIRAT - Cineum Aurore
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: OLIVER
+ LAXE<br>Theater: Cineum Aurore<br><a href="https://ticketonline1.festival-
+ cannes.com/fiche?idproj=hUPoh7XVfiI%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:b4bf545a-2749-4ae5-bf1a-b510a2977e79
+DTSTART:20250517T153000Z
+DTEND:20250517T171500Z
+SUMMARY:NOUVELLE VAGUE (NEW WAVE) - Debussy Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: RICHARD
+ LINKLATER<br>Theater: Debussy Theatre<br><a href="https://ticketonline1.fe
+ stival-cannes.com/fiche?idproj=bzzo3quflsQ%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:37834490-0eec-4c38-a21a-d457978e85a0
+DTSTART:20250517T154500Z
+DTEND:20250517T173000Z
+SUMMARY:NOUVELLE VAGUE (NEW WAVE) - Bazin Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: RICHARD
+ LINKLATER<br>Theater: Bazin Theatre<br><a href="https://ticketonline1.fest
+ ival-cannes.com/fiche?idproj=TLZ2FH%2F%2Bg8U%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:d3b1894a-280f-412b-9380-e3fc8292fd37
+DTSTART:20250517T160000Z
+DTEND:20250517T174500Z
+SUMMARY:NOUVELLE VAGUE (NEW WAVE) - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: RICHARD
+ LINKLATER<br>Theater: Grand Théâtre Lumière<br><a href="https://ticketonli
+ ne1.festival-cannes.com/fiche?idproj=Ayun8IFRJGw%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:fc51feed-c71b-41a2-9fc7-b15d42fb6a6d
+DTSTART:20250517T170000Z
+DTEND:20250517T184600Z
+SUMMARY:LA PETITE DERNIÈRE - Licorne
+LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: HAFSIA
+ HERZI<br>Theater: Licorne<br><a href="https://ticketonline1.festival-canne
+ s.com/fiche?idproj=vmR0D2PRS9o%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:749aaedd-b258-4f43-a3cf-4c18157f1271
+DTSTART:20250517T184500Z
+DTEND:20250517T204300Z
+SUMMARY:DIE MY LOVE - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: LYNNE
+ RAMSAY<br>Theater: Grand Théâtre Lumière<br><a href="https://ticketonline1
+ .festival-cannes.com/fiche?idproj=nix48XXDaQ0%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:355eec1e-34c9-4f58-b8c0-e81101f0421b
+DTSTART:20250517T193000Z
+DTEND:20250517T215500Z
+SUMMARY:EDDINGTON - Licorne
+LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: ARI ASTER<br>Theater:
+ Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+ =A%2FXkU7LLWZc%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:08449aea-1e67-4a92-8241-3ed4db0289e8
+DTSTART:20250517T200000Z
+DTEND:20250517T215800Z
+SUMMARY:DIE MY LOVE - Bazin Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: LYNNE
+ RAMSAY<br>Theater: Bazin Theatre<br><a href="https://ticketonline1.festiva
+ l-cannes.com/fiche?idproj=XI1%2Ban641Wk%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:5a02129d-f13e-44e2-8533-0ac9ce4b29ac
+DTSTART:20250517T201500Z
+DTEND:20250517T221300Z
+SUMMARY:DIE MY LOVE - Debussy Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: LYNNE
+ RAMSAY<br>Theater: Debussy Theatre<br><a href="https://ticketonline1.festi
+ val-cannes.com/fiche?idproj=qNClFSAYHmk%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:4d8de769-4c4a-45a6-b11a-a28b7573b77d
+DTSTART:20250518T063000Z
+DTEND:20250518T081500Z
+SUMMARY:NOUVELLE VAGUE (NEW WAVE) - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: RICHARD
+ LINKLATER<br>Theater: Grand Théâtre Lumière<br><a href="https://ticketonli
+ ne1.festival-cannes.com/fiche?idproj=TFYH9jfvjVI%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:93be944d-c82f-46fc-b475-6037e1653983
+DTSTART:20250518T063000Z
+DTEND:20250518T082600Z
+SUMMARY:RENOIR - Agnès Varda Theatre
+LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: HAYAKAWA
+ CHIE<br>Theater: Agnès Varda Theatre<br><a href="https://ticketonline1.fes
+ tival-cannes.com/fiche?idproj=48kY6zdz9eM%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:c8abaa41-0061-42bd-b0e2-7921c8b4db87
+DTSTART:20250518T064500Z
+DTEND:20250518T083100Z
+SUMMARY:LA PETITE DERNIÈRE - Cineum Aurore
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: HAFSIA
+ HERZI<br>Theater: Cineum Aurore<br><a href="https://ticketonline1.festival
+ -cannes.com/fiche?idproj=wH4n5K4HEWY%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2e2583d8-5439-4fe7-8ffd-e2f6869628c5
+DTSTART:20250518T064500Z
+DTEND:20250518T084100Z
+SUMMARY:RENOIR - Cineum Imax
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: HAYAKAWA
+ CHIE<br>Theater: Cineum Imax<br><a href="https://ticketonline1.festival-ca
+ nnes.com/fiche?idproj=3nXqQpMyVOw%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:d394e3e2-d8eb-402c-980e-6c26558395e2
+DTSTART:20250518T090000Z
+DTEND:20250518T104500Z
+SUMMARY:NOUVELLE VAGUE (NEW WAVE) - Agnès Varda Theatre
+LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: RICHARD
+ LINKLATER<br>Theater: Agnès Varda Theatre<br><a href="https://ticketonline
+ 1.festival-cannes.com/fiche?idproj=z0YDRoUQAJk%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:b3354859-91c3-44f4-a83f-dec78ee72eae
+DTSTART:20250518T090000Z
+DTEND:20250518T112500Z
+SUMMARY:EDDINGTON - Cineum Aurore
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: ARI ASTER<br>Theater:
+ Cineum Aurore<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+ idproj=COPhEE0Ws6A%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2f3dcd33-e798-4c80-af4c-eb1f477c075b
+DTSTART:20250518T091500Z
+DTEND:20250518T110000Z
+SUMMARY:NOUVELLE VAGUE (NEW WAVE) - Cineum Imax
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: RICHARD
+ LINKLATER<br>Theater: Cineum Imax<br><a href="https://ticketonline1.festiv
+ al-cannes.com/fiche?idproj=I570z0rcBXk%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ca853041-4153-4436-9b50-e74f93ab27e0
+DTSTART:20250518T091500Z
+DTEND:20250518T111300Z
+SUMMARY:DIE MY LOVE - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: LYNNE
+ RAMSAY<br>Theater: Grand Théâtre Lumière<br><a href="https://ticketonline1
+ .festival-cannes.com/fiche?idproj=ASt8Nos2iSE%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:c5ad5c3a-82fd-4ff1-8aec-08abf17658af
+DTSTART:20250518T100000Z
+DTEND:20250518T115500Z
+SUMMARY:DOSSIER 137 (CASE 137) - Cineum Screen X
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: DOMINIK
+ MOLL<br>Theater: Cineum Screen X<br><a href="https://ticketonline1.festiva
+ l-cannes.com/fiche?idproj=9N0FL6otsik%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:90d4087c-c3ca-4a06-ad24-4244fce149ae
+DTSTART:20250518T111500Z
+DTEND:20250518T131300Z
+SUMMARY:DIE MY LOVE - Agnès Varda Theatre
+LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: LYNNE
+ RAMSAY<br>Theater: Agnès Varda Theatre<br><a href="https://ticketonline1.f
+ estival-cannes.com/fiche?idproj=XAzvRqCeX6g%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ed46e4c2-c670-40d0-9d3f-eea6a87218b4
+DTSTART:20250518T113000Z
+DTEND:20250518T132800Z
+SUMMARY:DIE MY LOVE - Cineum Imax
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: LYNNE
+ RAMSAY<br>Theater: Cineum Imax<br><a href="https://ticketonline1.festival-
+ cannes.com/fiche?idproj=0WGaE86KJTU%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:0844cdd1-505c-4300-b753-2bfc469ced3d
+DTSTART:20250518T123000Z
+DTEND:20250518T143000Z
+SUMMARY:SIRAT - Cineum Screen X
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: OLIVER
+ LAXE<br>Theater: Cineum Screen X<br><a href="https://ticketonline1.festiva
+ l-cannes.com/fiche?idproj=bi2IqAnFDMU%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:a9dd1fb2-6d80-4d8a-a8de-881f549afb4b
+DTSTART:20250518T130000Z
+DTEND:20250518T153800Z
+SUMMARY:O AGENTE SECRETO  (L'AGENT SECRET / THE SECRET AGENT) - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: KLEBER MENDONÇA
+ FILHO<br>Theater: Grand Théâtre Lumière<br><a href="https://ticketonline1.
+ festival-cannes.com/fiche?idproj=5svvLOjIUAc%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:fe1e2683-6135-40cc-9136-41b79dc6579d
+DTSTART:20250518T133000Z
+DTEND:20250518T160800Z
+SUMMARY:O AGENTE SECRETO  (L'AGENT SECRET / THE SECRET AGENT) - Bazin Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: KLEBER MENDONÇA
+ FILHO<br>Theater: Bazin Theatre<br><a href="https://ticketonline1.festival
+ -cannes.com/fiche?idproj=B5PuJMEm%2B30%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:065d4dbd-29f4-4788-8b46-26d0e34eabb2
+DTSTART:20250518T143000Z
+DTEND:20250518T161500Z
+SUMMARY:NOUVELLE VAGUE - Licorne
+LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: RICHARD
+ LINKLATER<br>Theater: Licorne<br><a href="https://ticketonline1.festival-c
+ annes.com/fiche?idproj=nZdOunDfd%2BE%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:4a944f67-ac68-4260-ac25-d0fa890c8ce0
+DTSTART:20250518T160000Z
+DTEND:20250518T174500Z
+SUMMARY:THE PHOENICIAN SCHEME - Debussy Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: WES
+ ANDERSON<br>Theater: Debussy Theatre<br><a href="https://ticketonline1.fes
+ tival-cannes.com/fiche?idproj=FBlHJLfQMBs%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:8086519f-f67e-484c-ae78-e2591f546bca
+DTSTART:20250518T170000Z
+DTEND:20250518T185600Z
+SUMMARY:RENOIR - Licorne
+LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: HAYAKAWA
+ CHIE<br>Theater: Licorne<br><a href="https://ticketonline1.festival-cannes
+ .com/fiche?idproj=E14bkCETvhM%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:b72b813e-55e2-4378-87ae-4cd54fb0b7d1
+DTSTART:20250518T170000Z
+DTEND:20250518T184500Z
+SUMMARY:THE PHOENICIAN SCHEME - Bazin Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: WES
+ ANDERSON<br>Theater: Bazin Theatre<br><a href="https://ticketonline1.festi
+ val-cannes.com/fiche?idproj=D2RDaVeMBUI%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:0ff02cf1-d931-4143-b090-1e02b298cca9
+DTSTART:20250518T170000Z
+DTEND:20250518T184500Z
+SUMMARY:THE PHOENICIAN SCHEME - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: WES
+ ANDERSON<br>Theater: Grand Théâtre Lumière<br><a href="https://ticketonlin
+ e1.festival-cannes.com/fiche?idproj=3S3osAE2MGE%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:1327aa96-cde3-47f4-aeb3-856cd7964560
+DTSTART:20250519T063000Z
+DTEND:20250519T081500Z
+SUMMARY:THE PHOENICIAN SCHEME - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: WES
+ ANDERSON<br>Theater: Grand Théâtre Lumière<br><a href="https://ticketonlin
+ e1.festival-cannes.com/fiche?idproj=6D%2FannohkcE%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:0cf568b2-8c4e-459f-801a-4d386539ddd3
+DTSTART:20250519T063000Z
+DTEND:20250519T090800Z
+SUMMARY:O AGENTE SECRETO  (L'AGENT SECRET / THE SECRET AGENT) - Agnès Varda Theatre
+LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: KLEBER MENDONÇA
+ FILHO<br>Theater: Agnès Varda Theatre<br><a href="https://ticketonline1.fe
+ stival-cannes.com/fiche?idproj=QSSMoS5GD1Q%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f88cae9a-2bae-475a-93ef-d7cf20eef27d
+DTSTART:20250519T064500Z
+DTEND:20250519T083000Z
+SUMMARY:NOUVELLE VAGUE (NEW WAVE) - Cineum Aurore
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: RICHARD
+ LINKLATER<br>Theater: Cineum Aurore<br><a href="https://ticketonline1.fest
+ ival-cannes.com/fiche?idproj=WLyJvrzC4Rg%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:6af1bd2c-0088-449d-a47c-8b8626265532
+DTSTART:20250519T064500Z
+DTEND:20250519T092300Z
+SUMMARY:O AGENTE SECRETO  (L'AGENT SECRET / THE SECRET AGENT) - Cineum Imax
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: KLEBER MENDONÇA
+ FILHO<br>Theater: Cineum Imax<br><a href="https://ticketonline1.festival-c
+ annes.com/fiche?idproj=H0cPfAjKnDY%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:87093e50-cf22-4f7a-8e01-8af03e370ff8
+DTSTART:20250519T071500Z
+DTEND:20250519T090100Z
+SUMMARY:LA PETITE DERNIÈRE - Cineum Screen X
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: HAFSIA
+ HERZI<br>Theater: Cineum Screen X<br><a href="https://ticketonline1.festiv
+ al-cannes.com/fiche?idproj=sp4206NLNtA%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:78a643d0-e033-4cc2-ad72-6cea41f035cc
+DTSTART:20250519T090000Z
+DTEND:20250519T105800Z
+SUMMARY:DIE MY LOVE - Cineum Aurore
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: LYNNE
+ RAMSAY<br>Theater: Cineum Aurore<br><a href="https://ticketonline1.festiva
+ l-cannes.com/fiche?idproj=wUGicL7OZEI%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:21473aa1-872d-4670-b36c-89ddf99388f1
+DTSTART:20250519T091500Z
+DTEND:20250519T115300Z
+SUMMARY:O AGENTE SECRETO  (L'AGENT SECRET / THE SECRET AGENT) - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: KLEBER MENDONÇA
+ FILHO<br>Theater: Grand Théâtre Lumière<br><a href="https://ticketonline1.
+ festival-cannes.com/fiche?idproj=QhwvRSiJ3iE%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:56a0d303-9a8f-4250-90c3-78c30b285e14
+DTSTART:20250519T093000Z
+DTEND:20250519T115500Z
+SUMMARY:EDDINGTON - Cineum Screen X
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: ARI ASTER<br>Theater:
+ Cineum Screen X<br><a href="https://ticketonline1.festival-cannes.com/fich
+ e?idproj=ai25ZEWnOpw%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:e035d2f2-c0a8-4913-8a20-03a6f4f263c1
+DTSTART:20250519T094500Z
+DTEND:20250519T113000Z
+SUMMARY:THE PHOENICIAN SCHEME - Agnès Varda Theatre
+LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: WES
+ ANDERSON<br>Theater: Agnès Varda Theatre<br><a href="https://ticketonline1
+ .festival-cannes.com/fiche?idproj=mkp%2FBRmUZY8%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:4a43a180-636c-4f31-b0e3-091f99e87f30
+DTSTART:20250519T094500Z
+DTEND:20250519T113000Z
+SUMMARY:THE PHOENICIAN SCHEME - Cineum Imax
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: WES
+ ANDERSON<br>Theater: Cineum Imax<br><a href="https://ticketonline1.festiva
+ l-cannes.com/fiche?idproj=CAQNdoI%2B85w%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2a1d9b9b-d77b-4e2c-a9dc-5d2b39f92a9f
+DTSTART:20250519T134500Z
+DTEND:20250519T155200Z
+SUMMARY:EAGLES OF THE REPUBLIC (LES AIGLES DE LA RÉPUBLIQUE) - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: TARIK
+ SALEH<br>Theater: Grand Théâtre Lumière<br><a href="https://ticketonline1.
+ festival-cannes.com/fiche?idproj=An4gu66JhQw%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:30a7854d-9cc3-40c7-8cc2-9ef12d882c60
+DTSTART:20250519T141500Z
+DTEND:20250519T162200Z
+SUMMARY:EAGLES OF THE REPUBLIC (LES AIGLES DE LA RÉPUBLIQUE) - Bazin Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: TARIK
+ SALEH<br>Theater: Bazin Theatre<br><a href="https://ticketonline1.festival
+ -cannes.com/fiche?idproj=A1bI0vFtGyU%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ddf1c7f9-44ab-42d6-8411-75d29672cc40
+DTSTART:20250519T161500Z
+DTEND:20250519T185300Z
+SUMMARY:O AGENTE SECRETO - Licorne
+LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: KLEBER MENDONÇA
+ FILHO<br>Theater: Licorne<br><a href="https://ticketonline1.festival-canne
+ s.com/fiche?idproj=nV6hctoi8%2FA%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:680c54f2-35b9-4229-8646-c3264f73ee6a
+DTSTART:20250519T200000Z
+DTEND:20250519T220800Z
+SUMMARY:ALPHA - Debussy Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: JULIA
+ DUCOURNAU<br>Theater: Debussy Theatre<br><a href="https://ticketonline1.fe
+ stival-cannes.com/fiche?idproj=dTcKpqnQSS8%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:c2762211-a7b0-42d3-93e8-614bf3d3827d
+DTSTART:20250519T200000Z
+DTEND:20250519T220800Z
+SUMMARY:ALPHA - Bazin Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: JULIA
+ DUCOURNAU<br>Theater: Bazin Theatre<br><a href="https://ticketonline1.fest
+ ival-cannes.com/fiche?idproj=hy8MIbPXXk0%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ab631c5a-c660-4290-8994-90ed2ca5e1e5
+DTSTART:20250519T203000Z
+DTEND:20250519T223800Z
+SUMMARY:ALPHA - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: JULIA
+ DUCOURNAU<br>Theater: Grand Théâtre Lumière<br><a href="https://ticketonli
+ ne1.festival-cannes.com/fiche?idproj=FDBWbdNB24Q%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:965aef62-5a7c-4400-a8d8-f7a0ddf162a2
+DTSTART:20250520T063000Z
+DTEND:20250520T083800Z
+SUMMARY:ALPHA - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: JULIA
+ DUCOURNAU<br>Theater: Grand Théâtre Lumière<br><a href="https://ticketonli
+ ne1.festival-cannes.com/fiche?idproj=GesCk%2Fs5LjI%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:01362170-d8e3-4c22-ba6d-9ab1c42998c0
+DTSTART:20250520T063000Z
+DTEND:20250520T083700Z
+SUMMARY:EAGLES OF THE REPUBLIC (LES AIGLES DE LA RÉPUBLIQUE) - Agnès Varda Theatre
+LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: TARIK
+ SALEH<br>Theater: Agnès Varda Theatre<br><a href="https://ticketonline1.fe
+ stival-cannes.com/fiche?idproj=UMXcmsVAUMw%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:48e66f25-d0a6-479f-a107-87a7b8bb2076
+DTSTART:20250520T064500Z
+DTEND:20250520T083000Z
+SUMMARY:THE PHOENICIAN SCHEME - Cineum Aurore
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: WES
+ ANDERSON<br>Theater: Cineum Aurore<br><a href="https://ticketonline1.festi
+ val-cannes.com/fiche?idproj=0TBDurvoXeY%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:1f1c33ca-e970-47e4-a802-a80aa29cd50d
+DTSTART:20250520T064500Z
+DTEND:20250520T085200Z
+SUMMARY:EAGLES OF THE REPUBLIC (LES AIGLES DE LA RÉPUBLIQUE) - Cineum Imax
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: TARIK
+ SALEH<br>Theater: Cineum Imax<br><a href="https://ticketonline1.festival-c
+ annes.com/fiche?idproj=nxcljj%2BaHv4%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:cdfb46eb-fc54-46fa-97cc-f3cce38e2035
+DTSTART:20250520T090000Z
+DTEND:20250520T113800Z
+SUMMARY:O AGENTE SECRETO  (L'AGENT SECRET / THE SECRET AGENT) - Cineum Aurore
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: KLEBER MENDONÇA
+ FILHO<br>Theater: Cineum Aurore<br><a href="https://ticketonline1.festival
+ -cannes.com/fiche?idproj=3rl5avioOA0%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:0022ce84-a89e-417f-af03-8919b6bdadbf
+DTSTART:20250520T091500Z
+DTEND:20250520T112300Z
+SUMMARY:ALPHA - Agnès Varda Theatre
+LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: JULIA
+ DUCOURNAU<br>Theater: Agnès Varda Theatre<br><a href="https://ticketonline
+ 1.festival-cannes.com/fiche?idproj=vi4OGLj9hcE%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f489deef-0c66-47b2-9f32-a20fc81b0aea
+DTSTART:20250520T093000Z
+DTEND:20250520T111500Z
+SUMMARY:NOUVELLE VAGUE (NEW WAVE) - Cineum Screen X
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: RICHARD
+ LINKLATER<br>Theater: Cineum Screen X<br><a href="https://ticketonline1.fe
+ stival-cannes.com/fiche?idproj=ZIDeYjIHFRA%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:43237ec8-d9cd-4b54-8317-1d15eabff19c
+DTSTART:20250520T093000Z
+DTEND:20250520T113800Z
+SUMMARY:ALPHA - Cineum Imax
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: JULIA
+ DUCOURNAU<br>Theater: Cineum Imax<br><a href="https://ticketonline1.festiv
+ al-cannes.com/fiche?idproj=Xys2zzCDIXc%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:3c5d741c-52e1-4b6b-a16e-fffde21e6241
+DTSTART:20250520T094500Z
+DTEND:20250520T115200Z
+SUMMARY:EAGLES OF THE REPUBLIC (LES AIGLES DE LA RÉPUBLIQUE) - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: TARIK
+ SALEH<br>Theater: Grand Théâtre Lumière<br><a href="https://ticketonline1.
+ festival-cannes.com/fiche?idproj=F1USKyAWOYg%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:69626658-707b-42fe-b84e-f277dc6059a1
+DTSTART:20250520T120000Z
+DTEND:20250520T135800Z
+SUMMARY:DIE MY LOVE - Cineum Screen X
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: LYNNE
+ RAMSAY<br>Theater: Cineum Screen X<br><a href="https://ticketonline1.festi
+ val-cannes.com/fiche?idproj=cqTvPJqH6ms%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:852cecb5-10c5-4995-a705-d21aa79284bc
+DTSTART:20250520T140000Z
+DTEND:20250520T154500Z
+SUMMARY:UN SIMPLE ACCIDENT - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: JAFAR
+ PANAHI<br>Theater: Grand Théâtre Lumière<br><a href="https://ticketonline1
+ .festival-cannes.com/fiche?idproj=lndj%2Fi%2Fy2vA%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:b57be0e6-fa04-4de5-bf24-41126d55d063
+DTSTART:20250520T140000Z
+DTEND:20250520T154500Z
+SUMMARY:UN SIMPLE ACCIDENT - Bazin Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: JAFAR
+ PANAHI<br>Theater: Bazin Theatre<br><a href="https://ticketonline1.festiva
+ l-cannes.com/fiche?idproj=J3h8OEt0l4o%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:9e2ea59f-9892-4cbf-8c0c-148715028c0a
+DTSTART:20250520T163000Z
+DTEND:20250520T183700Z
+SUMMARY:EAGLES OF THE REPUBLIC - Licorne
+LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: TARIK
+ SALEH<br>Theater: Licorne<br><a href="https://ticketonline1.festival-canne
+ s.com/fiche?idproj=6OYisE0lE%2Bo%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:b9fff38b-46e8-4628-ab19-adc952e57051
+DTSTART:20250520T191500Z
+DTEND:20250520T212300Z
+SUMMARY:ALPHA - Licorne
+LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: JULIA
+ DUCOURNAU<br>Theater: Licorne<br><a href="https://ticketonline1.festival-c
+ annes.com/fiche?idproj=1t5A88C3UnE%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ddf09478-dedf-4a86-9f82-cf3f43ce58cd
+DTSTART:20250520T200000Z
+DTEND:20250520T215500Z
+SUMMARY:FUORI - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: MARIO
+ MARTONE<br>Theater: Grand Théâtre Lumière<br><a href="https://ticketonline
+ 1.festival-cannes.com/fiche?idproj=qHE%2FBGAIX5A%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:36439f02-bf53-4771-b744-0ea136b4a3b5
+DTSTART:20250520T201500Z
+DTEND:20250520T221000Z
+SUMMARY:FUORI - Debussy Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: MARIO
+ MARTONE<br>Theater: Debussy Theatre<br><a href="https://ticketonline1.fest
+ ival-cannes.com/fiche?idproj=M9Csb1v0voc%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:520cf792-b9cc-4447-8b0b-cde379aa86db
+DTSTART:20250520T201500Z
+DTEND:20250520T221000Z
+SUMMARY:FUORI - Bazin Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: MARIO
+ MARTONE<br>Theater: Bazin Theatre<br><a href="https://ticketonline1.festiv
+ al-cannes.com/fiche?idproj=2HX4oYA9Nm4%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:1a8ca72d-c6dc-4083-83ba-d30d8c6c0758
+DTSTART:20250521T063000Z
+DTEND:20250521T082500Z
+SUMMARY:FUORI - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: MARIO
+ MARTONE<br>Theater: Grand Théâtre Lumière<br><a href="https://ticketonline
+ 1.festival-cannes.com/fiche?idproj=Y2zgacbFYK0%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:c4a0fd8c-b4d3-44f9-97c2-5d4d1649c038
+DTSTART:20250521T063000Z
+DTEND:20250521T081500Z
+SUMMARY:UN SIMPLE ACCIDENT - Agnès Varda Theatre
+LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: JAFAR
+ PANAHI<br>Theater: Agnès Varda Theatre<br><a href="https://ticketonline1.f
+ estival-cannes.com/fiche?idproj=6yuK8inKlzc%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:3e29e874-960b-4598-837c-1d793698e11e
+DTSTART:20250521T064500Z
+DTEND:20250521T083000Z
+SUMMARY:UN SIMPLE ACCIDENT - Cineum Imax
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: JAFAR
+ PANAHI<br>Theater: Cineum Imax<br><a href="https://ticketonline1.festival-
+ cannes.com/fiche?idproj=MwLdCTuscDA%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:25bfcf22-f86e-46c3-8f90-82ce5262d91f
+DTSTART:20250521T071500Z
+DTEND:20250521T095300Z
+SUMMARY:O AGENTE SECRETO  (L'AGENT SECRET / THE SECRET AGENT) - Cineum Salle 3
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: KLEBER MENDONÇA
+ FILHO<br>Theater: Cineum Salle 3<br><a href="https://ticketonline1.festiva
+ l-cannes.com/fiche?idproj=nNCovRt09FY%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:d2148ab2-143f-4f6d-9f90-9d2e98751c5e
+DTSTART:20250521T090000Z
+DTEND:20250521T105500Z
+SUMMARY:FUORI - Cineum Imax
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: MARIO
+ MARTONE<br>Theater: Cineum Imax<br><a href="https://ticketonline1.festival
+ -cannes.com/fiche?idproj=i%2B60VjlpbZo%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:173bfa32-1e26-420f-81e0-0ae8e110e21a
+DTSTART:20250521T090000Z
+DTEND:20250521T110700Z
+SUMMARY:EAGLES OF THE REPUBLIC (LES AIGLES DE LA RÉPUBLIQUE) - Cineum Aurore
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: TARIK
+ SALEH<br>Theater: Cineum Aurore<br><a href="https://ticketonline1.festival
+ -cannes.com/fiche?idproj=tJj5uVegdCc%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:25fe22ac-8b59-4004-9d52-ccc936dacb85
+DTSTART:20250521T093000Z
+DTEND:20250521T111500Z
+SUMMARY:UN SIMPLE ACCIDENT - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: JAFAR
+ PANAHI<br>Theater: Grand Théâtre Lumière<br><a href="https://ticketonline1
+ .festival-cannes.com/fiche?idproj=dsiK64cJFAE%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:97969bb5-7fae-421c-a6f5-766e722339ec
+DTSTART:20250521T103000Z
+DTEND:20250521T121500Z
+SUMMARY:THE PHOENICIAN SCHEME - Cineum Salle 3
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: WES
+ ANDERSON<br>Theater: Cineum Salle 3<br><a href="https://ticketonline1.fest
+ ival-cannes.com/fiche?idproj=QlzAW7d%2BIio%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:df456236-332a-49be-be1a-c3c8138b1f25
+DTSTART:20250521T114500Z
+DTEND:20250521T135300Z
+SUMMARY:ALPHA - Cineum Aurore
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: JULIA
+ DUCOURNAU<br>Theater: Cineum Aurore<br><a href="https://ticketonline1.fest
+ ival-cannes.com/fiche?idproj=%2F%2BQ%2BGkQePCA%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:56bc30e6-6d1a-4349-a45e-4f03e3b57c10
+DTSTART:20250521T130000Z
+DTEND:20250521T145500Z
+SUMMARY:ROMERÍA - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: CARLA
+ SIMÓN<br>Theater: Grand Théâtre Lumière<br><a href="https://ticketonline1.
+ festival-cannes.com/fiche?idproj=1w%2FuTkmt6lY%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:42fc562b-84db-46f6-8536-5f277476e605
+DTSTART:20250521T141500Z
+DTEND:20250521T161000Z
+SUMMARY:ROMERÍA - Bazin Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: CARLA
+ SIMÓN<br>Theater: Bazin Theatre<br><a href="https://ticketonline1.festival
+ -cannes.com/fiche?idproj=%2F3hQER3KT2o%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:c9dab87c-3420-4494-98a9-38ace1072859
+DTSTART:20250521T151500Z
+DTEND:20250521T172200Z
+SUMMARY:THE HISTORY OF SOUND - Debussy Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: OLIVER
+ HERMANUS<br>Theater: Debussy Theatre<br><a href="https://ticketonline1.fes
+ tival-cannes.com/fiche?idproj=fkgNTmMQO8I%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:4085af64-63ad-4156-876c-82fb17aacb53
+DTSTART:20250521T170000Z
+DTEND:20250521T190700Z
+SUMMARY:THE HISTORY OF SOUND - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: OLIVER
+ HERMANUS<br>Theater: Grand Théâtre Lumière<br><a href="https://ticketonlin
+ e1.festival-cannes.com/fiche?idproj=lDUcGPO3%2B2k%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:4fe9269d-acfc-43db-afda-d719f6510705
+DTSTART:20250521T170000Z
+DTEND:20250521T190700Z
+SUMMARY:THE HISTORY OF SOUND - Bazin Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: OLIVER
+ HERMANUS<br>Theater: Bazin Theatre<br><a href="https://ticketonline1.festi
+ val-cannes.com/fiche?idproj=p8DFRSTiyDc%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:620a030e-5267-4270-b3c7-98bc83df7210
+DTSTART:20250521T171500Z
+DTEND:20250521T190000Z
+SUMMARY:UN SIMPLE ACCIDENT - Licorne
+LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: JAFAR
+ PANAHI<br>Theater: Licorne<br><a href="https://ticketonline1.festival-cann
+ es.com/fiche?idproj=K2wGzjWgaBE%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:4a916e72-6d58-4b95-b0d3-9b7416638c66
+DTSTART:20250521T193000Z
+DTEND:20250521T212500Z
+SUMMARY:FUORI - Licorne
+LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: MARIO
+ MARTONE<br>Theater: Licorne<br><a href="https://ticketonline1.festival-can
+ nes.com/fiche?idproj=lWq%2B5w81DgQ%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:0614ea9a-500b-476d-848a-0786924f6ae4
+DTSTART:20250521T203000Z
+DTEND:20250521T224500Z
+SUMMARY:AFFEKSJONSVERDI (SENTIMENTAL VALUE) - Debussy Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: JOACHIM
+ TRIER<br>Theater: Debussy Theatre<br><a href="https://ticketonline1.festiv
+ al-cannes.com/fiche?idproj=%2FbFQP27y%2FhY%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:0536869b-bc2d-4cf0-8d07-afa756e29402
+DTSTART:20250521T203000Z
+DTEND:20250521T224500Z
+SUMMARY:AFFEKSJONSVERDI (SENTIMENTAL VALUE) - Bazin Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: JOACHIM
+ TRIER<br>Theater: Bazin Theatre<br><a href="https://ticketonline1.festival
+ -cannes.com/fiche?idproj=OEHQPxg6Lk8%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:7f73fa66-8116-46c7-a581-53478c58ed44
+DTSTART:20250521T203000Z
+DTEND:20250521T222500Z
+SUMMARY:FUORI - Agnès Varda Theatre
+LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: MARIO
+ MARTONE<br>Theater: Agnès Varda Theatre<br><a href="https://ticketonline1.
+ festival-cannes.com/fiche?idproj=ZmDB37%2FcMpg%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:9c2f36a2-bd6a-4ac2-8067-cb4c8c31bb57
+DTSTART:20250521T203000Z
+DTEND:20250521T224500Z
+SUMMARY:AFFEKSJONSVERDI (SENTIMENTAL VALUE) - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: JOACHIM
+ TRIER<br>Theater: Grand Théâtre Lumière<br><a href="https://ticketonline1.
+ festival-cannes.com/fiche?idproj=o10fc1h4INk%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:5cef82a7-a2f3-4735-89ae-fb1facd301fe
+DTSTART:20250522T063000Z
+DTEND:20250522T083700Z
+SUMMARY:THE HISTORY OF SOUND - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: OLIVER
+ HERMANUS<br>Theater: Grand Théâtre Lumière<br><a href="https://ticketonlin
+ e1.festival-cannes.com/fiche?idproj=E2PWLxQO7mo%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:5b357874-7e73-4908-90bd-350aa6fc1ce4
+DTSTART:20250522T063000Z
+DTEND:20250522T084500Z
+SUMMARY:AFFEKSJONSVERDI (SENTIMENTAL VALUE) - Agnès Varda Theatre
+LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: JOACHIM
+ TRIER<br>Theater: Agnès Varda Theatre<br><a href="https://ticketonline1.fe
+ stival-cannes.com/fiche?idproj=r0niPnSUvng%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:fc95621a-f635-47f4-826b-79ced14c6c73
+DTSTART:20250522T064500Z
+DTEND:20250522T084000Z
+SUMMARY:FUORI - Cineum Aurore
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: MARIO
+ MARTONE<br>Theater: Cineum Aurore<br><a href="https://ticketonline1.festiv
+ al-cannes.com/fiche?idproj=wa1d9ECMafU%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:180fe23a-a871-4780-b8dd-0769f83d108a
+DTSTART:20250522T064500Z
+DTEND:20250522T084000Z
+SUMMARY:ROMERÍA - Cineum Imax
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: CARLA
+ SIMÓN<br>Theater: Cineum Imax<br><a href="https://ticketonline1.festival-c
+ annes.com/fiche?idproj=okPRrDO6KOM%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:085a4222-a812-498c-b109-a32fb6758634
+DTSTART:20250522T090000Z
+DTEND:20250522T110700Z
+SUMMARY:THE HISTORY OF SOUND - Licorne
+LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: OLIVER
+ HERMANUS<br>Theater: Licorne<br><a href="https://ticketonline1.festival-ca
+ nnes.com/fiche?idproj=8gseNlZgeO0%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:d562e01b-1ae6-4e63-9c20-cd154b732849
+DTSTART:20250522T091500Z
+DTEND:20250522T112200Z
+SUMMARY:THE HISTORY OF SOUND - Cineum Imax
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: OLIVER
+ HERMANUS<br>Theater: Cineum Imax<br><a href="https://ticketonline1.festiva
+ l-cannes.com/fiche?idproj=dRwsvqS66sc%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:0641e58b-c56b-4f2b-bf89-44f54b0c3379
+DTSTART:20250522T091500Z
+DTEND:20250522T110000Z
+SUMMARY:UN SIMPLE ACCIDENT - Cineum Aurore
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: JAFAR
+ PANAHI<br>Theater: Cineum Aurore<br><a href="https://ticketonline1.festiva
+ l-cannes.com/fiche?idproj=hEdB1phSkPk%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:24261c90-f3d7-4c04-9f03-2957c9df3cf8
+DTSTART:20250522T091500Z
+DTEND:20250522T112200Z
+SUMMARY:THE HISTORY OF SOUND - Agnès Varda Theatre
+LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: OLIVER
+ HERMANUS<br>Theater: Agnès Varda Theatre<br><a href="https://ticketonline1
+ .festival-cannes.com/fiche?idproj=AHe7A%2F4lMK8%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:bf334817-db22-4c99-8890-d074855f349c
+DTSTART:20250522T093000Z
+DTEND:20250522T113700Z
+SUMMARY:EAGLES OF THE REPUBLIC (LES AIGLES DE LA RÉPUBLIQUE) - Cineum Screen X
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: TARIK
+ SALEH<br>Theater: Cineum Screen X<br><a href="https://ticketonline1.festiv
+ al-cannes.com/fiche?idproj=efNRsHpIIfE%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:619d7ce9-cd35-48d5-bb29-02f3dc46e524
+DTSTART:20250522T093000Z
+DTEND:20250522T114500Z
+SUMMARY:AFFEKSJONSVERDI (SENTIMENTAL VALUE) - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: JOACHIM
+ TRIER<br>Theater: Grand Théâtre Lumière<br><a href="https://ticketonline1.
+ festival-cannes.com/fiche?idproj=5k9H6R%2F94NQ%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:9818708c-e853-44de-9959-b37a8a74eaf4
+DTSTART:20250522T120000Z
+DTEND:20250522T135500Z
+SUMMARY:ROMERÍA - Agnès Varda Theatre
+LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: CARLA
+ SIMÓN<br>Theater: Agnès Varda Theatre<br><a href="https://ticketonline1.fe
+ stival-cannes.com/fiche?idproj=M%2Fgs7TdU0yw%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:953a5ae2-b916-4130-a2bb-62a2a379a8a2
+DTSTART:20250522T120000Z
+DTEND:20250522T141500Z
+SUMMARY:AFFEKSJONSVERDI (SENTIMENTAL VALUE) - Cineum Imax
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: JOACHIM
+ TRIER<br>Theater: Cineum Imax<br><a href="https://ticketonline1.festival-c
+ annes.com/fiche?idproj=yD3w1YBtWTc%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ba876bde-d1cc-433b-862d-498cc79e602f
+DTSTART:20250522T120000Z
+DTEND:20250522T140800Z
+SUMMARY:ALPHA - Cineum Screen X
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: JULIA
+ DUCOURNAU<br>Theater: Cineum Screen X<br><a href="https://ticketonline1.fe
+ stival-cannes.com/fiche?idproj=UtRpjMC4PWA%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:06116ed1-2f44-4aca-b6dc-a4df562479c7
+DTSTART:20250522T133000Z
+DTEND:20250522T154100Z
+SUMMARY:ZAN O BACHEH (WOMAN AND CHILD) - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: SAEED
+ ROUSTAEE<br>Theater: Grand Théâtre Lumière<br><a href="https://ticketonlin
+ e1.festival-cannes.com/fiche?idproj=KUTkdXOr0eQ%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:9ce8dc52-0dc4-48b9-aea8-7453f5d73bde
+DTSTART:20250522T140000Z
+DTEND:20250522T161100Z
+SUMMARY:ZAN O BACHEH (WOMAN AND CHILD) - Bazin Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: SAEED
+ ROUSTAEE<br>Theater: Bazin Theatre<br><a href="https://ticketonline1.festi
+ val-cannes.com/fiche?idproj=zgnApk%2FCSAI%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:8de1dbe3-0de6-4e9f-9d41-74cec2cc2daf
+DTSTART:20250522T171500Z
+DTEND:20250522T191000Z
+SUMMARY:ROMERÍA - Licorne
+LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: CARLA
+ SIMÓN<br>Theater: Licorne<br><a href="https://ticketonline1.festival-canne
+ s.com/fiche?idproj=7CobiEOvjeo%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:d696c131-fd07-41f4-8812-a95553806624
+DTSTART:20250522T200000Z
+DTEND:20250522T224000Z
+SUMMARY:RESURRECTION - Debussy Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: BI GAN<br>Theater:
+ Debussy Theatre<br><a href="https://ticketonline1.festival-cannes.com/fich
+ e?idproj=LCHgVFS9G0I%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:7eb520d5-0a7d-413c-927b-3aeba86aad9b
+DTSTART:20250522T201500Z
+DTEND:20250522T225500Z
+SUMMARY:RESURRECTION - Bazin Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: BI GAN<br>Theater:
+ Bazin Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+ idproj=oGyWNNi9dnM%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ccf02939-14a6-491e-8db6-fbe27c6cc8ba
+DTSTART:20250522T201500Z
+DTEND:20250522T225500Z
+SUMMARY:RESURRECTION - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: BI GAN<br>Theater:
+ Grand Théâtre Lumière<br><a href="https://ticketonline1.festival-cannes.co
+ m/fiche?idproj=dT2OBS%2FGOO8%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:d9eecca0-b81f-48a8-8a00-b2683b1de5b4
+DTSTART:20250523T063000Z
+DTEND:20250523T084100Z
+SUMMARY:ZAN O BACHEH (WOMAN AND CHILD) - Agnès Varda Theatre
+LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: SAEED
+ ROUSTAEE<br>Theater: Agnès Varda Theatre<br><a href="https://ticketonline1
+ .festival-cannes.com/fiche?idproj=%2FUaRuABkpDs%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:7af1da57-f3ba-4d4a-8cb7-6f34a90cc2be
+DTSTART:20250523T063000Z
+DTEND:20250523T091000Z
+SUMMARY:RESURRECTION - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: BI GAN<br>Theater:
+ Grand Théâtre Lumière<br><a href="https://ticketonline1.festival-cannes.co
+ m/fiche?idproj=PEd0YAR7ZiM%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:0726c88d-d150-42c2-ba1e-2ecf2d44ae6a
+DTSTART:20250523T064500Z
+DTEND:20250523T085600Z
+SUMMARY:ZAN O BACHEH (WOMAN AND CHILD) - Cineum Imax
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: SAEED
+ ROUSTAEE<br>Theater: Cineum Imax<br><a href="https://ticketonline1.festiva
+ l-cannes.com/fiche?idproj=Dpgock%2FbLjk%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:3bf09b5d-2706-4e86-b5e4-44c240d52eab
+DTSTART:20250523T064500Z
+DTEND:20250523T085200Z
+SUMMARY:THE HISTORY OF SOUND - Cineum Aurore
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: OLIVER
+ HERMANUS<br>Theater: Cineum Aurore<br><a href="https://ticketonline1.festi
+ val-cannes.com/fiche?idproj=P9ky0293WS0%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:49a00eaf-2592-4369-b185-6bec4d1ecb2d
+DTSTART:20250523T091500Z
+DTEND:20250523T115500Z
+SUMMARY:RESURRECTION - Cineum Imax
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: BI GAN<br>Theater:
+ Cineum Imax<br><a href="https://ticketonline1.festival-cannes.com/fiche?id
+ proj=OYMhsKVDgbs%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:5943bdce-8c46-411f-9bf3-046a49b5fdd3
+DTSTART:20250523T093000Z
+DTEND:20250523T112500Z
+SUMMARY:ROMERÍA - Cineum Aurore
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: CARLA
+ SIMÓN<br>Theater: Cineum Aurore<br><a href="https://ticketonline1.festival
+ -cannes.com/fiche?idproj=gOHY4Y4z5rQ%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:64d30bca-9509-490e-8fea-a6c3c2257268
+DTSTART:20250523T094500Z
+DTEND:20250523T114000Z
+SUMMARY:FUORI - Cineum Salle 3
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: MARIO
+ MARTONE<br>Theater: Cineum Salle 3<br><a href="https://ticketonline1.festi
+ val-cannes.com/fiche?idproj=oTY8Q3Raxng%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ed6ad2e2-c046-47c7-8c0c-a1b45277355f
+DTSTART:20250523T100000Z
+DTEND:20250523T121100Z
+SUMMARY:ZAN O BACHEH (WOMAN AND CHILD) - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: SAEED
+ ROUSTAEE<br>Theater: Grand Théâtre Lumière<br><a href="https://ticketonlin
+ e1.festival-cannes.com/fiche?idproj=ywkvN4ktLjk%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:a38a2f91-873d-4818-8b0c-ea0c217c9de6
+DTSTART:20250523T120000Z
+DTEND:20250523T134500Z
+SUMMARY:UN SIMPLE ACCIDENT - Cineum Salle 3
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: JAFAR
+ PANAHI<br>Theater: Cineum Salle 3<br><a href="https://ticketonline1.festiv
+ al-cannes.com/fiche?idproj=twV%2BKSU0lmw%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ac40131f-2518-46fb-82ef-f4a7fd4338de
+DTSTART:20250523T120000Z
+DTEND:20250523T141500Z
+SUMMARY:AFFEKSJONSVERDI (SENTIMENTAL VALUE) - Cineum Aurore
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: JOACHIM
+ TRIER<br>Theater: Cineum Aurore<br><a href="https://ticketonline1.festival
+ -cannes.com/fiche?idproj=nHalM3JQQCY%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ca82c2ee-119b-471c-b4cc-a94f28ce0931
+DTSTART:20250523T140000Z
+DTEND:20250523T164000Z
+SUMMARY:RESURRECTION - Agnès Varda Theatre
+LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: BI GAN<br>Theater:
+ Agnès Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/
+ fiche?idproj=ZDsFZ3td6jE%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:efa66339-06c8-46ab-b396-182c59aa6d04
+DTSTART:20250523T140000Z
+DTEND:20250523T154400Z
+SUMMARY:JEUNES MÈRES - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: JEAN-PIERRE
+ DARDENNE\, LUC DARDENNE<br>Theater: Grand Théâtre Lumière<br><a href="http
+ s://ticketonline1.festival-cannes.com/fiche?idproj=17xS2%2BzEheE%3D">Event
+ link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:af839d8a-9dd5-4a2e-a106-6d9d7160ff47
+DTSTART:20250523T141500Z
+DTEND:20250523T155900Z
+SUMMARY:JEUNES MÈRES - Bazin Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: JEAN-PIERRE
+ DARDENNE\, LUC DARDENNE<br>Theater: Bazin Theatre<br><a href="https://tick
+ etonline1.festival-cannes.com/fiche?idproj=qVl6vYNMyQ0%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:65d9f14c-42d0-4842-9e43-5ea07fb13ec0
+DTSTART:20250523T160000Z
+DTEND:20250523T175000Z
+SUMMARY:THE MASTERMIND - Debussy Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: KELLY
+ REICHARDT<br>Theater: Debussy Theatre<br><a href="https://ticketonline1.fe
+ stival-cannes.com/fiche?idproj=pm0OurqbvkM%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f44e1e7a-b6a0-47e8-8948-3fea291df758
+DTSTART:20250523T163000Z
+DTEND:20250523T182000Z
+SUMMARY:THE MASTERMIND - Bazin Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: KELLY
+ REICHARDT<br>Theater: Bazin Theatre<br><a href="https://ticketonline1.fest
+ ival-cannes.com/fiche?idproj=QQeNxRQcCcU%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:4ef9fe33-10b6-4371-ad4f-10a6daf25e93
+DTSTART:20250523T164500Z
+DTEND:20250523T183500Z
+SUMMARY:THE MASTERMIND - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: KELLY
+ REICHARDT<br>Theater: Grand Théâtre Lumière<br><a href="https://ticketonli
+ ne1.festival-cannes.com/fiche?idproj=dGJW3tRhX1M%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:24f903e0-461a-4c2a-b866-fffdd8314cc9
+DTSTART:20250523T171500Z
+DTEND:20250523T193000Z
+SUMMARY:VALEUR SENTIMENTALE - Licorne
+LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: JOACHIM
+ TRIER<br>Theater: Licorne<br><a href="https://ticketonline1.festival-canne
+ s.com/fiche?idproj=8BoOg%2Fc2pXI%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:aceb2a2f-23a4-4b6b-90c8-d3ef5c6acc07
+DTSTART:20250523T200000Z
+DTEND:20250523T221100Z
+SUMMARY:WOMAN AND CHILD (ZAN O BACHEH) - Licorne
+LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: SAEED
+ ROUSTAEE<br>Theater: Licorne<br><a href="https://ticketonline1.festival-ca
+ nnes.com/fiche?idproj=yses%2BwJmLsE%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:894d0718-0e18-4a34-8d47-e34e02aa0431
+DTSTART:20250524T064500Z
+DTEND:20250524T085600Z
+SUMMARY:ZAN O BACHEH (WOMAN AND CHILD) - Cineum Aurore
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: SAEED
+ ROUSTAEE<br>Theater: Cineum Aurore<br><a href="https://ticketonline1.festi
+ val-cannes.com/fiche?idproj=GAE3SsjDvp0%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:edf3af66-1b49-4238-9281-e3ced7845cb3
+DTSTART:20250524T064500Z
+DTEND:20250524T082900Z
+SUMMARY:JEUNES MÈRES - Cineum Imax
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: JEAN-PIERRE
+ DARDENNE\, LUC DARDENNE<br>Theater: Cineum Imax<br><a href="https://ticket
+ online1.festival-cannes.com/fiche?idproj=TDHRp5dFkV4%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2a0dc97c-318f-4d83-a13d-f2e4b72e7bc0
+DTSTART:20250524T070000Z
+DTEND:20250524T084400Z
+SUMMARY:JEUNES MÈRES - Licorne
+LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: JEAN-PIERRE
+ DARDENNE\, LUC DARDENNE<br>Theater: Licorne<br><a href="https://ticketonli
+ ne1.festival-cannes.com/fiche?idproj=OZtCyBpETDc%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ac9c0622-a083-4b80-b071-30af2896f8aa
+DTSTART:20250524T071500Z
+DTEND:20250524T093000Z
+SUMMARY:AFFEKSJONSVERDI (SENTIMENTAL VALUE) - Cineum Salle 3
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: JOACHIM
+ TRIER<br>Theater: Cineum Salle 3<br><a href="https://ticketonline1.festiva
+ l-cannes.com/fiche?idproj=lMakgpxbbYk%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:742cbdea-11f6-4ff4-89e8-e86ed24ea1ad
+DTSTART:20250524T090000Z
+DTEND:20250524T105000Z
+SUMMARY:THE MASTERMIND - Cineum Imax
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: KELLY
+ REICHARDT<br>Theater: Cineum Imax<br><a href="https://ticketonline1.festiv
+ al-cannes.com/fiche?idproj=w6u7tEflma8%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:6f6d145c-7a36-4d5b-8409-121344f01008
+DTSTART:20250524T093000Z
+DTEND:20250524T112000Z
+SUMMARY:THE MASTERMIND - Licorne
+LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: KELLY
+ REICHARDT<br>Theater: Licorne<br><a href="https://ticketonline1.festival-c
+ annes.com/fiche?idproj=417JEVP7neA%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:a0ff0095-cd5a-4a19-952d-1d7860e2d86d
+DTSTART:20250524T093000Z
+DTEND:20250524T121000Z
+SUMMARY:RESURRECTION - Cineum Aurore
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: BI GAN<br>Theater:
+ Cineum Aurore<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+ idproj=t5khw0697PA%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:66148d63-163c-4edd-8dd4-b4e9839955bc
+DTSTART:20250524T100000Z
+DTEND:20250524T115500Z
+SUMMARY:ROMERÍA - Cineum Salle 3
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: CARLA
+ SIMÓN<br>Theater: Cineum Salle 3<br><a href="https://ticketonline1.festiva
+ l-cannes.com/fiche?idproj=PRBupNCe4II%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:907fbe07-ca5f-4d13-a2d5-d576251d2ebc
+DTSTART:20250524T123000Z
+DTEND:20250524T143700Z
+SUMMARY:THE HISTORY OF SOUND - Cineum Salle 3
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: In Competition - Feature Films<br>Director: OLIVER
+ HERMANUS<br>Theater: Cineum Salle 3<br><a href="https://ticketonline1.fest
+ ival-cannes.com/fiche?idproj=CMnLDTqmqxQ%3D">Event link</a>
+END:VEVENT
+
+END:VCALENDAR

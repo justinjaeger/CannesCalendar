@@ -1,0 +1,471 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cannes Film Festival//Screenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cannes Film Festival Screenings
+X-WR-TIMEZONE:Europe/Paris
+
+BEGIN:VEVENT
+UID:b860d992-dd54-4996-b8e4-b95fee5ff330
+DTSTART:20250515T173000Z
+DTEND:20250515T190300Z
+SUMMARY:AMRUM - Debussy Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: Cannes Premiere<br>Director: FATIH AKIN<br>Theater: Debussy
+ Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+ =BjrDk0qkDt8%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:9fbb81c6-b71e-4739-a439-55d34ca30b59
+DTSTART:20250516T091500Z
+DTEND:20250516T104800Z
+SUMMARY:AMRUM - Licorne
+LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Cannes Premiere<br>Director: FATIH AKIN<br>Theater: Licorne<br><a
+ href="https://ticketonline1.festival-cannes.com/fiche?idproj=d521VjjuKfM%3
+ D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:39c2ff7d-27d8-43e4-a6d7-9640a8823e8e
+DTSTART:20250516T120000Z
+DTEND:20250516T133300Z
+SUMMARY:AMRUM - Agnès Varda Theatre
+LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
+DESCRIPTION:Program: Cannes Premiere<br>Director: FATIH AKIN<br>Theater: Agnès Varda
+ Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+ =5kcSkUnuDZs%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:b176bc39-468b-44f7-bbe8-07390bbd465b
+DTSTART:20250516T141500Z
+DTEND:20250516T154800Z
+SUMMARY:AMRUM - Cineum Aurore
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Cannes Premiere<br>Director: FATIH AKIN<br>Theater: Cineum
+ Aurore<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=
+ AvujRUpN%2FlE%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:13e76841-d921-4f0f-9ed7-221fc32353ce
+DTSTART:20250516T174500Z
+DTEND:20250516T195400Z
+SUMMARY:LA OLA (LA VAGUE / THE WAVE) - Debussy Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: Cannes Premiere<br>Director: SEBASTIÁN LELIO<br>Theater: Debussy
+ Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+ =Uc25ZheSDno%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:4c9ef4db-0ecc-43f8-b62f-e70a5cf55ae6
+DTSTART:20250517T091500Z
+DTEND:20250517T112400Z
+SUMMARY:LA OLA (LA VAGUE / THE WAVE) - Cineum Salle 3
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Cannes Premiere<br>Director: SEBASTIÁN LELIO<br>Theater: Cineum
+ Salle 3<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+ =CTDQXUQYqsM%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2ba030f4-465b-4f81-9e7b-c8e4e7f158ce
+DTSTART:20250517T091500Z
+DTEND:20250517T112400Z
+SUMMARY:LA OLA - Licorne
+LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Cannes Premiere<br>Director: SEBASTIÁN LELIO<br>Theater:
+ Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+ =tMpMhGUu80E%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:edaadd1c-9c1b-4801-8bab-129ead780ad4
+DTSTART:20250517T124500Z
+DTEND:20250517T141800Z
+SUMMARY:AMRUM - Cineum Screen X
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Cannes Premiere<br>Director: FATIH AKIN<br>Theater: Cineum Screen
+ X<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=kZTYJ
+ 9RNhlk%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:8f7e2d0a-4656-4e7a-8daa-5c7f4ee514cb
+DTSTART:20250517T174500Z
+DTEND:20250517T194400Z
+SUMMARY:ORWELL : 2+2=5 - Debussy Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: Cannes Premiere<br>Director: RAOUL PECK<br>Theater: Debussy
+ Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+ =QirmbAr8Qwc%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f3d10727-0877-4df0-b410-554cda0a6a38
+DTSTART:20250517T190000Z
+DTEND:20250517T210900Z
+SUMMARY:LA OLA (LA VAGUE / THE WAVE) - Agnès Varda Theatre
+LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
+DESCRIPTION:Program: Cannes Premiere<br>Director: SEBASTIÁN LELIO<br>Theater: Agnès
+ Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+ idproj=%2FJ1VOHQd0bM%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:62564a55-edfe-43a7-8451-839ce53e5eb5
+DTSTART:20250518T071500Z
+DTEND:20250518T092400Z
+SUMMARY:LA OLA (LA VAGUE / THE WAVE) - Cineum Screen X
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Cannes Premiere<br>Director: SEBASTIÁN LELIO<br>Theater: Cineum
+ Screen X<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpro
+ j=rcyqdumgQtU%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ee25386f-aa63-4846-ad4a-beba87c21445
+DTSTART:20250518T111500Z
+DTEND:20250518T131400Z
+SUMMARY:ORWELL : 2+2=5 - Cineum Salle 3
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Cannes Premiere<br>Director: RAOUL PECK<br>Theater: Cineum Salle
+ 3<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=yjBrv
+ ZPUsko%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:d06e7da3-fd0a-4b4d-b7aa-3575ac8709cb
+DTSTART:20250518T140000Z
+DTEND:20250518T155900Z
+SUMMARY:ORWELL : 2+2=5 - Agnès Varda Theatre
+LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
+DESCRIPTION:Program: Cannes Premiere<br>Director: RAOUL PECK<br>Theater: Agnès Varda
+ Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+ =KKfILe%2BZGLg%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:cea455d1-e3c5-4c2e-b96a-22f70080f580
+DTSTART:20250518T181500Z
+DTEND:20250518T200400Z
+SUMMARY:ÁSTIN SEM EFTIR ER (THE LOVE THAT REMAINS) - Debussy Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: Cannes Premiere<br>Director: HLYNUR PÁLMASON<br>Theater: Debussy
+ Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+ =jaVx%2B3ewNhU%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:dbcc60e4-e8c4-49f2-b7a5-d32a1015d714
+DTSTART:20250518T193000Z
+DTEND:20250518T212900Z
+SUMMARY:ORWELL : 2+2=5 - Licorne
+LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Cannes Premiere<br>Director: RAOUL PECK<br>Theater: Licorne<br><a
+ href="https://ticketonline1.festival-cannes.com/fiche?idproj=YYJr51RrNHE%3
+ D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:d274195f-c1d2-4c45-975f-763f508c0e58
+DTSTART:20250518T203000Z
+DTEND:20250518T230600Z
+SUMMARY:MAGALHÃES (MAGELLAN) - Debussy Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: Cannes Premiere<br>Director: LAV DIAZ<br>Theater: Debussy
+ Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+ =RtBdEIgnDxo%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:38950587-bdcd-42f9-a05e-553222956145
+DTSTART:20250519T091500Z
+DTEND:20250519T110400Z
+SUMMARY:ÁSTIN SEM EFTIR ER (THE LOVE THAT REMAINS) - Cineum Salle 3
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Cannes Premiere<br>Director: HLYNUR PÁLMASON<br>Theater: Cineum
+ Salle 3<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+ =Laelb2D4HAA%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:957761df-05b2-4020-8335-93e597b7137c
+DTSTART:20250519T113000Z
+DTEND:20250519T140600Z
+SUMMARY:MAGALHÃES (MAGELLAN) - Cineum Salle 3
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Cannes Premiere<br>Director: LAV DIAZ<br>Theater: Cineum Salle
+ 3<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=ntH5T
+ Z2ZzKM%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:662f2268-a091-4125-878d-9e7f303b31ef
+DTSTART:20250519T121500Z
+DTEND:20250519T140400Z
+SUMMARY:ÁSTIN SEM EFTIR ER (THE LOVE THAT REMAINS) - Agnès Varda Theatre
+LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
+DESCRIPTION:Program: Cannes Premiere<br>Director: HLYNUR PÁLMASON<br>Theater: Agnès
+ Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+ idproj=CQvV%2B5kLeTY%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:6a0bf725-787f-46c4-8544-437d791e09f2
+DTSTART:20250519T173000Z
+DTEND:20250519T191000Z
+SUMMARY:SPLITSVILLE - Debussy Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: Cannes Premiere<br>Director: MICHAEL ANGELO COVINO<br>Theater:
+ Debussy Theatre<br><a href="https://ticketonline1.festival-cannes.com/fich
+ e?idproj=UDVH1axGx5w%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f347e916-c9d8-416e-a185-a4132b58b35d
+DTSTART:20250519T193000Z
+DTEND:20250519T220600Z
+SUMMARY:MAGALHÃES (MAGELLAN) - Agnès Varda Theatre
+LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
+DESCRIPTION:Program: Cannes Premiere<br>Director: LAV DIAZ<br>Theater: Agnès Varda
+ Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+ =l1nVLmmIyHE%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:e20cd1f5-1889-4868-a3bf-17d452580065
+DTSTART:20250520T071500Z
+DTEND:20250520T085500Z
+SUMMARY:SPLITSVILLE - Cineum Screen X
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Cannes Premiere<br>Director: MICHAEL ANGELO COVINO<br>Theater:
+ Cineum Screen X<br><a href="https://ticketonline1.festival-cannes.com/fich
+ e?idproj=gUts9CebT6c%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:d7a5f3f1-a666-4272-9293-02e06f8b7125
+DTSTART:20250520T091500Z
+DTEND:20250520T105500Z
+SUMMARY:SPLITSVILLE - Licorne
+LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Cannes Premiere<br>Director: MICHAEL ANGELO COVINO<br>Theater:
+ Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+ =0ODNI6TM%2F74%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:4e565174-64c4-48ee-920a-bdc658f58896
+DTSTART:20250520T173000Z
+DTEND:20250520T194500Z
+SUMMARY:DAS VERSCHWINDEN DES JOSEF MENGELE (LA DISPARITION DE JOSEF ... - Debussy Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: Cannes Premiere<br>Director: KIRILL SEREBRENNIKOV<br>Theater:
+ Debussy Theatre<br><a href="https://ticketonline1.festival-cannes.com/fich
+ e?idproj=VvzOssYpDqI%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f9d0aa89-96eb-4304-adda-a37b01a1fabf
+DTSTART:20250520T203000Z
+DTEND:20250520T221000Z
+SUMMARY:SPLITSVILLE - Agnès Varda Theatre
+LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
+DESCRIPTION:Program: Cannes Premiere<br>Director: MICHAEL ANGELO COVINO<br>Theater:
+ Agnès Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/
+ fiche?idproj=GoruPWt4JWI%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:3ed386b2-4e39-47f1-89f5-423bded95285
+DTSTART:20250521T140000Z
+DTEND:20250521T161500Z
+SUMMARY:DAS VERSCHWINDEN DES JOSEF MENGELE (LA DISPARITION DE JOSEF ... - Agnès Varda Theatre
+LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
+DESCRIPTION:Program: Cannes Premiere<br>Director: KIRILL SEREBRENNIKOV<br>Theater:
+ Agnès Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/
+ fiche?idproj=w6HXyMJAtfc%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:8f069002-175d-4d10-9ea5-97bb0d1e60dc
+DTSTART:20250521T143000Z
+DTEND:20250521T164500Z
+SUMMARY:DAS VERSCHWINDEN DES JOSEF MENGELE (LA DISPARITION DE JOSEF ... - Cineum Aurore
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Cannes Premiere<br>Director: KIRILL SEREBRENNIKOV<br>Theater:
+ Cineum Aurore<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+ idproj=WVd3tdTBerM%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:e935c658-8680-428c-808c-3f11a8ff7676
+DTSTART:20250521T180000Z
+DTEND:20250521T195200Z
+SUMMARY:CONNEMARA - Debussy Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: Cannes Premiere<br>Director: ALEX LUTZ<br>Theater: Debussy
+ Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+ =yEFIVdVoavA%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:09cde21c-4b7d-4fbf-b8e2-c81c363e07c0
+DTSTART:20250522T120000Z
+DTEND:20250522T135900Z
+SUMMARY:ORWELL : 2+2=5 - Cineum Salle 3
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Cannes Premiere<br>Director: RAOUL PECK<br>Theater: Cineum Salle
+ 3<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=Q2APX
+ AOgEw4%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:304b9188-2a2c-4545-8a9a-bae5196258f2
+DTSTART:20250522T140000Z
+DTEND:20250522T155200Z
+SUMMARY:MA FRÈRE - Debussy Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: Cannes Premiere<br>Director: LISE AKOKA\, ROMANE
+ GUERET<br>Theater: Debussy Theatre<br><a href="https://ticketonline1.festi
+ val-cannes.com/fiche?idproj=Q%2FrPGfrwEb0%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:199fd5df-f55c-4d81-a7ca-c449d6cc9fd0
+DTSTART:20250522T143000Z
+DTEND:20250522T161900Z
+SUMMARY:ÁSTIN SEM EFTIR ER (THE LOVE THAT REMAINS) - Cineum Salle 3
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Cannes Premiere<br>Director: HLYNUR PÁLMASON<br>Theater: Cineum
+ Salle 3<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+ =areQi3utcMk%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2317e017-689b-4c3f-82ee-42ac295f8a9d
+DTSTART:20250522T143000Z
+DTEND:20250522T170600Z
+SUMMARY:MAGALHÃES (MAGELLAN) - Cineum Screen X
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Cannes Premiere<br>Director: LAV DIAZ<br>Theater: Cineum Screen
+ X<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=3oKik
+ WV9VP0%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:55d8cd8b-4a77-41d2-b548-30666cf520ef
+DTSTART:20250522T144500Z
+DTEND:20250522T163700Z
+SUMMARY:CONNEMARA - Cineum Imax
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Cannes Premiere<br>Director: ALEX LUTZ<br>Theater: Cineum
+ Imax<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=kn
+ CXJVMfmPo%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:de4aff09-228b-4cfa-9dca-743acd89d4ea
+DTSTART:20250522T171500Z
+DTEND:20250522T191900Z
+SUMMARY:LOVE ON TRIAL - Debussy Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: Cannes Premiere<br>Director: KOJI FUKADA<br>Theater: Debussy
+ Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+ =lwoSRgwXSos%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:588cdeb4-8d2c-49b4-89ef-2513b82df742
+DTSTART:20250522T200000Z
+DTEND:20250522T215200Z
+SUMMARY:CONNEMARA - Agnès Varda Theatre
+LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
+DESCRIPTION:Program: Cannes Premiere<br>Director: ALEX LUTZ<br>Theater: Agnès Varda
+ Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+ =vuD1oNowCBQ%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:41e1a205-7121-4e60-b437-7c1ec699caa6
+DTSTART:20250523T091500Z
+DTEND:20250523T111900Z
+SUMMARY:LOVE ON TRIAL - Licorne
+LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Cannes Premiere<br>Director: KOJI FUKADA<br>Theater:
+ Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+ =80jJeE0WWxY%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:b41ccf65-141a-4de1-b3af-a84ff68e72a1
+DTSTART:20250523T111500Z
+DTEND:20250523T131900Z
+SUMMARY:LOVE ON TRIAL - Agnès Varda Theatre
+LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
+DESCRIPTION:Program: Cannes Premiere<br>Director: KOJI FUKADA<br>Theater: Agnès Varda
+ Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+ =LoH1brxuoTI%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:c96ad329-9035-44b0-b7a4-8b8b2bdcf8b0
+DTSTART:20250523T141500Z
+DTEND:20250523T155500Z
+SUMMARY:SPLITSVILLE - Cineum Salle 3
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Cannes Premiere<br>Director: MICHAEL ANGELO COVINO<br>Theater:
+ Cineum Salle 3<br><a href="https://ticketonline1.festival-cannes.com/fiche
+ ?idproj=nSlquXEiY28%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:51e4eb21-9dca-45e6-ac22-36b50d3a9b21
+DTSTART:20250523T144500Z
+DTEND:20250523T170000Z
+SUMMARY:DAS VERSCHWINDEN DES JOSEF MENGELE (LA DISPARITION DE JOSEF ... - Cineum Aurore
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Cannes Premiere<br>Director: KIRILL SEREBRENNIKOV<br>Theater:
+ Cineum Aurore<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+ idproj=t84PcXOn0LE%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:b3ce5e62-30eb-4b4d-a6a8-55279d940885
+DTSTART:20250523T153000Z
+DTEND:20250523T173400Z
+SUMMARY:LOVE ON TRIAL - Cineum Imax
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Cannes Premiere<br>Director: KOJI FUKADA<br>Theater: Cineum
+ Imax<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=mo
+ Jf8I7BE5o%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:4eb63c14-46e5-46ab-8c82-4304566067bd
+DTSTART:20250524T123000Z
+DTEND:20250524T142200Z
+SUMMARY:CONNEMARA - Cineum Aurore
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Cannes Premiere<br>Director: ALEX LUTZ<br>Theater: Cineum
+ Aurore<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=
+ fXmgMvExG18%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:fae3613f-46fb-41ce-b354-9c9528ba798c
+DTSTART:20250524T140000Z
+DTEND:20250524T155200Z
+SUMMARY:MA FRÈRE - Cineum Imax
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Cannes Premiere<br>Director: LISE AKOKA\, ROMANE
+ GUERET<br>Theater: Cineum Imax<br><a href="https://ticketonline1.festival-
+ cannes.com/fiche?idproj=QwF%2FA0QuQOU%3D">Event link</a>
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,284 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cannes Film Festival//Screenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cannes Film Festival Screenings
+X-WR-TIMEZONE:Europe/Paris
+
+BEGIN:VEVENT
+UID:e6c4b271-2eeb-4b7f-bb0e-a802f0cd641c
+DTSTART:20250514T070000Z
+DTEND:20250514T083400Z
+SUMMARY:PARTIR UN JOUR - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: Out of Competition<br>Director: AMÉLIE BONNIN<br>Theater: Grand
+ Théâtre Lumière<br><a href="https://ticketonline1.festival-cannes.com/fich
+ e?idproj=Pe53ixdwSlA%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:1e770f44-4fec-4530-b5a8-dcb09f3ac471
+DTSTART:20250514T143000Z
+DTEND:20250514T160400Z
+SUMMARY:PARTIR UN JOUR - Agnès Varda Theatre
+LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
+DESCRIPTION:Program: Out of Competition<br>Director: AMÉLIE BONNIN<br>Theater: Agnès
+ Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+ idproj=6jr81qLeV%2FA%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:408198de-0294-4dbf-b2a4-e1cc444de303
+DTSTART:20250514T164500Z
+DTEND:20250514T193000Z
+SUMMARY:MISSION: IMPOSSIBLE - THE FINAL RECKONING - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: Out of Competition<br>Director: CHRISTOPHER MCQUARRIE<br>Theater:
+ Grand Théâtre Lumière<br><a href="https://ticketonline1.festival-cannes.co
+ m/fiche?idproj=hXo8YIhgMIk%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f10029a5-2598-4492-a890-af552a1bd73a
+DTSTART:20250515T063000Z
+DTEND:20250515T091500Z
+SUMMARY:MISSION: IMPOSSIBLE - THE FINAL RECKONING - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: Out of Competition<br>Director: CHRISTOPHER MCQUARRIE<br>Theater:
+ Grand Théâtre Lumière<br><a href="https://ticketonline1.festival-cannes.co
+ m/fiche?idproj=dniiKOCxBhg%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:62119e85-4209-4d14-81f0-c6ece80eaffe
+DTSTART:20250515T070000Z
+DTEND:20250515T083400Z
+SUMMARY:PARTIR UN JOUR - Cineum Imax
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Out of Competition<br>Director: AMÉLIE BONNIN<br>Theater: Cineum
+ Imax<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=9Q
+ L1Z48a%2Bvs%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:b396969f-6746-4cf3-8609-dbbb65d68517
+DTSTART:20250515T143000Z
+DTEND:20250515T160400Z
+SUMMARY:PARTIR UN JOUR - Licorne
+LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Out of Competition<br>Director: AMÉLIE BONNIN<br>Theater:
+ Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+ =oKpvcA4G678%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f2545d6c-6eff-425e-abd5-ed2ad6f3cb6e
+DTSTART:20250518T200000Z
+DTEND:20250518T220100Z
+SUMMARY:LA FEMME LA PLUS RICHE DU MONDE (THE RICHEST WOMAN IN THE WO... - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: Out of Competition<br>Director: THIERRY KLIFA<br>Theater: Grand
+ Théâtre Lumière<br><a href="https://ticketonline1.festival-cannes.com/fich
+ e?idproj=bCdYCv6%2FBss%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:fea5ea87-7db3-42c7-ad20-107d5b4b728e
+DTSTART:20250519T063000Z
+DTEND:20250519T083100Z
+SUMMARY:LA FEMME LA PLUS RICHE DU MONDE (THE RICHEST WOMAN IN THE WO... - Buñuel Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: Out of Competition<br>Director: THIERRY KLIFA<br>Theater: Buñuel
+ Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+ =08Z5x4qKf2A%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:5498b423-2be3-4cdc-91e8-687531a908d2
+DTSTART:20250519T120000Z
+DTEND:20250519T140100Z
+SUMMARY:LA FEMME LA PLUS RICHE DU MONDE (THE RICHEST WOMAN IN THE WO... - Cineum Imax
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Out of Competition<br>Director: THIERRY KLIFA<br>Theater: Cineum
+ Imax<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=mT
+ mAOtcqp8Q%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:1e67285c-3b48-45a0-8340-16cf807f61a1
+DTSTART:20250519T170000Z
+DTEND:20250519T191300Z
+SUMMARY:HIGHEST 2 LOWEST - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: Out of Competition<br>Director: SPIKE LEE<br>Theater: Grand
+ Théâtre Lumière<br><a href="https://ticketonline1.festival-cannes.com/fich
+ e?idproj=u8I1ezSz0%2Bs%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:aef82c0f-be97-464c-bd7a-ad592d400aa5
+DTSTART:20250519T193000Z
+DTEND:20250519T213100Z
+SUMMARY:LA FEMME LA PLUS RICHE DU MONDE - Licorne
+LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Out of Competition<br>Director: THIERRY KLIFA<br>Theater:
+ Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+ =8IeSa52moxE%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:a9a99a38-91f4-4b84-a345-fc78c1cb95a0
+DTSTART:20250520T063000Z
+DTEND:20250520T084300Z
+SUMMARY:HIGHEST 2 LOWEST - Buñuel Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: Out of Competition<br>Director: SPIKE LEE<br>Theater: Buñuel
+ Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+ =%2BpLqg35miXc%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:b901ede4-ee95-4c5a-9f91-341bd638e1ab
+DTSTART:20250520T123000Z
+DTEND:20250520T144300Z
+SUMMARY:HIGHEST 2 LOWEST - Cineum Imax
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Out of Competition<br>Director: SPIKE LEE<br>Theater: Cineum
+ Imax<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=fV
+ cTvBEPeYc%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:1ede23f0-968b-45e5-9596-65737c034dc8
+DTSTART:20250520T160000Z
+DTEND:20250520T180100Z
+SUMMARY:LA FEMME LA PLUS RICHE DU MONDE (THE RICHEST WOMAN IN THE WO... - Cineum Aurore
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Out of Competition<br>Director: THIERRY KLIFA<br>Theater: Cineum
+ Aurore<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=
+ fgA8xkuXkWY%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ce3e4c02-1c44-42c7-9457-d2718b394933
+DTSTART:20250520T170000Z
+DTEND:20250520T184500Z
+SUMMARY:VIE PRIVÉE - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: Out of Competition<br>Director: REBECCA ZLOTOWSKI<br>Theater:
+ Grand Théâtre Lumière<br><a href="https://ticketonline1.festival-cannes.co
+ m/fiche?idproj=FFPSrd8G1k4%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:505f662c-59d0-4aad-8d46-8d537a6911f9
+DTSTART:20250521T063000Z
+DTEND:20250521T081500Z
+SUMMARY:VIE PRIVÉE - Buñuel Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: Out of Competition<br>Director: REBECCA ZLOTOWSKI<br>Theater:
+ Buñuel Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche
+ ?idproj=rEV7y45QMTM%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:1dbadeb1-519e-437c-9180-983f3ee313db
+DTSTART:20250521T090000Z
+DTEND:20250521T104500Z
+SUMMARY:VIE PRIVÉE - Licorne
+LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Out of Competition<br>Director: REBECCA ZLOTOWSKI<br>Theater:
+ Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+ =KixUXjHAM60%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:814063c9-cda4-405d-9297-5daaa2a79189
+DTSTART:20250521T113000Z
+DTEND:20250521T131500Z
+SUMMARY:VIE PRIVÉE - Cineum Imax
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Out of Competition<br>Director: REBECCA ZLOTOWSKI<br>Theater:
+ Cineum Imax<br><a href="https://ticketonline1.festival-cannes.com/fiche?id
+ proj=Di9R3cFJJV4%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:8be0b0bc-3dc2-48ab-8922-c1c8bc3193f5
+DTSTART:20250522T170000Z
+DTEND:20250522T190400Z
+SUMMARY:LA VENUE DE L'AVENIR (COLOURS OF TIME) - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: Out of Competition<br>Director: CÉDRIC KLAPISCH<br>Theater: Grand
+ Théâtre Lumière<br><a href="https://ticketonline1.festival-cannes.com/fich
+ e?idproj=GE2ZX0ph79I%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:72adaf7e-da50-4791-88bb-ee3d5e086451
+DTSTART:20250523T063000Z
+DTEND:20250523T083400Z
+SUMMARY:LA VENUE DE L'AVENIR (COLOURS OF TIME) - Buñuel Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: Out of Competition<br>Director: CÉDRIC KLAPISCH<br>Theater:
+ Buñuel Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche
+ ?idproj=8H4lcnxP%2Fog%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:bd3daf74-10ec-4cef-949f-a4c859b91083
+DTSTART:20250523T120000Z
+DTEND:20250523T140400Z
+SUMMARY:LA VENUE DE L'AVENIR - Licorne
+LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Out of Competition<br>Director: CÉDRIC KLAPISCH<br>Theater:
+ Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+ =Q5ELe6o76Zc%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:4b1b974c-b00e-4827-8854-b477e673a73b
+DTSTART:20250523T124500Z
+DTEND:20250523T144900Z
+SUMMARY:LA VENUE DE L'AVENIR (COLOURS OF TIME) - Cineum Imax
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Out of Competition<br>Director: CÉDRIC KLAPISCH<br>Theater:
+ Cineum Imax<br><a href="https://ticketonline1.festival-cannes.com/fiche?id
+ proj=qSyzjq0eYKE%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:8970e53e-68f2-4b7d-b589-1492972871f3
+DTSTART:20250523T161500Z
+DTEND:20250523T180000Z
+SUMMARY:VIE PRIVÉE - Cineum Salle 3
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Out of Competition<br>Director: REBECCA ZLOTOWSKI<br>Theater:
+ Cineum Salle 3<br><a href="https://ticketonline1.festival-cannes.com/fiche
+ ?idproj=ePbjvFVHVSE%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:6fa514b0-6ce8-4b66-a948-cfbb986af780
+DTSTART:20250523T194500Z
+DTEND:20250523T213600Z
+SUMMARY:13 JOURS 13 NUITS (13 DAYS 13 NIGHTS) - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: Out of Competition<br>Director: MARTIN BOURBOULON<br>Theater:
+ Grand Théâtre Lumière<br><a href="https://ticketonline1.festival-cannes.co
+ m/fiche?idproj=GQ%2BIw1czAKA%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:b2018a64-de45-4154-bb46-9a371e1eb04f
+DTSTART:20250524T131500Z
+DTEND:20250524T151900Z
+SUMMARY:LA VENUE DE L'AVENIR (COLOURS OF TIME) - Cineum Screen X
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Out of Competition<br>Director: CÉDRIC KLAPISCH<br>Theater:
+ Cineum Screen X<br><a href="https://ticketonline1.festival-cannes.com/fich
+ e?idproj=b9q3LroIgc8%3D">Event link</a>
+END:VEVENT
+
+END:VCALENDAR

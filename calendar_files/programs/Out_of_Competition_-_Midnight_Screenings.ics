@@ -1,0 +1,218 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cannes Film Festival//Screenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cannes Film Festival Screenings
+X-WR-TIMEZONE:Europe/Paris
+
+BEGIN:VEVENT
+UID:6a8d73bd-76ed-48ea-9e20-809c09e80829
+DTSTART:20250514T221500Z
+DTEND:20250515T000500Z
+SUMMARY:DALLOWAY - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: YANN
+ GOZLAN<br>Theater: Grand Théâtre Lumière<br><a href="https://ticketonline1
+ .festival-cannes.com/fiche?idproj=DEbsd%2B0MEoY%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:d1b2d01f-32ee-45f9-bc06-0641990dd700
+DTSTART:20250516T063000Z
+DTEND:20250516T082000Z
+SUMMARY:DALLOWAY - Buñuel Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: YANN
+ GOZLAN<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.festiv
+ al-cannes.com/fiche?idproj=AWOX4munRNA%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:a428046e-6ff2-4b89-9368-3e0ae1caa93e
+DTSTART:20250516T114500Z
+DTEND:20250516T133500Z
+SUMMARY:DALLOWAY - Cineum Imax
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: YANN
+ GOZLAN<br>Theater: Cineum Imax<br><a href="https://ticketonline1.festival-
+ cannes.com/fiche?idproj=9x7ToHiZC0A%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:8d786986-5fb6-41f1-bfda-717c14e371d7
+DTSTART:20250515T221500Z
+DTEND:20250516T002700Z
+SUMMARY:SONS OF THE NEON NIGHT - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: JUNO
+ MAK<br>Theater: Grand Théâtre Lumière<br><a href="https://ticketonline1.fe
+ stival-cannes.com/fiche?idproj=FPTjfi1mx6U%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:975cf5d8-3cab-439a-ad80-d3cf5bd7d3f3
+DTSTART:20250517T120000Z
+DTEND:20250517T141200Z
+SUMMARY:SONS OF THE NEON NIGHT - Cineum Imax
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: JUNO
+ MAK<br>Theater: Cineum Imax<br><a href="https://ticketonline1.festival-can
+ nes.com/fiche?idproj=8wq3MzAcHcQ%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f68374d9-acd0-4907-aff4-46d5c0f14f01
+DTSTART:20250517T161500Z
+DTEND:20250517T180500Z
+SUMMARY:DALLOWAY - Cineum Salle 3
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: YANN
+ GOZLAN<br>Theater: Cineum Salle 3<br><a href="https://ticketonline1.festiv
+ al-cannes.com/fiche?idproj=ilHUAntajiE%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f05b9406-b08f-4fc5-a650-658ecfd7445b
+DTSTART:20250517T213000Z
+DTEND:20250517T232500Z
+SUMMARY:LE ROI SOLEIL - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: VINCENT
+ MAËL CARDONA<br>Theater: Grand Théâtre Lumière<br><a href="https://ticketo
+ nline1.festival-cannes.com/fiche?idproj=V5agXNvAeB0%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:cdfb23e9-269a-4088-996d-4a95d54a31ac
+DTSTART:20250518T083000Z
+DTEND:20250518T102500Z
+SUMMARY:LE ROI SOLEIL - Buñuel Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: VINCENT
+ MAËL CARDONA<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.
+ festival-cannes.com/fiche?idproj=Vo9FBL0ZU%2Fo%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:a06d2b63-7aa8-4a96-9fb5-8f32693cd496
+DTSTART:20250518T140000Z
+DTEND:20250518T155500Z
+SUMMARY:LE ROI SOLEIL - Cineum Imax
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: VINCENT
+ MAËL CARDONA<br>Theater: Cineum Imax<br><a href="https://ticketonline1.fes
+ tival-cannes.com/fiche?idproj=C5hxwUEkKJk%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:b3952a9d-3aac-42f9-85b7-710d95597b8c
+DTSTART:20250518T161500Z
+DTEND:20250518T182700Z
+SUMMARY:SONS OF THE NEON NIGHT - Cineum Aurore
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: JUNO
+ MAK<br>Theater: Cineum Aurore<br><a href="https://ticketonline1.festival-c
+ annes.com/fiche?idproj=G7EhPlEdwBc%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:32a5d091-9de6-447c-92b8-64893475fae0
+DTSTART:20250517T223000Z
+DTEND:20250518T000500Z
+SUMMARY:EXIT 8 - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: KAWAMURA
+ GENKI<br>Theater: Grand Théâtre Lumière<br><a href="https://ticketonline1.
+ festival-cannes.com/fiche?idproj=lsvh%2BY6fedo%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:90d0c2de-bc31-4c0b-a60b-4b90bebc1b89
+DTSTART:20250519T090000Z
+DTEND:20250519T103500Z
+SUMMARY:EXIT 8 - Buñuel Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: KAWAMURA
+ GENKI<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.festiva
+ l-cannes.com/fiche?idproj=ShkwBQ%2FGdCw%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:c71f1c73-7cca-4a03-b0e0-eb6c554f4d1e
+DTSTART:20250519T143000Z
+DTEND:20250519T160500Z
+SUMMARY:EXIT 8 - Cineum Imax
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: KAWAMURA
+ GENKI<br>Theater: Cineum Imax<br><a href="https://ticketonline1.festival-c
+ annes.com/fiche?idproj=S3g8fMEIt3o%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:430d2aaa-8109-4837-b011-49dde1609911
+DTSTART:20250519T154500Z
+DTEND:20250519T174000Z
+SUMMARY:LE ROI SOLEIL - Cineum Aurore
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: VINCENT
+ MAËL CARDONA<br>Theater: Cineum Aurore<br><a href="https://ticketonline1.f
+ estival-cannes.com/fiche?idproj=srd5jAzv1yo%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:84d83504-73f3-4bd3-b3c4-7cc4b9f256c4
+DTSTART:20250520T143000Z
+DTEND:20250520T164200Z
+SUMMARY:SONS OF THE NEON NIGHT - Cineum Salle 3
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: JUNO
+ MAK<br>Theater: Cineum Salle 3<br><a href="https://ticketonline1.festival-
+ cannes.com/fiche?idproj=sT4YE1FQp7A%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:5a4771fe-5c64-4c87-846f-fb0bce86278d
+DTSTART:20250521T140000Z
+DTEND:20250521T153500Z
+SUMMARY:EXIT 8 - Cineum Screen X
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: KAWAMURA
+ GENKI<br>Theater: Cineum Screen X<br><a href="https://ticketonline1.festiv
+ al-cannes.com/fiche?idproj=6eXOWh4X5Go%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:5eb4293e-c0a8-4fea-8e1d-d3b79c4559d9
+DTSTART:20250523T140000Z
+DTEND:20250523T153500Z
+SUMMARY:EXIT 8 - Cineum Screen X
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: KAWAMURA
+ GENKI<br>Theater: Cineum Screen X<br><a href="https://ticketonline1.festiv
+ al-cannes.com/fiche?idproj=8NWs4j5LNgs%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:b7dd0efc-28d7-41c9-83ca-497a1be92c1f
+DTSTART:20250522T220000Z
+DTEND:20250522T233000Z
+SUMMARY:HONEY DON'T! - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: ETHAN
+ COEN<br>Theater: Grand Théâtre Lumière<br><a href="https://ticketonline1.f
+ estival-cannes.com/fiche?idproj=COlKxobdtLM%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:1e4a89f9-374b-4e31-98a0-b60fea40d121
+DTSTART:20250524T113000Z
+DTEND:20250524T130000Z
+SUMMARY:HONEY DON'T! - Cineum Imax
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: ETHAN
+ COEN<br>Theater: Cineum Imax<br><a href="https://ticketonline1.festival-ca
+ nnes.com/fiche?idproj=OpnvvmzriYU%3D">Event link</a>
+END:VEVENT
+
+END:VCALENDAR

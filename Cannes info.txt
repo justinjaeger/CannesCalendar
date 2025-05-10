@@ -1,0 +1,162 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red24\green24\blue24;\red255\green255\blue255;}
+{\*\expandedcolortbl;;\cssrgb\c12157\c12157\c12157;\cssrgb\c100000\c100000\c100000;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\b\fs20 \cf0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 \
+google-calendar@oscar-expert-app.iam.gserviceaccount.com\
+\
+IDS\
+\
+ACID\
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0\fs28 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 d4d5dd2cefbfa2c15a1482da6957de7b8f7903b1c871c0fa36af188a0db2c81e@group.calendar.google.com\cb1 \
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\b\fs20 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 CRITICS WEEK\
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0\fs28 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 f632f19554cfb9a67044ad883666ddab4643f08bc778e83a2d0190e29e5bfff9@group.calendar.google.com\cb1 \
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\b\fs20 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 DIRECTORS FORTNIGHT\
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0\fs28 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 ec5c3f102586cd3fecd8696bf0d33b8479945edbd9f6d85bb61e4cfd5ceb2d58@group.calendar.google.com\cb1 \
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\b\fs20 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 COMPETITION\
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0\fs28 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 e7c7aa0ec5a72099675958509fd2f508f4ebd58bb5d6bd1543fbc8eb4af994ad@group.calendar.google.com\cb1 \
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\b\fs20 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 MIDNIGHT\
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0\fs28 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 2fef617dbc4934eb290c037b2aca4e4d40cc31496c0726604e129f5f2f1a1389@group.calendar.google.com\cb1 \
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\b\fs20 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 OUT OF COMP\
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0\fs28 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 322f266848f0ef6f5689c2c1b9a352dd595cdec4cd0ead39dcf7f9ec0c562a5f@group.calendar.google.com\cb1 \
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\b\fs20 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 PREMIERE\
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0\fs28 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 a347f278133b65f1a7ff5f1645bf0f053755b7ed451ba1e3f126cac9249618d4@group.calendar.google.com\cb1 \
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\b\fs20 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 SPECIAL SCREENINGS\
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0\fs28 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 875d34a49e3a02e609fbe5d072097b10d800facf2275166c41a61ef241a4c862@group.calendar.google.com\cb1 \
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\b\fs20 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 UN CERTAIN REGARD\
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0\fs28 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 ac830df14a2a2a0725f3ffe71f96cb697b65ae10350c1a37024b4405342d6668@group.calendar.google.com\cb1 \
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\b\fs20 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 CANNES CLASSICS\
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0\fs28 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 fb6788abc4b658f6a4f94803c5f04393d4b761eb4f2daa1688965eb38e769962@group.calendar.google.com\cb1 \
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\b\fs20 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 CINEMA DE LA PLAGE\
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0\fs28 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 83f6b7cc0de9ac89398c4f147db4fa854b6bea9e2e258cf20dff0c28f347457f@group.calendar.google.com\cb1 \
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\b\fs20 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 CLASSICS\
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0\fs28 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 fb6788abc4b658f6a4f94803c5f04393d4b761eb4f2daa1688965eb38e769962@group.calendar.google.com\cb1 \
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\b\fs20 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 OTHER\
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0\fs28 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 aac1105e51979e58b6bacd72e53c592372ad2ca8d95d14b9f53519a98f0c3d04@group.calendar.google.com\cb1 \
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\b\fs20 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 \
+\
+Acid\
+https://calendar.google.com/calendar/u/0?cid=ZDRkNWRkMmNlZmJmYTJjMTVhMTQ4MmRhNjk1N2RlN2I4Zjc5MDNiMWM4NzFjMGZhMzZhZjE4OGEwZGIyYzgxZUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t\
+\
+Cannes Cinema\
+https://calendar.google.com/calendar/u/0?cid=ZWNmNTJmMzhkZGUzNmM5NzUxNDk0NThhYzYyYTljZmUwYTAyM2UzYzJjNDI2ZTM4ODBiMDExYjQ3YjU1NWI1MUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t\
+\
+Cinema de la Plage\
+https://calendar.google.com/calendar/u/0?cid=ODNmNmI3Y2MwZGU5YWM4OTM5OGM0ZjE0N2RiNGZhODU0YjZiZWE5ZTJlMjU4Y2YyMGRmZjBjMjhmMzQ3NDU3ZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t\
+\
+Classics\
+https://calendar.google.com/calendar/u/0?cid=ZmI2Nzg4YWJjNGI2NThmNmE0Zjk0ODAzYzVmMDQzOTNkNGI3NjFlYjRmMmRhYTE2ODg5NjVlYjM4ZTc2OTk2MkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t\
+\
+Critics Week\
+https://calendar.google.com/calendar/u/0?cid=ZjYzMmYxOTU1NGNmYjlhNjcwNDRhZDg4MzY2NmRkYWI0NjQzZjA4YmM3NzhlODNhMmQwMTkwZTI5ZTViZmZmOUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t\
+\
+Directors Fortnight\
+https://calendar.google.com/calendar/u/0?cid=ZWM1YzNmMTAyNTg2Y2QzZmVjZDg2OTZiZjBkMzNiODQ3OTk0NWVkYmQ5ZjZkODViYjYxZTRjZmQ1Y2ViMmQ1OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t\
+\
+In Competition\
+https://calendar.google.com/calendar/u/0?cid=ZTdjN2FhMGVjNWE3MjA5OTY3NTk1ODUwOWZkMmY1MDhmNGViZDU4YmI1ZDZiZDE1NDNmYmM4ZWI0YWY5OTRhZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t\
+\
+Midnight\
+https://calendar.google.com/calendar/u/0?cid=MmZlZjYxN2RiYzQ5MzRlYjI5MGMwMzdiMmFjYTRlNGQ0MGNjMzE0OTZjMDcyNjYwNGUxMjlmNWYyZjFhMTM4OUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t\
+\
+Other\
+https://calendar.google.com/calendar/u/0?cid=YWFjMTEwNWU1MTk3OWU1OGI2YmFjZDcyZTUzYzU5MjM3MmFkMmNhOGQ5NWQxNGI5ZjUzNTE5YTk4ZjBjM2QwNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t\
+\
+Out of competition\
+https://calendar.google.com/calendar/u/0?cid=MzIyZjI2Njg0OGYwZWY2ZjU2ODljMmMxYjlhMzUyZGQ1OTVjZGVjNGNkMGVhZDM5ZGNmN2Y5ZWMwYzU2MmE1ZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t\
+\
+Premiere\
+https://calendar.google.com/calendar/u/0?cid=YTM0N2YyNzgxMzNiNjVmMWE3ZmY1ZjE2NDViZjBmMDUzNzU1YjdlZDQ1MWJhMWUzZjEyNmNhYzkyNDk2MThkNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t\
+\
+Special Screenings\
+https://calendar.google.com/calendar/u/0?cid=ODc1ZDM0YTQ5ZTNhMDJlNjA5ZmJlNWQwNzIwOTdiMTBkODAwZmFjZjIyNzUxNjZjNDFhNjFlZjI0MWE0Yzg2MkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t\
+\
+Un Certain Regard\
+https://calendar.google.com/calendar/u/0?cid=YWM4MzBkZjE0YTJhMmEwNzI1ZjNmZmU3MWY5NmNiNjk3YjY1YWUxMDM1MGMxYTM3MDI0YjQ0MDUzNDJkNjY2OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t\
+\
+}
