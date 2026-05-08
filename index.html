@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Cannes calendars</title>
+    <title>Subscribe to Cannes Google Calendar</title>
     <style>
       :root {
         --bg: #0b0c10;
@@ -129,6 +129,15 @@
         background: rgba(197,162,110,0.18);
         border-color: rgba(197,162,110,0.62);
       }
+      .dl {
+        margin-left: 10px;
+        color: var(--muted);
+        text-decoration: underline;
+        text-underline-offset: 3px;
+        font-size: 13px;
+        white-space: nowrap;
+      }
+      .dl:hover { color: rgba(255,255,255,0.75); }
       .zip {
         margin: 18px 0 0;
         display: flex;
@@ -158,197 +167,35 @@
     <div class="wrap">
       <header>
         <div class="title">
-          <h1>Cannes calendars</h1>
-          <p>Download per-program calendars or subscribe in Google Calendar.</p>
+          <h1>Subscribe to Cannes Google Calendar</h1>
+          <p>Click a section name to open the Google Calendar subscription link.</p>
         </div>
       </header>
-
       <div class="note">
-        <strong>Tip:</strong> “Add to Google Calendar” works when this page is hosted (it needs a public URL for the <code>.ics</code>).
+        <strong>Note:</strong> These are direct Google Calendar subscription links (from <code>Cannes info.txt</code>).
       </div>
 
-      
-
-      
-
-      <section class="grid">
-        <article class="card" data-rel="calendar_files/programs/Acid.ics">
-          <div class="card__top">
-            <h2 class="card__title">Acid</h2>
-            <p class="card__meta">Acid.ics</p>
-          </div>
-          <div class="card__actions">
-            <a class="btn btn--secondary" href="calendar_files/programs/Acid.ics" download>Download .ics</a>
-            <a class="btn btn--primary js-add-google" href="#" data-rel="calendar_files/programs/Acid.ics">Add to Google Calendar</a>
-          </div>
-        </article>
-<article class="card" data-rel="calendar_files/programs/Cannes_Cinéma.ics">
-          <div class="card__top">
-            <h2 class="card__title">Cannes Cinéma</h2>
-            <p class="card__meta">Cannes_Cinéma.ics</p>
-          </div>
-          <div class="card__actions">
-            <a class="btn btn--secondary" href="calendar_files/programs/Cannes_Cinéma.ics" download>Download .ics</a>
-            <a class="btn btn--primary js-add-google" href="#" data-rel="calendar_files/programs/Cannes_Cinéma.ics">Add to Google Calendar</a>
-          </div>
-        </article>
-<article class="card" data-rel="calendar_files/programs/Cannes_Classics.ics">
-          <div class="card__top">
-            <h2 class="card__title">Cannes Classics</h2>
-            <p class="card__meta">Cannes_Classics.ics</p>
-          </div>
-          <div class="card__actions">
-            <a class="btn btn--secondary" href="calendar_files/programs/Cannes_Classics.ics" download>Download .ics</a>
-            <a class="btn btn--primary js-add-google" href="#" data-rel="calendar_files/programs/Cannes_Classics.ics">Add to Google Calendar</a>
-          </div>
-        </article>
-<article class="card" data-rel="calendar_files/programs/Cannes_Premiere.ics">
-          <div class="card__top">
-            <h2 class="card__title">Cannes Premiere</h2>
-            <p class="card__meta">Cannes_Premiere.ics</p>
-          </div>
-          <div class="card__actions">
-            <a class="btn btn--secondary" href="calendar_files/programs/Cannes_Premiere.ics" download>Download .ics</a>
-            <a class="btn btn--primary js-add-google" href="#" data-rel="calendar_files/programs/Cannes_Premiere.ics">Add to Google Calendar</a>
-          </div>
-        </article>
-<article class="card" data-rel="calendar_files/programs/Cinéma_de_la_Plage.ics">
-          <div class="card__top">
-            <h2 class="card__title">Cinéma de la Plage</h2>
-            <p class="card__meta">Cinéma_de_la_Plage.ics</p>
-          </div>
-          <div class="card__actions">
-            <a class="btn btn--secondary" href="calendar_files/programs/Cinéma_de_la_Plage.ics" download>Download .ics</a>
-            <a class="btn btn--primary js-add-google" href="#" data-rel="calendar_files/programs/Cinéma_de_la_Plage.ics">Add to Google Calendar</a>
-          </div>
-        </article>
-<article class="card" data-rel="calendar_files/programs/Directors_Fortnight.ics">
-          <div class="card__top">
-            <h2 class="card__title">Directors Fortnight</h2>
-            <p class="card__meta">Directors_Fortnight.ics</p>
-          </div>
-          <div class="card__actions">
-            <a class="btn btn--secondary" href="calendar_files/programs/Directors_Fortnight.ics" download>Download .ics</a>
-            <a class="btn btn--primary js-add-google" href="#" data-rel="calendar_files/programs/Directors_Fortnight.ics">Add to Google Calendar</a>
-          </div>
-        </article>
-<article class="card" data-rel="calendar_files/programs/Immersive_Competition.ics">
-          <!-- DO NOT COMMENT THIS IN -- no google calendar event set up for this -->
-          <!-- <div class="card__top">
-            <h2 class="card__title">Immersive Competition</h2>
-            <p class="card__meta">Immersive_Competition.ics</p>
-          </div> -->
-          <div class="card__actions">
-            <a class="btn btn--secondary" href="calendar_files/programs/Immersive_Competition.ics" download>Download .ics</a>
-            <a class="btn btn--primary js-add-google" href="#" data-rel="calendar_files/programs/Immersive_Competition.ics">Add to Google Calendar</a>
-          </div>
-        </article>
-<article class="card" data-rel="calendar_files/programs/In_Competition_-_Feature_Films.ics">
-          <div class="card__top">
-            <h2 class="card__title">In Competition - Feature Films</h2>
-            <p class="card__meta">In_Competition_-_Feature_Films.ics</p>
-          </div>
-          <div class="card__actions">
-            <a class="btn btn--secondary" href="calendar_files/programs/In_Competition_-_Feature_Films.ics" download>Download .ics</a>
-            <a class="btn btn--primary js-add-google" href="#" data-rel="calendar_files/programs/In_Competition_-_Feature_Films.ics">Add to Google Calendar</a>
-          </div>
-        </article>
-<article class="card" data-rel="calendar_files/programs/Other.ics">
-          <div class="card__top">
-            <h2 class="card__title">Other</h2>
-            <p class="card__meta">Other.ics</p>
-          </div>
-          <div class="card__actions">
-            <a class="btn btn--secondary" href="calendar_files/programs/Other.ics" download>Download .ics</a>
-            <a class="btn btn--primary js-add-google" href="#" data-rel="calendar_files/programs/Other.ics">Add to Google Calendar</a>
-          </div>
-        </article>
-<article class="card" data-rel="calendar_files/programs/Out_of_Competition.ics">
-          <div class="card__top">
-            <h2 class="card__title">Out of Competition</h2>
-            <p class="card__meta">Out_of_Competition.ics</p>
-          </div>
-          <div class="card__actions">
-            <a class="btn btn--secondary" href="calendar_files/programs/Out_of_Competition.ics" download>Download .ics</a>
-            <a class="btn btn--primary js-add-google" href="#" data-rel="calendar_files/programs/Out_of_Competition.ics">Add to Google Calendar</a>
-          </div>
-        </article>
-<article class="card" data-rel="calendar_files/programs/Out_of_Competition_-_Midnight_Screenings.ics">
-          <div class="card__top">
-            <h2 class="card__title">Out of Competition - Midnight Screenings</h2>
-            <p class="card__meta">Out_of_Competition_-_Midnight_Screenings.ics</p>
-          </div>
-          <div class="card__actions">
-            <a class="btn btn--secondary" href="calendar_files/programs/Out_of_Competition_-_Midnight_Screenings.ics" download>Download .ics</a>
-            <a class="btn btn--primary js-add-google" href="#" data-rel="calendar_files/programs/Out_of_Competition_-_Midnight_Screenings.ics">Add to Google Calendar</a>
-          </div>
-        </article>
-<article class="card" data-rel="calendar_files/programs/Semaine_de_la_Critique.ics">
-          <div class="card__top">
-            <h2 class="card__title">Semaine de la Critique</h2>
-            <p class="card__meta">Semaine_de_la_Critique.ics</p>
-          </div>
-          <div class="card__actions">
-            <a class="btn btn--secondary" href="calendar_files/programs/Semaine_de_la_Critique.ics" download>Download .ics</a>
-            <a class="btn btn--primary js-add-google" href="#" data-rel="calendar_files/programs/Semaine_de_la_Critique.ics">Add to Google Calendar</a>
-          </div>
-        </article>
-<article class="card" data-rel="calendar_files/programs/Special_Screenings.ics">
-          <div class="card__top">
-            <h2 class="card__title">Special Screenings</h2>
-            <p class="card__meta">Special_Screenings.ics</p>
-          </div>
-          <div class="card__actions">
-            <a class="btn btn--secondary" href="calendar_files/programs/Special_Screenings.ics" download>Download .ics</a>
-            <a class="btn btn--primary js-add-google" href="#" data-rel="calendar_files/programs/Special_Screenings.ics">Add to Google Calendar</a>
-          </div>
-        </article>
-<article class="card" data-rel="calendar_files/programs/Un_Certain_Regard.ics">
-          <div class="card__top">
-            <h2 class="card__title">Un Certain Regard</h2>
-            <p class="card__meta">Un_Certain_Regard.ics</p>
-          </div>
-          <div class="card__actions">
-            <a class="btn btn--secondary" href="calendar_files/programs/Un_Certain_Regard.ics" download>Download .ics</a>
-            <a class="btn btn--primary js-add-google" href="#" data-rel="calendar_files/programs/Un_Certain_Regard.ics">Add to Google Calendar</a>
-          </div>
-        </article>
+      <section class="list" style="border: 1px solid var(--stroke); background: linear-gradient(180deg, var(--panel), rgba(255,255,255,0.03)); border-radius: 18px; box-shadow: var(--shadow); padding: 18px 18px 14px;">
+        <ul style="margin: 0; padding-left: 18px;">
+          <li style="margin: 10px 0;"><a style="color: var(--gold); text-decoration: underline; text-underline-offset: 3px;" href="https://calendar.google.com/calendar/u/0?cid=ZDRkNWRkMmNlZmJmYTJjMTVhMTQ4MmRhNjk1N2RlN2I4Zjc5MDNiMWM4NzFjMGZhMzZhZjE4OGEwZGIyYzgxZUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank" rel="noopener noreferrer">Acid</a><a class="dl" href="calendar_files/programs/Acid.ics" download>Download .ics</a></li>
+          <li style="margin: 10px 0;"><a style="color: var(--gold); text-decoration: underline; text-underline-offset: 3px;" href="https://calendar.google.com/calendar/u/0?cid=ZWNmNTJmMzhkZGUzNmM5NzUxNDk0NThhYzYyYTljZmUwYTAyM2UzYzJjNDI2ZTM4ODBiMDExYjQ3YjU1NWI1MUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank" rel="noopener noreferrer">Cannes Cinema</a><a class="dl" href="calendar_files/programs/Cannes_Cinéma.ics" download>Download .ics</a></li>
+          <li style="margin: 10px 0;"><a style="color: var(--gold); text-decoration: underline; text-underline-offset: 3px;" href="https://calendar.google.com/calendar/u/0?cid=ODNmNmI3Y2MwZGU5YWM4OTM5OGM0ZjE0N2RiNGZhODU0YjZiZWE5ZTJlMjU4Y2YyMGRmZjBjMjhmMzQ3NDU3ZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank" rel="noopener noreferrer">Cinema de la Plage</a><a class="dl" href="calendar_files/programs/Cinéma_de_la_Plage.ics" download>Download .ics</a></li>
+          <li style="margin: 10px 0;"><a style="color: var(--gold); text-decoration: underline; text-underline-offset: 3px;" href="https://calendar.google.com/calendar/u/0?cid=ZmI2Nzg4YWJjNGI2NThmNmE0Zjk0ODAzYzVmMDQzOTNkNGI3NjFlYjRmMmRhYTE2ODg5NjVlYjM4ZTc2OTk2MkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank" rel="noopener noreferrer">Classics</a><a class="dl" href="calendar_files/programs/Cannes_Classics.ics" download>Download .ics</a></li>
+          <li style="margin: 10px 0;"><a style="color: var(--gold); text-decoration: underline; text-underline-offset: 3px;" href="https://calendar.google.com/calendar/u/0?cid=ZjYzMmYxOTU1NGNmYjlhNjcwNDRhZDg4MzY2NmRkYWI0NjQzZjA4YmM3NzhlODNhMmQwMTkwZTI5ZTViZmZmOUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank" rel="noopener noreferrer">Critics Week</a><a class="dl" href="calendar_files/programs/Semaine_de_la_Critique.ics" download>Download .ics</a></li>
+          <li style="margin: 10px 0;"><a style="color: var(--gold); text-decoration: underline; text-underline-offset: 3px;" href="https://calendar.google.com/calendar/u/0?cid=ZWM1YzNmMTAyNTg2Y2QzZmVjZDg2OTZiZjBkMzNiODQ3OTk0NWVkYmQ5ZjZkODViYjYxZTRjZmQ1Y2ViMmQ1OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank" rel="noopener noreferrer">Directors Fortnight</a><a class="dl" href="calendar_files/programs/Directors_Fortnight.ics" download>Download .ics</a></li>
+          <li style="margin: 10px 0;"><a style="color: var(--gold); text-decoration: underline; text-underline-offset: 3px;" href="https://calendar.google.com/calendar/u/0?cid=ZTdjN2FhMGVjNWE3MjA5OTY3NTk1ODUwOWZkMmY1MDhmNGViZDU4YmI1ZDZiZDE1NDNmYmM4ZWI0YWY5OTRhZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank" rel="noopener noreferrer">In Competition</a><a class="dl" href="calendar_files/programs/In_Competition_-_Feature_Films.ics" download>Download .ics</a></li>
+          <li style="margin: 10px 0;"><a style="color: var(--gold); text-decoration: underline; text-underline-offset: 3px;" href="https://calendar.google.com/calendar/u/0?cid=MmZlZjYxN2RiYzQ5MzRlYjI5MGMwMzdiMmFjYTRlNGQ0MGNjMzE0OTZjMDcyNjYwNGUxMjlmNWYyZjFhMTM4OUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank" rel="noopener noreferrer">Midnight</a><a class="dl" href="calendar_files/programs/Out_of_Competition_-_Midnight_Screenings.ics" download>Download .ics</a></li>
+          <li style="margin: 10px 0;"><a style="color: var(--gold); text-decoration: underline; text-underline-offset: 3px;" href="https://calendar.google.com/calendar/u/0?cid=YWFjMTEwNWU1MTk3OWU1OGI2YmFjZDcyZTUzYzU5MjM3MmFkMmNhOGQ5NWQxNGI5ZjUzNTE5YTk4ZjBjM2QwNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank" rel="noopener noreferrer">Other</a><a class="dl" href="calendar_files/programs/Other.ics" download>Download .ics</a></li>
+          <li style="margin: 10px 0;"><a style="color: var(--gold); text-decoration: underline; text-underline-offset: 3px;" href="https://calendar.google.com/calendar/u/0?cid=MzIyZjI2Njg0OGYwZWY2ZjU2ODljMmMxYjlhMzUyZGQ1OTVjZGVjNGNkMGVhZDM5ZGNmN2Y5ZWMwYzU2MmE1ZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank" rel="noopener noreferrer">Out of competition</a><a class="dl" href="calendar_files/programs/Out_of_Competition.ics" download>Download .ics</a></li>
+          <li style="margin: 10px 0;"><a style="color: var(--gold); text-decoration: underline; text-underline-offset: 3px;" href="https://calendar.google.com/calendar/u/0?cid=YTM0N2YyNzgxMzNiNjVmMWE3ZmY1ZjE2NDViZjBmMDUzNzU1YjdlZDQ1MWJhMWUzZjEyNmNhYzkyNDk2MThkNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank" rel="noopener noreferrer">Premiere</a><a class="dl" href="calendar_files/programs/Cannes_Premiere.ics" download>Download .ics</a></li>
+          <li style="margin: 10px 0;"><a style="color: var(--gold); text-decoration: underline; text-underline-offset: 3px;" href="https://calendar.google.com/calendar/u/0?cid=ODc1ZDM0YTQ5ZTNhMDJlNjA5ZmJlNWQwNzIwOTdiMTBkODAwZmFjZjIyNzUxNjZjNDFhNjFlZjI0MWE0Yzg2MkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank" rel="noopener noreferrer">Special Screenings</a><a class="dl" href="calendar_files/programs/Special_Screenings.ics" download>Download .ics</a></li>
+          <li style="margin: 10px 0;"><a style="color: var(--gold); text-decoration: underline; text-underline-offset: 3px;" href="https://calendar.google.com/calendar/u/0?cid=YWM4MzBkZjE0YTJhMmEwNzI1ZjNmZmU3MWY5NmNiNjk3YjY1YWUxMDM1MGMxYTM3MDI0YjQ0MDUzNDJkNjY2OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank" rel="noopener noreferrer">Un Certain Regard</a><a class="dl" href="calendar_files/programs/Un_Certain_Regard.ics" download>Download .ics</a></li>
+        </ul>
       </section>
 
       <footer>
-        Generated by <code>generateWebPage.py</code>.
+        <!-- Links sourced from <code>Cannes info.txt</code>. -->
       </footer>
     </div>
-
-    <script>
-      function absoluteUrl(relPath) {
-        // When hosted: origin is like https://example.com
-        // When opened as file://, origin will be "null" and Google subscription can't work.
-        if (!window.location || !window.location.origin || window.location.origin === "null") {
-          return null;
-        }
-        const base = window.location.origin + window.location.pathname.replace(/\/[^\/]*$/, "/");
-        return new URL(relPath, base).toString();
-      }
-
-      function googleSubscribeUrl(icsAbsoluteUrl) {
-        // Google Calendar subscription via "cid"
-        const cid = encodeURIComponent(icsAbsoluteUrl);
-        return "https://calendar.google.com/calendar/r?cid=" + cid;
-      }
-
-      document.addEventListener("click", (e) => {
-        const a = e.target.closest(".js-add-google");
-        if (!a) return;
-        e.preventDefault();
-        const rel = a.getAttribute("data-rel");
-        const abs = absoluteUrl(rel);
-        if (!abs) {
-          alert("This link needs to be hosted (https) so Google can reach the .ics URL.");
-          return;
-        }
-        window.location.href = googleSubscribeUrl(abs);
-      });
-    </script>
   </body>
 </html>
