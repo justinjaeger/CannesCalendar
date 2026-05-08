@@ -55,6 +55,11 @@
         color: var(--muted);
         max-width: 70ch;
       }
+      .title .subtle {
+        margin-top: 10px;
+        color: var(--muted);
+        font-size: 13px;
+      }
       .note {
         margin: 18px 0 26px;
         padding: 12px 14px;
@@ -129,15 +134,27 @@
         background: rgba(197,162,110,0.18);
         border-color: rgba(197,162,110,0.62);
       }
-      .dl {
-        margin-left: 10px;
-        color: var(--muted);
+      .action {
+        display: inline-flex;
+        align-items: center;
+        gap: 10px;
+        flex-wrap: wrap;
+        margin-top: 10px;
+      }
+      .action a {
+        color: rgba(255,255,255,0.84);
         text-decoration: underline;
         text-underline-offset: 3px;
-        font-size: 13px;
-        white-space: nowrap;
+        font-size: 14px;
       }
-      .dl:hover { color: rgba(255,255,255,0.75); }
+      .action a:hover { color: rgba(255,255,255,0.96); }
+      .action a.primary { color: var(--gold); }
+      .action a.primary:hover { color: rgba(197,162,110,0.98); }
+      .section-title {
+        margin: 0;
+        font-size: 16px;
+        letter-spacing: 0.2px;
+      }
       .zip {
         margin: 18px 0 0;
         display: flex;
@@ -168,29 +185,105 @@
       <header>
         <div class="title">
           <h1>Subscribe to Cannes Google Calendar</h1>
-          <p>Click a section name to open the Google Calendar subscription link.</p>
+          <p>Pick a section to subscribe (Google) or download the iCalendar file (Apple).</p>
         </div>
       </header>
       <!-- <div class="note">
         <strong>Note:</strong> These are direct Google Calendar subscription links (from <code>Cannes info.txt</code>).
       </div> -->
 
-      <section class="list" style="border: 1px solid var(--stroke); background: linear-gradient(180deg, var(--panel), rgba(255,255,255,0.03)); border-radius: 18px; box-shadow: var(--shadow); padding: 18px 18px 14px;">
-        <ul style="margin: 0; padding-left: 18px;">
-          <li style="margin: 10px 0;"><a style="color: var(--gold); text-decoration: underline; text-underline-offset: 3px;" href="https://calendar.google.com/calendar/u/0?cid=ZDRkNWRkMmNlZmJmYTJjMTVhMTQ4MmRhNjk1N2RlN2I4Zjc5MDNiMWM4NzFjMGZhMzZhZjE4OGEwZGIyYzgxZUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank" rel="noopener noreferrer">Acid</a><a class="dl" href="calendar_files/programs/Acid.ics" download>Download .ics</a></li>
-          <li style="margin: 10px 0;"><a style="color: var(--gold); text-decoration: underline; text-underline-offset: 3px;" href="https://calendar.google.com/calendar/u/0?cid=ZWNmNTJmMzhkZGUzNmM5NzUxNDk0NThhYzYyYTljZmUwYTAyM2UzYzJjNDI2ZTM4ODBiMDExYjQ3YjU1NWI1MUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank" rel="noopener noreferrer">Cannes Cinema</a><a class="dl" href="calendar_files/programs/Cannes_Cinéma.ics" download>Download .ics</a></li>
-          <li style="margin: 10px 0;"><a style="color: var(--gold); text-decoration: underline; text-underline-offset: 3px;" href="https://calendar.google.com/calendar/u/0?cid=ODNmNmI3Y2MwZGU5YWM4OTM5OGM0ZjE0N2RiNGZhODU0YjZiZWE5ZTJlMjU4Y2YyMGRmZjBjMjhmMzQ3NDU3ZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank" rel="noopener noreferrer">Cinema de la Plage</a><a class="dl" href="calendar_files/programs/Cinéma_de_la_Plage.ics" download>Download .ics</a></li>
-          <li style="margin: 10px 0;"><a style="color: var(--gold); text-decoration: underline; text-underline-offset: 3px;" href="https://calendar.google.com/calendar/u/0?cid=ZmI2Nzg4YWJjNGI2NThmNmE0Zjk0ODAzYzVmMDQzOTNkNGI3NjFlYjRmMmRhYTE2ODg5NjVlYjM4ZTc2OTk2MkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank" rel="noopener noreferrer">Classics</a><a class="dl" href="calendar_files/programs/Cannes_Classics.ics" download>Download .ics</a></li>
-          <li style="margin: 10px 0;"><a style="color: var(--gold); text-decoration: underline; text-underline-offset: 3px;" href="https://calendar.google.com/calendar/u/0?cid=ZjYzMmYxOTU1NGNmYjlhNjcwNDRhZDg4MzY2NmRkYWI0NjQzZjA4YmM3NzhlODNhMmQwMTkwZTI5ZTViZmZmOUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank" rel="noopener noreferrer">Critics Week</a><a class="dl" href="calendar_files/programs/Semaine_de_la_Critique.ics" download>Download .ics</a></li>
-          <li style="margin: 10px 0;"><a style="color: var(--gold); text-decoration: underline; text-underline-offset: 3px;" href="https://calendar.google.com/calendar/u/0?cid=ZWM1YzNmMTAyNTg2Y2QzZmVjZDg2OTZiZjBkMzNiODQ3OTk0NWVkYmQ5ZjZkODViYjYxZTRjZmQ1Y2ViMmQ1OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank" rel="noopener noreferrer">Directors Fortnight</a><a class="dl" href="calendar_files/programs/Directors_Fortnight.ics" download>Download .ics</a></li>
-          <li style="margin: 10px 0;"><a style="color: var(--gold); text-decoration: underline; text-underline-offset: 3px;" href="https://calendar.google.com/calendar/u/0?cid=ZTdjN2FhMGVjNWE3MjA5OTY3NTk1ODUwOWZkMmY1MDhmNGViZDU4YmI1ZDZiZDE1NDNmYmM4ZWI0YWY5OTRhZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank" rel="noopener noreferrer">In Competition</a><a class="dl" href="calendar_files/programs/In_Competition_-_Feature_Films.ics" download>Download .ics</a></li>
-          <li style="margin: 10px 0;"><a style="color: var(--gold); text-decoration: underline; text-underline-offset: 3px;" href="https://calendar.google.com/calendar/u/0?cid=MmZlZjYxN2RiYzQ5MzRlYjI5MGMwMzdiMmFjYTRlNGQ0MGNjMzE0OTZjMDcyNjYwNGUxMjlmNWYyZjFhMTM4OUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank" rel="noopener noreferrer">Midnight</a><a class="dl" href="calendar_files/programs/Out_of_Competition_-_Midnight_Screenings.ics" download>Download .ics</a></li>
-          <li style="margin: 10px 0;"><a style="color: var(--gold); text-decoration: underline; text-underline-offset: 3px;" href="https://calendar.google.com/calendar/u/0?cid=YWFjMTEwNWU1MTk3OWU1OGI2YmFjZDcyZTUzYzU5MjM3MmFkMmNhOGQ5NWQxNGI5ZjUzNTE5YTk4ZjBjM2QwNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank" rel="noopener noreferrer">Other</a><a class="dl" href="calendar_files/programs/Other.ics" download>Download .ics</a></li>
-          <li style="margin: 10px 0;"><a style="color: var(--gold); text-decoration: underline; text-underline-offset: 3px;" href="https://calendar.google.com/calendar/u/0?cid=MzIyZjI2Njg0OGYwZWY2ZjU2ODljMmMxYjlhMzUyZGQ1OTVjZGVjNGNkMGVhZDM5ZGNmN2Y5ZWMwYzU2MmE1ZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank" rel="noopener noreferrer">Out of competition</a><a class="dl" href="calendar_files/programs/Out_of_Competition.ics" download>Download .ics</a></li>
-          <li style="margin: 10px 0;"><a style="color: var(--gold); text-decoration: underline; text-underline-offset: 3px;" href="https://calendar.google.com/calendar/u/0?cid=YTM0N2YyNzgxMzNiNjVmMWE3ZmY1ZjE2NDViZjBmMDUzNzU1YjdlZDQ1MWJhMWUzZjEyNmNhYzkyNDk2MThkNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank" rel="noopener noreferrer">Premiere</a><a class="dl" href="calendar_files/programs/Cannes_Premiere.ics" download>Download .ics</a></li>
-          <li style="margin: 10px 0;"><a style="color: var(--gold); text-decoration: underline; text-underline-offset: 3px;" href="https://calendar.google.com/calendar/u/0?cid=ODc1ZDM0YTQ5ZTNhMDJlNjA5ZmJlNWQwNzIwOTdiMTBkODAwZmFjZjIyNzUxNjZjNDFhNjFlZjI0MWE0Yzg2MkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank" rel="noopener noreferrer">Special Screenings</a><a class="dl" href="calendar_files/programs/Special_Screenings.ics" download>Download .ics</a></li>
-          <li style="margin: 10px 0;"><a style="color: var(--gold); text-decoration: underline; text-underline-offset: 3px;" href="https://calendar.google.com/calendar/u/0?cid=YWM4MzBkZjE0YTJhMmEwNzI1ZjNmZmU3MWY5NmNiNjk3YjY1YWUxMDM1MGMxYTM3MDI0YjQ0MDUzNDJkNjY2OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank" rel="noopener noreferrer">Un Certain Regard</a><a class="dl" href="calendar_files/programs/Un_Certain_Regard.ics" download>Download .ics</a></li>
-        </ul>
+      <section class="grid" aria-label="Calendar sections">
+        <div class="card">
+          <h2 class="section-title">Acid</h2>
+          <div class="action">
+            <a class="primary" href="https://calendar.google.com/calendar/u/0?cid=ZDRkNWRkMmNlZmJmYTJjMTVhMTQ4MmRhNjk1N2RlN2I4Zjc5MDNiMWM4NzFjMGZhMzZhZjE4OGEwZGIyYzgxZUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank" rel="noopener noreferrer">Google Calendar</a>
+            <a href="calendar_files/programs/Acid.ics" download>Download .ics</a>
+          </div>
+        </div>
+        <div class="card">
+          <h2 class="section-title">Cannes Cinema</h2>
+          <div class="action">
+            <a class="primary" href="https://calendar.google.com/calendar/u/0?cid=ZWNmNTJmMzhkZGUzNmM5NzUxNDk0NThhYzYyYTljZmUwYTAyM2UzYzJjNDI2ZTM4ODBiMDExYjQ3YjU1NWI1MUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank" rel="noopener noreferrer">Google Calendar</a>
+            <a href="calendar_files/programs/Cannes_Cinéma.ics" download>Download .ics</a>
+          </div>
+        </div>
+        <div class="card">
+          <h2 class="section-title">Cinema de la Plage</h2>
+          <div class="action">
+            <a class="primary" href="https://calendar.google.com/calendar/u/0?cid=ODNmNmI3Y2MwZGU5YWM4OTM5OGM0ZjE0N2RiNGZhODU0YjZiZWE5ZTJlMjU4Y2YyMGRmZjBjMjhmMzQ3NDU3ZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank" rel="noopener noreferrer">Google Calendar</a>
+            <a href="calendar_files/programs/Cinéma_de_la_Plage.ics" download>Download .ics</a>
+          </div>
+        </div>
+        <div class="card">
+          <h2 class="section-title">Classics</h2>
+          <div class="action">
+            <a class="primary" href="https://calendar.google.com/calendar/u/0?cid=ZmI2Nzg4YWJjNGI2NThmNmE0Zjk0ODAzYzVmMDQzOTNkNGI3NjFlYjRmMmRhYTE2ODg5NjVlYjM4ZTc2OTk2MkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank" rel="noopener noreferrer">Google Calendar</a>
+            <a href="calendar_files/programs/Cannes_Classics.ics" download>Download .ics</a>
+          </div>
+        </div>
+        <div class="card">
+          <h2 class="section-title">Critics Week</h2>
+          <div class="action">
+            <a class="primary" href="https://calendar.google.com/calendar/u/0?cid=ZjYzMmYxOTU1NGNmYjlhNjcwNDRhZDg4MzY2NmRkYWI0NjQzZjA4YmM3NzhlODNhMmQwMTkwZTI5ZTViZmZmOUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank" rel="noopener noreferrer">Google Calendar</a>
+            <a href="calendar_files/programs/Semaine_de_la_Critique.ics" download>Download .ics</a>
+          </div>
+        </div>
+        <div class="card">
+          <h2 class="section-title">Directors Fortnight</h2>
+          <div class="action">
+            <a class="primary" href="https://calendar.google.com/calendar/u/0?cid=ZWM1YzNmMTAyNTg2Y2QzZmVjZDg2OTZiZjBkMzNiODQ3OTk0NWVkYmQ5ZjZkODViYjYxZTRjZmQ1Y2ViMmQ1OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank" rel="noopener noreferrer">Google Calendar</a>
+            <a href="calendar_files/programs/Directors_Fortnight.ics" download>Download .ics</a>
+          </div>
+        </div>
+        <div class="card">
+          <h2 class="section-title">In Competition</h2>
+          <div class="action">
+            <a class="primary" href="https://calendar.google.com/calendar/u/0?cid=ZTdjN2FhMGVjNWE3MjA5OTY3NTk1ODUwOWZkMmY1MDhmNGViZDU4YmI1ZDZiZDE1NDNmYmM4ZWI0YWY5OTRhZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank" rel="noopener noreferrer">Google Calendar</a>
+            <a href="calendar_files/programs/In_Competition_-_Feature_Films.ics" download>Download .ics</a>
+          </div>
+        </div>
+        <div class="card">
+          <h2 class="section-title">Midnight</h2>
+          <div class="action">
+            <a class="primary" href="https://calendar.google.com/calendar/u/0?cid=MmZlZjYxN2RiYzQ5MzRlYjI5MGMwMzdiMmFjYTRlNGQ0MGNjMzE0OTZjMDcyNjYwNGUxMjlmNWYyZjFhMTM4OUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank" rel="noopener noreferrer">Google Calendar</a>
+            <a href="calendar_files/programs/Out_of_Competition_-_Midnight_Screenings.ics" download>Download .ics</a>
+          </div>
+        </div>
+        <div class="card">
+          <h2 class="section-title">Other</h2>
+          <div class="action">
+            <a class="primary" href="https://calendar.google.com/calendar/u/0?cid=YWFjMTEwNWU1MTk3OWU1OGI2YmFjZDcyZTUzYzU5MjM3MmFkMmNhOGQ5NWQxNGI5ZjUzNTE5YTk4ZjBjM2QwNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank" rel="noopener noreferrer">Google Calendar</a>
+            <a href="calendar_files/programs/Other.ics" download>Download .ics</a>
+          </div>
+        </div>
+        <div class="card">
+          <h2 class="section-title">Out of competition</h2>
+          <div class="action">
+            <a class="primary" href="https://calendar.google.com/calendar/u/0?cid=MzIyZjI2Njg0OGYwZWY2ZjU2ODljMmMxYjlhMzUyZGQ1OTVjZGVjNGNkMGVhZDM5ZGNmN2Y5ZWMwYzU2MmE1ZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank" rel="noopener noreferrer">Google Calendar</a>
+            <a href="calendar_files/programs/Out_of_Competition.ics" download>Download .ics</a>
+          </div>
+        </div>
+        <div class="card">
+          <h2 class="section-title">Premiere</h2>
+          <div class="action">
+            <a class="primary" href="https://calendar.google.com/calendar/u/0?cid=YTM0N2YyNzgxMzNiNjVmMWE3ZmY1ZjE2NDViZjBmMDUzNzU1YjdlZDQ1MWJhMWUzZjEyNmNhYzkyNDk2MThkNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank" rel="noopener noreferrer">Google Calendar</a>
+            <a href="calendar_files/programs/Cannes_Premiere.ics" download>Download .ics</a>
+          </div>
+        </div>
+        <div class="card">
+          <h2 class="section-title">Special Screenings</h2>
+          <div class="action">
+            <a class="primary" href="https://calendar.google.com/calendar/u/0?cid=ODc1ZDM0YTQ5ZTNhMDJlNjA5ZmJlNWQwNzIwOTdiMTBkODAwZmFjZjIyNzUxNjZjNDFhNjFlZjI0MWE0Yzg2MkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank" rel="noopener noreferrer">Google Calendar</a>
+            <a href="calendar_files/programs/Special_Screenings.ics" download>Download .ics</a>
+          </div>
+        </div>
+        <div class="card">
+          <h2 class="section-title">Un Certain Regard</h2>
+          <div class="action">
+            <a class="primary" href="https://calendar.google.com/calendar/u/0?cid=YWM4MzBkZjE0YTJhMmEwNzI1ZjNmZmU3MWY5NmNiNjk3YjY1YWUxMDM1MGMxYTM3MDI0YjQ0MDUzNDJkNjY2OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank" rel="noopener noreferrer">Google Calendar</a>
+            <a href="calendar_files/programs/Un_Certain_Regard.ics" download>Download .ics</a>
+          </div>
+        </div>
       </section>
 
       <footer>
