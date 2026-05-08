@@ -6,8 +6,6 @@ __pycache__/
 .pytest_cache/
 
 # Generated calendar outputs
-calendar_files/programs/*.ics
-calendar_files/programs.zip
 debug_html/
 
 # Manually pasted schedule HTML inputs

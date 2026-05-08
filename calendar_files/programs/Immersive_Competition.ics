@@ -1,0 +1,405 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cannes Film Festival//Screenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cannes Film Festival Screenings
+X-WR-TIMEZONE:Europe/Paris
+
+BEGIN:VEVENT
+UID:b5a24378-ffee-478b-b72c-7e4e5903346e
+DTSTART:20260512T124500Z
+DTEND:20260512T134500Z
+SUMMARY:THE BLACK MIRROR EXPERIENCE - Carlton
+LOCATION:3 rue François Einesy 06400 Cannes
+DESCRIPTION:Program: Immersive Competition<br>Director: DAVID BARDOS\, DAMIÀ
+ FERRÀNDIZ<br>Theater: Carlton<br><a href="https://ticketonline1.festival-c
+ annes.com/fiche?idproj=99a2phldbio%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:a26b3e7f-b71b-49c5-85d7-30d25434a09f
+DTSTART:20260512T131000Z
+DTEND:20260512T141000Z
+SUMMARY:THE BLACK MIRROR EXPERIENCE - Carlton
+LOCATION:3 rue François Einesy 06400 Cannes
+DESCRIPTION:Program: Immersive Competition<br>Director: DAVID BARDOS\, DAMIÀ
+ FERRÀNDIZ<br>Theater: Carlton<br><a href="https://ticketonline1.festival-c
+ annes.com/fiche?idproj=h7DCyDec7eQ%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ae24024e-db8f-43ec-9384-6c0ff07c1043
+DTSTART:20260512T133500Z
+DTEND:20260512T143500Z
+SUMMARY:THE BLACK MIRROR EXPERIENCE - Carlton
+LOCATION:3 rue François Einesy 06400 Cannes
+DESCRIPTION:Program: Immersive Competition<br>Director: DAVID BARDOS\, DAMIÀ
+ FERRÀNDIZ<br>Theater: Carlton<br><a href="https://ticketonline1.festival-c
+ annes.com/fiche?idproj=uhEKHgL2AOA%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:334c8d06-a646-4386-a50f-befed3600176
+DTSTART:20260512T153500Z
+DTEND:20260512T160500Z
+SUMMARY:THE PIRATE QUEEN: NO SAFE WATERS - Carlton
+LOCATION:3 rue François Einesy 06400 Cannes
+DESCRIPTION:Program: Immersive Competition<br>Director: ELOISE SINGER<br>Theater:
+ Carlton<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+ =APRmIreDJL4%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:7f056b2a-960c-49d0-a252-e4bb6af269fa
+DTSTART:20260512T164000Z
+DTEND:20260512T171500Z
+SUMMARY:VOOOOOO---PEEEEEE--- - Carlton
+LOCATION:3 rue François Einesy 06400 Cannes
+DESCRIPTION:Program: Immersive Competition<br>Director: JI YUN PARK\, HYEUN JOO
+ WOO<br>Theater: Carlton<br><a href="https://ticketonline1.festival-cannes.
+ com/fiche?idproj=ZiUeX%2F04EYA%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f9e098f6-9dd2-404b-86b5-0ce28368aff4
+DTSTART:20260513T132000Z
+DTEND:20260513T141000Z
+SUMMARY:PLAYING WITH FIRE - Carlton
+LOCATION:3 rue François Einesy 06400 Cannes
+DESCRIPTION:Program: Immersive Competition<br>Director: PIERRE-ALAIN
+ GIRAUD<br>Theater: Carlton<br><a href="https://ticketonline1.festival-cann
+ es.com/fiche?idproj=ixixQGK9ODs%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:aa7aad7c-7721-416e-b602-f0f897a56492
+DTSTART:20260513T144000Z
+DTEND:20260513T153000Z
+SUMMARY:PLAYING WITH FIRE - Carlton
+LOCATION:3 rue François Einesy 06400 Cannes
+DESCRIPTION:Program: Immersive Competition<br>Director: PIERRE-ALAIN
+ GIRAUD<br>Theater: Carlton<br><a href="https://ticketonline1.festival-cann
+ es.com/fiche?idproj=RRgiRtb5laY%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:242fe792-6f8b-4520-af78-14dd35e6ddb3
+DTSTART:20260513T162500Z
+DTEND:20260513T170500Z
+SUMMARY:RED PLANET 3009 - Carlton
+LOCATION:3 rue François Einesy 06400 Cannes
+DESCRIPTION:Program: Immersive Competition<br>Director: MARIANO LEOTTA\, FRANCESCO
+ FIORE<br>Theater: Carlton<br><a href="https://ticketonline1.festival-canne
+ s.com/fiche?idproj=aGrv0HnUWz8%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:5c71eb95-3496-4dc6-a781-7038e60c7332
+DTSTART:20260514T130000Z
+DTEND:20260514T134500Z
+SUMMARY:GAWD V. THE PEOPLE - Carlton
+LOCATION:3 rue François Einesy 06400 Cannes
+DESCRIPTION:Program: Immersive Competition<br>Director: Yamil RODRIGUEZ\, Ivan
+ Alejandro DIAZ CARD...<br>Theater: Carlton<br><a href="https://ticketonlin
+ e1.festival-cannes.com/fiche?idproj=H7wpwfuRrDM%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:c137f7f1-da7c-4ea9-a956-6e37a5d691b7
+DTSTART:20260514T142000Z
+DTEND:20260514T144500Z
+SUMMARY:YELLOWFIN - Carlton
+LOCATION:3 rue François Einesy 06400 Cannes
+DESCRIPTION:Program: Immersive Competition<br>Director: E DEL MUNDO<br>Theater:
+ Carlton<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+ =U5oiuH5Jp%2FU%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:216cd883-0b2f-41ec-94b2-67d754558554
+DTSTART:20260514T152000Z
+DTEND:20260514T155000Z
+SUMMARY:LÚCIDO - Carlton
+LOCATION:3 rue François Einesy 06400 Cannes
+DESCRIPTION:Program: Immersive Competition<br>Director: VIER<br>Theater: Carlton<br><a
+ href="https://ticketonline1.festival-cannes.com/fiche?idproj=UxYmVIXiFGk%3
+ D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2ec5dee3-6760-4adf-bd76-fa87838f7032
+DTSTART:20260514T162500Z
+DTEND:20260514T171000Z
+SUMMARY:KATÁBASIS - Carlton
+LOCATION:3 rue François Einesy 06400 Cannes
+DESCRIPTION:Program: Immersive Competition<br>Director: UGO ARSAC<br>Theater:
+ Carlton<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+ =wPOpQe8qxoo%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2bd89fc0-4dc0-4775-bba2-251e71edea69
+DTSTART:20260515T124500Z
+DTEND:20260515T134500Z
+SUMMARY:THE BLACK MIRROR EXPERIENCE - Carlton
+LOCATION:3 rue François Einesy 06400 Cannes
+DESCRIPTION:Program: Immersive Competition<br>Director: DAVID BARDOS\, DAMIÀ
+ FERRÀNDIZ<br>Theater: Carlton<br><a href="https://ticketonline1.festival-c
+ annes.com/fiche?idproj=4esloFC014g%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:a5ee89b5-d8da-436e-bfe4-254e9438b6d2
+DTSTART:20260515T131000Z
+DTEND:20260515T141000Z
+SUMMARY:THE BLACK MIRROR EXPERIENCE - Carlton
+LOCATION:3 rue François Einesy 06400 Cannes
+DESCRIPTION:Program: Immersive Competition<br>Director: DAVID BARDOS\, DAMIÀ
+ FERRÀNDIZ<br>Theater: Carlton<br><a href="https://ticketonline1.festival-c
+ annes.com/fiche?idproj=XxLrLIpbiNw%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:824d0a1c-87c3-46bb-81a0-e1893f846816
+DTSTART:20260515T133500Z
+DTEND:20260515T143500Z
+SUMMARY:THE BLACK MIRROR EXPERIENCE - Carlton
+LOCATION:3 rue François Einesy 06400 Cannes
+DESCRIPTION:Program: Immersive Competition<br>Director: DAVID BARDOS\, DAMIÀ
+ FERRÀNDIZ<br>Theater: Carlton<br><a href="https://ticketonline1.festival-c
+ annes.com/fiche?idproj=oB8DUNQPa6s%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:795df6cd-64c4-42ef-9c8b-3af0448f704c
+DTSTART:20260515T153500Z
+DTEND:20260515T160500Z
+SUMMARY:THE PIRATE QUEEN: NO SAFE WATERS - Carlton
+LOCATION:3 rue François Einesy 06400 Cannes
+DESCRIPTION:Program: Immersive Competition<br>Director: ELOISE SINGER<br>Theater:
+ Carlton<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+ =8RyAR8jnTBo%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:38d11208-b536-4cd7-9adc-d8cad2105144
+DTSTART:20260515T164000Z
+DTEND:20260515T171500Z
+SUMMARY:VOOOOOO---PEEEEEE--- - Carlton
+LOCATION:3 rue François Einesy 06400 Cannes
+DESCRIPTION:Program: Immersive Competition<br>Director: JI YUN PARK\, HYEUN JOO
+ WOO<br>Theater: Carlton<br><a href="https://ticketonline1.festival-cannes.
+ com/fiche?idproj=OIMHoBaYT80%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:26938a1f-bb1a-4255-9c64-4e5638b3099d
+DTSTART:20260516T132000Z
+DTEND:20260516T141000Z
+SUMMARY:PLAYING WITH FIRE - Carlton
+LOCATION:3 rue François Einesy 06400 Cannes
+DESCRIPTION:Program: Immersive Competition<br>Director: PIERRE-ALAIN
+ GIRAUD<br>Theater: Carlton<br><a href="https://ticketonline1.festival-cann
+ es.com/fiche?idproj=8N4segKe3HY%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:81bdbf90-7b89-48c7-8c9f-89617b02c8ba
+DTSTART:20260516T144000Z
+DTEND:20260516T153000Z
+SUMMARY:PLAYING WITH FIRE - Carlton
+LOCATION:3 rue François Einesy 06400 Cannes
+DESCRIPTION:Program: Immersive Competition<br>Director: PIERRE-ALAIN
+ GIRAUD<br>Theater: Carlton<br><a href="https://ticketonline1.festival-cann
+ es.com/fiche?idproj=tzXNzSc3I3s%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2d9d4914-85be-4244-b9fb-93f8fa29d5f2
+DTSTART:20260516T162500Z
+DTEND:20260516T170500Z
+SUMMARY:RED PLANET 3009 - Carlton
+LOCATION:3 rue François Einesy 06400 Cannes
+DESCRIPTION:Program: Immersive Competition<br>Director: MARIANO LEOTTA\, FRANCESCO
+ FIORE<br>Theater: Carlton<br><a href="https://ticketonline1.festival-canne
+ s.com/fiche?idproj=xFwcNL8%2F7KQ%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:d23be9d6-fd4f-406d-b9b1-1bd0267f255e
+DTSTART:20260517T130000Z
+DTEND:20260517T134500Z
+SUMMARY:GAWD V. THE PEOPLE - Carlton
+LOCATION:3 rue François Einesy 06400 Cannes
+DESCRIPTION:Program: Immersive Competition<br>Director: Yamil RODRIGUEZ\, Ivan
+ Alejandro DIAZ CARD...<br>Theater: Carlton<br><a href="https://ticketonlin
+ e1.festival-cannes.com/fiche?idproj=u5lxyLcOqMQ%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:746409ca-bb8e-4504-9d63-3e60648ca78d
+DTSTART:20260517T142000Z
+DTEND:20260517T144500Z
+SUMMARY:YELLOWFIN - Carlton
+LOCATION:3 rue François Einesy 06400 Cannes
+DESCRIPTION:Program: Immersive Competition<br>Director: E DEL MUNDO<br>Theater:
+ Carlton<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+ =pyD0WS4VPN0%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:8f38cbe2-b319-424c-a4ae-6b3c8f1e4150
+DTSTART:20260517T152000Z
+DTEND:20260517T155000Z
+SUMMARY:LÚCIDO - Carlton
+LOCATION:3 rue François Einesy 06400 Cannes
+DESCRIPTION:Program: Immersive Competition<br>Director: VIER<br>Theater: Carlton<br><a
+ href="https://ticketonline1.festival-cannes.com/fiche?idproj=Bq%2B9jc%2Fxs
+ %2Fo%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f4fd4b88-ab83-4923-ba4d-8dffa4db9f7f
+DTSTART:20260517T162500Z
+DTEND:20260517T171000Z
+SUMMARY:KATÁBASIS - Carlton
+LOCATION:3 rue François Einesy 06400 Cannes
+DESCRIPTION:Program: Immersive Competition<br>Director: UGO ARSAC<br>Theater:
+ Carlton<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+ =ccPmX6apOZQ%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2be4af4d-360a-440a-bc97-af45d8d49903
+DTSTART:20260518T124500Z
+DTEND:20260518T134500Z
+SUMMARY:THE BLACK MIRROR EXPERIENCE - Carlton
+LOCATION:3 rue François Einesy 06400 Cannes
+DESCRIPTION:Program: Immersive Competition<br>Director: DAVID BARDOS\, DAMIÀ
+ FERRÀNDIZ<br>Theater: Carlton<br><a href="https://ticketonline1.festival-c
+ annes.com/fiche?idproj=x%2BgbcnwrrGg%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f97dc332-9652-410e-bf6a-64ff0d3ebc75
+DTSTART:20260518T131000Z
+DTEND:20260518T141000Z
+SUMMARY:THE BLACK MIRROR EXPERIENCE - Carlton
+LOCATION:3 rue François Einesy 06400 Cannes
+DESCRIPTION:Program: Immersive Competition<br>Director: DAVID BARDOS\, DAMIÀ
+ FERRÀNDIZ<br>Theater: Carlton<br><a href="https://ticketonline1.festival-c
+ annes.com/fiche?idproj=uq%2BuFetc918%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:c7cb1b7e-8a5a-4004-8920-5b6edace2ef9
+DTSTART:20260518T133500Z
+DTEND:20260518T143500Z
+SUMMARY:THE BLACK MIRROR EXPERIENCE - Carlton
+LOCATION:3 rue François Einesy 06400 Cannes
+DESCRIPTION:Program: Immersive Competition<br>Director: DAVID BARDOS\, DAMIÀ
+ FERRÀNDIZ<br>Theater: Carlton<br><a href="https://ticketonline1.festival-c
+ annes.com/fiche?idproj=dMCWOWKClIc%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:8411a965-8674-4b52-a0c8-c8d364f4b8a9
+DTSTART:20260518T153500Z
+DTEND:20260518T160500Z
+SUMMARY:THE PIRATE QUEEN: NO SAFE WATERS - Carlton
+LOCATION:3 rue François Einesy 06400 Cannes
+DESCRIPTION:Program: Immersive Competition<br>Director: ELOISE SINGER<br>Theater:
+ Carlton<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+ =CQIKl%2FKtaY8%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:695a95ad-12ca-4afa-9b38-e5b958a5b831
+DTSTART:20260518T164000Z
+DTEND:20260518T171500Z
+SUMMARY:VOOOOOO---PEEEEEE--- - Carlton
+LOCATION:3 rue François Einesy 06400 Cannes
+DESCRIPTION:Program: Immersive Competition<br>Director: JI YUN PARK\, HYEUN JOO
+ WOO<br>Theater: Carlton<br><a href="https://ticketonline1.festival-cannes.
+ com/fiche?idproj=5sSzsiiHWSY%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:0925e6ce-9900-43ef-a726-5d60b943434c
+DTSTART:20260519T132000Z
+DTEND:20260519T141000Z
+SUMMARY:PLAYING WITH FIRE - Carlton
+LOCATION:3 rue François Einesy 06400 Cannes
+DESCRIPTION:Program: Immersive Competition<br>Director: PIERRE-ALAIN
+ GIRAUD<br>Theater: Carlton<br><a href="https://ticketonline1.festival-cann
+ es.com/fiche?idproj=uI%2FgYbiR7Gs%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:0aa928a9-4618-4954-b6da-dadbecb56a26
+DTSTART:20260519T144000Z
+DTEND:20260519T153000Z
+SUMMARY:PLAYING WITH FIRE - Carlton
+LOCATION:3 rue François Einesy 06400 Cannes
+DESCRIPTION:Program: Immersive Competition<br>Director: PIERRE-ALAIN
+ GIRAUD<br>Theater: Carlton<br><a href="https://ticketonline1.festival-cann
+ es.com/fiche?idproj=K5aB5LueTUU%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:73190b5d-0472-408c-be03-fde05e0c8560
+DTSTART:20260519T162500Z
+DTEND:20260519T170500Z
+SUMMARY:RED PLANET 3009 - Carlton
+LOCATION:3 rue François Einesy 06400 Cannes
+DESCRIPTION:Program: Immersive Competition<br>Director: MARIANO LEOTTA\, FRANCESCO
+ FIORE<br>Theater: Carlton<br><a href="https://ticketonline1.festival-canne
+ s.com/fiche?idproj=A68nS5QHyUM%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:3dbcf48b-928e-4291-8c10-27262be55aab
+DTSTART:20260520T130000Z
+DTEND:20260520T134500Z
+SUMMARY:GAWD V. THE PEOPLE - Carlton
+LOCATION:3 rue François Einesy 06400 Cannes
+DESCRIPTION:Program: Immersive Competition<br>Director: Yamil RODRIGUEZ\, Ivan
+ Alejandro DIAZ CARD...<br>Theater: Carlton<br><a href="https://ticketonlin
+ e1.festival-cannes.com/fiche?idproj=skGXQeBT2VA%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:726537b9-1da3-4b66-9f3c-da5ebee8573d
+DTSTART:20260520T142000Z
+DTEND:20260520T144500Z
+SUMMARY:YELLOWFIN - Carlton
+LOCATION:3 rue François Einesy 06400 Cannes
+DESCRIPTION:Program: Immersive Competition<br>Director: E DEL MUNDO<br>Theater:
+ Carlton<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+ =rIhQJKBQ0wc%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:a463b3b4-eccf-4326-9a5d-238c4119df59
+DTSTART:20260520T152000Z
+DTEND:20260520T155000Z
+SUMMARY:LÚCIDO - Carlton
+LOCATION:3 rue François Einesy 06400 Cannes
+DESCRIPTION:Program: Immersive Competition<br>Director: VIER<br>Theater: Carlton<br><a
+ href="https://ticketonline1.festival-cannes.com/fiche?idproj=mQTjRiHmqkM%3
+ D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:50ff288f-cbc4-402b-9841-f30b73dc48fb
+DTSTART:20260520T162500Z
+DTEND:20260520T171000Z
+SUMMARY:KATÁBASIS - Carlton
+LOCATION:3 rue François Einesy 06400 Cannes
+DESCRIPTION:Program: Immersive Competition<br>Director: UGO ARSAC<br>Theater:
+ Carlton<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+ =J0VkMB1DmWE%3D">Event link</a>
+END:VEVENT
+
+END:VCALENDAR
