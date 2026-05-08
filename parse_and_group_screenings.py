@@ -8,6 +8,18 @@ import re
 import uuid
 from theaters import THEATERS, format_location
 
+def _extract_idproj_from_href(href: str | None) -> str | None:
+    if not href:
+        return None
+    # Examples seen in the wild:
+    # - "https://.../fiche?idproj=ABC%3D"
+    # - "/fiche?idproj=ABC%3D"
+    # - "fiche?idproj=ABC%3D"
+    m = re.search(r"(?:\\?|&)idproj=([^&#]+)", href, flags=re.IGNORECASE)
+    if not m:
+        return None
+    return m.group(1)
+
 def parse_screening_time(time_str):
     try:
         # Convert time string (e.g., "8:45 am") to datetime object
@@ -89,7 +101,11 @@ X-WR-TIMEZONE:Europe/Paris
                 
                 # Get theater location
                 theater = screening['theater']
-                location = format_location(THEATERS.get(theater, theater))
+                if theater not in THEATERS:
+                    raise ValueError(
+                        f"Unknown theater '{theater}'. Add it to THEATERS in theaters.py"
+                    )
+                location = format_location(THEATERS[theater])
                 
                 # Format the event description
                 description = f"Program: {screening['program']}<br>Director: {screening['director']}<br>Theater: {theater}"
@@ -116,15 +132,15 @@ END:VEVENT
                 program_events[program].append(event)
                 
             except Exception as e:
-                print(f"Error creating event for screening '{screening['title']}': {e}")
-                continue
+                print(
+                    f"Error creating event for screening '{screening.get('title', 'Unknown')}'. "
+                    f"theater='{screening.get('theater', 'Unknown')}'. error={e}"
+                )
+                raise
     
     return header, program_events
 
-def parse_html_file(html_file):
-    with open(html_file, 'r', encoding='utf-8') as f:
-        content = f.read()
-    
+def parse_html_content(content, date):
     soup = BeautifulSoup(content, 'html.parser')
     screenings = []
     
@@ -151,9 +167,7 @@ def parse_html_file(html_file):
             # Find and extract idproj from href
             id_proj = None
             if div.parent and div.parent.name == 'a' and 'href' in div.parent.attrs:
-                href = div.parent['href']
-                if 'idproj=' in href:
-                    id_proj = href.split('idproj=')[1]
+                id_proj = _extract_idproj_from_href(div.parent.get('href'))
             
             # Get start and end times
             time_div = div.find('div', class_='Heure')
@@ -173,12 +187,6 @@ def parse_html_file(html_file):
                 start_time = "Unknown"
                 end_time = "Unknown"
             
-            # Get the date from the filename (e.g., may_14.html -> May 14, 2025)
-            date_str = os.path.basename(html_file).replace('.html', '').split('_')
-            month = date_str[0].capitalize()
-            day = date_str[1]
-            date = datetime.strptime(f"{month} {day} 2025", "%B %d %Y").date()
-            
             screenings.append({
                 'title': title,
                 'director': director,
@@ -194,6 +202,19 @@ def parse_html_file(html_file):
             continue
     
     return screenings
+
+def parse_html_file(html_file, date=None):
+    with open(html_file, 'r', encoding='utf-8') as f:
+        content = f.read()
+
+    if date is None:
+        # Back-compat: infer date from filename (e.g., may_14.html -> May 14, 2025)
+        date_str = os.path.basename(html_file).replace('.html', '').split('_')
+        month = date_str[0].capitalize()
+        day = date_str[1]
+        date = datetime.strptime(f"{month} {day} 2025", "%B %d %Y").date()
+
+    return parse_html_content(content, date)
 
 def write_program_calendar(header, events, program_name, output_dir):
     # Create a safe filename from the program name

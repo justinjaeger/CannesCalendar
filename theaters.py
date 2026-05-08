@@ -21,7 +21,11 @@ THEATERS = {
     'Cineum Aurore': '212 avenue Francis Tonner 06150 Cannes La Bocca',
     'Cineum Imax': '212 avenue Francis Tonner 06150 Cannes La Bocca',
     'Palais K': '1 Bd de la Croisette, 06400 Cannes, France',
-    'Plage Macé': 'Boulevard de la Croisette, 06400 Cannes, France'
+    'Plage Macé': 'Boulevard de la Croisette, 06400 Cannes, France',
+    'Carlton': '3 rue François Einesy 06400 Cannes',
+    'Salle du Carlton': '3 rue François Einesy 06400 Cannes',
+    'Les Arcades Theater': '77 Rue Félix Faure 06400 Cannes',
+    'Presse Conference Room': '1 Bd de la Croisette, 06400 Cannes, France',
 }
 
 def format_location(address):

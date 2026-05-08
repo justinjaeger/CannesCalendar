@@ -7,113 +7,135 @@ X-WR-CALNAME:Cannes Film Festival Screenings
 X-WR-TIMEZONE:Europe/Paris
 
 BEGIN:VEVENT
-UID:ee23d297-eae8-4384-977b-c6545e8996a3
+UID:d4b14139-4409-46e5-bea7-dab12a9e1d98
+DTSTART:20250513T193000Z
+DTEND:20250513T212000Z
+SUMMARY:TOP GUN - Plage Macé
+LOCATION:Boulevard de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: Cinéma de la Plage - Restored prints<br>Director: TONY
+ SCOTT<br>Theater: Plage Macé<br><a href="https://ticketonline1.festival-ca
+ nnes.com/fiche?idproj=G2SkV8yyL1M%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:c74dadb7-f6a9-4482-8d53-237678a7d586
+DTSTART:20250514T190000Z
+DTEND:20250514T205400Z
+SUMMARY:LES CAPRICES DE L'ENFANT ROI (MOLIERE\, CYRANO AND THE YOUNG ... - Agnès Varda Theatre
+LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
+DESCRIPTION:Program: Cinéma de la Plage - Tribute<br>Director: MICHEL
+ LECLERC<br>Theater: Agnès Varda Theatre<br><a href="https://ticketonline1.
+ festival-cannes.com/fiche?idproj=VF8dX8ZSwvQ%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:0282d967-2521-4f6e-b7f6-dbb7b7b127ea
 DTSTART:20250514T193000Z
-DTEND:20250514T213800Z
-SUMMARY:HARD BOILED (À TOUTE ÉPREUVE ) - Plage Macé
+DTEND:20250514T220200Z
+SUMMARY:SHINKANSEN DAIBAKUHA (THE BULLET TRAIN / SUPER EXPRESS 109) - Plage Macé
 LOCATION:Boulevard de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Cinéma de la Plage<br>Director: JOHN WOO<br>Theater: Plage
- Macé<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=Ef
- Lf57QGO0w%3D">Event link</a>
+DESCRIPTION:Program: Cinéma de la Plage - Restored prints<br>Director: JUNYA
+ SATO<br>Theater: Plage Macé<br><a href="https://ticketonline1.festival-can
+ nes.com/fiche?idproj=R962CC5BHHc%3D">Event link</a>
 END:VEVENT
 
 BEGIN:VEVENT
-UID:4abb01a9-470b-498a-bfb3-e12989dc4506
+UID:c240f2d2-7dcc-40af-a3da-df1b159cd903
 DTSTART:20250515T193000Z
-DTEND:20250515T211400Z
-SUMMARY:LES MAUVAIS COUPS - Plage Macé
+DTEND:20250515T212400Z
+SUMMARY:LES CAPRICES DE L'ENFANT ROI (MOLIERE\, CYRANO AND THE YOUNG ... - Plage Macé
 LOCATION:Boulevard de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Cinéma de la Plage - Restored prints<br>Director: FRANÇOIS
- LETERRIER<br>Theater: Plage Macé<br><a href="https://ticketonline1.festiva
- l-cannes.com/fiche?idproj=L8IVBwVUpcg%3D">Event link</a>
+DESCRIPTION:Program: Cinéma de la Plage - Tribute<br>Director: MICHEL
+ LECLERC<br>Theater: Plage Macé<br><a href="https://ticketonline1.festival-
+ cannes.com/fiche?idproj=cxddgg8VmFI%3D">Event link</a>
 END:VEVENT
 
 BEGIN:VEVENT
-UID:7c42baed-de7e-4e22-9d79-62ebe38e7229
+UID:ac6f5da1-562f-4cee-8995-b2a71d5b7465
 DTSTART:20250516T193000Z
-DTEND:20250516T215500Z
-SUMMARY:DUEL IN THE SUN (DUEL AU SOLEIL) - Plage Macé
+DTEND:20250516T211200Z
+SUMMARY:UN HOMME ET UNE FEMME (A MAN AND A WOMAN) - Plage Macé
 LOCATION:Boulevard de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Cinéma de la Plage - Restored prints<br>Director: KING
- VIDOR<br>Theater: Plage Macé<br><a href="https://ticketonline1.festival-ca
- nnes.com/fiche?idproj=bzwIxaF5i%2BA%3D">Event link</a>
+DESCRIPTION:Program: Cinéma de la Plage - Restored prints<br>Director: CLAUDE
+ LELOUCH<br>Theater: Plage Macé<br><a href="https://ticketonline1.festival-
+ cannes.com/fiche?idproj=bXmZD1UZJRY%3D">Event link</a>
 END:VEVENT
 
 BEGIN:VEVENT
-UID:c6a5a987-926a-4d7e-ad64-808c1b7159ac
+UID:8b464fc6-b0eb-457a-91e7-c878ceceab61
 DTSTART:20250517T193000Z
-DTEND:20250517T202000Z
-SUMMARY:LA LÉGENDE DE LA PALME D'OR CONTINUE... (THE LEGEND OF THE P... - Plage Macé
+DTEND:20250517T214800Z
+SUMMARY:ALL THE PRESIDENT'S MEN (LES HOMMES DU PRÉSIDENT) - Plage Macé
 LOCATION:Boulevard de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Cinéma de la Plage - Documentaries about Cinema<br>Director:
- ALEXIS VELLER<br>Theater: Plage Macé<br><a href="https://ticketonline1.fes
- tival-cannes.com/fiche?idproj=EN8dioExkI8%3D">Event link</a>
+DESCRIPTION:Program: Cinéma de la Plage - Restored prints<br>Director: ALAN J.
+ PAKULA<br>Theater: Plage Macé<br><a href="https://ticketonline1.festival-c
+ annes.com/fiche?idproj=Oms9Zd4%2BXo0%3D">Event link</a>
 END:VEVENT
 
 BEGIN:VEVENT
-UID:7da2786c-3066-4ecd-818a-8d39f5ff09b5
+UID:ffa52389-75d7-45dc-811f-fa767669f5b4
 DTSTART:20250518T193000Z
-DTEND:20250518T205800Z
-SUMMARY:PALOMBELLA ROSSA (RED WOOD PIGEON) - Plage Macé
+DTEND:20250518T213200Z
+SUMMARY:VIVA MARIA ! - Plage Macé
 LOCATION:Boulevard de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Cinéma de la Plage - Restored prints<br>Director: NANNI
- MORETTI<br>Theater: Plage Macé<br><a href="https://ticketonline1.festival-
- cannes.com/fiche?idproj=tsTX%2BhBop0s%3D">Event link</a>
+DESCRIPTION:Program: Cinéma de la Plage - Restored prints<br>Director: LOUIS
+ MALLE<br>Theater: Plage Macé<br><a href="https://ticketonline1.festival-ca
+ nnes.com/fiche?idproj=ydl%2FkrxScck%3D">Event link</a>
 END:VEVENT
 
 BEGIN:VEVENT
-UID:e9d3a28d-5a6a-4ee1-a9c3-98b30383e700
+UID:64d15533-62f1-4c94-8f22-566051c9559e
 DTSTART:20250519T193000Z
-DTEND:20250519T210000Z
-SUMMARY:BARDOT - Plage Macé
+DTEND:20250519T211900Z
+SUMMARY:LAND AND FREEDOM - Plage Macé
 LOCATION:Boulevard de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Cinéma de la Plage - Documentaries about Cinema<br>Director:
- ALAIN BERLINER<br>Theater: Plage Macé<br><a href="https://ticketonline1.fe
- stival-cannes.com/fiche?idproj=%2BY3wscw0EQg%3D">Event link</a>
+DESCRIPTION:Program: Cinéma de la Plage - Restored prints<br>Director: KEN
+ LOACH<br>Theater: Plage Macé<br><a href="https://ticketonline1.festival-ca
+ nnes.com/fiche?idproj=wfKJmHHoX48%3D">Event link</a>
 END:VEVENT
 
 BEGIN:VEVENT
-UID:b8a90dc8-c6c3-4a14-950d-e15c32365428
+UID:375a9591-0c57-4fb4-b067-b5a32708c55e
 DTSTART:20250520T193000Z
-DTEND:20250520T204100Z
-SUMMARY:TENSHI NO TAMAGO (ANGEL'S EGG) - Plage Macé
+DTEND:20250520T211500Z
+SUMMARY:CRÍA CUERVOS - Plage Macé
 LOCATION:Boulevard de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Cinéma de la Plage - Restored prints<br>Director: MAMORU
- OSHII<br>Theater: Plage Macé<br><a href="https://ticketonline1.festival-ca
- nnes.com/fiche?idproj=ZrEHuOijYQg%3D">Event link</a>
+DESCRIPTION:Program: Cinéma de la Plage - Restored prints<br>Director: CARLOS
+ SAURA<br>Theater: Plage Macé<br><a href="https://ticketonline1.festival-ca
+ nnes.com/fiche?idproj=v0einy0frBk%3D">Event link</a>
 END:VEVENT
 
 BEGIN:VEVENT
-UID:0a5326e4-ec5a-41c4-8a20-551e8506247c
+UID:b1654a28-a903-4de5-912a-b8fc90f305e9
 DTSTART:20250521T193000Z
-DTEND:20250521T213700Z
-SUMMARY:DARLING - Plage Macé
+DTEND:20250521T213000Z
+SUMMARY:SIGNORE & SIGNORI (CES MESSIEURS DAMES / THE BIRDS\, THE BEES... - Plage Macé
 LOCATION:Boulevard de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Cinéma de la Plage - Restored prints<br>Director: JOHN
- SCHLESINGER<br>Theater: Plage Macé<br><a href="https://ticketonline1.festi
- val-cannes.com/fiche?idproj=SEFNag5fiYY%3D">Event link</a>
+DESCRIPTION:Program: Cinéma de la Plage - Restored prints<br>Director: PIETRO
+ GERMI<br>Theater: Plage Macé<br><a href="https://ticketonline1.festival-ca
+ nnes.com/fiche?idproj=3yceT%2FA%2Fpis%3D">Event link</a>
 END:VEVENT
 
 BEGIN:VEVENT
-UID:96b85dc0-d2a6-4c68-97bb-d115fc990eed
+UID:1198c3cf-54b7-496b-979d-892d27d2d257
 DTSTART:20250522T193000Z
-DTEND:20250522T210700Z
-SUMMARY:ANGE - Plage Macé
+DTEND:20250522T210000Z
+SUMMARY:JE HAIS LES ACTEURS (I HATE ACTORS) - Plage Macé
 LOCATION:Boulevard de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Cinéma de la Plage<br>Director: TONY GATLIF<br>Theater: Plage
- Macé<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=hA
- 8yUHTSOmk%3D">Event link</a>
+DESCRIPTION:Program: Cinéma de la Plage - Restored prints<br>Director: GÉRARD
+ KRAWCZYK<br>Theater: Plage Macé<br><a href="https://ticketonline1.festival
+ -cannes.com/fiche?idproj=d5CRgEUGBsM%3D">Event link</a>
 END:VEVENT
 
 BEGIN:VEVENT
-UID:8237f4c5-603e-4a95-8b2c-f0f6488ce298
-DTSTART:20250524T193000Z
-DTEND:20250524T212600Z
-SUMMARY:MÉLODIE EN SOUS-SOL - Plage Macé
+UID:81e147f0-22a8-4f32-879c-f647970f02ce
+DTSTART:20250523T193000Z
+DTEND:20250523T212600Z
+SUMMARY:MON ONCLE - Plage Macé
 LOCATION:Boulevard de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Cinéma de la Plage - Restored prints<br>Director: HENRI
- VERNEUIL<br>Theater: Plage Macé<br><a href="https://ticketonline1.festival
- -cannes.com/fiche?idproj=BXdx7km%2BfWY%3D">Event link</a>
+DESCRIPTION:Program: Cinéma de la Plage - Restored prints<br>Director: JACQUES
+ TATI<br>Theater: Plage Macé<br><a href="https://ticketonline1.festival-can
+ nes.com/fiche?idproj=cNlBgq5eCjs%3D">Event link</a>
 END:VEVENT
 
 END:VCALENDAR

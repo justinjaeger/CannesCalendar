@@ -7,366 +7,443 @@ X-WR-CALNAME:Cannes Film Festival Screenings
 X-WR-TIMEZONE:Europe/Paris
 
 BEGIN:VEVENT
-UID:9b4c6ee1-f782-48e9-85d8-cea558651e4a
-DTSTART:20250515T170000Z
-DTEND:20250515T183800Z
-SUMMARY:QUI BRILLE AU COMBAT (THE WONDERERS) - Agnès Varda Theatre
-LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
-DESCRIPTION:Program: Special Screenings<br>Director: JOSÉPHINE JAPY<br>Theater: Agnès
- Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?
- idproj=M18G0NRHyko%3D">Event link</a>
-END:VEVENT
-
-BEGIN:VEVENT
-UID:c2b8e8f6-43cb-4955-a4db-b15acbf5a32e
-DTSTART:20250516T090000Z
-DTEND:20250516T103600Z
-SUMMARY:QUI BRILLE AU COMBAT (THE WONDERERS) - Buñuel Theatre
+UID:f4e4053d-0e6b-4bf2-9e15-129a6560df62
+DTSTART:20250513T134500Z
+DTEND:20250513T152700Z
+SUMMARY:CENIZA EN LA BOCA - Buñuel Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Special Screenings<br>Director: JOSÉPHINE JAPY<br>Theater: Buñuel
+DESCRIPTION:Program: Special Screenings<br>Director: DIEGO LUNA<br>Theater: Buñuel
  Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
- =vOAQBl3Eob0%3D">Event link</a>
+ =vdOz7EpRlW8%3D">Event link</a>
 END:VEVENT
 
 BEGIN:VEVENT
-UID:0227f325-93a3-4cba-88fd-5078379029db
-DTSTART:20250516T111500Z
-DTEND:20250516T125100Z
-SUMMARY:QUI BRILLE AU COMBAT (THE WONDERERS) - Cineum Screen X
+UID:bfd6c15c-6a7a-4ac0-876e-2dbd5f0fa848
+DTSTART:20250513T164500Z
+DTEND:20250513T181900Z
+SUMMARY:GROUNDSWELL - Agnès Varda Theatre
+LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
+DESCRIPTION:Program: Special Screenings<br>Director: JOSH TICKELL\, REBECCA
+ TICKELL<br>Theater: Agnès Varda Theatre<br><a href="https://ticketonline1.
+ festival-cannes.com/fiche?idproj=56lc5F%2F9xyA%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:3361ab4c-33cc-4986-b102-a75bd50a15d2
+DTSTART:20250514T090000Z
+DTEND:20250514T103400Z
+SUMMARY:GROUNDSWELL - Buñuel Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: Special Screenings<br>Director: JOSH TICKELL\, REBECCA
+ TICKELL<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.festi
+ val-cannes.com/fiche?idproj=rKaL%2BASvLBQ%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ee22a4b3-d14d-4f64-b0a6-a60ffe650690
+DTSTART:20250514T110000Z
+DTEND:20250514T124200Z
+SUMMARY:CENIZA EN LA BOCA - Buñuel Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: Special Screenings<br>Director: DIEGO LUNA<br>Theater: Buñuel
+ Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+ =QxhcDo1QVpY%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:1b1b745a-e5bf-40bb-8f9a-a142527207c4
+DTSTART:20250514T163000Z
+DTEND:20250514T181200Z
+SUMMARY:TANGLES - Agnès Varda Theatre
+LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
+DESCRIPTION:Program: Special Screenings<br>Director: LEAH NELSON<br>Theater: Agnès
+ Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+ idproj=8bKFt27P8jY%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:371d136b-448a-4cae-aaaa-8e473fa27095
+DTSTART:20250515T090000Z
+DTEND:20250515T104200Z
+SUMMARY:TANGLES - Buñuel Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: Special Screenings<br>Director: LEAH NELSON<br>Theater: Buñuel
+ Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+ =KH6hdcBWesM%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:1cb95283-e185-4451-b0b6-3b1a68cfde8b
+DTSTART:20250515T091500Z
+DTEND:20250515T105700Z
+SUMMARY:CENIZA EN LA BOCA - Cineum Screen X
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Special Screenings<br>Director: JOSÉPHINE JAPY<br>Theater: Cineum
+DESCRIPTION:Program: Special Screenings<br>Director: DIEGO LUNA<br>Theater: Cineum
  Screen X<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpro
- j=x4isj87sUpg%3D">Event link</a>
+ j=H6m8nWFFG2w%3D">Event link</a>
 END:VEVENT
 
 BEGIN:VEVENT
-UID:de4c0aaa-4333-4839-b6ac-238958e0db5f
-DTSTART:20250516T171500Z
-DTEND:20250516T184300Z
-SUMMARY:ARCO - Agnès Varda Theatre
-LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
-DESCRIPTION:Program: Special Screenings<br>Director: UGO BIENVENU<br>Theater: Agnès
- Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?
- idproj=pROSpLW5xQs%3D">Event link</a>
-END:VEVENT
-
-BEGIN:VEVENT
-UID:60aeed0b-a0b9-4981-89f9-f91fb4425732
-DTSTART:20250516T201500Z
-DTEND:20250516T214200Z
-SUMMARY:BONO: STORIES OF SURRENDER - Grand Théâtre Lumière
-LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Special Screenings<br>Director: ANDREW DOMINIK<br>Theater: Grand
- Théâtre Lumière<br><a href="https://ticketonline1.festival-cannes.com/fich
- e?idproj=NUFovt5%2BnDM%3D">Event link</a>
-END:VEVENT
-
-BEGIN:VEVENT
-UID:3310e09c-fdb6-4dbf-b506-73a2f4f0dc7d
-DTSTART:20250517T071500Z
-DTEND:20250517T084300Z
-SUMMARY:ARCO - Cineum Salle 3
+UID:a325404f-9ae5-4e4c-9d18-ce1d980158fc
+DTSTART:20250515T113000Z
+DTEND:20250515T131200Z
+SUMMARY:TANGLES - Cineum Screen X
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Special Screenings<br>Director: UGO BIENVENU<br>Theater: Cineum
- Salle 3<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
- =0WRj5URwVM0%3D">Event link</a>
+DESCRIPTION:Program: Special Screenings<br>Director: LEAH NELSON<br>Theater: Cineum
+ Screen X<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpro
+ j=qvrIOP338QM%3D">Event link</a>
 END:VEVENT
 
 BEGIN:VEVENT
-UID:73a4564d-9c0a-4fa1-8347-ce536c816905
-DTSTART:20250517T084500Z
-DTEND:20250517T101300Z
-SUMMARY:ARCO - Agnès Varda Theatre
+UID:7b017c66-61ac-4bca-94eb-9a742ced6472
+DTSTART:20250515T123000Z
+DTEND:20250515T142500Z
+SUMMARY:CANTONA - Agnès Varda Theatre
 LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
-DESCRIPTION:Program: Special Screenings<br>Director: UGO BIENVENU<br>Theater: Agnès
- Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?
- idproj=WZOYZz5%2BtTM%3D">Event link</a>
+DESCRIPTION:Program: Special Screenings<br>Director: DAVID TRYHORN\, BEN
+ NICHOLAS<br>Theater: Agnès Varda Theatre<br><a href="https://ticketonline1
+ .festival-cannes.com/fiche?idproj=l5N2tlKoZpc%3D">Event link</a>
 END:VEVENT
 
 BEGIN:VEVENT
-UID:087f150b-d224-4a9f-9acf-b2fc3b4f9e7d
-DTSTART:20250517T120000Z
-DTEND:20250517T132700Z
-SUMMARY:BONO: STORIES OF SURRENDER - Cineum Salle 3
-LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Special Screenings<br>Director: ANDREW DOMINIK<br>Theater: Cineum
- Salle 3<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
- =KWk9K23kcU0%3D">Event link</a>
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2f81eebf-6b63-434e-9401-1778f817b12f
-DTSTART:20250517T121500Z
-DTEND:20250517T134300Z
-SUMMARY:ARCO - Licorne
-LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Special Screenings<br>Director: UGO BIENVENU<br>Theater:
- Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
- =KaBsw3EcmA0%3D">Event link</a>
-END:VEVENT
-
-BEGIN:VEVENT
-UID:63fd3461-a8bc-40f2-85cc-53f27930b7c5
-DTSTART:20250517T164500Z
-DTEND:20250517T181500Z
-SUMMARY:MARCEL ET MONSIEUR PAGNOL (A MAGNIFICENT LIFE) - Agnès Varda Theatre
+UID:69549b66-47d2-4034-94ab-151b8c59f0c2
+DTSTART:20250515T174500Z
+DTEND:20250515T192500Z
+SUMMARY:JOHN LENNON : THE LAST INTERVIEW - Agnès Varda Theatre
 LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
-DESCRIPTION:Program: Special Screenings<br>Director: SYLVAIN CHOMET<br>Theater: Agnès
- Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?
- idproj=zVt7dEU4tDs%3D">Event link</a>
-END:VEVENT
-
-BEGIN:VEVENT
-UID:cca952b8-aec7-410b-a73d-64d463580a81
-DTSTART:20250518T063000Z
-DTEND:20250518T080000Z
-SUMMARY:MARCEL ET MONSIEUR PAGNOL (A MAGNIFICENT LIFE) - Buñuel Theatre
-LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Special Screenings<br>Director: SYLVAIN CHOMET<br>Theater: Buñuel
- Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
- =EKtnsKAxpEo%3D">Event link</a>
-END:VEVENT
-
-BEGIN:VEVENT
-UID:03adb729-2eff-4942-960d-efd302e33455
-DTSTART:20250518T134500Z
-DTEND:20250518T151500Z
-SUMMARY:MARCEL ET MONSIEUR PAGNOL (A MAGNIFICENT LIFE) - Cineum Salle 3
-LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Special Screenings<br>Director: SYLVAIN CHOMET<br>Theater: Cineum
- Salle 3<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
- =MGVc81BKKfE%3D">Event link</a>
-END:VEVENT
-
-BEGIN:VEVENT
-UID:19213049-2ac8-451e-9cde-c0e558570779
-DTSTART:20250518T171500Z
-DTEND:20250518T184600Z
-SUMMARY:MAMA - Agnès Varda Theatre
-LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
-DESCRIPTION:Program: Special Screenings<br>Director: OR SINAI<br>Theater: Agnès Varda
- Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
- =oOqX%2FORLaL8%3D">Event link</a>
-END:VEVENT
-
-BEGIN:VEVENT
-UID:54983921-9d7d-4991-a656-1190662e4a5e
-DTSTART:20250519T091500Z
-DTEND:20250519T104600Z
-SUMMARY:MAMA - Licorne
-LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Special Screenings<br>Director: OR SINAI<br>Theater:
- Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
- =YkA66E7Dkoc%3D">Event link</a>
-END:VEVENT
-
-BEGIN:VEVENT
-UID:9186d005-3995-4d3e-b4bc-48346388a6c4
-DTSTART:20250519T110000Z
-DTEND:20250519T123100Z
-SUMMARY:MAMA - Buñuel Theatre
-LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Special Screenings<br>Director: OR SINAI<br>Theater: Buñuel
- Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
- =7%2FRFq8kbbq4%3D">Event link</a>
-END:VEVENT
-
-BEGIN:VEVENT
-UID:391bcdb6-8921-42b7-a511-224f81554cc7
-DTSTART:20250519T143000Z
-DTEND:20250519T160100Z
-SUMMARY:MAMA - Cineum Salle 3
-LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Special Screenings<br>Director: OR SINAI<br>Theater: Cineum Salle
- 3<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=GVmWl
- TZ2%2F%2Bg%3D">Event link</a>
-END:VEVENT
-
-BEGIN:VEVENT
-UID:5f5aee92-bc37-43d1-a8b6-e74fe0f57072
-DTSTART:20250519T171500Z
-DTEND:20250519T184700Z
-SUMMARY:DITES-LUI QUE JE L'AIME (TELL HER I LOVE HER) - Agnès Varda Theatre
-LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
-DESCRIPTION:Program: Special Screenings<br>Director: ROMANE BOHRINGER<br>Theater:
+DESCRIPTION:Program: Special Screenings<br>Director: STEVEN SODERBERGH<br>Theater:
  Agnès Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/
- fiche?idproj=YsaCg0ke1wA%3D">Event link</a>
+ fiche?idproj=faAqFzXRqD4%3D">Event link</a>
 END:VEVENT
 
 BEGIN:VEVENT
-UID:d396a9bc-f484-40ef-b692-abe6ee95c848
-DTSTART:20250520T091500Z
-DTEND:20250520T104700Z
-SUMMARY:DITES-LUI QUE JE L'AIME (TELL HER I LOVE HER) - Buñuel Theatre
+UID:52f4287f-5632-4f02-b029-50435d5145a2
+DTSTART:20250516T063000Z
+DTEND:20250516T081000Z
+SUMMARY:JOHN LENNON : THE LAST INTERVIEW - Agnès Varda Theatre
+LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
+DESCRIPTION:Program: Special Screenings<br>Director: STEVEN SODERBERGH<br>Theater:
+ Agnès Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/
+ fiche?idproj=PF7HkOqPxcs%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:b8a5d85e-d200-412a-af70-d23d046c27ac
+DTSTART:20250516T071500Z
+DTEND:20250516T091000Z
+SUMMARY:CANTONA - Cineum Screen X
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Special Screenings<br>Director: DAVID TRYHORN\, BEN
+ NICHOLAS<br>Theater: Cineum Screen X<br><a href="https://ticketonline1.fes
+ tival-cannes.com/fiche?idproj=UeRaacMeBsQ%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:05ffeaa6-fb74-4b13-a24a-728b0513359f
+DTSTART:20250516T093000Z
+DTEND:20250516T112500Z
+SUMMARY:CANTONA - Buñuel Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Special Screenings<br>Director: ROMANE BOHRINGER<br>Theater:
- Buñuel Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche
- ?idproj=NCBARcgraKE%3D">Event link</a>
+DESCRIPTION:Program: Special Screenings<br>Director: DAVID TRYHORN\, BEN
+ NICHOLAS<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.fest
+ ival-cannes.com/fiche?idproj=wxAUjYzcD64%3D">Event link</a>
 END:VEVENT
 
 BEGIN:VEVENT
-UID:19f1d5e3-04f2-488c-bc6f-0b2b33918931
-DTSTART:20250520T140000Z
-DTEND:20250520T153200Z
-SUMMARY:DITES-LUI QUE JE L'AIME (TELL HER I LOVE HER) - Cineum Aurore
+UID:8c62c7a6-44a5-48e8-8339-0c80394fef90
+DTSTART:20250516T094500Z
+DTEND:20250516T112500Z
+SUMMARY:JOHN LENNON : THE LAST INTERVIEW - Cineum Screen X
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Special Screenings<br>Director: ROMANE BOHRINGER<br>Theater:
- Cineum Aurore<br><a href="https://ticketonline1.festival-cannes.com/fiche?
- idproj=WBgaC%2B9Ug9g%3D">Event link</a>
+DESCRIPTION:Program: Special Screenings<br>Director: STEVEN SODERBERGH<br>Theater:
+ Cineum Screen X<br><a href="https://ticketonline1.festival-cannes.com/fich
+ e?idproj=jHvQM%2FREySI%3D">Event link</a>
 END:VEVENT
 
 BEGIN:VEVENT
-UID:fb7a18e9-f372-4774-aafd-ca8c6460636b
-DTSTART:20250520T144500Z
-DTEND:20250520T160100Z
-SUMMARY:AMÉLIE ET LA MÉTAPHYSIQUE DES TUBES (LITTLE AMÉLIE) - Agnès Varda Theatre
+UID:696394fb-1eea-4ef8-9c36-a320a5e276b9
+DTSTART:20250516T131500Z
+DTEND:20250516T145000Z
+SUMMARY:REHEARSALS FOR A REVOLUTION - Agnès Varda Theatre
 LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
-DESCRIPTION:Program: Special Screenings<br>Director: MAILYS VALLADE\, LIANE-CHO
- HAN<br>Theater: Agnès Varda Theatre<br><a href="https://ticketonline1.fest
- ival-cannes.com/fiche?idproj=RpaTZb%2FT968%3D">Event link</a>
+DESCRIPTION:Program: Special Screenings<br>Director: PEGAH AHANGARANI<br>Theater:
+ Agnès Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/
+ fiche?idproj=mcFYFP5zpr0%3D">Event link</a>
 END:VEVENT
 
 BEGIN:VEVENT
-UID:582ce8ed-80a5-4ad8-9002-28f56e8a9c76
-DTSTART:20250521T090000Z
-DTEND:20250521T101600Z
-SUMMARY:AMÉLIE ET LA MÉTAPHYSIQUE DES TUBES (LITTLE AMÉLIE) - Agnès Varda Theatre
+UID:e0c2f403-aa37-40a5-abe0-54014e3d6850
+DTSTART:20250516T173000Z
+DTEND:20250516T185700Z
+SUMMARY:LES MATINS MERVEILLEUX - Agnès Varda Theatre
 LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
-DESCRIPTION:Program: Special Screenings<br>Director: MAILYS VALLADE\, LIANE-CHO
- HAN<br>Theater: Agnès Varda Theatre<br><a href="https://ticketonline1.fest
- ival-cannes.com/fiche?idproj=6emsCTGh0lQ%3D">Event link</a>
-END:VEVENT
-
-BEGIN:VEVENT
-UID:4885a03a-a9ce-45c2-9e3c-3941dcdff3c0
-DTSTART:20250521T151500Z
-DTEND:20250521T163100Z
-SUMMARY:AMÉLIE ET LA MÉTAPHYSIQUE DES TUBES (LITTLE AMÉLIE) - Cineum Salle 3
-LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Special Screenings<br>Director: MAILYS VALLADE\, LIANE-CHO
- HAN<br>Theater: Cineum Salle 3<br><a href="https://ticketonline1.festival-
- cannes.com/fiche?idproj=jBQVh%2Bjt2Ks%3D">Event link</a>
-END:VEVENT
-
-BEGIN:VEVENT
-UID:0e42aafb-f9db-4752-baf2-107e2d93e4c6
-DTSTART:20250521T173000Z
-DTEND:20250521T193600Z
-SUMMARY:THE SIX BILLION DOLLAR MAN - Agnès Varda Theatre
-LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
-DESCRIPTION:Program: Special Screenings<br>Director: EUGENE JARECKI<br>Theater: Agnès
+DESCRIPTION:Program: Special Screenings<br>Director: AVRIL BESSON<br>Theater: Agnès
  Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?
- idproj=EvSzh%2BqVreE%3D">Event link</a>
+ idproj=yc2VmvExwzI%3D">Event link</a>
 END:VEVENT
 
 BEGIN:VEVENT
-UID:d79e309b-b9c7-4cdd-974d-13a951bea80a
-DTSTART:20250522T063000Z
-DTEND:20250522T083600Z
-SUMMARY:THE SIX BILLION DOLLAR MAN - Buñuel Theatre
+UID:8407e186-e4d3-4503-bc58-e7d90b558fad
+DTSTART:20250517T063000Z
+DTEND:20250517T075700Z
+SUMMARY:LES MATINS MERVEILLEUX - Buñuel Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Special Screenings<br>Director: EUGENE JARECKI<br>Theater: Buñuel
+DESCRIPTION:Program: Special Screenings<br>Director: AVRIL BESSON<br>Theater: Buñuel
  Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
- =QyjgcmzVZUk%3D">Event link</a>
+ =oCnz6hddwLk%3D">Event link</a>
 END:VEVENT
 
 BEGIN:VEVENT
-UID:d6e0ead3-d75f-41e9-b467-1b3ffcd37ccd
-DTSTART:20250522T120000Z
-DTEND:20250522T133000Z
-SUMMARY:MARCEL ET MONSIEUR PAGNOL - Licorne
-LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Special Screenings<br>Director: SYLVAIN CHOMET<br>Theater:
- Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
- =kFwRld1LVbY%3D">Event link</a>
-END:VEVENT
-
-BEGIN:VEVENT
-UID:f202ac65-f347-40f6-8888-f7c77280c57e
-DTSTART:20250522T173000Z
-DTEND:20250522T185800Z
-SUMMARY:L'HOMME QUI A VU L'OURS QUI A VU L'HOMME - Agnès Varda Theatre
-LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
-DESCRIPTION:Program: Special Screenings<br>Director: PIERRE RICHARD<br>Theater: Agnès
- Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?
- idproj=fr0GkiXXcgU%3D">Event link</a>
-END:VEVENT
-
-BEGIN:VEVENT
-UID:414489fd-c84c-4a4f-83d6-a5adb4c83eb6
-DTSTART:20250523T090000Z
-DTEND:20250523T102800Z
-SUMMARY:L'HOMME QUI A VU L'OURS QUI A VU L'HOMME - Agnès Varda Theatre
-LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
-DESCRIPTION:Program: Special Screenings<br>Director: PIERRE RICHARD<br>Theater: Agnès
- Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?
- idproj=tbt0UbnnpA8%3D">Event link</a>
-END:VEVENT
-
-BEGIN:VEVENT
-UID:7aba746d-2cbf-4776-b1b2-c2ed887d3baa
-DTSTART:20250524T071500Z
-DTEND:20250524T083100Z
-SUMMARY:AMÉLIE ET LA MÉTAPHYSIQUE DES TUBES (LITTLE AMÉLIE) - Cineum Screen X
+UID:72cfb504-163a-4d32-85b5-cead5ba67545
+DTSTART:20250517T071500Z
+DTEND:20250517T085000Z
+SUMMARY:REHEARSALS FOR A REVOLUTION - Cineum Screen X
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Special Screenings<br>Director: MAILYS VALLADE\, LIANE-CHO
- HAN<br>Theater: Cineum Screen X<br><a href="https://ticketonline1.festival
- -cannes.com/fiche?idproj=ND1Eima7te0%3D">Event link</a>
+DESCRIPTION:Program: Special Screenings<br>Director: PEGAH AHANGARANI<br>Theater:
+ Cineum Screen X<br><a href="https://ticketonline1.festival-cannes.com/fich
+ e?idproj=LSGIjkvAyeY%3D">Event link</a>
 END:VEVENT
 
 BEGIN:VEVENT
-UID:48fca212-6918-400e-8e3d-f199d5fe0b46
-DTSTART:20250524T090000Z
-DTEND:20250524T102800Z
-SUMMARY:L'HOMME QUI A VU L'OURS QUI A VU L'HOMME - Cineum Screen X
+UID:aa918fae-a1fc-4263-b5b6-d7b0ff508c62
+DTSTART:20250517T083000Z
+DTEND:20250517T100500Z
+SUMMARY:REHEARSALS FOR A REVOLUTION - Buñuel Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: Special Screenings<br>Director: PEGAH AHANGARANI<br>Theater:
+ Buñuel Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche
+ ?idproj=4MFaGc9kwGw%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:a672220d-4688-4305-a9ba-d18ffe9a0c25
+DTSTART:20250517T093000Z
+DTEND:20250517T105700Z
+SUMMARY:LES MATINS MERVEILLEUX - Cineum Screen X
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Special Screenings<br>Director: PIERRE RICHARD<br>Theater: Cineum
+DESCRIPTION:Program: Special Screenings<br>Director: AVRIL BESSON<br>Theater: Cineum
  Screen X<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpro
- j=sAsCI%2Bcp2Kk%3D">Event link</a>
+ j=Dyx7AZ1YTYA%3D">Event link</a>
 END:VEVENT
 
 BEGIN:VEVENT
-UID:f83ce913-412c-44c3-9596-1399b230bdc5
-DTSTART:20250524T120000Z
-DTEND:20250524T132800Z
-SUMMARY:L'HOMME QUI A VU L'OURS QUI A VU L'HOMME - Licorne
+UID:9642d370-5ea9-43a4-b93d-3c564220b01c
+DTSTART:20250517T164500Z
+DTEND:20250517T182900Z
+SUMMARY:AVEDON - Agnès Varda Theatre
+LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
+DESCRIPTION:Program: Special Screenings<br>Director: RON HOWARD<br>Theater: Agnès
+ Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+ idproj=rmimFW8XBLE%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:b7edbf07-f99a-47e2-9b22-bb023b2cd460
+DTSTART:20250517T171500Z
+DTEND:20250517T184200Z
+SUMMARY:LES MATINS MERVEILLEUX - Licorne
 LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Special Screenings<br>Director: PIERRE RICHARD<br>Theater:
+DESCRIPTION:Program: Special Screenings<br>Director: AVRIL BESSON<br>Theater:
  Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
- =%2FbCsuXcKaCA%3D">Event link</a>
+ =mRoh%2FMeA0qc%3D">Event link</a>
 END:VEVENT
 
 BEGIN:VEVENT
-UID:05b2eeb9-004b-4f17-9023-844481181b3d
-DTSTART:20250524T144500Z
-DTEND:20250524T161700Z
-SUMMARY:DITES-LUI QUE JE L'AIME (TELL HER I LOVE HER) - Cineum Aurore
+UID:050a2528-099f-42ef-8163-2816f380eaf9
+DTSTART:20250518T083000Z
+DTEND:20250518T101400Z
+SUMMARY:AVEDON - Buñuel Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: Special Screenings<br>Director: RON HOWARD<br>Theater: Buñuel
+ Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+ =ggPN%2F9SVHL0%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:bddee9e8-64b7-456d-a401-bcbcbcd740a8
+DTSTART:20250518T120000Z
+DTEND:20250518T134400Z
+SUMMARY:AVEDON - Cineum Screen X
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Special Screenings<br>Director: ROMANE BOHRINGER<br>Theater:
+DESCRIPTION:Program: Special Screenings<br>Director: RON HOWARD<br>Theater: Cineum
+ Screen X<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpro
+ j=zBcVTVcBwmY%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:adeeed57-d320-40ed-98b9-b2b3e8d26dd2
+DTSTART:20250518T140000Z
+DTEND:20250518T153300Z
+SUMMARY:VESNA - Agnès Varda Theatre
+LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
+DESCRIPTION:Program: Special Screenings<br>Director: ROSTISLAV KIRPICENKO<br>Theater:
+ Agnès Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/
+ fiche?idproj=e%2BphcoRJftQ%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:0e8fd19c-c63c-43be-9003-b04dc2acf05a
+DTSTART:20250518T171500Z
+DTEND:20250518T185700Z
+SUMMARY:L'AFFAIRE MARIE-CLAIRE (WOMEN ON TRIAL) - Agnès Varda Theatre
+LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
+DESCRIPTION:Program: Special Screenings<br>Director: LAURIANE ESCAFFRE\, YVO
+ MULLER<br>Theater: Agnès Varda Theatre<br><a href="https://ticketonline1.f
+ estival-cannes.com/fiche?idproj=lWX90kXRzdY%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:95a6d1ce-c343-4365-aedc-d6cad3afaf21
+DTSTART:20250519T063000Z
+DTEND:20250519T081200Z
+SUMMARY:L'AFFAIRE MARIE-CLAIRE (WOMEN ON TRIAL) - Buñuel Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: Special Screenings<br>Director: LAURIANE ESCAFFRE\, YVO
+ MULLER<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.festiv
+ al-cannes.com/fiche?idproj=MDeXbdclI%2BM%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:cee88922-ddb1-4977-b163-1c3bebc16e0c
+DTSTART:20250519T090000Z
+DTEND:20250519T103300Z
+SUMMARY:VESNA - Buñuel Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: Special Screenings<br>Director: ROSTISLAV KIRPICENKO<br>Theater:
+ Buñuel Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche
+ ?idproj=7Qs1IE8lGZQ%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:af47ee8b-eeee-46d7-acc4-5d5571e5ef79
+DTSTART:20250519T100000Z
+DTEND:20250519T114200Z
+SUMMARY:L'AFFAIRE MARIE-CLAIRE (WOMEN ON TRIAL) - Cineum Screen X
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Special Screenings<br>Director: LAURIANE ESCAFFRE\, YVO
+ MULLER<br>Theater: Cineum Screen X<br><a href="https://ticketonline1.festi
+ val-cannes.com/fiche?idproj=tt%2FDvTb33iQ%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f82ff800-55c5-4bb9-ab5c-3a62379e0faa
+DTSTART:20250519T143000Z
+DTEND:20250519T155500Z
+SUMMARY:LUCY LOST - Agnès Varda Theatre
+LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
+DESCRIPTION:Program: Special Screenings<br>Director: OLIVIER CLERT<br>Theater: Agnès
+ Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+ idproj=%2Biku39F1IQI%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:4de5da66-47b5-4d5b-b4d0-9ecf175d9b76
+DTSTART:20250519T171500Z
+DTEND:20250519T184500Z
+SUMMARY:LE TRIANGLE D'OR - Agnès Varda Theatre
+LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
+DESCRIPTION:Program: Special Screenings<br>Director: HÉLÈNE ROSSELET-RUIZ<br>Theater:
+ Agnès Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/
+ fiche?idproj=VTDzmSB%2FHGg%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:36c3e734-9ccc-47fc-ac24-f0bf3854efef
+DTSTART:20250520T090000Z
+DTEND:20250520T102500Z
+SUMMARY:LUCY LOST - Agnès Varda Theatre
+LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
+DESCRIPTION:Program: Special Screenings<br>Director: OLIVIER CLERT<br>Theater: Agnès
+ Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+ idproj=jdlEU9FbyoA%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:b466ffe8-c3bc-4489-b55f-91244c88c68d
+DTSTART:20250520T110000Z
+DTEND:20250520T123000Z
+SUMMARY:LE TRIANGLE D'OR - Agnès Varda Theatre
+LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
+DESCRIPTION:Program: Special Screenings<br>Director: HÉLÈNE ROSSELET-RUIZ<br>Theater:
+ Agnès Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/
+ fiche?idproj=so8k4E1%2FJYI%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:71564e7b-1da6-48b0-81ba-07eedc016829
+DTSTART:20250520T121500Z
+DTEND:20250520T134000Z
+SUMMARY:LUCY LOST - Cineum Screen X
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Special Screenings<br>Director: OLIVIER CLERT<br>Theater: Cineum
+ Screen X<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpro
+ j=B4Es2XJOiRk%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:519791c3-b58b-4f06-93d8-7a56382f8da6
+DTSTART:20250520T124500Z
+DTEND:20250520T141500Z
+SUMMARY:LE TRIANGLE D'OR - Cineum Aurore
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Special Screenings<br>Director: HÉLÈNE ROSSELET-RUIZ<br>Theater:
  Cineum Aurore<br><a href="https://ticketonline1.festival-cannes.com/fiche?
- idproj=Ah4BuvfmBak%3D">Event link</a>
+ idproj=ImbiVwpe1Zg%3D">Event link</a>
 END:VEVENT
 
 BEGIN:VEVENT
-UID:c06c4edd-01ce-4727-9529-8a254b1067e2
-DTSTART:20250524T150000Z
-DTEND:20250524T162800Z
-SUMMARY:ARCO - Cineum Salle 3
-LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Special Screenings<br>Director: UGO BIENVENU<br>Theater: Cineum
- Salle 3<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
- =lqWuT6KrlQc%3D">Event link</a>
+UID:2d3ad20d-2329-49f7-96f7-18ddfb5d0917
+DTSTART:20250520T174500Z
+DTEND:20250520T192300Z
+SUMMARY:LES SURVIVANTS DU CHE (CHE GUEVARA: THE LAST COMPANIONS) - Agnès Varda Theatre
+LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
+DESCRIPTION:Program: Special Screenings<br>Director: CHRISTOPHE DIMITRI
+ RÉVEILLE<br>Theater: Agnès Varda Theatre<br><a href="https://ticketonline1
+ .festival-cannes.com/fiche?idproj=Tz23w%2B6MVr4%3D">Event link</a>
 END:VEVENT
 
 BEGIN:VEVENT
-UID:02415d4f-a80e-44e8-85db-12c1ce03cf16
-DTSTART:20250524T154500Z
-DTEND:20250524T175100Z
-SUMMARY:THE SIX BILLION DOLLAR MAN - Cineum Screen X
+UID:95ab5b28-eb78-42fd-b2e2-f160a6904edb
+DTSTART:20250521T094500Z
+DTEND:20250521T112300Z
+SUMMARY:LES SURVIVANTS DU CHE (CHE GUEVARA: THE LAST COMPANIONS) - Agnès Varda Theatre
+LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
+DESCRIPTION:Program: Special Screenings<br>Director: CHRISTOPHE DIMITRI
+ RÉVEILLE<br>Theater: Agnès Varda Theatre<br><a href="https://ticketonline1
+ .festival-cannes.com/fiche?idproj=mePwuqJdIP8%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:973573a1-1ea9-49f1-bafc-10eb6edac3ad
+DTSTART:20250521T114500Z
+DTEND:20250521T132300Z
+SUMMARY:LES SURVIVANTS DU CHE (CHE GUEVARA: THE LAST COMPANIONS) - Cineum Screen X
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Special Screenings<br>Director: EUGENE JARECKI<br>Theater: Cineum
- Screen X<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpro
- j=qipSnh%2Fd2Mo%3D">Event link</a>
+DESCRIPTION:Program: Special Screenings<br>Director: CHRISTOPHE DIMITRI
+ RÉVEILLE<br>Theater: Cineum Screen X<br><a href="https://ticketonline1.fes
+ tival-cannes.com/fiche?idproj=f0g%2FqMYVl%2BU%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:9af012f9-0c51-4c30-98a2-c7a64e9cf3e2
+DTSTART:20250522T143000Z
+DTEND:20250522T160300Z
+SUMMARY:VESNA - Cineum Screen X
+LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Special Screenings<br>Director: ROSTISLAV KIRPICENKO<br>Theater:
+ Cineum Screen X<br><a href="https://ticketonline1.festival-cannes.com/fich
+ e?idproj=EvqFy%2FuXCLE%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:3471737b-38cf-4c7c-8b68-d42551f918fc
+DTSTART:20250522T193000Z
+DTEND:20250522T205500Z
+SUMMARY:LUCY LOST - Licorne
+LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
+DESCRIPTION:Program: Special Screenings<br>Director: OLIVIER CLERT<br>Theater:
+ Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+ =mljq%2BaGy6tQ%3D">Event link</a>
 END:VEVENT
 
 END:VCALENDAR

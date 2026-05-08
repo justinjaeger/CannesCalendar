@@ -7,323 +7,346 @@ X-WR-CALNAME:Cannes Film Festival Screenings
 X-WR-TIMEZONE:Europe/Paris
 
 BEGIN:VEVENT
-UID:77492955-4fc9-4e1a-9619-ecc650ce3fb4
-DTSTART:20250514T080000Z
-DTEND:20250514T105300Z
-SUMMARY:YI YI - A ONE AND A TWO - Buñuel Theatre
+UID:83fccc06-8be2-4c60-8959-076bbcea6bf7
+DTSTART:20250512T123000Z
+DTEND:20250512T142800Z
+SUMMARY:PAN'S LABYRINTH (LE LABYRINTHE DE PAN) - Debussy Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Cannes Classics - Restored prints<br>Director: EDWARD
- YANG<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.festival
- -cannes.com/fiche?idproj=fR%2FBoCa4SbA%3D">Event link</a>
+DESCRIPTION:Program: Cannes Classics - Restored prints<br>Director: GUILLERMO DEL
+ TORO<br>Theater: Debussy Theatre<br><a href="https://ticketonline1.festiva
+ l-cannes.com/fiche?idproj=DAv06QMvOKI%3D">Event link</a>
 END:VEVENT
 
 BEGIN:VEVENT
-UID:b43bc3a6-e6d6-4633-984a-c7deab9ff0b9
-DTSTART:20250514T123000Z
-DTEND:20250514T133200Z
-SUMMARY:DAVID LYNCH\, UNE ÉNIGME À HOLLYWOOD  (WELCOME TO LYNCHLAND) - Buñuel Theatre
+UID:627bdc89-7424-4c5a-b0c3-2f91029d5b48
+DTSTART:20250513T093000Z
+DTEND:20250513T105100Z
+SUMMARY:TILAÏ - Buñuel Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: Cannes Classics - Restored prints<br>Director: IDRISSA
+ OUEDRAOGO<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.fes
+ tival-cannes.com/fiche?idproj=WtxoBFwz5SA%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:9b0087ae-2f1e-4ff1-a74a-4eb8ed8cd38a
+DTSTART:20250513T133000Z
+DTEND:20250513T150700Z
+SUMMARY:MOONLIGHTING (TRAVAIL AU NOIR) - Agnès Varda Theatre
+LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
+DESCRIPTION:Program: Cannes Classics - Restored prints<br>Director: JERZY
+ SKOLIMOWSKI<br>Theater: Agnès Varda Theatre<br><a href="https://ticketonli
+ ne1.festival-cannes.com/fiche?idproj=YTEZ3hBXWNw%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:e309167f-fab1-466b-887b-f188852f6587
+DTSTART:20250513T170000Z
+DTEND:20250513T195000Z
+SUMMARY:BAWANG BIEJI (FAREWELL MY CONCUBINE / ADIEU MA CONCUBINE) - Buñuel Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: Cannes Classics - Tribute<br>Director: KAIGE CHEN<br>Theater:
+ Buñuel Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche
+ ?idproj=Z%2Fq7KG22yjQ%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:14e9a031-cc4d-4595-8b4c-a55644dfc479
+DTSTART:20250513T214500Z
+DTEND:20250513T233200Z
+SUMMARY:THE FAST AND THE FURIOUS - Grand Théâtre Lumière
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: Cannes Classics - Restored prints<br>Director: ROB
+ COHEN<br>Theater: Grand Théâtre Lumière<br><a href="https://ticketonline1.
+ festival-cannes.com/fiche?idproj=D9AGpdk75XU%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:62218390-ede5-4d1b-a380-ed6dd2dde19e
+DTSTART:20250514T130000Z
+DTEND:20250514T153300Z
+SUMMARY:CZŁOWIEK Z ŻELAZA (MAN OF IRON / L'HOMME DE FER) - Buñuel Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: Cannes Classics - Restored prints<br>Director: ANDRZEJ
+ WAJDA<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.festiva
+ l-cannes.com/fiche?idproj=sWkJesjb66c%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:bd0606d9-449a-42ab-a5f8-a3aa2aa425e8
+DTSTART:20250514T140000Z
+DTEND:20250514T155300Z
+SUMMARY:L'ÂGE D'OR (THE GOLDEN AGE) - Agnès Varda Theatre
+LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
+DESCRIPTION:Program: Cannes Classics - Tribute<br>Director: BÉRENGER
+ THOUIN<br>Theater: Agnès Varda Theatre<br><a href="https://ticketonline1.f
+ estival-cannes.com/fiche?idproj=xpfwXQ%2FQ24A%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:1c3a87ac-d1fc-45dd-b898-04bd38247e81
+DTSTART:20250514T164500Z
+DTEND:20250514T181100Z
+SUMMARY:UNE VIE MANIFESTE - Buñuel Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
 DESCRIPTION:Program: Cannes Classics - Documentaries about Cinema<br>Director:
- STÉPHANE GHEZ<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1
- .festival-cannes.com/fiche?idproj=WkBFpzSN6AM%3D">Event link</a>
+ JEAN-GABRIEL PÉRIOT<br>Theater: Buñuel Theatre<br><a href="https://ticketo
+ nline1.festival-cannes.com/fiche?idproj=B3Ffq19Fa2U%3D">Event link</a>
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2f3ad72d-ba99-4c81-bb21-833f56d5abf0
-DTSTART:20250514T150000Z
-DTEND:20250514T161600Z
-SUMMARY:COMANCHE TERRITORY  (SUR LE TERRITOIRE DES COMANCHES) - Buñuel Theatre
+UID:2cce482b-fd9a-40f2-9f09-76f6b0b1d4c7
+DTSTART:20250514T191500Z
+DTEND:20250514T210900Z
+SUMMARY:KEN RUSSELL’S THE DEVILS (LES DIABLES) - Buñuel Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Cannes Classics - Tribute<br>Director: GEORGE SHERMAN<br>Theater:
- Buñuel Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche
- ?idproj=Bh5i8dN0%2BL4%3D">Event link</a>
+DESCRIPTION:Program: Cannes Classics - Restored prints<br>Director: KEN
+ RUSSELL<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.festi
+ val-cannes.com/fiche?idproj=4lhxyPeROXg%3D">Event link</a>
 END:VEVENT
 
 BEGIN:VEVENT
-UID:471de22a-ad45-4f99-8983-41eb1bfd3d94
-DTSTART:20250514T163000Z
-DTEND:20250514T175200Z
-SUMMARY:RED CANYON  (LE MUSTANG NOIR) - Buñuel Theatre
+UID:6e9b1829-268e-42fd-b409-23883c8ede4b
+DTSTART:20250515T111500Z
+DTEND:20250515T121500Z
+SUMMARY:FESTIVAL DE CANNES 1947 - Buñuel Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Cannes Classics - Tribute<br>Director: GEORGE SHERMAN<br>Theater:
- Buñuel Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche
- ?idproj=dxXsytQJ2Qk%3D">Event link</a>
+DESCRIPTION:Program: Cannes Classics - Restored prints<br>Director: ADRIEN FRED
+ MAURY<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.festiva
+ l-cannes.com/fiche?idproj=fNsGUNXZW9M%3D">Event link</a>
 END:VEVENT
 
 BEGIN:VEVENT
-UID:056c6428-903a-47ba-90e9-0c5731f26ddb
-DTSTART:20250515T123000Z
-DTEND:20250515T133300Z
-SUMMARY:LA PAGA - Buñuel Theatre
+UID:bde75c88-10e2-4e76-8ef9-83e9687e7faf
+DTSTART:20250515T124500Z
+DTEND:20250515T141500Z
+SUMMARY:PELECHIAN PROJECT - Buñuel Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Cannes Classics - Restored prints<br>Director: CIRO
- DURÁN<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.festiva
- l-cannes.com/fiche?idproj=CX6NMdKkI5o%3D">Event link</a>
+DESCRIPTION:Program: Cannes Classics - Restored prints<br>Director: ARTAVAZD
+ PELECHIAN<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.fes
+ tival-cannes.com/fiche?idproj=hrpF9IyU21s%3D">Event link</a>
 END:VEVENT
 
 BEGIN:VEVENT
-UID:c08cd23d-def0-4ef2-986c-70f034cd0239
-DTSTART:20250515T151500Z
-DTEND:20250515T164600Z
-SUMMARY:SAÏD EFFENDI - Buñuel Theatre
+UID:6122b6ee-979b-4b74-85a9-2bd2239ce17a
+DTSTART:20250515T144500Z
+DTEND:20250515T161600Z
+SUMMARY:SANSHIRO SUGATA (LA LÉGENDE DU GRAND JUDO) - Buñuel Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Cannes Classics - Restored prints<br>Director: KAMERAN
- HOSNI<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.festiva
- l-cannes.com/fiche?idproj=aGq5em1VBHk%3D">Event link</a>
+DESCRIPTION:Program: Cannes Classics - Restored prints<br>Director: AKIRA
+ KUROSAWA<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.fest
+ ival-cannes.com/fiche?idproj=k1QPu9LQiPw%3D">Event link</a>
 END:VEVENT
 
 BEGIN:VEVENT
-UID:c40764e9-8f23-4a4c-9b83-f19441feef52
-DTSTART:20250515T171500Z
-DTEND:20250515T185800Z
-SUMMARY:I HUVUDET PÅ BO (BEING BO WIDERBERG) - Buñuel Theatre
+UID:188ed970-0bbd-494e-ab02-1edd6d7d3a19
+DTSTART:20250515T170000Z
+DTEND:20250515T185900Z
+SUMMARY:THE STORY OF DOCUMENTARY FILM (THE 1970S) - Buñuel Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Cannes Classics - Documentaries about Cinema<br>Director: JON
- ASP\, MATTIAS NOHRBORG<br>Theater: Buñuel Theatre<br><a href="https://tick
- etonline1.festival-cannes.com/fiche?idproj=8TsG8dHmpJg%3D">Event link</a>
+DESCRIPTION:Program: Cannes Classics - Documentaries about Cinema<br>Director: MARK
+ COUSINS<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.festi
+ val-cannes.com/fiche?idproj=iB3I%2BrdQ530%3D">Event link</a>
 END:VEVENT
 
 BEGIN:VEVENT
-UID:007623b7-3e2f-4f93-a849-8a0b636f8ac9
+UID:e08a5020-da41-4162-834e-32003d6a8eaa
 DTSTART:20250516T120000Z
-DTEND:20250516T133300Z
-SUMMARY:STERNE (STARS) - Buñuel Theatre
+DTEND:20250516T131600Z
+SUMMARY:LA CASA DEL ÁNGEL (LA MAISON DE L'ANGE / THE HOUSE OF THE AN... - Buñuel Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Cannes Classics - Restored prints<br>Director: KONRAD
- WOLF<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.festival
- -cannes.com/fiche?idproj=VCO%2BYnGpKTU%3D">Event link</a>
+DESCRIPTION:Program: Cannes Classics - Restored prints<br>Director: LEOPOLDO TORRE
+ NILSSON<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.festi
+ val-cannes.com/fiche?idproj=3lR7lgLX%2BR4%3D">Event link</a>
 END:VEVENT
 
 BEGIN:VEVENT
-UID:57e1fe34-f8dc-46ee-a245-e16cca19832b
-DTSTART:20250516T140000Z
-DTEND:20250516T160800Z
-SUMMARY:HARD BOILED (À TOUTE ÉPREUVE ) - Buñuel Theatre
+UID:f5aab0ae-c845-4b75-9a28-b90413a40593
+DTSTART:20250516T134500Z
+DTEND:20250516T154000Z
+SUMMARY:AMMA ARIYAN (REPORT TO MOTHER) - Buñuel Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
 DESCRIPTION:Program: Cannes Classics - Restored prints<br>Director: JOHN
- WOO<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.festival-
- cannes.com/fiche?idproj=u6Ivp5xnRB8%3D">Event link</a>
+ ABRAHAM<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.festi
+ val-cannes.com/fiche?idproj=RXlMEKysnmE%3D">Event link</a>
 END:VEVENT
 
 BEGIN:VEVENT
-UID:d8fc8ab6-e33f-4c25-98fd-2ea8cc513335
-DTSTART:20250516T180000Z
-DTEND:20250516T210100Z
-SUMMARY:SUNSHINE - Buñuel Theatre
+UID:8fcfe569-a2ba-48c1-a9b2-ba6bbb65bad1
+DTSTART:20250516T163000Z
+DTEND:20250516T181000Z
+SUMMARY:VITTORIO DE SICA - LA VITA IN SCENA (VITTORIO DE SICA STAGIN... - Buñuel Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Cannes Classics - Restored prints<br>Director: ISTVAN
- SZABO<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.festiva
- l-cannes.com/fiche?idproj=PcSLyZ5utqw%3D">Event link</a>
+DESCRIPTION:Program: Cannes Classics - Documentaries about Cinema<br>Director:
+ FRANCESCO ZIPPEL<br>Theater: Buñuel Theatre<br><a href="https://ticketonli
+ ne1.festival-cannes.com/fiche?idproj=X9piZYeuLYU%3D">Event link</a>
 END:VEVENT
 
 BEGIN:VEVENT
-UID:a7e2db37-3015-41be-ae3d-4df11da0ee7b
-DTSTART:20250517T140000Z
-DTEND:20250517T155000Z
-SUMMARY:GEHENU LAMAI (THE GIRLS) - Buñuel Theatre
+UID:672a69a3-5151-46c5-a98b-49cdbfb187a3
+DTSTART:20250516T184500Z
+DTEND:20250516T202600Z
+SUMMARY:LA CIOCIARA (TWO WOMEN) - Buñuel Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Cannes Classics - Restored prints<br>Director: SUMITRA
- PERIES<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.festiv
- al-cannes.com/fiche?idproj=50di1GHz7PM%3D">Event link</a>
+DESCRIPTION:Program: Cannes Classics - Restored prints<br>Director: VITTORIO DE
+ SICA<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.festival
+ -cannes.com/fiche?idproj=H5Sfk3Sjz94%3D">Event link</a>
 END:VEVENT
 
 BEGIN:VEVENT
-UID:4555398f-98c5-457b-8339-9eaa143f903c
-DTSTART:20250517T150000Z
-DTEND:20250517T160800Z
-SUMMARY:I LOVE PERU - Agnès Varda Theatre
+UID:e3d6676d-678b-42b7-9a4c-2f172ae9400c
+DTSTART:20250517T131500Z
+DTEND:20250517T144500Z
+SUMMARY:SIERRA DE TERUEL (ESPOIR) - Agnès Varda Theatre
 LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
-DESCRIPTION:Program: Cannes Classics - Documentaries about Cinema<br>Director: RAPHAËL
- QUENARD\, HUGO DAVID<br>Theater: Agnès Varda Theatre<br><a href="https://t
- icketonline1.festival-cannes.com/fiche?idproj=lWgCbTdvRNw%3D">Event
- link</a>
+DESCRIPTION:Program: Cannes Classics - Restored prints<br>Director: ANDRÉ
+ MALRAUX<br>Theater: Agnès Varda Theatre<br><a href="https://ticketonline1.
+ festival-cannes.com/fiche?idproj=9ukSgM28mDo%3D">Event link</a>
 END:VEVENT
 
 BEGIN:VEVENT
-UID:3d8333e8-272b-4fd6-ac7a-f3da105ca17d
+UID:b7b33373-a15d-461e-a91f-4f6c3ccfbb6c
+DTSTART:20250517T143000Z
+DTEND:20250517T161000Z
+SUMMARY:THE DULL-ICE FLOWER - Buñuel Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: Cannes Classics - Restored prints<br>Director: YANG
+ LI-KUO<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.festiv
+ al-cannes.com/fiche?idproj=b0yY%2Bv7SJpA%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:5849a81a-7cae-4e0c-be08-461389c908b5
 DTSTART:20250517T170000Z
-DTEND:20250517T183500Z
-SUMMARY:THE ARCH (L'ARCHE) - Buñuel Theatre
+DTEND:20250517T184500Z
+SUMMARY:MAVERICK - THE EPIC ADVENTURES OF DAVID LEAN - Buñuel Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Cannes Classics - Restored prints<br>Director: T'ANG
- SHUSHUEN<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.fest
- ival-cannes.com/fiche?idproj=BFXJuyHh70Q%3D">Event link</a>
+DESCRIPTION:Program: Cannes Classics - Documentaries about Cinema<br>Director: BARNABY
+ THOMPSON<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.fest
+ ival-cannes.com/fiche?idproj=dsO7KH52OI0%3D">Event link</a>
 END:VEVENT
 
 BEGIN:VEVENT
-UID:6701dcff-8746-4967-b641-ac81251e4a6d
-DTSTART:20250517T191500Z
-DTEND:20250517T210100Z
-SUMMARY:MY MOM JAYNE: A FILM BY MARISKA HARGITAY - Buñuel Theatre
+UID:593d3ff4-a2f9-451d-a22d-4436c28c58fc
+DTSTART:20250518T140000Z
+DTEND:20250518T153000Z
+SUMMARY:EVA (EVE) - Buñuel Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Cannes Classics - Documentaries about Cinema<br>Director: MARISKA
- HARGITAY<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.fest
- ival-cannes.com/fiche?idproj=%2Fs3T4xKaLFk%3D">Event link</a>
+DESCRIPTION:Program: Cannes Classics - World Cinéma Project<br>Director: MARIA
+ PLYTA<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.festiva
+ l-cannes.com/fiche?idproj=nIntXhljahw%3D">Event link</a>
 END:VEVENT
 
 BEGIN:VEVENT
-UID:bc17bc83-9501-418e-a64e-82c85df18f01
-DTSTART:20250518T150000Z
-DTEND:20250518T163400Z
-SUMMARY:MÁS ALLÁ DEL OLVIDO (AU-DELÀ DE L'OUBLI / BEYOND OBLIVION) - Buñuel Theatre
+UID:72af3cd9-9207-4ca1-a554-74081ef8bed6
+DTSTART:20250518T160000Z
+DTEND:20250518T171500Z
+SUMMARY:NOSTALGIA FOR THE FUTURE (NOSTALGIE DU FUTUR) - Buñuel Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Cannes Classics - Restored prints<br>Director: HUGO DEL
- CARRIL<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.festiv
- al-cannes.com/fiche?idproj=eXJDS%2F0%2BAv4%3D">Event link</a>
+DESCRIPTION:Program: Cannes Classics - Documentaries about Cinema<br>Director: BRECHT
+ DEBACKERE<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.fes
+ tival-cannes.com/fiche?idproj=uG6UC11ACKA%3D">Event link</a>
 END:VEVENT
 
 BEGIN:VEVENT
-UID:bcc70154-2935-4cc7-8360-2fde5b445665
-DTSTART:20250518T173000Z
-DTEND:20250518T195500Z
-SUMMARY:SLAUSON REC - Buñuel Theatre
+UID:31ab0501-0577-4a03-937d-ee0ba225aca5
+DTSTART:20250518T174500Z
+DTEND:20250518T195000Z
+SUMMARY:METTI UNA SERA A CENA (DISONS UN SOIR A DINER / LOVE CIRCLE) - Buñuel Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Cannes Classics - Documentaries about Cinema<br>Director: LEO
- LEWIS O'NEIL<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.
- festival-cannes.com/fiche?idproj=D9chDDkO1n4%3D">Event link</a>
+DESCRIPTION:Program: Cannes Classics - Restored prints<br>Director: GIUSEPPE PATRONI
+ GRIFFI<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.festiv
+ al-cannes.com/fiche?idproj=v2HuwGxk3xg%3D">Event link</a>
 END:VEVENT
 
 BEGIN:VEVENT
-UID:c0da1076-2d32-4b98-8b31-3e50cc35159d
-DTSTART:20250519T141500Z
-DTEND:20250519T155400Z
-SUMMARY:PARA VIGO ME VOY! (À VIGO JE VAIS ! / TO VIGO I GO!) - Buñuel Theatre
+UID:86196b9d-732d-4e71-97a4-5f97fef308e2
+DTSTART:20250519T144500Z
+DTEND:20250519T162000Z
+SUMMARY:THE STRANGER (LE CRIMINEL) - Buñuel Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Cannes Classics - Documentaries about Cinema<br>Director: LÍRIO
- FERREIRA\, KAREN HARLEY<br>Theater: Buñuel Theatre<br><a href="https://tic
- ketonline1.festival-cannes.com/fiche?idproj=DBurM0Lm55Y%3D">Event link</a>
+DESCRIPTION:Program: Cannes Classics - Restored prints<br>Director: ORSON
+ WELLES<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.festiv
+ al-cannes.com/fiche?idproj=Mh2NL7m58n8%3D">Event link</a>
 END:VEVENT
 
 BEGIN:VEVENT
-UID:25bda553-515a-402c-8f99-344ad8a40310
-DTSTART:20250519T174500Z
-DTEND:20250519T194100Z
-SUMMARY:ARANYER DIN RATRI (DAYS AND NIGHTS IN THE FOREST) - Buñuel Theatre
+UID:147332a5-f693-421e-81b2-0fa42c71a0b7
+DTSTART:20250519T190000Z
+DTEND:20250519T211000Z
+SUMMARY:L'INNOCENTE (L'INNOCENT / THE INNOCENT) - Buñuel Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Cannes Classics - Restored prints<br>Director: SATYAJIT
- RAY<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.festival-
- cannes.com/fiche?idproj=8YWlz5UZe%2B8%3D">Event link</a>
+DESCRIPTION:Program: Cannes Classics - Restored prints<br>Director: LUCHINO
+ VISCONTI<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.fest
+ ival-cannes.com/fiche?idproj=hXXiVd%2B0j%2FM%3D">Event link</a>
 END:VEVENT
 
 BEGIN:VEVENT
-UID:06433b4b-26b9-4391-bdb3-01288aaeb3c3
-DTSTART:20250520T150000Z
-DTEND:20250520T170300Z
-SUMMARY:UKIGUMO (FLOATING CLOUDS) - Buñuel Theatre
+UID:8fccb6ed-b4b4-43e2-96a4-baf786ffcf3b
+DTSTART:20250520T143000Z
+DTEND:20250520T160700Z
+SUMMARY:LA SYMPHONIE PASTORALE (PASTORAL SYMPHONIE) - Buñuel Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Cannes Classics - Restored prints<br>Director: MIKIO
- NARUSE<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.festiv
- al-cannes.com/fiche?idproj=Ql1vmfCPtT0%3D">Event link</a>
+DESCRIPTION:Program: Cannes Classics - Restored prints<br>Director: JEAN
+ DELANNOY<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.fest
+ ival-cannes.com/fiche?idproj=YkMg35xgKC4%3D">Event link</a>
 END:VEVENT
 
 BEGIN:VEVENT
-UID:7585b08b-8282-4db5-905d-90c98d9c4dca
-DTSTART:20250520T171500Z
-DTEND:20250520T194900Z
-SUMMARY:AMORES PERROS (AMOURS CHIENNES / LOVE'S A BITCH) - Agnès Varda Theatre
-LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
-DESCRIPTION:Program: Cannes Classics - Restored prints<br>Director: ALEJANDRO G.
- IÑÁRRITU<br>Theater: Agnès Varda Theatre<br><a href="https://ticketonline1
- .festival-cannes.com/fiche?idproj=3EHG79g03%2Bw%3D">Event link</a>
+UID:0e3779fc-ca32-42ec-b085-d18b7994e3cb
+DTSTART:20250520T170000Z
+DTEND:20250520T185100Z
+SUMMARY:"DERNSIE: THE AMAZING LIFE OF BRUCE DERN" (DERNSIE : LA VIE ... - Buñuel Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: Cannes Classics - Documentaries about Cinema<br>Director: MIKE
+ MENDEZ<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.festiv
+ al-cannes.com/fiche?idproj=Gr6ar8NIC8g%3D">Event link</a>
 END:VEVENT
 
 BEGIN:VEVENT
-UID:00318dea-cbf5-4e5d-a462-bebaf2e394d3
+UID:08091aed-4c4c-48a9-97e5-24b48152a2bc
 DTSTART:20250521T143000Z
-DTEND:20250521T155000Z
-SUMMARY:MAGIRAMA - Buñuel Theatre
-LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Cannes Classics - Restored prints<br>Director: ABEL
- GANCE<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.festiva
- l-cannes.com/fiche?idproj=jlfK65jTd%2FE%3D">Event link</a>
-END:VEVENT
-
-BEGIN:VEVENT
-UID:bed39f84-5081-47c1-b464-f6e83a9c931c
-DTSTART:20250521T163000Z
-DTEND:20250521T174200Z
-SUMMARY:MERLUSSE - Buñuel Theatre
-LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Cannes Classics - Restored prints<br>Director: MARCEL
- PAGNOL<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.festiv
- al-cannes.com/fiche?idproj=PHdyLLZM8fo%3D">Event link</a>
-END:VEVENT
-
-BEGIN:VEVENT
-UID:5de59bbf-46f7-44ec-8870-17b601ccd5b3
-DTSTART:20250521T181500Z
-DTEND:20250521T202800Z
-SUMMARY:ONE FLEW OVER THE CUCKOO'S NEST - Buñuel Theatre
-LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Cannes Classics - Restored prints<br>Director: MILOŠ
- FORMAN<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.festiv
- al-cannes.com/fiche?idproj=J8PwruYNdxY%3D">Event link</a>
-END:VEVENT
-
-BEGIN:VEVENT
-UID:1fa2a14f-49f7-4473-89f9-3fe5ddaf7d56
-DTSTART:20250522T123000Z
-DTEND:20250522T142000Z
-SUMMARY:LA COURSE EN TÊTE - Buñuel Theatre
-LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Cannes Classics - Restored prints<br>Director: JOEL
- SANTONI<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.festi
- val-cannes.com/fiche?idproj=xUyhFKaXn70%3D">Event link</a>
-END:VEVENT
-
-BEGIN:VEVENT
-UID:7eff4d64-6173-41f7-9744-cd90a9016ce7
-DTSTART:20250522T183000Z
-DTEND:20250522T204000Z
-SUMMARY:DOGMA - Buñuel Theatre
-LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Cannes Classics - Restored prints<br>Director: KEVIN
- SMITH<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.festiva
- l-cannes.com/fiche?idproj=gpzqE5cKn0E%3D">Event link</a>
-END:VEVENT
-
-BEGIN:VEVENT
-UID:8448f357-206f-4858-8d88-4477f416de63
-DTSTART:20250523T093000Z
-DTEND:20250523T105100Z
-SUMMARY:DIS PAS DE BÊTISES (WATCH WHAT YOU SAY) - Buñuel Theatre
-LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Cannes Classics - Documentaries about Cinema<br>Director: VINCENT
- GLENN<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.festiva
- l-cannes.com/fiche?idproj=n06yYgs3wqE%3D">Event link</a>
-END:VEVENT
-
-BEGIN:VEVENT
-UID:6fa6ed41-9646-4d4a-8739-b43979801f39
-DTSTART:20250523T123000Z
-DTEND:20250523T153400Z
-SUMMARY:BARRY LYNDON - Debussy Theatre
-LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Cannes Classics - Restored prints<br>Director: STANLEY
- KUBRICK<br>Theater: Debussy Theatre<br><a href="https://ticketonline1.fest
- ival-cannes.com/fiche?idproj=SzuB%2Bgf5wko%3D">Event link</a>
-END:VEVENT
-
-BEGIN:VEVENT
-UID:05675736-5686-42d9-9f53-466601a33fd6
-DTSTART:20250523T124500Z
-DTEND:20250523T153600Z
-SUMMARY:CHRONIQUE DES ANNÉES DE BRAISE (CHRONICLE OF THE YEARS OF FI... - Buñuel Theatre
-LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Cannes Classics - Tribute<br>Director: MOHAMED LAKHDAR
- HAMINA<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.festiv
- al-cannes.com/fiche?idproj=vIJP25%2BGxkU%3D">Event link</a>
-END:VEVENT
-
-BEGIN:VEVENT
-UID:4abb4bf2-fc09-43af-a0a5-9bf9944d1a7e
-DTSTART:20250523T170000Z
-DTEND:20250523T185800Z
-SUMMARY:MOI QUI T'AIMAIS - Agnès Varda Theatre
+DTEND:20250521T160600Z
+SUMMARY:MON COLUCHE A MOI (MY COLUCHE) - Agnès Varda Theatre
 LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
-DESCRIPTION:Program: Cannes Classics - Tribute<br>Director: DIANE KURYS<br>Theater:
- Agnès Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/
- fiche?idproj=SP1yb84ZVgE%3D">Event link</a>
+DESCRIPTION:Program: Cannes Classics - Documentaries about Cinema<br>Director: Michel
+ DENISOT\, Julie LAZARE\, Camille BRUE...<br>Theater: Agnès Varda
+ Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+ =fOdkzTxnaYw%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:5b071300-58b8-4661-9af9-2197c15a0370
+DTSTART:20250521T180000Z
+DTEND:20250521T192400Z
+SUMMARY:MACHINE GUN KELLY - Buñuel Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: Cannes Classics - Restored prints<br>Director: ROGER
+ CORMAN<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.festiv
+ al-cannes.com/fiche?idproj=bQE%2B6jTszoQ%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:34d1c8b5-eeeb-45b9-8962-f1490c9ddbef
+DTSTART:20250522T083000Z
+DTEND:20250522T095300Z
+SUMMARY:LA DÉRIVE (THE DRIFT) - Buñuel Theatre
+LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
+DESCRIPTION:Program: Cannes Classics - Restored prints<br>Director: PAULA
+ DELSOL<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.festiv
+ al-cannes.com/fiche?idproj=ol4u1IKDP7E%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:1e09204b-2a6f-4b9f-8be1-53efff510941
+DTSTART:20250522T171500Z
+DTEND:20250522T184200Z
+SUMMARY:MEEUWEN STERVEN IN DE HAVEN (LES MOUETTES MEURENT AU PORT) - Agnès Varda Theatre
+LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
+DESCRIPTION:Program: Cannes Classics - Restored prints<br>Director: Rik KUYPERS\,
+ Roland VERHAVERT\, Ivo MICHIEL...<br>Theater: Agnès Varda Theatre<br><a
+ href="https://ticketonline1.festival-cannes.com/fiche?idproj=jsgGeERhM2s%3
+ D">Event link</a>
 END:VEVENT
 
 END:VCALENDAR

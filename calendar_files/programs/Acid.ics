@@ -1,578 +1,449 @@
-BEGIN:VCALENDAR
-
-VERSION:2.0
-
-PRODID:-//Cannes Film Festival//Screenings//EN
-
-CALSCALE:GREGORIAN
-
-METHOD:PUBLISH
-
-X-WR-CALNAME:Cannes Film Festival Screenings
-
-X-WR-TIMEZONE:Europe/Paris
-
-
-
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cannes Film Festival//Screenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cannes Film Festival Screenings
+X-WR-TIMEZONE:Europe/Paris
+
 BEGIN:VEVENT
-UID:fbbc6df5-f49b-4b31-90c1-da94f1a4647b
+UID:16d73b4d-600f-4933-b517-f10712ad4d1f
+DTSTART:20250513T180000Z
+DTEND:20250513T200500Z
+SUMMARY:MAUVAISE ÉTOILE - Arcades 1
+LOCATION:77 Rue Félix Faure 06400 Cannes
+DESCRIPTION:Program: Acid<br>Director: LOLA CAMBOURIEU\, YANN BERLIER<br>Theater:
+ Arcades 1<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpr
+ oj=VwdfUnXUXmI%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:d4752879-f13d-43e3-b635-b3b197865bf7
+DTSTART:20250513T183000Z
+DTEND:20250513T203500Z
+SUMMARY:MAUVAISE ÉTOILE - Arcades 2
+LOCATION:77 Rue Félix Faure 06400 Cannes
+DESCRIPTION:Program: Acid<br>Director: LOLA CAMBOURIEU\, YANN BERLIER<br>Theater:
+ Arcades 2<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpr
+ oj=xbJ2d0EL%2BsE%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:6120e203-95b7-4de3-b096-c6e43fd3a1eb
+DTSTART:20250514T090000Z
+DTEND:20250514T102600Z
+SUMMARY:DANS LA GUEULE DE L'OGRE - Studio 13
+LOCATION:23 Av. du Dr Raymond Picaud 06400 Cannes
+DESCRIPTION:Program: Acid<br>Director: MAHSA KARAMPOUR<br>Theater: Studio 13<br><a
+ href="https://ticketonline1.festival-cannes.com/fiche?idproj=T2npkj47HhE%3
+ D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:4619136f-5a98-454f-9faa-c5c1837d5f49
+DTSTART:20250514T090000Z
+DTEND:20250514T102800Z
+SUMMARY:CŒUR SECRET - Raimu
+LOCATION:Chemin de la Borde 06150 Cannes La Bocca
+DESCRIPTION:Program: Acid<br>Director: TOM FONTENILLE<br>Theater: Raimu<br><a href="htt
+ ps://ticketonline1.festival-cannes.com/fiche?idproj=h5PIOgunuqw%3D">Event
+ link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:54f6eca2-46b1-4901-a4ce-2199779f6565
+DTSTART:20250514T120000Z
+DTEND:20250514T141200Z
+SUMMARY:LA DÉTENTION - Alexandre III
+LOCATION:19 Bd Alexandre III 06400 Cannes
+DESCRIPTION:Program: Acid<br>Director: GUILLAUME MASSART<br>Theater: Alexandre
+ III<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=jgY
+ f1ANjnxs%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:3ec2bd68-67e0-46ad-91be-3d87bd94fa91
+DTSTART:20250514T144500Z
+DTEND:20250514T160700Z
+SUMMARY:BLAISE - Alexandre III
+LOCATION:19 Bd Alexandre III 06400 Cannes
+DESCRIPTION:Program: Acid<br>Director: DIMITRI PLANCHON\, JEAN-PAUL GUIGUE<br>Theater:
+ Alexandre III<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+ idproj=L0wPJ8dBn5o%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:97d314b0-19a9-49b5-94e7-c160ec1c5b8d
 DTSTART:20250514T180000Z
-DTEND:20250514T194000Z
-SUMMARY:L'AVENTURA - Arcades 1
+DTEND:20250514T192600Z
+SUMMARY:DANS LA GUEULE DE L'OGRE - Arcades 1
 LOCATION:77 Rue Félix Faure 06400 Cannes
-DESCRIPTION:Program: Acid<br>Director: SOPHIE LETOURNEUR<br>Theater: Arcades 1<br><a
-
- href="https://ticketonline1.festival-cannes.com/fiche?idproj=H9bYvZt0xhw%3
-
- D">Event link</a>
+DESCRIPTION:Program: Acid<br>Director: MAHSA KARAMPOUR<br>Theater: Arcades 1<br><a
+ href="https://ticketonline1.festival-cannes.com/fiche?idproj=vzNrUx3%2BCP0
+ %3D">Event link</a>
 END:VEVENT
-
-
+
 BEGIN:VEVENT
-UID:e90a0c56-39a1-4d50-9b11-ac538e8a4038
+UID:78ecca73-7865-4ab9-9ce3-b38e57ce3277
 DTSTART:20250514T183000Z
-DTEND:20250514T201000Z
-SUMMARY:L'AVENTURA - Arcades 2
+DTEND:20250514T195600Z
+SUMMARY:DANS LA GUEULE DE L'OGRE - Arcades 2
 LOCATION:77 Rue Félix Faure 06400 Cannes
-DESCRIPTION:Program: Acid<br>Director: SOPHIE LETOURNEUR<br>Theater: Arcades 2<br><a
-
- href="https://ticketonline1.festival-cannes.com/fiche?idproj=y7HlqlEU5xU%3
-
+DESCRIPTION:Program: Acid<br>Director: MAHSA KARAMPOUR<br>Theater: Arcades 2<br><a
+ href="https://ticketonline1.festival-cannes.com/fiche?idproj=pblsSxjehpg%3
  D">Event link</a>
 END:VEVENT
-
-
+
 BEGIN:VEVENT
-UID:66cd8b56-63b9-4d04-96fb-6831569c5d7a
+UID:74affaae-5d77-4ba7-8fe6-4f141a267006
 DTSTART:20250515T090000Z
-DTEND:20250515T102500Z
-SUMMARY:LA COULEUVRE NOIRE - Raimu
-LOCATION:Chemin de la Borde 06150 Cannes La Bocca
-DESCRIPTION:Program: Acid<br>Director: AURÉLIEN VERNHES-LERMUSIAUX<br>Theater:
-
- Raimu<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=e
-
- pPTLPLa%2FXo%3D">Event link</a>
-END:VEVENT
-
-
-BEGIN:VEVENT
-UID:b0cc817e-e68c-41f6-8835-05d023c14a9b
-DTSTART:20250515T090000Z
-DTEND:20250515T105000Z
-SUMMARY:PUT YOUR SOUL ON YOUR HAND AND WALK - Studio 13
+DTEND:20250515T102200Z
+SUMMARY:BLAISE - Studio 13
 LOCATION:23 Av. du Dr Raymond Picaud 06400 Cannes
-DESCRIPTION:Program: Acid<br>Director: SEPIDEH FARSI<br>Theater: Studio 13<br><a href="
-
- https://ticketonline1.festival-cannes.com/fiche?idproj=CoOTkauiYX0%3D">Eve
-
- nt link</a>
+DESCRIPTION:Program: Acid<br>Director: DIMITRI PLANCHON\, JEAN-PAUL GUIGUE<br>Theater:
+ Studio 13<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpr
+ oj=kkXZN%2Bv4pBg%3D">Event link</a>
 END:VEVENT
-
-
+
 BEGIN:VEVENT
-UID:41c7b116-6752-4139-923f-46aa0cb42c04
-DTSTART:20250515T120000Z
-DTEND:20250515T132500Z
-SUMMARY:LA COULEUVRE NOIRE - Alexandre III
-LOCATION:19 Bd Alexandre III 06400 Cannes
-DESCRIPTION:Program: Acid<br>Director: AURÉLIEN VERNHES-LERMUSIAUX<br>Theater:
-
- Alexandre III<br><a href="https://ticketonline1.festival-cannes.com/fiche?
-
- idproj=K5LGirMujtg%3D">Event link</a>
-END:VEVENT
-
-
-BEGIN:VEVENT
-UID:e1dcf2b7-afe0-4321-a443-7d44ba43cf2a
+UID:99756c42-6154-42ec-b078-3235c31f825b
 DTSTART:20250515T143000Z
-DTEND:20250515T161800Z
-SUMMARY:A LIGHT THAT NEVER GOES OUT - Alexandre III
+DTEND:20250515T155800Z
+SUMMARY:CŒUR SECRET - Alexandre III
 LOCATION:19 Bd Alexandre III 06400 Cannes
-DESCRIPTION:Program: Acid<br>Director: LAURI-MATTI PARPPEI<br>Theater: Alexandre
-
- III<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=hzJ
-
- fseBamro%3D">Event link</a>
+DESCRIPTION:Program: Acid<br>Director: TOM FONTENILLE<br>Theater: Alexandre III<br><a
+ href="https://ticketonline1.festival-cannes.com/fiche?idproj=ES4rzZOwBnA%3
+ D">Event link</a>
 END:VEVENT
-
-
+
 BEGIN:VEVENT
-UID:9cfb6636-752b-4d49-9c5f-069e71ea75fb
+UID:e7a2bde2-856e-4e49-91b9-1f6478a16e41
+DTSTART:20250515T170000Z
+DTEND:20250515T190500Z
+SUMMARY:MAUVAISE ÉTOILE - Raimu
+LOCATION:Chemin de la Borde 06150 Cannes La Bocca
+DESCRIPTION:Program: Acid<br>Director: LOLA CAMBOURIEU\, YANN BERLIER<br>Theater:
+ Raimu<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=4
+ KyUzkJ%2FA70%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:4e893b1f-72f4-4016-a6d9-a84b68fee0f9
 DTSTART:20250515T180000Z
-DTEND:20250515T195000Z
-SUMMARY:PUT YOUR SOUL ON YOUR HAND AND WALK - Olympia 1
-LOCATION:5 Rue de la Pompe\, 06400 Cannes\, France
-DESCRIPTION:Program: Acid<br>Director: SEPIDEH FARSI<br>Theater: Olympia 1<br><a href="
-
- https://ticketonline1.festival-cannes.com/fiche?idproj=d8TJda2KWK8%3D">Eve
-
- nt link</a>
+DTEND:20250515T192200Z
+SUMMARY:BLAISE - Arcades 1
+LOCATION:77 Rue Félix Faure 06400 Cannes
+DESCRIPTION:Program: Acid<br>Director: DIMITRI PLANCHON\, JEAN-PAUL GUIGUE<br>Theater:
+ Arcades 1<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpr
+ oj=3NUMKnkQXNM%3D">Event link</a>
 END:VEVENT
-
-
+
 BEGIN:VEVENT
-UID:b2b1ac90-8b2a-44bb-904d-ae16ef744a84
+UID:08584169-708a-4d4e-ac81-19890e8a5a1d
 DTSTART:20250515T183000Z
-DTEND:20250515T202000Z
-SUMMARY:PUT YOUR SOUL ON YOUR HAND AND WALK - Olympia 4
-LOCATION:5 Rue de la Pompe\, 06400 Cannes\, France
-DESCRIPTION:Program: Acid<br>Director: SEPIDEH FARSI<br>Theater: Olympia 4<br><a href="
-
- https://ticketonline1.festival-cannes.com/fiche?idproj=B6fy39dHyCU%3D">Eve
-
- nt link</a>
+DTEND:20250515T195200Z
+SUMMARY:BLAISE - Arcades 2
+LOCATION:77 Rue Félix Faure 06400 Cannes
+DESCRIPTION:Program: Acid<br>Director: DIMITRI PLANCHON\, JEAN-PAUL GUIGUE<br>Theater:
+ Arcades 2<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpr
+ oj=OfO7bjEEi4A%3D">Event link</a>
 END:VEVENT
-
-
+
 BEGIN:VEVENT
-UID:e8c49d94-10f1-4721-af7e-052dbe3be281
+UID:61d80bb1-1e9a-40c5-92e7-57f27073f2fd
 DTSTART:20250516T090000Z
-DTEND:20250516T105000Z
-SUMMARY:LAURENT DANS LE VENT - Studio 13
+DTEND:20250516T102900Z
+SUMMARY:VIRAGES - Studio 13
 LOCATION:23 Av. du Dr Raymond Picaud 06400 Cannes
-DESCRIPTION:Program: Acid<br>Director: Anton BALEKDJIAN\, Léo COUTURE\, Matteo
-
- EUST...<br>Theater: Studio 13<br><a href="https://ticketonline1.festival-c
-
- annes.com/fiche?idproj=JUJkeF%2FmcDs%3D">Event link</a>
+DESCRIPTION:Program: Acid<br>Director: CÉLINE CARRIDROIT\, ALINE SUTER<br>Theater:
+ Studio 13<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpr
+ oj=PpOoQMW%2FEiM%3D">Event link</a>
 END:VEVENT
-
-
+
 BEGIN:VEVENT
-UID:608bd59e-6de3-4e8b-b1ab-c8395d27067d
+UID:fb15d4ed-0e25-45f1-91cb-5982e3fb300d
 DTSTART:20250516T143000Z
-DTEND:20250516T155500Z
-SUMMARY:LA COULEUVRE NOIRE - Alexandre III
+DTEND:20250516T154600Z
+SUMMARY:PROMISED SPACES - Alexandre III
 LOCATION:19 Bd Alexandre III 06400 Cannes
-DESCRIPTION:Program: Acid<br>Director: AURÉLIEN VERNHES-LERMUSIAUX<br>Theater:
-
- Alexandre III<br><a href="https://ticketonline1.festival-cannes.com/fiche?
-
- idproj=bIdAVPVc5%2Fs%3D">Event link</a>
+DESCRIPTION:Program: Acid<br>Director: IVAN MARKOVIC<br>Theater: Alexandre III<br><a
+ href="https://ticketonline1.festival-cannes.com/fiche?idproj=%2FRZuqzJKstc
+ %3D">Event link</a>
 END:VEVENT
-
-
+
 BEGIN:VEVENT
-UID:1787b0a8-9512-4395-b00b-b15589c078c8
-DTSTART:20250516T170000Z
-DTEND:20250516T184800Z
-SUMMARY:A LIGHT THAT NEVER GOES OUT - Raimu
-LOCATION:Chemin de la Borde 06150 Cannes La Bocca
-DESCRIPTION:Program: Acid<br>Director: LAURI-MATTI PARPPEI<br>Theater: Raimu<br><a
-
- href="https://ticketonline1.festival-cannes.com/fiche?idproj=uwEpHDzbGjs%3
-
- D">Event link</a>
-END:VEVENT
-
-
-BEGIN:VEVENT
-UID:0599d835-3f3c-4dcb-91f5-76a1a76495be
+UID:c6dc8138-8a53-420c-b878-cc2388924821
 DTSTART:20250516T180000Z
-DTEND:20250516T195000Z
-SUMMARY:LAURENT DANS LE VENT - Arcades 1
+DTEND:20250516T192900Z
+SUMMARY:VIRAGES - Arcades 1
 LOCATION:77 Rue Félix Faure 06400 Cannes
-DESCRIPTION:Program: Acid<br>Director: Anton BALEKDJIAN\, Léo COUTURE\, Matteo
-
- EUST...<br>Theater: Arcades 1<br><a href="https://ticketonline1.festival-c
-
- annes.com/fiche?idproj=t4HZ5M4X10c%3D">Event link</a>
+DESCRIPTION:Program: Acid<br>Director: CÉLINE CARRIDROIT\, ALINE SUTER<br>Theater:
+ Arcades 1<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpr
+ oj=xp1mY41KsNE%3D">Event link</a>
 END:VEVENT
-
-
+
 BEGIN:VEVENT
-UID:c4b23841-d099-4beb-89ba-b7fc6a4b8d6f
+UID:f7e640b0-e872-4773-886f-9fcfe40ee835
 DTSTART:20250516T183000Z
-DTEND:20250516T202000Z
-SUMMARY:LAURENT DANS LE VENT - Arcades 2
+DTEND:20250516T195900Z
+SUMMARY:VIRAGES - Arcades 2
 LOCATION:77 Rue Félix Faure 06400 Cannes
-DESCRIPTION:Program: Acid<br>Director: Anton BALEKDJIAN\, Léo COUTURE\, Matteo
-
- EUST...<br>Theater: Arcades 2<br><a href="https://ticketonline1.festival-c
-
- annes.com/fiche?idproj=hC7O9PPn6Ts%3D">Event link</a>
+DESCRIPTION:Program: Acid<br>Director: CÉLINE CARRIDROIT\, ALINE SUTER<br>Theater:
+ Arcades 2<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpr
+ oj=WuI60b0tRSA%3D">Event link</a>
 END:VEVENT
-
-
+
 BEGIN:VEVENT
-UID:497076c5-d945-451d-b7ff-7a9782c7fe3b
-DTSTART:20250517T083000Z
-DTEND:20250517T104100Z
-SUMMARY:ENTRONCAMENTO - Studio 13
+UID:acc30ba9-e34c-464a-aa6f-03cc63dcc254
+DTSTART:20250517T090000Z
+DTEND:20250517T102600Z
+SUMMARY:BARÇA ZOU - Studio 13
 LOCATION:23 Av. du Dr Raymond Picaud 06400 Cannes
-DESCRIPTION:Program: Acid<br>Director: PEDRO CABELEIRA<br>Theater: Studio 13<br><a
-
- href="https://ticketonline1.festival-cannes.com/fiche?idproj=DnhyQ6uY6uI%3
-
- D">Event link</a>
+DESCRIPTION:Program: Acid<br>Director: PAUL NOUHET<br>Theater: Studio 13<br><a href="ht
+ tps://ticketonline1.festival-cannes.com/fiche?idproj=hQngTKNPBVE%3D">Event
+ link</a>
 END:VEVENT
-
-
+
 BEGIN:VEVENT
-UID:44a2ace8-6e6b-4bc0-9605-cd1d79cb481f
+UID:69e553de-b1af-4f53-9ded-e3914bf3287a
 DTSTART:20250517T143000Z
-DTEND:20250517T154600Z
-SUMMARY:LA VIE APRÈS SIHAM - Alexandre III
+DTEND:20250517T163500Z
+SUMMARY:MAUVAISE ÉTOILE - Alexandre III
 LOCATION:19 Bd Alexandre III 06400 Cannes
-DESCRIPTION:Program: Acid<br>Director: NAMIR ABDEL MESSEEH<br>Theater: Alexandre
-
- III<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=KHX
-
- Me6FU1Gk%3D">Event link</a>
+DESCRIPTION:Program: Acid<br>Director: LOLA CAMBOURIEU\, YANN BERLIER<br>Theater:
+ Alexandre III<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+ idproj=XRWWvzM%2BunQ%3D">Event link</a>
 END:VEVENT
-
-
+
 BEGIN:VEVENT
-UID:92e53d8b-80d5-41b4-8fee-7edc855478a7
+UID:c2f5f3aa-eb6f-4714-a1b9-a1a03a067658
+DTSTART:20250517T170000Z
+DTEND:20250517T182600Z
+SUMMARY:DANS LA GUEULE DE L'OGRE - Raimu
+LOCATION:Chemin de la Borde 06150 Cannes La Bocca
+DESCRIPTION:Program: Acid<br>Director: MAHSA KARAMPOUR<br>Theater: Raimu<br><a href="ht
+ tps://ticketonline1.festival-cannes.com/fiche?idproj=2v51YbW5Byc%3D">Event
+ link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:12441911-a83a-4931-b6d5-ebf0fe40ece5
 DTSTART:20250517T180000Z
-DTEND:20250517T201100Z
-SUMMARY:ENTRONCAMENTO - Arcades 1
+DTEND:20250517T192600Z
+SUMMARY:BARÇA ZOU - Arcades 1
 LOCATION:77 Rue Félix Faure 06400 Cannes
-DESCRIPTION:Program: Acid<br>Director: PEDRO CABELEIRA<br>Theater: Arcades 1<br><a
-
- href="https://ticketonline1.festival-cannes.com/fiche?idproj=%2BJsE8C35Mhc
-
- %3D">Event link</a>
+DESCRIPTION:Program: Acid<br>Director: PAUL NOUHET<br>Theater: Arcades 1<br><a href="ht
+ tps://ticketonline1.festival-cannes.com/fiche?idproj=hflbUtCy7Ik%3D">Event
+ link</a>
 END:VEVENT
-
-
+
 BEGIN:VEVENT
-UID:d303080e-a371-4ab5-aac5-656d6871677a
+UID:697c599f-03a3-46b2-b358-a0a0d28511df
 DTSTART:20250517T183000Z
-DTEND:20250517T204100Z
-SUMMARY:ENTRONCAMENTO - Arcades 2
+DTEND:20250517T195600Z
+SUMMARY:BARÇA ZOU - Arcades 2
 LOCATION:77 Rue Félix Faure 06400 Cannes
-DESCRIPTION:Program: Acid<br>Director: PEDRO CABELEIRA<br>Theater: Arcades 2<br><a
-
- href="https://ticketonline1.festival-cannes.com/fiche?idproj=7JFh7iZSzaw%3
-
- D">Event link</a>
+DESCRIPTION:Program: Acid<br>Director: PAUL NOUHET<br>Theater: Arcades 2<br><a href="ht
+ tps://ticketonline1.festival-cannes.com/fiche?idproj=fcxXoXgoNfc%3D">Event
+ link</a>
 END:VEVENT
-
-
+
 BEGIN:VEVENT
-UID:20ebfec4-df1c-46f2-8370-4eb411336c9a
+UID:641e0b86-a131-41b9-b686-4c886b1e40cb
 DTSTART:20250518T090000Z
-DTEND:20250518T102200Z
-SUMMARY:DRUNKEN NOODLES - Studio 13
+DTEND:20250518T101600Z
+SUMMARY:PROMISED SPACES - Studio 13
 LOCATION:23 Av. du Dr Raymond Picaud 06400 Cannes
-DESCRIPTION:Program: Acid<br>Director: LUCIO CASTRO<br>Theater: Studio 13<br><a href="h
-
- ttps://ticketonline1.festival-cannes.com/fiche?idproj=%2Bcj6uTrS7NY%3D">Ev
-
- ent link</a>
-END:VEVENT
-
-
-BEGIN:VEVENT
-UID:d0a9c5e1-757d-4242-8e76-d1dd06a6f590
-DTSTART:20250518T143000Z
-DTEND:20250518T162000Z
-SUMMARY:PUT YOUR SOUL ON YOUR HAND AND WALK - Alexandre III
-LOCATION:19 Bd Alexandre III 06400 Cannes
-DESCRIPTION:Program: Acid<br>Director: SEPIDEH FARSI<br>Theater: Alexandre III<br><a
-
- href="https://ticketonline1.festival-cannes.com/fiche?idproj=e5jKKk1JtMo%3
-
- D">Event link</a>
-END:VEVENT
-
-
-BEGIN:VEVENT
-UID:16333e6b-92ad-4cb1-a24f-748beaec3b0f
-DTSTART:20250518T170000Z
-DTEND:20250518T185000Z
-SUMMARY:LAURENT DANS LE VENT - Raimu
-LOCATION:Chemin de la Borde 06150 Cannes La Bocca
-DESCRIPTION:Program: Acid<br>Director: Anton BALEKDJIAN\, Léo COUTURE\, Matteo
-
- EUST...<br>Theater: Raimu<br><a href="https://ticketonline1.festival-canne
-
- s.com/fiche?idproj=hfVQCXgEuT8%3D">Event link</a>
-END:VEVENT
-
-
-BEGIN:VEVENT
-UID:376c40db-b952-47da-8f44-7517d774e0a6
-DTSTART:20250518T180000Z
-DTEND:20250518T192200Z
-SUMMARY:DRUNKEN NOODLES - Arcades 1
-LOCATION:77 Rue Félix Faure 06400 Cannes
-DESCRIPTION:Program: Acid<br>Director: LUCIO CASTRO<br>Theater: Arcades 1<br><a href="h
-
- ttps://ticketonline1.festival-cannes.com/fiche?idproj=6r09cpgD9Q0%3D">Even
-
- t link</a>
-END:VEVENT
-
-
-BEGIN:VEVENT
-UID:b36ce57d-1f94-49e5-a21d-1edeec8ad99d
-DTSTART:20250518T183000Z
-DTEND:20250518T195200Z
-SUMMARY:DRUNKEN NOODLES - Arcades 2
-LOCATION:77 Rue Félix Faure 06400 Cannes
-DESCRIPTION:Program: Acid<br>Director: LUCIO CASTRO<br>Theater: Arcades 2<br><a href="h
-
- ttps://ticketonline1.festival-cannes.com/fiche?idproj=Rq8iPHS9IDw%3D">Even
-
- t link</a>
-END:VEVENT
-
-
-BEGIN:VEVENT
-UID:4b60abcf-e7ec-497d-bb0f-d69f1dc96728
-DTSTART:20250519T090000Z
-DTEND:20250519T104800Z
-SUMMARY:A LIGHT THAT NEVER GOES OUT - Studio 13
-LOCATION:23 Av. du Dr Raymond Picaud 06400 Cannes
-DESCRIPTION:Program: Acid<br>Director: LAURI-MATTI PARPPEI<br>Theater: Studio 13<br><a
-
- href="https://ticketonline1.festival-cannes.com/fiche?idproj=isGdwcpvyIA%3
-
- D">Event link</a>
-END:VEVENT
-
-
-BEGIN:VEVENT
-UID:9bb042fd-ab72-4618-9703-24cbe25d7a8a
-DTSTART:20250519T143000Z
-DTEND:20250519T161000Z
-SUMMARY:L'AVENTURA - Alexandre III
-LOCATION:19 Bd Alexandre III 06400 Cannes
-DESCRIPTION:Program: Acid<br>Director: SOPHIE LETOURNEUR<br>Theater: Alexandre
-
- III<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=TIm
-
- sebjYdY0%3D">Event link</a>
-END:VEVENT
-
-
-BEGIN:VEVENT
-UID:12a2c46a-97fd-4519-8aa2-89d0c34c4253
-DTSTART:20250519T180000Z
-DTEND:20250519T194800Z
-SUMMARY:A LIGHT THAT NEVER GOES OUT - Arcades 1
-LOCATION:77 Rue Félix Faure 06400 Cannes
-DESCRIPTION:Program: Acid<br>Director: LAURI-MATTI PARPPEI<br>Theater: Arcades 1<br><a
-
- href="https://ticketonline1.festival-cannes.com/fiche?idproj=xjp%2F9NH5zrk
-
- %3D">Event link</a>
-END:VEVENT
-
-
-BEGIN:VEVENT
-UID:a97e57a4-5435-4fd4-b3eb-96e98d1be429
-DTSTART:20250519T183000Z
-DTEND:20250519T201800Z
-SUMMARY:A LIGHT THAT NEVER GOES OUT - Arcades 2
-LOCATION:77 Rue Félix Faure 06400 Cannes
-DESCRIPTION:Program: Acid<br>Director: LAURI-MATTI PARPPEI<br>Theater: Arcades 2<br><a
-
- href="https://ticketonline1.festival-cannes.com/fiche?idproj=5LKL%2FYnlGK4
-
- %3D">Event link</a>
-END:VEVENT
-
-
-BEGIN:VEVENT
-UID:b8399c3c-1e48-4245-85b0-33ea34fc1f1f
-DTSTART:20250520T090000Z
-DTEND:20250520T101600Z
-SUMMARY:LA VIE APRÈS SIHAM - Studio 13
-LOCATION:23 Av. du Dr Raymond Picaud 06400 Cannes
-DESCRIPTION:Program: Acid<br>Director: NAMIR ABDEL MESSEEH<br>Theater: Studio 13<br><a
-
- href="https://ticketonline1.festival-cannes.com/fiche?idproj=RAnOcpN30vg%3
-
- D">Event link</a>
-END:VEVENT
-
-
-BEGIN:VEVENT
-UID:f5e8d4ac-5e7d-493a-adb9-497a7b527a43
-DTSTART:20250520T141500Z
-DTEND:20250520T162600Z
-SUMMARY:ENTRONCAMENTO - Alexandre III
-LOCATION:19 Bd Alexandre III 06400 Cannes
-DESCRIPTION:Program: Acid<br>Director: PEDRO CABELEIRA<br>Theater: Alexandre III<br><a
-
- href="https://ticketonline1.festival-cannes.com/fiche?idproj=qZPkOmPgozU%3
-
- D">Event link</a>
-END:VEVENT
-
-
-BEGIN:VEVENT
-UID:8866bc55-ccb2-4dcc-a60b-df0285085804
-DTSTART:20250520T170000Z
-DTEND:20250520T184000Z
-SUMMARY:L'AVENTURA - Raimu
-LOCATION:Chemin de la Borde 06150 Cannes La Bocca
-DESCRIPTION:Program: Acid<br>Director: SOPHIE LETOURNEUR<br>Theater: Raimu<br><a href="
-
- https://ticketonline1.festival-cannes.com/fiche?idproj=GRXHBNWm8iE%3D">Eve
-
+DESCRIPTION:Program: Acid<br>Director: IVAN MARKOVIC<br>Theater: Studio 13<br><a href="
+ https://ticketonline1.festival-cannes.com/fiche?idproj=JgoUcXSRlrE%3D">Eve
  nt link</a>
 END:VEVENT
-
-
+
 BEGIN:VEVENT
-UID:738d0af6-430d-45c3-9bba-1a1f93996f12
-DTSTART:20250520T180000Z
-DTEND:20250520T191600Z
-SUMMARY:LA VIE APRES SIHAM - Arcades 1
-LOCATION:77 Rue Félix Faure 06400 Cannes
-DESCRIPTION:Program: Acid<br>Director: NAMIR ABDEL MESSEEH<br>Theater: Arcades 1<br><a
-
- href="https://ticketonline1.festival-cannes.com/fiche?idproj=uzdSjSp%2B%2B
-
- nE%3D">Event link</a>
-END:VEVENT
-
-
-BEGIN:VEVENT
-UID:545d377a-25cb-4316-bcea-6bcfda36713b
-DTSTART:20250520T183000Z
-DTEND:20250520T194600Z
-SUMMARY:LA VIE APRES SIHAM - Arcades 2
-LOCATION:77 Rue Félix Faure 06400 Cannes
-DESCRIPTION:Program: Acid<br>Director: NAMIR ABDEL MESSEEH<br>Theater: Arcades 2<br><a
-
- href="https://ticketonline1.festival-cannes.com/fiche?idproj=8DcfTfb6XE4%3
-
- D">Event link</a>
-END:VEVENT
-
-
-BEGIN:VEVENT
-UID:ff2b3774-9622-4e7a-9d77-4fdf483a246e
-DTSTART:20250521T081500Z
-DTEND:20250521T105900Z
-SUMMARY:NUIT OBSCURE - "AIN'T I A CHILD ?" - Studio 13
-LOCATION:23 Av. du Dr Raymond Picaud 06400 Cannes
-DESCRIPTION:Program: Acid<br>Director: SYLVAIN GEORGE<br>Theater: Studio 13<br><a href=
-
- "https://ticketonline1.festival-cannes.com/fiche?idproj=uOc4xBMzbm8%3D">Ev
-
- ent link</a>
-END:VEVENT
-
-
-BEGIN:VEVENT
-UID:06fb6d68-6d85-4366-b99d-c796fe85d4ad
-DTSTART:20250521T133000Z
-DTEND:20250521T161400Z
-SUMMARY:NUIT OBSCURE - "AIN'T I A CHILD ?" - Alexandre III
+UID:767febda-853d-46a1-9a68-03a01a10b803
+DTSTART:20250518T143000Z
+DTEND:20250518T161300Z
+SUMMARY:LIVING TWICE\, DYING THRICE - Alexandre III
 LOCATION:19 Bd Alexandre III 06400 Cannes
-DESCRIPTION:Program: Acid<br>Director: SYLVAIN GEORGE<br>Theater: Alexandre III<br><a
-
- href="https://ticketonline1.festival-cannes.com/fiche?idproj=1DxD4iQHHFY%3
-
+DESCRIPTION:Program: Acid<br>Director: KARIM LAKZADEH<br>Theater: Alexandre III<br><a
+ href="https://ticketonline1.festival-cannes.com/fiche?idproj=R5DnDrBN6UY%3
  D">Event link</a>
 END:VEVENT
-
-
+
 BEGIN:VEVENT
-UID:cedecc42-f991-483e-867c-3d985fede446
-DTSTART:20250521T160000Z
-DTEND:20250521T184400Z
-SUMMARY:NUIT OBSCURE - "AIN'T I A CHILD?" - Arcades 1
+UID:9ddf7ab9-0080-4963-9487-99972a98cfb5
+DTSTART:20250518T180000Z
+DTEND:20250518T191600Z
+SUMMARY:PROMISED SPACES - Arcades 1
 LOCATION:77 Rue Félix Faure 06400 Cannes
-DESCRIPTION:Program: Acid<br>Director: SYLVAIN GEORGE<br>Theater: Arcades 1<br><a href=
-
- "https://ticketonline1.festival-cannes.com/fiche?idproj=gR9tp2VaM8I%3D">Ev
-
- ent link</a>
+DESCRIPTION:Program: Acid<br>Director: IVAN MARKOVIC<br>Theater: Arcades 1<br><a href="
+ https://ticketonline1.festival-cannes.com/fiche?idproj=PRcutTUUkbY%3D">Eve
+ nt link</a>
 END:VEVENT
-
-
+
 BEGIN:VEVENT
-UID:cd618dc3-3968-477b-9968-abd5fe6aa3a0
-DTSTART:20250522T090000Z
-DTEND:20250522T102500Z
-SUMMARY:LA COULEUVRE NOIRE - Studio 13
+UID:293a2ea6-c343-4e10-851f-fc32b2494446
+DTSTART:20250518T183000Z
+DTEND:20250518T194600Z
+SUMMARY:PROMISED SPACES - Arcades 2
+LOCATION:77 Rue Félix Faure 06400 Cannes
+DESCRIPTION:Program: Acid<br>Director: IVAN MARKOVIC<br>Theater: Arcades 2<br><a href="
+ https://ticketonline1.festival-cannes.com/fiche?idproj=ZF16y56Xy8Q%3D">Eve
+ nt link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:a3a96b9e-9080-45a3-bb66-6aeab627ac94
+DTSTART:20250519T083000Z
+DTEND:20250519T104200Z
+SUMMARY:LA DÉTENTION - Studio 13
 LOCATION:23 Av. du Dr Raymond Picaud 06400 Cannes
-DESCRIPTION:Program: Acid<br>Director: AURÉLIEN VERNHES-LERMUSIAUX<br>Theater: Studio
-
- 13<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=UHZh
-
- SXl1Eio%3D">Event link</a>
-END:VEVENT
-
-
-BEGIN:VEVENT
-UID:62dd5f2d-2181-4210-8011-2818c9e44fce
-DTSTART:20250522T143000Z
-DTEND:20250522T162000Z
-SUMMARY:LAURENT DANS LE VENT - Alexandre III
-LOCATION:19 Bd Alexandre III 06400 Cannes
-DESCRIPTION:Program: Acid<br>Director: Anton BALEKDJIAN\, Léo COUTURE\, Matteo
-
- EUST...<br>Theater: Alexandre III<br><a href="https://ticketonline1.festiv
-
- al-cannes.com/fiche?idproj=Z8fze1g9oUg%3D">Event link</a>
-END:VEVENT
-
-
-BEGIN:VEVENT
-UID:dd75cddb-d377-4a5d-acc7-583c64f76474
-DTSTART:20250522T170000Z
-DTEND:20250522T181600Z
-SUMMARY:LA VIE APRÈS SIHAM - Raimu
-LOCATION:Chemin de la Borde 06150 Cannes La Bocca
-DESCRIPTION:Program: Acid<br>Director: NAMIR ABDEL MESSEEH<br>Theater: Raimu<br><a
-
- href="https://ticketonline1.festival-cannes.com/fiche?idproj=1VkgNaOjRVU%3
-
- D">Event link</a>
-END:VEVENT
-
-
-BEGIN:VEVENT
-UID:2565aedc-0bb2-4a1d-9596-17d6e1af8dc1
-DTSTART:20250522T183000Z
-DTEND:20250522T195500Z
-SUMMARY:LA COULEUVRE NOIRE - Olympia 2
-LOCATION:5 Rue de la Pompe\, 06400 Cannes\, France
-DESCRIPTION:Program: Acid<br>Director: AURÉLIEN VERNHES-LERMUSIAUX<br>Theater: Olympia
-
- 2<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=dJhtk
-
- 6Rtft0%3D">Event link</a>
-END:VEVENT
-
-
-BEGIN:VEVENT
-UID:89a60cd2-1762-487f-9202-22cec76c253c
-DTSTART:20250523T090000Z
-DTEND:20250523T104000Z
-SUMMARY:L'AVENTURA - Studio 13
-LOCATION:23 Av. du Dr Raymond Picaud 06400 Cannes
-DESCRIPTION:Program: Acid<br>Director: SOPHIE LETOURNEUR<br>Theater: Studio 13<br><a
-
- href="https://ticketonline1.festival-cannes.com/fiche?idproj=fYCdC%2BsMHsA
-
+DESCRIPTION:Program: Acid<br>Director: GUILLAUME MASSART<br>Theater: Studio 13<br><a
+ href="https://ticketonline1.festival-cannes.com/fiche?idproj=nstgGB4%2BT8k
  %3D">Event link</a>
 END:VEVENT
-
-
+
 BEGIN:VEVENT
-UID:a8f196ea-1ff8-4e95-917e-6f7c5ae61124
-DTSTART:20250523T150000Z
-DTEND:20250523T162200Z
-SUMMARY:DRUNKEN NOODLES - Alexandre III
+UID:f1897803-6ba8-4426-a9e3-3a69f98396f6
+DTSTART:20250519T143000Z
+DTEND:20250519T161100Z
+SUMMARY:BARÇA ZOU (PRÉCÉDÉ D'UN COURT MÉTRAGE ADAMI) - Alexandre III
 LOCATION:19 Bd Alexandre III 06400 Cannes
-DESCRIPTION:Program: Acid<br>Director: LUCIO CASTRO<br>Theater: Alexandre III<br><a
-
- href="https://ticketonline1.festival-cannes.com/fiche?idproj=vKQ6qwxZE78%3
-
+DESCRIPTION:Program: Acid<br>Director: PAUL NOUHET<br>Theater: Alexandre III<br><a
+ href="https://ticketonline1.festival-cannes.com/fiche?idproj=hyxO%2BGp9XaI
+ %3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2b6e792c-df23-4687-b720-f22709a3bc03
+DTSTART:20250519T170000Z
+DTEND:20250519T184200Z
+SUMMARY:VIRAGES (PRÉCÉDÉ D'UN COURT MÉTRAGE ADAMI) - Raimu
+LOCATION:Chemin de la Borde 06150 Cannes La Bocca
+DESCRIPTION:Program: Acid<br>Director: CÉLINE CARRIDROIT\, ALINE SUTER<br>Theater:
+ Raimu<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=7
+ 5J9dO5NQlI%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f46a9f6a-9adb-4d71-84b3-80035e4e827e
+DTSTART:20250519T180000Z
+DTEND:20250519T201200Z
+SUMMARY:LA DÉTENTION - Arcades 1
+LOCATION:77 Rue Félix Faure 06400 Cannes
+DESCRIPTION:Program: Acid<br>Director: GUILLAUME MASSART<br>Theater: Arcades 1<br><a
+ href="https://ticketonline1.festival-cannes.com/fiche?idproj=FBpJJWUvfds%3
  D">Event link</a>
 END:VEVENT
-
-
-END:VCALENDAR
-
+
+BEGIN:VEVENT
+UID:479b4221-1149-4a78-886a-b2a1b002c02e
+DTSTART:20250519T183000Z
+DTEND:20250519T204200Z
+SUMMARY:LA DÉTENTION - Arcades 2
+LOCATION:77 Rue Félix Faure 06400 Cannes
+DESCRIPTION:Program: Acid<br>Director: GUILLAUME MASSART<br>Theater: Arcades 2<br><a
+ href="https://ticketonline1.festival-cannes.com/fiche?idproj=cFCa8q9A1k8%3
+ D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:944189f0-43f1-4147-a792-effd9a5c08a9
+DTSTART:20250520T090000Z
+DTEND:20250520T102800Z
+SUMMARY:CŒUR SECRET - Studio 13
+LOCATION:23 Av. du Dr Raymond Picaud 06400 Cannes
+DESCRIPTION:Program: Acid<br>Director: TOM FONTENILLE<br>Theater: Studio 13<br><a href=
+ "https://ticketonline1.festival-cannes.com/fiche?idproj=nQ7aHSVfKoQ%3D">Ev
+ ent link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:0116309c-6c89-4d0f-87d4-b655b63462d6
+DTSTART:20250520T143000Z
+DTEND:20250520T160800Z
+SUMMARY:BLAISE (PRÉCÉDÉ D'UN COURT MÉTRAGE ADAMI) - Alexandre III
+LOCATION:19 Bd Alexandre III 06400 Cannes
+DESCRIPTION:Program: Acid<br>Director: JEAN-PAUL GUIGUE\, DIMITRI PLANCHON<br>Theater:
+ Alexandre III<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+ idproj=F4AkMMKZWKU%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:237d5de2-6614-4ddb-918d-c9baa0848d06
+DTSTART:20250520T180000Z
+DTEND:20250520T192800Z
+SUMMARY:CŒUR SECRET - Arcades 1
+LOCATION:77 Rue Félix Faure 06400 Cannes
+DESCRIPTION:Program: Acid<br>Director: TOM FONTENILLE<br>Theater: Arcades 1<br><a href=
+ "https://ticketonline1.festival-cannes.com/fiche?idproj=%2BikkIGAdP0I%3D">
+ Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:d6fe5204-2e34-455c-851a-d7f53481ab02
+DTSTART:20250521T090000Z
+DTEND:20250521T104300Z
+SUMMARY:LIVING TWICE\, DYING THRICE - Studio 13
+LOCATION:23 Av. du Dr Raymond Picaud 06400 Cannes
+DESCRIPTION:Program: Acid<br>Director: KARIM LAKZADEH<br>Theater: Studio 13<br><a href=
+ "https://ticketonline1.festival-cannes.com/fiche?idproj=ZWSsg9ySAkY%3D">Ev
+ ent link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:c409ae18-d494-4a5e-a398-68355ec0ec58
+DTSTART:20250521T143000Z
+DTEND:20250521T161000Z
+SUMMARY:DANS LA GUEULE DE L'OGRE (PRÉCÉDÉ D'UN COURT MÉTRAGE ADAMI) - Alexandre III
+LOCATION:19 Bd Alexandre III 06400 Cannes
+DESCRIPTION:Program: Acid<br>Director: MAHSA KARAMPOUR<br>Theater: Alexandre III<br><a
+ href="https://ticketonline1.festival-cannes.com/fiche?idproj=CKBq4ECKjww%3
+ D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:a7d1912c-7547-432f-988d-28efcc238b58
+DTSTART:20250521T170000Z
+DTEND:20250521T184300Z
+SUMMARY:LIVING TWICE\, DYING THRICE - Raimu
+LOCATION:Chemin de la Borde 06150 Cannes La Bocca
+DESCRIPTION:Program: Acid<br>Director: KARIM LAKZADEH<br>Theater: Raimu<br><a href="htt
+ ps://ticketonline1.festival-cannes.com/fiche?idproj=EqgDdvK%2Fn0k%3D">Even
+ t link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:087b8660-da56-4e50-b9bf-81722890ae7b
+DTSTART:20250521T180000Z
+DTEND:20250521T194300Z
+SUMMARY:LIVING TWICE\, DYING THRICE - Olympia 2
+LOCATION:5 Rue de la Pompe\, 06400 Cannes\, France
+DESCRIPTION:Program: Acid<br>Director: KARIM LAKZADEH<br>Theater: Olympia 2<br><a href=
+ "https://ticketonline1.festival-cannes.com/fiche?idproj=emuILuzIhrI%3D">Ev
+ ent link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2ee77f1a-a030-4a51-853d-ac9270ffffd4
+DTSTART:20250522T090000Z
+DTEND:20250522T110500Z
+SUMMARY:MAUVAISE ÉTOILE - Studio 13
+LOCATION:23 Av. du Dr Raymond Picaud 06400 Cannes
+DESCRIPTION:Program: Acid<br>Director: LOLA CAMBOURIEU\, YANN BERLIER<br>Theater:
+ Studio 13<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpr
+ oj=%2F4MhTAXpHd8%3D">Event link</a>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:919d6bd7-ce6b-4d18-9213-7b532bbcaae7
+DTSTART:20250522T143000Z
+DTEND:20250522T155900Z
+SUMMARY:VIRAGES - Alexandre III
+LOCATION:19 Bd Alexandre III 06400 Cannes
+DESCRIPTION:Program: Acid<br>Director: CÉLINE CARRIDROIT\, ALINE SUTER<br>Theater:
+ Alexandre III<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+ idproj=56Zo0cMmI10%3D">Event link</a>
+END:VEVENT
+
+END:VCALENDAR
