@@ -1,636 +1,636 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//Cannes Film Festival//Screenings//EN
-CALSCALE:GREGORIAN
-METHOD:PUBLISH
-X-WR-CALNAME:Cannes Film Festival Screenings
-X-WR-TIMEZONE:Europe/Paris
-
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cannes Film Festival//Screenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cannes Film Festival Screenings
+X-WR-TIMEZONE:Europe/Paris
+
 BEGIN:VEVENT
-UID:09acc2ec-7d51-4f28-b8e7-ed185ebfdfba
-DTSTART:20250513T064500Z
-DTEND:20250513T081600Z
+UID:7d83479f-10e1-43e8-bc36-c8a86376ac4b
+DTSTART:20260513T064500Z
+DTEND:20260513T081600Z
 SUMMARY:IN WAVES - Miramar
 LOCATION:35 Rue Pasteur\, 06400 Cannes\, France
-DESCRIPTION:Program: Semaine de la Critique<br>Director: PHUONG MAI NGUYEN<br>Theater:
- Miramar<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Semaine de la Critique<br>Director: PHUONG MAI NGUYEN<br>Theater:
+ Miramar<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =1HVnlw4QoLE%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:7028bea9-789f-4fb1-bd31-4d641c0d6698
-DTSTART:20250513T093000Z
-DTEND:20250513T111600Z
+UID:f9efecca-0b98-41cb-8503-169830717076
+DTSTART:20260513T093000Z
+DTEND:20260513T111600Z
 SUMMARY:DUA - Miramar
 LOCATION:35 Rue Pasteur\, 06400 Cannes\, France
-DESCRIPTION:Program: Semaine de la Critique<br>Director: BLERTA BASHOLLI<br>Theater:
- Miramar<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Semaine de la Critique<br>Director: BLERTA BASHOLLI<br>Theater:
+ Miramar<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =JjrdfPb30lw%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:209dd8b9-a7ee-41e7-9227-637a00e9b26e
-DTSTART:20250513T124500Z
-DTEND:20250513T142600Z
+UID:be47a1cd-49da-4825-8097-da95329c4fcd
+DTSTART:20260513T124500Z
+DTEND:20260513T142600Z
 SUMMARY:IN WAVES - Miramar
 LOCATION:35 Rue Pasteur\, 06400 Cannes\, France
-DESCRIPTION:Program: Semaine de la Critique<br>Director: PHUONG MAI NGUYEN<br>Theater:
- Miramar<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Semaine de la Critique<br>Director: PHUONG MAI NGUYEN<br>Theater:
+ Miramar<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =agdOhQmc0CU%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:600cb5e2-845e-4ea9-8106-7d356d513319
-DTSTART:20250513T153000Z
-DTEND:20250513T171600Z
+UID:573ab731-8641-4152-8fbb-5ea89e5140f6
+DTSTART:20260513T153000Z
+DTEND:20260513T171600Z
 SUMMARY:DUA - Miramar
 LOCATION:35 Rue Pasteur\, 06400 Cannes\, France
-DESCRIPTION:Program: Semaine de la Critique<br>Director: BLERTA BASHOLLI<br>Theater:
- Miramar<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Semaine de la Critique<br>Director: BLERTA BASHOLLI<br>Theater:
+ Miramar<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =V3fbO6UH9pM%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:384823ea-06b0-4b2e-991d-0bee13d608b0
-DTSTART:20250513T183000Z
-DTEND:20250513T203100Z
+UID:371b7611-9397-4d24-9ccf-512447d263bf
+DTSTART:20260513T183000Z
+DTEND:20260513T203100Z
 SUMMARY:IN WAVES - Miramar
 LOCATION:35 Rue Pasteur\, 06400 Cannes\, France
-DESCRIPTION:Program: Semaine de la Critique<br>Director: PHUONG MAI NGUYEN<br>Theater:
- Miramar<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Semaine de la Critique<br>Director: PHUONG MAI NGUYEN<br>Theater:
+ Miramar<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =9j5p7cfnxoU%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:a55966bd-d652-4b47-8dd6-f0c7bc1d67d8
-DTSTART:20250514T064500Z
-DTEND:20250514T082600Z
+UID:9b71e57d-94d9-4d2e-9a9f-f9c5c1b38348
+DTSTART:20260514T064500Z
+DTEND:20260514T082600Z
 SUMMARY:DUA - Miramar
 LOCATION:35 Rue Pasteur\, 06400 Cannes\, France
-DESCRIPTION:Program: Semaine de la Critique<br>Director: BLERTA BASHOLLI<br>Theater:
- Miramar<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Semaine de la Critique<br>Director: BLERTA BASHOLLI<br>Theater:
+ Miramar<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =c2DIp72W0ps%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:58441d95-a965-463e-9801-e7187834deaa
-DTSTART:20250514T093000Z
-DTEND:20250514T112800Z
+UID:86c3b203-e762-4717-843f-dcfbed9ca940
+DTSTART:20260514T093000Z
+DTEND:20260514T112800Z
 SUMMARY:VIVA - Miramar
 LOCATION:35 Rue Pasteur\, 06400 Cannes\, France
-DESCRIPTION:Program: Semaine de la Critique<br>Director: AINA CLOTET
- FRESQUET<br>Theater: Miramar<br><a href="https://ticketonline1.festival-ca
+DESCRIPTION:Program: Semaine de la Critique<br>Director: AINA CLOTET
+ FRESQUET<br>Theater: Miramar<br><a href="https://ticketonline1.festival-ca
  nnes.com/fiche?idproj=XNdhhpZPmOw%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:3589ee6f-c3e0-461c-86a7-d3641a243ba8
-DTSTART:20250514T120000Z
-DTEND:20250514T134100Z
+UID:eb3dc527-742b-40d3-88d0-4e6c25820cc0
+DTSTART:20260514T120000Z
+DTEND:20260514T134100Z
 SUMMARY:DUA - Studio 13
 LOCATION:23 Av. du Dr Raymond Picaud 06400 Cannes
-DESCRIPTION:Program: Semaine de la Critique<br>Director: BLERTA BASHOLLI<br>Theater:
- Studio 13<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpr
+DESCRIPTION:Program: Semaine de la Critique<br>Director: BLERTA BASHOLLI<br>Theater:
+ Studio 13<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpr
  oj=NQc1pfalo14%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:73516239-1c5c-43b8-914c-882ea386c193
-DTSTART:20250514T160000Z
-DTEND:20250514T180300Z
+UID:ee39234b-ebe3-4c7d-8eb1-4826e91d2a77
+DTSTART:20260514T160000Z
+DTEND:20260514T180300Z
 SUMMARY:VIVA - Miramar
 LOCATION:35 Rue Pasteur\, 06400 Cannes\, France
-DESCRIPTION:Program: Semaine de la Critique<br>Director: AINA CLOTET
- FRESQUET<br>Theater: Miramar<br><a href="https://ticketonline1.festival-ca
+DESCRIPTION:Program: Semaine de la Critique<br>Director: AINA CLOTET
+ FRESQUET<br>Theater: Miramar<br><a href="https://ticketonline1.festival-ca
  nnes.com/fiche?idproj=8dmX0MEN6LM%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:c0b3b675-2b86-41ad-ae32-c5598b14138e
-DTSTART:20250514T170000Z
-DTEND:20250514T183100Z
+UID:5e92bfb8-855f-4f69-9fb5-51f0a11d21c5
+DTSTART:20260514T170000Z
+DTEND:20260514T183100Z
 SUMMARY:IN WAVES - Raimu
 LOCATION:Chemin de la Borde 06150 Cannes La Bocca
-DESCRIPTION:Program: Semaine de la Critique<br>Director: PHUONG MAI NGUYEN<br>Theater:
- Raimu<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=F
+DESCRIPTION:Program: Semaine de la Critique<br>Director: PHUONG MAI NGUYEN<br>Theater:
+ Raimu<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=F
  PiJCq6mvcM%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:cb38e194-276b-4662-a104-5d566e389f95
-DTSTART:20250514T193000Z
-DTEND:20250514T211100Z
+UID:895def09-53ee-4170-8fd8-8c84086cc20d
+DTSTART:20260514T193000Z
+DTEND:20260514T211100Z
 SUMMARY:DUA - Alexandre III
 LOCATION:19 Bd Alexandre III 06400 Cannes
-DESCRIPTION:Program: Semaine de la Critique<br>Director: BLERTA BASHOLLI<br>Theater:
- Alexandre III<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+DESCRIPTION:Program: Semaine de la Critique<br>Director: BLERTA BASHOLLI<br>Theater:
+ Alexandre III<br><a href="https://ticketonline1.festival-cannes.com/fiche?
  idproj=nYaM9U2bt28%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:3acb0a9c-e977-4ded-a04e-2580b91f0654
-DTSTART:20250515T063000Z
-DTEND:20250515T082300Z
+UID:ac7807bc-07cc-456e-b7c8-e29491e25c8c
+DTSTART:20260515T063000Z
+DTEND:20260515T082300Z
 SUMMARY:VIVA - Miramar
 LOCATION:35 Rue Pasteur\, 06400 Cannes\, France
-DESCRIPTION:Program: Semaine de la Critique<br>Director: AINA CLOTET
- FRESQUET<br>Theater: Miramar<br><a href="https://ticketonline1.festival-ca
+DESCRIPTION:Program: Semaine de la Critique<br>Director: AINA CLOTET
+ FRESQUET<br>Theater: Miramar<br><a href="https://ticketonline1.festival-ca
  nnes.com/fiche?idproj=6XNlu2Gci1M%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:a8cb372a-3b35-4154-ac76-85d707b572ed
-DTSTART:20250515T070000Z
-DTEND:20250515T083100Z
+UID:ddfe04e1-655e-471b-943d-67b2b160e49a
+DTSTART:20260515T070000Z
+DTEND:20260515T083100Z
 SUMMARY:IN WAVES - Licorne
 LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Semaine de la Critique<br>Director: PHUONG MAI NGUYEN<br>Theater:
- Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Semaine de la Critique<br>Director: PHUONG MAI NGUYEN<br>Theater:
+ Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =K7F7sFJFJ3w%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:313bb0ff-0496-4e3d-a736-4b27933b546a
-DTSTART:20250515T091500Z
-DTEND:20250515T112800Z
+UID:6738def2-9710-4c13-9673-1b03f91699aa
+DTSTART:20260515T091500Z
+DTEND:20260515T112800Z
 SUMMARY:WU MING NÜ HAI - Miramar
 LOCATION:35 Rue Pasteur\, 06400 Cannes\, France
-DESCRIPTION:Program: Semaine de la Critique<br>Director: JING ZOU<br>Theater:
- Miramar<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Semaine de la Critique<br>Director: JING ZOU<br>Theater:
+ Miramar<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =UDJumVAcQHo%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:c968973e-9c2f-4397-835a-b0ffc4390907
-DTSTART:20250515T120000Z
-DTEND:20250515T135300Z
+UID:7199aefb-70f7-48bf-8a29-ba518cea2f4f
+DTSTART:20260515T120000Z
+DTEND:20260515T135300Z
 SUMMARY:VIVA - Studio 13
 LOCATION:23 Av. du Dr Raymond Picaud 06400 Cannes
-DESCRIPTION:Program: Semaine de la Critique<br>Director: AINA CLOTET
- FRESQUET<br>Theater: Studio 13<br><a href="https://ticketonline1.festival-
+DESCRIPTION:Program: Semaine de la Critique<br>Director: AINA CLOTET
+ FRESQUET<br>Theater: Studio 13<br><a href="https://ticketonline1.festival-
  cannes.com/fiche?idproj=As%2Fbea078Xg%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:984410d0-167c-405a-a6ca-52ed5e715f06
-DTSTART:20250515T123000Z
-DTEND:20250515T142100Z
+UID:c9d319fb-a2f2-456f-9dec-c60581839d79
+DTSTART:20260515T123000Z
+DTEND:20260515T142100Z
 SUMMARY:LA FRAPPE - Miramar
 LOCATION:35 Rue Pasteur\, 06400 Cannes\, France
-DESCRIPTION:Program: Semaine de la Critique<br>Director: JULIEN
- GASPAR-OLIVERI<br>Theater: Miramar<br><a href="https://ticketonline1.festi
+DESCRIPTION:Program: Semaine de la Critique<br>Director: JULIEN
+ GASPAR-OLIVERI<br>Theater: Miramar<br><a href="https://ticketonline1.festi
  val-cannes.com/fiche?idproj=L5JDSLlOD0A%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:e61ed769-133f-4239-906f-3466099ff3d6
-DTSTART:20250515T153000Z
-DTEND:20250515T174800Z
+UID:54eb440d-01f4-4b03-93e5-54cb3653cb84
+DTSTART:20260515T153000Z
+DTEND:20260515T174800Z
 SUMMARY:WU MING NÜ HAI - Miramar
 LOCATION:35 Rue Pasteur\, 06400 Cannes\, France
-DESCRIPTION:Program: Semaine de la Critique<br>Director: JING ZOU<br>Theater:
- Miramar<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Semaine de la Critique<br>Director: JING ZOU<br>Theater:
+ Miramar<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =WWUByXJsnbg%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:449e8c11-d9e7-45bf-bd70-7b511d0f3c6d
-DTSTART:20250515T190000Z
-DTEND:20250515T210100Z
+UID:578882f2-2d90-48b7-b1e6-43b24862806b
+DTSTART:20260515T190000Z
+DTEND:20260515T210100Z
 SUMMARY:LA FRAPPE - Miramar
 LOCATION:35 Rue Pasteur\, 06400 Cannes\, France
-DESCRIPTION:Program: Semaine de la Critique<br>Director: JULIEN
- GASPAR-OLIVERI<br>Theater: Miramar<br><a href="https://ticketonline1.festi
+DESCRIPTION:Program: Semaine de la Critique<br>Director: JULIEN
+ GASPAR-OLIVERI<br>Theater: Miramar<br><a href="https://ticketonline1.festi
  val-cannes.com/fiche?idproj=bK39TS6VA8Y%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:2e3fdaea-9097-4855-90c5-a6736747a87e
-DTSTART:20250515T193000Z
-DTEND:20250515T212300Z
+UID:ab922cbc-ef4f-4480-ad5d-24aa8c408fc8
+DTSTART:20260515T193000Z
+DTEND:20260515T212300Z
 SUMMARY:VIVA - Alexandre III
 LOCATION:19 Bd Alexandre III 06400 Cannes
-DESCRIPTION:Program: Semaine de la Critique<br>Director: AINA CLOTET
- FRESQUET<br>Theater: Alexandre III<br><a href="https://ticketonline1.festi
+DESCRIPTION:Program: Semaine de la Critique<br>Director: AINA CLOTET
+ FRESQUET<br>Theater: Alexandre III<br><a href="https://ticketonline1.festi
  val-cannes.com/fiche?idproj=pOTTgJ1IKZk%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:de7d7175-d761-4fde-bfce-873f0a7d3ea0
-DTSTART:20250516T060000Z
-DTEND:20250516T080800Z
+UID:6ad3faac-a39a-4489-8f70-3a7d216c81d2
+DTSTART:20260516T060000Z
+DTEND:20260516T080800Z
 SUMMARY:WU MING NÜ HAI - Miramar
 LOCATION:35 Rue Pasteur\, 06400 Cannes\, France
-DESCRIPTION:Program: Semaine de la Critique<br>Director: JING ZOU<br>Theater:
- Miramar<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Semaine de la Critique<br>Director: JING ZOU<br>Theater:
+ Miramar<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =2VFvebrwlmM%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:f4996ecd-fb52-46ba-886f-9f976ff81a6f
-DTSTART:20250516T090000Z
-DTEND:20250516T113000Z
+UID:874cbf0d-5013-4854-8b40-d939f420e0d9
+DTSTART:20260516T090000Z
+DTEND:20260516T113000Z
 SUMMARY:LA GRADIVA - Miramar
 LOCATION:35 Rue Pasteur\, 06400 Cannes\, France
-DESCRIPTION:Program: Semaine de la Critique<br>Director: MARINE ATLAN<br>Theater:
- Miramar<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Semaine de la Critique<br>Director: MARINE ATLAN<br>Theater:
+ Miramar<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =7Uz2QJV6bi8%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:d28ac42c-f5a3-4722-8da3-5cd2d45b0dc2
-DTSTART:20250516T120000Z
-DTEND:20250516T140800Z
+UID:768a3683-1ff6-488d-be27-20669c66764c
+DTSTART:20260516T120000Z
+DTEND:20260516T140800Z
 SUMMARY:A GIRL UNKNOWN - Studio 13
 LOCATION:23 Av. du Dr Raymond Picaud 06400 Cannes
-DESCRIPTION:Program: Semaine de la Critique<br>Director: JING ZOU<br>Theater: Studio
- 13<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=GMcc
+DESCRIPTION:Program: Semaine de la Critique<br>Director: JING ZOU<br>Theater: Studio
+ 13<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=GMcc
  nxWUWPU%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:28273a1b-cf80-4505-b009-c6f18f96dc34
-DTSTART:20250516T123000Z
-DTEND:20250516T140600Z
+UID:a9dddce4-6385-415a-967c-6faf3aea36e8
+DTSTART:20260516T123000Z
+DTEND:20260516T140600Z
 SUMMARY:DU FIOUL DANS LES ARTÈRES - Miramar
 LOCATION:35 Rue Pasteur\, 06400 Cannes\, France
-DESCRIPTION:Program: Semaine de la Critique<br>Director: PIERRE LE GALL<br>Theater:
- Miramar<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Semaine de la Critique<br>Director: PIERRE LE GALL<br>Theater:
+ Miramar<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =ULH8VJdReFQ%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:72df10be-8797-4b03-84c1-87ee19805c9e
-DTSTART:20250516T151500Z
-DTEND:20250516T175000Z
+UID:10229be6-2c1f-43ab-a153-10e4c6a5a336
+DTSTART:20260516T151500Z
+DTEND:20260516T175000Z
 SUMMARY:LA GRADIVA - Miramar
 LOCATION:35 Rue Pasteur\, 06400 Cannes\, France
-DESCRIPTION:Program: Semaine de la Critique<br>Director: MARINE ATLAN<br>Theater:
- Miramar<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Semaine de la Critique<br>Director: MARINE ATLAN<br>Theater:
+ Miramar<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =u6ao%2Fgn7I6E%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:8decb744-5986-4805-abb3-25fb7024d2f2
-DTSTART:20250516T170000Z
-DTEND:20250516T184600Z
+UID:27c0dc9c-8276-4371-b67d-606f314d5ad1
+DTSTART:20260516T170000Z
+DTEND:20260516T184600Z
 SUMMARY:LA FRAPPE - Raimu
 LOCATION:Chemin de la Borde 06150 Cannes La Bocca
-DESCRIPTION:Program: Semaine de la Critique<br>Director: JULIEN
- GASPAR-OLIVERI<br>Theater: Raimu<br><a href="https://ticketonline1.festiva
+DESCRIPTION:Program: Semaine de la Critique<br>Director: JULIEN
+ GASPAR-OLIVERI<br>Theater: Raimu<br><a href="https://ticketonline1.festiva
  l-cannes.com/fiche?idproj=K7mXk%2Fb9b00%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:1846b9f2-d275-45a3-b5ff-dafa2e378357
-DTSTART:20250516T190000Z
-DTEND:20250516T204600Z
+UID:f7d75278-40ea-4613-a262-4de1c717b34a
+DTSTART:20260516T190000Z
+DTEND:20260516T204600Z
 SUMMARY:DU FIOUL DANS LES ARTÈRES - Miramar
 LOCATION:35 Rue Pasteur\, 06400 Cannes\, France
-DESCRIPTION:Program: Semaine de la Critique<br>Director: PIERRE LE GALL<br>Theater:
- Miramar<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Semaine de la Critique<br>Director: PIERRE LE GALL<br>Theater:
+ Miramar<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =bJxGHHbEl%2F0%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:9c3a0c62-f84a-4f51-b64c-b729ca2f3fc0
-DTSTART:20250516T193000Z
-DTEND:20250516T213800Z
+UID:d1336f9a-7503-4955-a860-a0e2d9e9c23f
+DTSTART:20260516T193000Z
+DTEND:20260516T213800Z
 SUMMARY:A GIRL UNKNOWN - Alexandre III
 LOCATION:19 Bd Alexandre III 06400 Cannes
-DESCRIPTION:Program: Semaine de la Critique<br>Director: JING ZOU<br>Theater:
- Alexandre III<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+DESCRIPTION:Program: Semaine de la Critique<br>Director: JING ZOU<br>Theater:
+ Alexandre III<br><a href="https://ticketonline1.festival-cannes.com/fiche?
  idproj=SWmboIzwOSo%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:cb342df5-4af7-4e60-8492-b1293e8957f6
-DTSTART:20250517T061500Z
-DTEND:20250517T084000Z
+UID:fe581aa9-d769-4955-9b00-e2765ef2cc55
+DTSTART:20260517T061500Z
+DTEND:20260517T084000Z
 SUMMARY:LA GRADIVA - Miramar
 LOCATION:35 Rue Pasteur\, 06400 Cannes\, France
-DESCRIPTION:Program: Semaine de la Critique<br>Director: MARINE ATLAN<br>Theater:
- Miramar<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Semaine de la Critique<br>Director: MARINE ATLAN<br>Theater:
+ Miramar<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =BwqLT0R78dc%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:baef9835-5552-43a7-ac36-a4e24319d80b
-DTSTART:20250517T070000Z
-DTEND:20250517T084600Z
+UID:6818c4aa-2ec1-4935-a404-1132584d71b8
+DTSTART:20260517T070000Z
+DTEND:20260517T084600Z
 SUMMARY:LA FRAPPE - Licorne
 LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Semaine de la Critique<br>Director: JULIEN
- GASPAR-OLIVERI<br>Theater: Licorne<br><a href="https://ticketonline1.festi
+DESCRIPTION:Program: Semaine de la Critique<br>Director: JULIEN
+ GASPAR-OLIVERI<br>Theater: Licorne<br><a href="https://ticketonline1.festi
  val-cannes.com/fiche?idproj=zDnzsh8OGck%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:0105e9ff-9408-4b30-a42d-00120b0b6edd
-DTSTART:20250517T093000Z
-DTEND:20250517T112700Z
+UID:766bf5d3-fd90-4412-80c9-3e4324dbd2ea
+DTSTART:20260517T093000Z
+DTEND:20260517T112700Z
 SUMMARY:THE STATION / AL MAHATTAH - Miramar
 LOCATION:35 Rue Pasteur\, 06400 Cannes\, France
-DESCRIPTION:Program: Semaine de la Critique<br>Director: SARA ISHAQ<br>Theater:
- Miramar<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Semaine de la Critique<br>Director: SARA ISHAQ<br>Theater:
+ Miramar<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =Tro%2FHO6zplw%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:9fc18f7a-4b67-440e-a575-a586662bc1bd
-DTSTART:20250517T120000Z
-DTEND:20250517T142500Z
+UID:f7dcc8af-c1e9-43b1-9c6d-7671187b1fb6
+DTSTART:20260517T120000Z
+DTEND:20260517T142500Z
 SUMMARY:LA GRADIVA - Studio 13
 LOCATION:23 Av. du Dr Raymond Picaud 06400 Cannes
-DESCRIPTION:Program: Semaine de la Critique<br>Director: MARINE ATLAN<br>Theater:
- Studio 13<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpr
+DESCRIPTION:Program: Semaine de la Critique<br>Director: MARINE ATLAN<br>Theater:
+ Studio 13<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpr
  oj=RcA5MynwF3c%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:ef793b1c-e44b-420e-8ae4-ed37ec425d78
-DTSTART:20250517T170000Z
-DTEND:20250517T190200Z
+UID:4afb73b8-2be8-4749-936f-b4c4042fb67f
+DTSTART:20260517T170000Z
+DTEND:20260517T190200Z
 SUMMARY:THE STATION / AL MAHATTAH - Miramar
 LOCATION:35 Rue Pasteur\, 06400 Cannes\, France
-DESCRIPTION:Program: Semaine de la Critique<br>Director: SARA ISHAQ<br>Theater:
- Miramar<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Semaine de la Critique<br>Director: SARA ISHAQ<br>Theater:
+ Miramar<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =f5JsZDbIGHs%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:462841cd-3812-464c-ba6b-090136289a44
-DTSTART:20250517T193000Z
-DTEND:20250517T215500Z
+UID:90fe42b9-1332-4bca-b2b0-1c65d3f05350
+DTSTART:20260517T193000Z
+DTEND:20260517T215500Z
 SUMMARY:LA GRADIVA - Alexandre III
 LOCATION:19 Bd Alexandre III 06400 Cannes
-DESCRIPTION:Program: Semaine de la Critique<br>Director: MARINE ATLAN<br>Theater:
- Alexandre III<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+DESCRIPTION:Program: Semaine de la Critique<br>Director: MARINE ATLAN<br>Theater:
+ Alexandre III<br><a href="https://ticketonline1.festival-cannes.com/fiche?
  idproj=d%2FX3dFdCOyw%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:e4290609-831e-4c28-9e1e-3e11234fdafd
-DTSTART:20250518T063000Z
-DTEND:20250518T082200Z
+UID:20ec61f5-db01-4c1c-9f78-58ed522b9cbb
+DTSTART:20260518T063000Z
+DTEND:20260518T082200Z
 SUMMARY:THE STATION / AL MAHATTAH - Miramar
 LOCATION:35 Rue Pasteur\, 06400 Cannes\, France
-DESCRIPTION:Program: Semaine de la Critique<br>Director: SARA ISHAQ<br>Theater:
- Miramar<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Semaine de la Critique<br>Director: SARA ISHAQ<br>Theater:
+ Miramar<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =uIMlU03y%2BNs%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:5095b1b0-1839-41c1-bdb2-24e66b6d775c
-DTSTART:20250518T093000Z
-DTEND:20250518T112100Z
+UID:0f775978-cd61-4b49-be40-0a3abe379816
+DTSTART:20260518T093000Z
+DTEND:20260518T112100Z
 SUMMARY:TIN CASTLE - Miramar
 LOCATION:35 Rue Pasteur\, 06400 Cannes\, France
-DESCRIPTION:Program: Semaine de la Critique<br>Director: ALEXANDER MURPHY<br>Theater:
- Miramar<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Semaine de la Critique<br>Director: ALEXANDER MURPHY<br>Theater:
+ Miramar<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =RNca8y2Hjfo%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:c8ce2623-4eee-4892-b63e-aeb17378ea2e
-DTSTART:20250518T120000Z
-DTEND:20250518T135200Z
+UID:daeedbdf-a623-4dbd-aa90-14492d6dbfed
+DTSTART:20260518T120000Z
+DTEND:20260518T135200Z
 SUMMARY:THE STATION - Studio 13
 LOCATION:23 Av. du Dr Raymond Picaud 06400 Cannes
-DESCRIPTION:Program: Semaine de la Critique<br>Director: SARA ISHAQ<br>Theater: Studio
- 13<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=7E%2
+DESCRIPTION:Program: Semaine de la Critique<br>Director: SARA ISHAQ<br>Theater: Studio
+ 13<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=7E%2
  Fa5MYybSA%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:cd2c8a41-5a8f-4c0c-975f-9763a91bfd8f
-DTSTART:20250518T153000Z
-DTEND:20250518T172600Z
+UID:9887d235-e4ba-4299-804c-821b8f0d492f
+DTSTART:20260518T153000Z
+DTEND:20260518T172600Z
 SUMMARY:TIN CASTLE - Miramar
 LOCATION:35 Rue Pasteur\, 06400 Cannes\, France
-DESCRIPTION:Program: Semaine de la Critique<br>Director: ALEXANDER MURPHY<br>Theater:
- Miramar<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Semaine de la Critique<br>Director: ALEXANDER MURPHY<br>Theater:
+ Miramar<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =o52BZXIglac%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:6f5486eb-1327-4f71-bdb6-cabc4723488c
-DTSTART:20250518T173000Z
-DTEND:20250518T190100Z
+UID:32641c8c-ea8f-4972-9c31-2c6ed4168fc4
+DTSTART:20260518T173000Z
+DTEND:20260518T190100Z
 SUMMARY:DU FIOUL DANS LES ARTÈRES - Raimu
 LOCATION:Chemin de la Borde 06150 Cannes La Bocca
-DESCRIPTION:Program: Semaine de la Critique<br>Director: PIERRE LE GALL<br>Theater:
- Raimu<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=o
+DESCRIPTION:Program: Semaine de la Critique<br>Director: PIERRE LE GALL<br>Theater:
+ Raimu<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=o
  %2FcWkVd3wcY%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:17509ca0-64eb-4ae7-be93-fea61b45d63b
-DTSTART:20250518T194500Z
-DTEND:20250518T213700Z
+UID:3f45214a-6fa1-48d7-9945-3103900e85fe
+DTSTART:20260518T194500Z
+DTEND:20260518T213700Z
 SUMMARY:THE STATION - Alexandre III
 LOCATION:19 Bd Alexandre III 06400 Cannes
-DESCRIPTION:Program: Semaine de la Critique<br>Director: SARA ISHAQ<br>Theater:
- Alexandre III<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+DESCRIPTION:Program: Semaine de la Critique<br>Director: SARA ISHAQ<br>Theater:
+ Alexandre III<br><a href="https://ticketonline1.festival-cannes.com/fiche?
  idproj=8zREMR4VCbY%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:9d6b0726-5721-4f91-962c-dd6ab17a321a
-DTSTART:20250519T064500Z
-DTEND:20250519T083100Z
+UID:712fe263-81d4-4913-a247-4865e62e77ef
+DTSTART:20260519T064500Z
+DTEND:20260519T083100Z
 SUMMARY:TIN CASTLE - Miramar
 LOCATION:35 Rue Pasteur\, 06400 Cannes\, France
-DESCRIPTION:Program: Semaine de la Critique<br>Director: ALEXANDER MURPHY<br>Theater:
- Miramar<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Semaine de la Critique<br>Director: ALEXANDER MURPHY<br>Theater:
+ Miramar<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =%2FnzdNpyl5DM%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:7e5c1429-8962-4873-b47e-bbcb40bf6f43
-DTSTART:20250519T070000Z
-DTEND:20250519T083100Z
+UID:99f65d5f-b42e-4050-9497-2c6e770e0772
+DTSTART:20260519T070000Z
+DTEND:20260519T083100Z
 SUMMARY:DU FIOUL DANS LES ARTÈRES - Licorne
 LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Semaine de la Critique<br>Director: PIERRE LE GALL<br>Theater:
- Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Semaine de la Critique<br>Director: PIERRE LE GALL<br>Theater:
+ Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =AXeU9wArhVY%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:db31df9a-b19f-40f9-9a14-6a38c4e34991
-DTSTART:20250519T093000Z
-DTEND:20250519T112000Z
+UID:8033a5b6-dd8a-48a3-b0a6-0c39d597886c
+DTSTART:20260519T093000Z
+DTEND:20260519T112000Z
 SUMMARY:SEIS MESES EN EL EDIFICIO ROSA CON AZUL - Miramar
 LOCATION:35 Rue Pasteur\, 06400 Cannes\, France
-DESCRIPTION:Program: Semaine de la Critique<br>Director: BRUNO SANTAMARÍA
- RAZO<br>Theater: Miramar<br><a href="https://ticketonline1.festival-cannes
+DESCRIPTION:Program: Semaine de la Critique<br>Director: BRUNO SANTAMARÍA
+ RAZO<br>Theater: Miramar<br><a href="https://ticketonline1.festival-cannes
  .com/fiche?idproj=LdJ%2BtsR%2Fi1Y%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:2987f208-f1ca-4fc4-9752-67f954656eeb
-DTSTART:20250519T120000Z
-DTEND:20250519T134600Z
+UID:1dd315b2-c5cc-4709-874e-fac5f6ec2076
+DTSTART:20260519T120000Z
+DTEND:20260519T134600Z
 SUMMARY:TIN CASTLE - Studio 13
 LOCATION:23 Av. du Dr Raymond Picaud 06400 Cannes
-DESCRIPTION:Program: Semaine de la Critique<br>Director: ALEXANDER MURPHY<br>Theater:
- Studio 13<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpr
+DESCRIPTION:Program: Semaine de la Critique<br>Director: ALEXANDER MURPHY<br>Theater:
+ Studio 13<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpr
  oj=Co7SZ32r3nw%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:bfa653f2-0de7-4e0d-b0cf-cc1bfd017081
-DTSTART:20250519T153000Z
-DTEND:20250519T172500Z
+UID:752a00b2-87cf-40f5-ac77-0f5a8de58f26
+DTSTART:20260519T153000Z
+DTEND:20260519T172500Z
 SUMMARY:SEIS MESES EN EL EDIFICIO ROSA CON AZUL - Miramar
 LOCATION:35 Rue Pasteur\, 06400 Cannes\, France
-DESCRIPTION:Program: Semaine de la Critique<br>Director: BRUNO SANTAMARÍA
- RAZO<br>Theater: Miramar<br><a href="https://ticketonline1.festival-cannes
+DESCRIPTION:Program: Semaine de la Critique<br>Director: BRUNO SANTAMARÍA
+ RAZO<br>Theater: Miramar<br><a href="https://ticketonline1.festival-cannes
  .com/fiche?idproj=oW8HFvO1A0Y%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:81ae0468-6c1d-4a3b-876e-d7eeaa0de551
-DTSTART:20250519T193000Z
-DTEND:20250519T211600Z
+UID:c2e7360a-e95e-44df-99ee-58112a9e6209
+DTSTART:20260519T193000Z
+DTEND:20260519T211600Z
 SUMMARY:TIN CASTLE - Alexandre III
 LOCATION:19 Bd Alexandre III 06400 Cannes
-DESCRIPTION:Program: Semaine de la Critique<br>Director: ALEXANDER MURPHY<br>Theater:
- Alexandre III<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+DESCRIPTION:Program: Semaine de la Critique<br>Director: ALEXANDER MURPHY<br>Theater:
+ Alexandre III<br><a href="https://ticketonline1.festival-cannes.com/fiche?
  idproj=Wg0yCwp39g0%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:d6dbc0f9-4b33-42de-ada8-eed5d966faff
-DTSTART:20250520T064500Z
-DTEND:20250520T083000Z
+UID:ccd890e9-55f5-464d-80ef-0a53405c2ba7
+DTSTART:20260520T064500Z
+DTEND:20260520T083000Z
 SUMMARY:SEIS MESES EN EL EDIFICIO ROSA CON AZUL - Miramar
 LOCATION:35 Rue Pasteur\, 06400 Cannes\, France
-DESCRIPTION:Program: Semaine de la Critique<br>Director: BRUNO SANTAMARÍA
- RAZO<br>Theater: Miramar<br><a href="https://ticketonline1.festival-cannes
+DESCRIPTION:Program: Semaine de la Critique<br>Director: BRUNO SANTAMARÍA
+ RAZO<br>Theater: Miramar<br><a href="https://ticketonline1.festival-cannes
  .com/fiche?idproj=yfFSamyviqg%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:42c68596-2d94-4631-8d7d-7da25e39bfa5
-DTSTART:20250520T093000Z
-DTEND:20250520T110800Z
+UID:86095128-f066-4541-8e57-4cde53241f54
+DTSTART:20260520T093000Z
+DTEND:20260520T110800Z
 SUMMARY:ADIEU MONDE CRUEL - Miramar
 LOCATION:35 Rue Pasteur\, 06400 Cannes\, France
-DESCRIPTION:Program: Semaine de la Critique<br>Director: FELIX DE GIVRY<br>Theater:
- Miramar<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Semaine de la Critique<br>Director: FELIX DE GIVRY<br>Theater:
+ Miramar<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =zCsjBthMMCs%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:98c4af0f-ef6e-4d51-aaa2-2e793ef9039d
-DTSTART:20250520T120000Z
-DTEND:20250520T134500Z
+UID:3fbe1962-3504-4d68-8045-769f7fdd1801
+DTSTART:20260520T120000Z
+DTEND:20260520T134500Z
 SUMMARY:SEIS MESES EN EL EDIFICIO ROSA CON AZUL - Studio 13
 LOCATION:23 Av. du Dr Raymond Picaud 06400 Cannes
-DESCRIPTION:Program: Semaine de la Critique<br>Director: BRUNO SANTAMARÍA
- RAZO<br>Theater: Studio 13<br><a href="https://ticketonline1.festival-cann
+DESCRIPTION:Program: Semaine de la Critique<br>Director: BRUNO SANTAMARÍA
+ RAZO<br>Theater: Studio 13<br><a href="https://ticketonline1.festival-cann
  es.com/fiche?idproj=GMKJsGiXF3E%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:748e1374-26af-475f-915b-d2c70f3680c5
-DTSTART:20250520T173000Z
-DTEND:20250520T191600Z
+UID:926fd399-4ac4-4736-8874-5703df3de482
+DTSTART:20260520T173000Z
+DTEND:20260520T191600Z
 SUMMARY:TIN CASTLE - Raimu
 LOCATION:Chemin de la Borde 06150 Cannes La Bocca
-DESCRIPTION:Program: Semaine de la Critique<br>Director: ALEXANDER MURPHY<br>Theater:
- Raimu<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=x
+DESCRIPTION:Program: Semaine de la Critique<br>Director: ALEXANDER MURPHY<br>Theater:
+ Raimu<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=x
  D%2FL8TXyP%2FY%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:9ba99953-0066-4d1f-baf9-b68ac1230ff9
-DTSTART:20250520T184500Z
-DTEND:20250520T203300Z
+UID:e49a87f1-3a45-4b48-8d8d-82c3ad1755e7
+DTSTART:20260520T184500Z
+DTEND:20260520T203300Z
 SUMMARY:ADIEU MONDE CRUEL - Miramar
 LOCATION:35 Rue Pasteur\, 06400 Cannes\, France
-DESCRIPTION:Program: Semaine de la Critique<br>Director: FELIX DE GIVRY<br>Theater:
- Miramar<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Semaine de la Critique<br>Director: FELIX DE GIVRY<br>Theater:
+ Miramar<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =%2BBR6iIb9tyY%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:a71c6b0c-44a0-446f-b881-f62011a376fe
-DTSTART:20250520T193000Z
-DTEND:20250520T211500Z
+UID:19f1384f-eabb-4020-bfa1-2b9f6920f0e5
+DTSTART:20260520T193000Z
+DTEND:20260520T211500Z
 SUMMARY:SEIS MESES EN EL EDIFICIO ROSA CON AZUL - Alexandre III
 LOCATION:19 Bd Alexandre III 06400 Cannes
-DESCRIPTION:Program: Semaine de la Critique<br>Director: BRUNO SANTAMARÍA
- RAZO<br>Theater: Alexandre III<br><a href="https://ticketonline1.festival-
+DESCRIPTION:Program: Semaine de la Critique<br>Director: BRUNO SANTAMARÍA
+ RAZO<br>Theater: Alexandre III<br><a href="https://ticketonline1.festival-
  cannes.com/fiche?idproj=SzEP3eSGOsI%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:8a6c13e5-b10e-4eb7-99c8-a9fbfe7c9523
-DTSTART:20250521T070000Z
-DTEND:20250521T083300Z
+UID:7054cc91-6627-4030-9519-e09693f79e45
+DTSTART:20260521T070000Z
+DTEND:20260521T083300Z
 SUMMARY:ADIEU MONDE CRUEL - Licorne
 LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Semaine de la Critique<br>Director: FELIX DE GIVRY<br>Theater:
- Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Semaine de la Critique<br>Director: FELIX DE GIVRY<br>Theater:
+ Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =5IEfO3Aa2bY%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:2334dd18-3498-4463-99d8-4dd74e19624e
-DTSTART:20250521T120000Z
-DTEND:20250521T134600Z
+UID:ed55c0eb-4687-4595-9a6e-f436a56689d0
+DTSTART:20260521T120000Z
+DTEND:20260521T134600Z
 SUMMARY:LA FRAPPE - Studio 13
 LOCATION:23 Av. du Dr Raymond Picaud 06400 Cannes
-DESCRIPTION:Program: Semaine de la Critique<br>Director: JULIEN
- GASPAR-OLIVERI<br>Theater: Studio 13<br><a href="https://ticketonline1.fes
+DESCRIPTION:Program: Semaine de la Critique<br>Director: JULIEN
+ GASPAR-OLIVERI<br>Theater: Studio 13<br><a href="https://ticketonline1.fes
  tival-cannes.com/fiche?idproj=AE5NgnywTxw%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:22d10b71-46ec-4863-8437-38da173477f6
-DTSTART:20250521T193000Z
-DTEND:20250521T210100Z
+UID:cf686f2c-defe-454b-ad8a-be5687497b81
+DTSTART:20260521T193000Z
+DTEND:20260521T210100Z
 SUMMARY:DU FIOUL DANS LES ARTÈRES - Alexandre III
 LOCATION:19 Bd Alexandre III 06400 Cannes
-DESCRIPTION:Program: Semaine de la Critique<br>Director: PIERRE LE GALL<br>Theater:
- Alexandre III<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+DESCRIPTION:Program: Semaine de la Critique<br>Director: PIERRE LE GALL<br>Theater:
+ Alexandre III<br><a href="https://ticketonline1.festival-cannes.com/fiche?
  idproj=y%2Fp5GxC8xDQ%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:c9b8c21a-7cfd-48f4-84a1-c6e5801d2e0b
-DTSTART:20250522T120000Z
-DTEND:20250522T133100Z
+UID:4cd00c66-fbfb-47c9-aa14-e62e60e6b5f4
+DTSTART:20260522T120000Z
+DTEND:20260522T133100Z
 SUMMARY:IN WAVES - Studio 13
 LOCATION:23 Av. du Dr Raymond Picaud 06400 Cannes
-DESCRIPTION:Program: Semaine de la Critique<br>Director: PHUONG MAI NGUYEN<br>Theater:
- Studio 13<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpr
+DESCRIPTION:Program: Semaine de la Critique<br>Director: PHUONG MAI NGUYEN<br>Theater:
+ Studio 13<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpr
  oj=hJrmutV7l2g%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:e42d4e5a-9938-46b7-a43f-04d005f4f827
-DTSTART:20250522T170000Z
-DTEND:20250522T192500Z
+UID:18623dba-22a7-4ede-8849-57a7127510c9
+DTSTART:20260522T170000Z
+DTEND:20260522T192500Z
 SUMMARY:LA GRADIVA - Raimu
 LOCATION:Chemin de la Borde 06150 Cannes La Bocca
-DESCRIPTION:Program: Semaine de la Critique<br>Director: MARINE ATLAN<br>Theater:
- Raimu<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=a
+DESCRIPTION:Program: Semaine de la Critique<br>Director: MARINE ATLAN<br>Theater:
+ Raimu<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=a
  hfDGwbNSbM%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:ff0d2508-2317-47e8-8364-b72d4a0ffd5b
-DTSTART:20250522T193000Z
-DTEND:20250522T210300Z
+UID:c513c420-678d-4d76-bff7-0937cb9e1ec8
+DTSTART:20260522T193000Z
+DTEND:20260522T210300Z
 SUMMARY:ADIEU MONDE CRUEL - Alexandre III
 LOCATION:19 Bd Alexandre III 06400 Cannes
-DESCRIPTION:Program: Semaine de la Critique<br>Director: FELIX DE GIVRY<br>Theater:
- Alexandre III<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+DESCRIPTION:Program: Semaine de la Critique<br>Director: FELIX DE GIVRY<br>Theater:
+ Alexandre III<br><a href="https://ticketonline1.festival-cannes.com/fiche?
  idproj=iZ415GU%2FU6g%3D">Event link</a>
 END:VEVENT
-
-END:VCALENDAR
+
+END:VCALENDAR

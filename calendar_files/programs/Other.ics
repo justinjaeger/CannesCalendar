@@ -1,373 +1,373 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//Cannes Film Festival//Screenings//EN
-CALSCALE:GREGORIAN
-METHOD:PUBLISH
-X-WR-CALNAME:Cannes Film Festival Screenings
-X-WR-TIMEZONE:Europe/Paris
-
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cannes Film Festival//Screenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cannes Film Festival Screenings
+X-WR-TIMEZONE:Europe/Paris
+
 BEGIN:VEVENT
-UID:67445669-ef9f-4fe0-88c6-6edd83649122
-DTSTART:20250512T123000Z
-DTEND:20250512T133000Z
+UID:cfa4475d-2ecb-4e36-9a6f-be2dcfadf4ab
+DTSTART:20260512T123000Z
+DTEND:20260512T133000Z
 SUMMARY:CONFÉRENCE DE PRESSE DU JURY / JURY PRESS CONFERENCE - Presse Conference Room
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Presse Conference Room<br><a
- href="https://ticketonline1.festival-cannes.com/fiche?idproj=b2R6NPlxzK8%3
+DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Presse Conference Room<br><a
+ href="https://ticketonline1.festival-cannes.com/fiche?idproj=b2R6NPlxzK8%3
  D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:3ebddda4-15f0-4051-ae81-900d4415ab59
-DTSTART:20250513T090000Z
-DTEND:20250513T103000Z
+UID:71b109f6-43de-4a19-9593-3b4b6cb494db
+DTSTART:20260513T090000Z
+DTEND:20260513T103000Z
 SUMMARY:RENDEZ-VOUS AVEC/WITH PETER JACKSON - Debussy Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Debussy Theatre<br><a href="http
- s://ticketonline1.festival-cannes.com/fiche?idproj=%2BEYE22B6jQ0%3D">Event
+DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Debussy Theatre<br><a href="http
+ s://ticketonline1.festival-cannes.com/fiche?idproj=%2BEYE22B6jQ0%3D">Event
  link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:0ecc22dc-d0e6-41fe-939d-1ff1642372a9
-DTSTART:20250514T133000Z
-DTEND:20250514T144500Z
+UID:c1db9de7-216f-4f26-bccd-834f5656f40b
+DTSTART:20260514T133000Z
+DTEND:20260514T144500Z
 SUMMARY:NEXT STEP STUDIO INDONESIA - Miramar
 LOCATION:35 Rue Pasteur\, 06400 Cannes\, France
-DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Miramar<br><a href="https://tick
+DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Miramar<br><a href="https://tick
  etonline1.festival-cannes.com/fiche?idproj=rXuqblX8wd4%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:b1c45d34-604a-4a36-96b1-a257526c35aa
-DTSTART:20250517T123000Z
-DTEND:20250517T140000Z
+UID:2386a492-85d2-493a-b453-6697228c8e5b
+DTSTART:20260517T123000Z
+DTEND:20260517T140000Z
 SUMMARY:RENDEZ-VOUS AVEC/WITH CATE BLANCHETT - Buñuel Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Buñuel Theatre<br><a href="https
- ://ticketonline1.festival-cannes.com/fiche?idproj=k6GTZhrVFUY%3D">Event
+DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Buñuel Theatre<br><a href="https
+ ://ticketonline1.festival-cannes.com/fiche?idproj=k6GTZhrVFUY%3D">Event
  link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:d52f3088-e4a8-4867-95b6-0b6e29e1846d
-DTSTART:20250517T140000Z
-DTEND:20250517T153800Z
+UID:382a8355-59c6-40e8-a5ed-66c70200c687
+DTSTART:20260517T140000Z
+DTEND:20260517T153800Z
 SUMMARY:COURTS MÉTRAGES - Miramar
 LOCATION:35 Rue Pasteur\, 06400 Cannes\, France
-DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Miramar<br><a href="https://tick
+DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Miramar<br><a href="https://tick
  etonline1.festival-cannes.com/fiche?idproj=eUd4ckdmMgA%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:90b573f9-61a1-4c96-b73a-9f4f17244bca
-DTSTART:20250518T120000Z
-DTEND:20250518T133000Z
+UID:87c8e55c-844d-4fd0-9842-0bd552f95120
+DTSTART:20260518T120000Z
+DTEND:20260518T133000Z
 SUMMARY:SACEM – LA LEÇON DE MUSIQUE – AMINE BOUHAFA - Buñuel Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Buñuel Theatre<br><a href="https
- ://ticketonline1.festival-cannes.com/fiche?idproj=xLyK3qnZzco%3D">Event
+DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Buñuel Theatre<br><a href="https
+ ://ticketonline1.festival-cannes.com/fiche?idproj=xLyK3qnZzco%3D">Event
  link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:2dea1709-a793-447e-9d1e-1b2a3e0f4985
-DTSTART:20250518T123000Z
-DTEND:20250518T131500Z
+UID:16659b6c-ae98-41e2-90de-a1f1128d972c
+DTSTART:20260518T123000Z
+DTEND:20260518T131500Z
 SUMMARY:PANEL DISPLACEMENT FILM FUND WITH CATE BLANCHETT - Presse Conference Room
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Presse Conference Room<br><a
- href="https://ticketonline1.festival-cannes.com/fiche?idproj=apwwzCGOO10%3
+DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Presse Conference Room<br><a
+ href="https://ticketonline1.festival-cannes.com/fiche?idproj=apwwzCGOO10%3
  D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:b28b3086-c9eb-44ac-9530-f2ddf9affe7b
-DTSTART:20250518T123000Z
-DTEND:20250518T140400Z
+UID:22e02049-d2d9-42a5-b63f-956b9996b4ad
+DTSTART:20260518T123000Z
+DTEND:20260518T140400Z
 SUMMARY:COURTS MÉTRAGES COMPÉTITION 01 - Miramar
 LOCATION:35 Rue Pasteur\, 06400 Cannes\, France
-DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Miramar<br><a href="https://tick
+DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Miramar<br><a href="https://tick
  etonline1.festival-cannes.com/fiche?idproj=n9PfRT8y9TQ%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:dc1f4afb-3824-4735-a337-d2518f4303f4
-DTSTART:20250518T184500Z
-DTEND:20250518T202900Z
+UID:4a42341c-bca2-4fa2-be6b-d88b509cee31
+DTSTART:20260518T184500Z
+DTEND:20260518T202900Z
 SUMMARY:COURTS MÉTRAGES COMPÉTITION 01 - Miramar
 LOCATION:35 Rue Pasteur\, 06400 Cannes\, France
-DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Miramar<br><a href="https://tick
+DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Miramar<br><a href="https://tick
  etonline1.festival-cannes.com/fiche?idproj=l3GmMRxFtjI%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:31937d18-4459-4016-9099-497af45e78e8
-DTSTART:20250519T123000Z
-DTEND:20250519T141600Z
+UID:efa23ca4-a68e-4c5b-aa6e-5f814f588f31
+DTSTART:20260519T123000Z
+DTEND:20260519T141600Z
 SUMMARY:COURTS MÉTRAGES COMPÉTITION 02 - Miramar
 LOCATION:35 Rue Pasteur\, 06400 Cannes\, France
-DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Miramar<br><a href="https://tick
+DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Miramar<br><a href="https://tick
  etonline1.festival-cannes.com/fiche?idproj=xYCsgUZ7R18%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:22737457-4507-425c-abbd-2ccdd32f7139
-DTSTART:20250519T123000Z
-DTEND:20250519T135600Z
+UID:8fa0d2ad-672d-4037-904a-26b9b6fe9059
+DTSTART:20260519T123000Z
+DTEND:20260519T135600Z
 SUMMARY:SÉLECTION LA CINEF - PROGRAMME 1 - Buñuel Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Buñuel Theatre<br><a href="https
- ://ticketonline1.festival-cannes.com/fiche?idproj=uyWiOkveEpQ%3D">Event
+DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Buñuel Theatre<br><a href="https
+ ://ticketonline1.festival-cannes.com/fiche?idproj=uyWiOkveEpQ%3D">Event
  link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:497c2f9c-b2c6-4b6c-be18-56acc5e1f3bc
-DTSTART:20250519T130000Z
-DTEND:20250519T141500Z
+UID:62b6f5e0-b9eb-4454-bf20-187b5ce1d717
+DTSTART:20260519T130000Z
+DTEND:20260519T141500Z
 SUMMARY:TALENTS ADAMI CINÉMA 2026 - Agnès Varda Theatre
 LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
-DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Agnès Varda Theatre<br><a href="
- https://ticketonline1.festival-cannes.com/fiche?idproj=ssZchHHG%2B14%3D">E
+DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Agnès Varda Theatre<br><a href="
+ https://ticketonline1.festival-cannes.com/fiche?idproj=ssZchHHG%2B14%3D">E
  vent link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:70d79ede-9d20-4762-afc7-7af70edb9fbc
-DTSTART:20250519T173000Z
-DTEND:20250519T183200Z
+UID:3720f7e7-e5c7-4879-beba-f668bd7b4645
+DTSTART:20260519T173000Z
+DTEND:20260519T183200Z
 SUMMARY:DU LING ZHI YING (TORINO SHADOW) - Buñuel Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Buñuel Theatre<br><a href="https
- ://ticketonline1.festival-cannes.com/fiche?idproj=yp2LDlqNmKM%3D">Event
+DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Buñuel Theatre<br><a href="https
+ ://ticketonline1.festival-cannes.com/fiche?idproj=yp2LDlqNmKM%3D">Event
  link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:ad397b7d-0ce2-46c6-b009-b2c3bd327ab5
-DTSTART:20250519T184500Z
-DTEND:20250519T204100Z
+UID:6bc843cd-62de-42e8-9fd4-6f28b24fba2a
+DTSTART:20260519T184500Z
+DTEND:20260519T204100Z
 SUMMARY:COURTS MÉTRAGES COMPÉTITION 02 - Miramar
 LOCATION:35 Rue Pasteur\, 06400 Cannes\, France
-DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Miramar<br><a href="https://tick
+DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Miramar<br><a href="https://tick
  etonline1.festival-cannes.com/fiche?idproj=v1GUfWnAzT0%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:7ab4132d-2f4a-4a72-bff4-1682e0f5e910
-DTSTART:20250520T091500Z
-DTEND:20250520T103600Z
+UID:e6acb4e1-5b4a-4f23-a347-bec91803c0b3
+DTSTART:20260520T091500Z
+DTEND:20260520T103600Z
 SUMMARY:SÉLECTION LA CINEF - PROGRAMME 2 - Buñuel Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Buñuel Theatre<br><a href="https
- ://ticketonline1.festival-cannes.com/fiche?idproj=HXrHhOSGRiw%3D">Event
+DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Buñuel Theatre<br><a href="https
+ ://ticketonline1.festival-cannes.com/fiche?idproj=HXrHhOSGRiw%3D">Event
  link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:1f4fb383-12e5-430b-9910-222276e378d4
-DTSTART:20250520T123000Z
-DTEND:20250520T134700Z
+UID:c12a1df3-da57-476c-b9b4-c72ca3714bcb
+DTSTART:20260520T123000Z
+DTEND:20260520T134700Z
 SUMMARY:SÉLECTION LA CINEF - PROGRAMME 3 - Buñuel Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Buñuel Theatre<br><a href="https
- ://ticketonline1.festival-cannes.com/fiche?idproj=I3W2uKYNHvk%3D">Event
+DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Buñuel Theatre<br><a href="https
+ ://ticketonline1.festival-cannes.com/fiche?idproj=I3W2uKYNHvk%3D">Event
  link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:1f5ea8ff-b7bb-4219-a7c6-9b0cf0940639
-DTSTART:20250520T160000Z
-DTEND:20250520T172000Z
+UID:af885d16-e41d-4d89-9c40-9d329c051287
+DTSTART:20260520T160000Z
+DTEND:20260520T172000Z
 SUMMARY:CÉRÉMONIE DE CLÔTURE - Miramar
 LOCATION:35 Rue Pasteur\, 06400 Cannes\, France
-DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Miramar<br><a href="https://tick
- etonline1.festival-cannes.com/fiche?idproj=%2Boj05CwSu34%3D">Event
+DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Miramar<br><a href="https://tick
+ etonline1.festival-cannes.com/fiche?idproj=%2Boj05CwSu34%3D">Event
  link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:340ac005-40e3-4999-bafa-9d6a5e49b461
-DTSTART:20250521T063000Z
-DTEND:20250521T074500Z
+UID:6158ce11-3ebe-49ba-9c13-12f1e2ebe4aa
+DTSTART:20260521T063000Z
+DTEND:20260521T074500Z
 SUMMARY:NEXT STEP STUDIO INDONESIA - Miramar
 LOCATION:35 Rue Pasteur\, 06400 Cannes\, France
-DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Miramar<br><a href="https://tick
+DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Miramar<br><a href="https://tick
  etonline1.festival-cannes.com/fiche?idproj=Tn2cWhPQcN8%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:6f41e36c-4e16-4df0-8c65-5fd3bcd4f2e0
-DTSTART:20250521T090000Z
-DTEND:20250521T110000Z
+UID:e015dc76-2ead-407a-841c-377ad9cf34e3
+DTSTART:20260521T090000Z
+DTEND:20260521T110000Z
 SUMMARY:GRAND PRIX AMI PARIS + PRIX DÉCOUVERTE SONY DU COURT MÉTRAGE - Miramar
 LOCATION:35 Rue Pasteur\, 06400 Cannes\, France
-DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Miramar<br><a href="https://tick
- etonline1.festival-cannes.com/fiche?idproj=z%2FiDmFoCPKk%3D">Event
+DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Miramar<br><a href="https://tick
+ etonline1.festival-cannes.com/fiche?idproj=z%2FiDmFoCPKk%3D">Event
  link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:e04cddc6-297b-4cfe-bcd1-a3aa31d668ef
-DTSTART:20250521T090000Z
-DTEND:20250521T101500Z
+UID:3f2f65ea-230f-4180-91d8-bb9077cb889e
+DTSTART:20260521T090000Z
+DTEND:20260521T101500Z
 SUMMARY:SÉLECTION LA CINEF - PROGRAMME 4 - Buñuel Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Buñuel Theatre<br><a href="https
- ://ticketonline1.festival-cannes.com/fiche?idproj=54nmv3ahHH8%3D">Event
+DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Buñuel Theatre<br><a href="https
+ ://ticketonline1.festival-cannes.com/fiche?idproj=54nmv3ahHH8%3D">Event
  link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:42297681-008f-4337-96b0-0a0322296047
-DTSTART:20250521T093000Z
-DTEND:20250521T112400Z
+UID:15414a2a-c597-48eb-9c4f-d9b61d0e9ec1
+DTSTART:20260521T093000Z
+DTEND:20260521T112400Z
 SUMMARY:PROGRAMMES COURTS 1 (SHORTS 1) - Théâtre Croisette
 LOCATION:3 Rue Frédéric Amouretti 1
-DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Théâtre Croisette<br><a href="ht
- tps://ticketonline1.festival-cannes.com/fiche?idproj=rAXbBj3awHA%3D">Event
+DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Théâtre Croisette<br><a href="ht
+ tps://ticketonline1.festival-cannes.com/fiche?idproj=rAXbBj3awHA%3D">Event
  link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:354d2f4e-1619-468b-a255-356a90c1d458
-DTSTART:20250521T123000Z
-DTEND:20250521T140000Z
+UID:adc48242-ba17-4f92-aec6-8315ec4f71bc
+DTSTART:20260521T123000Z
+DTEND:20260521T140000Z
 SUMMARY:RENDEZ-VOUS AVEC/WITH TILDA SWINTON - Buñuel Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Buñuel Theatre<br><a href="https
- ://ticketonline1.festival-cannes.com/fiche?idproj=gA1OXAGJobg%3D">Event
+DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Buñuel Theatre<br><a href="https
+ ://ticketonline1.festival-cannes.com/fiche?idproj=gA1OXAGJobg%3D">Event
  link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:0ea9fd07-a5d3-43fc-a313-8e9c52fcd82f
-DTSTART:20250521T130000Z
-DTEND:20250521T145900Z
+UID:085057b2-c37b-4aac-a99c-d59f23dcbe0c
+DTSTART:20260521T130000Z
+DTEND:20260521T145900Z
 SUMMARY:PROGRAMMES COURTS 2 (SHORTS 2) - Théâtre Croisette
 LOCATION:3 Rue Frédéric Amouretti 1
-DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Théâtre Croisette<br><a href="ht
- tps://ticketonline1.festival-cannes.com/fiche?idproj=AKJlvXDcxr8%3D">Event
+DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Théâtre Croisette<br><a href="ht
+ tps://ticketonline1.festival-cannes.com/fiche?idproj=AKJlvXDcxr8%3D">Event
  link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:35ea0339-7403-4fb3-96f7-2fabdaa706df
-DTSTART:20250521T130000Z
-DTEND:20250521T141500Z
+UID:bc14de15-ff8e-4b11-9c55-ea20bc07a395
+DTSTART:20260521T130000Z
+DTEND:20260521T141500Z
 SUMMARY:INVITATION AU FESTIVAL INTERNATIONAL DU FILM DE MORELIA - Miramar
 LOCATION:35 Rue Pasteur\, 06400 Cannes\, France
-DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Miramar<br><a href="https://tick
+DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Miramar<br><a href="https://tick
  etonline1.festival-cannes.com/fiche?idproj=5Fzz7Kvh19U%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:52a41680-3332-433c-842b-2f0327c07ef0
-DTSTART:20250521T151500Z
-DTEND:20250521T161500Z
+UID:606d7af2-fd5d-46f6-acbc-de8324c6d57d
+DTSTART:20260521T151500Z
+DTEND:20260521T161500Z
 SUMMARY:TALENTS ADAMI CINÉMA - Miramar
 LOCATION:35 Rue Pasteur\, 06400 Cannes\, France
-DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Miramar<br><a href="https://tick
+DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Miramar<br><a href="https://tick
  etonline1.festival-cannes.com/fiche?idproj=taRSOwiMhig%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:a987ddf4-5fd2-4904-b92b-c99904b2d5fb
-DTSTART:20250521T160000Z
-DTEND:20250521T173000Z
+UID:a5c3ac96-fd29-4d08-af5c-9acf4505e3b6
+DTSTART:20260521T160000Z
+DTEND:20260521T173000Z
 SUMMARY:PALMARES - LA CINEF - Buñuel Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Buñuel Theatre<br><a href="https
- ://ticketonline1.festival-cannes.com/fiche?idproj=oDI8qaUOIog%3D">Event
+DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Buñuel Theatre<br><a href="https
+ ://ticketonline1.festival-cannes.com/fiche?idproj=oDI8qaUOIog%3D">Event
  link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:816130b7-5439-4720-956d-629bc2840bfa
-DTSTART:20250521T180000Z
-DTEND:20250521T200000Z
+UID:df1f2c26-1fb0-4023-8faa-2037f8674613
+DTSTART:20260521T180000Z
+DTEND:20260521T200000Z
 SUMMARY:PRIX FONDATION GAN À LA DIFFUSION - Miramar
 LOCATION:35 Rue Pasteur\, 06400 Cannes\, France
-DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Miramar<br><a href="https://tick
+DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Miramar<br><a href="https://tick
  etonline1.festival-cannes.com/fiche?idproj=r7ugvrAHDEY%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:2845de25-6488-4a18-beea-9ab1396dee00
-DTSTART:20250522T090000Z
-DTEND:20250522T091000Z
+UID:10924fc8-1096-4e4e-88e0-e0b9af2a7cda
+DTSTART:20260522T090000Z
+DTEND:20260522T091000Z
 SUMMARY:CONVERSATION AVEC ALICE WINOCOUR - PRIX ALPINE - Théâtre Croisette
 LOCATION:3 Rue Frédéric Amouretti 1
-DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Théâtre Croisette<br><a href="ht
- tps://ticketonline1.festival-cannes.com/fiche?idproj=ZI0AGKdMXPU%3D">Event
+DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Théâtre Croisette<br><a href="ht
+ tps://ticketonline1.festival-cannes.com/fiche?idproj=ZI0AGKdMXPU%3D">Event
  link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:033b97fb-7540-4370-a4d9-3819ce45d8e8
-DTSTART:20250522T090000Z
-DTEND:20250522T112800Z
+UID:8063dd78-f28d-475c-bc82-d6115f00f84d
+DTSTART:20260522T090000Z
+DTEND:20260522T112800Z
 SUMMARY:COURTS MÉTRAGES EN COMPÉTITION - Debussy Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Debussy Theatre<br><a href="http
- s://ticketonline1.festival-cannes.com/fiche?idproj=sCqIDgaGkh8%3D">Event
+DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Debussy Theatre<br><a href="http
+ s://ticketonline1.festival-cannes.com/fiche?idproj=sCqIDgaGkh8%3D">Event
  link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:9583af7f-4c66-4cc1-bc11-9999df87b8af
-DTSTART:20250522T120000Z
-DTEND:20250522T142800Z
+UID:a2cfb55c-652e-489a-85af-00d3e44408d7
+DTSTART:20260522T120000Z
+DTEND:20260522T142800Z
 SUMMARY:COURTS MÉTRAGES EN COMPÉTITION - Buñuel Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Buñuel Theatre<br><a href="https
- ://ticketonline1.festival-cannes.com/fiche?idproj=qCvvHOzSy7M%3D">Event
+DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Buñuel Theatre<br><a href="https
+ ://ticketonline1.festival-cannes.com/fiche?idproj=qCvvHOzSy7M%3D">Event
  link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:e9fb7eeb-1147-43bd-9ab4-5afafc98a95e
-DTSTART:20250522T143000Z
-DTEND:20250522T161400Z
+UID:3f4a37df-5b9e-4a90-97aa-246b53f22787
+DTSTART:20260522T143000Z
+DTEND:20260522T161400Z
 SUMMARY:PROGRAMMES COURTS 1 (SHORTS 1) - Studio 13
 LOCATION:23 Av. du Dr Raymond Picaud 06400 Cannes
-DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Studio 13<br><a href="https://ti
- cketonline1.festival-cannes.com/fiche?idproj=IT8vLLpU3yY%3D">Event
+DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Studio 13<br><a href="https://ti
+ cketonline1.festival-cannes.com/fiche?idproj=IT8vLLpU3yY%3D">Event
  link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:a3acd177-6165-4f04-b21c-ff1ed66f8ecd
-DTSTART:20250522T170000Z
-DTEND:20250522T184900Z
+UID:0557c8f6-34ce-4ba7-bf1b-9a5eca7f45c6
+DTSTART:20260522T170000Z
+DTEND:20260522T184900Z
 SUMMARY:PROGRAMMES COURTS 2 (SHORTS 2) - Alexandre III
 LOCATION:19 Bd Alexandre III 06400 Cannes
-DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Alexandre III<br><a href="https:
- //ticketonline1.festival-cannes.com/fiche?idproj=h%2Fu8KFO6xBg%3D">Event
+DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Alexandre III<br><a href="https:
+ //ticketonline1.festival-cannes.com/fiche?idproj=h%2Fu8KFO6xBg%3D">Event
  link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:250599f0-a342-4013-9c7b-caca3ed63217
-DTSTART:20250522T180000Z
-DTEND:20250522T191500Z
+UID:139ed8a0-1c17-4168-b916-688954230532
+DTSTART:20260522T180000Z
+DTEND:20260522T191500Z
 SUMMARY:HOMMAGE PIERRE ANGÉNIEUX À AKIKO ASHIZAWA (JSC) - Buñuel Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Buñuel Theatre<br><a href="https
- ://ticketonline1.festival-cannes.com/fiche?idproj=BiQHCgT0zrs%3D">Event
+DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Buñuel Theatre<br><a href="https
+ ://ticketonline1.festival-cannes.com/fiche?idproj=BiQHCgT0zrs%3D">Event
  link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:dfc68300-1ebc-42ab-81ca-761fc51d4c90
-DTSTART:20250523T190500Z
-DTEND:20250523T195000Z
+UID:c2c2e9c7-7166-40aa-a382-82fa4a10adea
+DTSTART:20260523T190500Z
+DTEND:20260523T195000Z
 SUMMARY:CONFÉRENCE DE PRESSE DES LAURÉATS - Presse Conference Room
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Presse Conference Room<br><a
- href="https://ticketonline1.festival-cannes.com/fiche?idproj=VMB%2BD8NkFRM
+DESCRIPTION:Program: Unknown<br>Director: <br>Theater: Presse Conference Room<br><a
+ href="https://ticketonline1.festival-cannes.com/fiche?idproj=VMB%2BD8NkFRM
  %3D">Event link</a>
 END:VEVENT
-
-END:VCALENDAR
+
+END:VCALENDAR

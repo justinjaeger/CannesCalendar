@@ -224,21 +224,23 @@ def write_program_calendar(header, events, program_name, output_dir):
         safe_filename = "Other"
     output_path = Path(output_dir) / f"{safe_filename}.ics"
     
-    with open(output_path, 'w', encoding='utf-8', newline='\r\n') as f:
-        # Write header with proper line endings
-        header_lines = []
-        for line in header.split('\n'):
-            if line.strip():
-                header_lines.append(line.strip())
-        f.write('\r\n'.join(header_lines))
-        f.write('\r\n\r\n')  # Add blank line between header and events
-        
-        # Write events
+    # IMPORTANT: Write with explicit CRLF (\r\n). Do not set newline to '\r\n' here,
+    # or Python may translate \n and produce \r\r\n which breaks Google Calendar import.
+    with open(output_path, 'w', encoding='utf-8', newline='') as f:
+        def crlf(s: str) -> str:
+            return s.replace('\r\n', '\n').replace('\r', '\n').replace('\n', '\r\n')
+
+        # Header
+        header_lines = [ln.strip() for ln in header.splitlines() if ln.strip()]
+        f.write(crlf('\n'.join(header_lines)))
+        f.write('\r\n\r\n')  # blank line between header and events
+
+        # Events
         for event in events:
-            f.write(event)
-            f.write('\r\n')  # Add blank line between events
-        
-        # Write footer
+            f.write(crlf(event).rstrip('\r\n'))
+            f.write('\r\n\r\n')  # blank line between events
+
+        # Footer
         f.write('END:VCALENDAR\r\n')
 
 def main():

@@ -1,265 +1,265 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//Cannes Film Festival//Screenings//EN
-CALSCALE:GREGORIAN
-METHOD:PUBLISH
-X-WR-CALNAME:Cannes Film Festival Screenings
-X-WR-TIMEZONE:Europe/Paris
-
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cannes Film Festival//Screenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cannes Film Festival Screenings
+X-WR-TIMEZONE:Europe/Paris
+
 BEGIN:VEVENT
-UID:ec3c127b-43bd-4621-b82b-19de52c911bc
-DTSTART:20250513T220000Z
-DTEND:20250513T234300Z
+UID:119019f1-5edd-49bb-939a-04145ea768bf
+DTSTART:20260513T220000Z
+DTEND:20260513T234300Z
 SUMMARY:SANGUINE - Grand Théâtre Lumière
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: MARION LE
- CORROLLER<br>Theater: Grand Théâtre Lumière<br><a href="https://ticketonli
+DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: MARION LE
+ CORROLLER<br>Theater: Grand Théâtre Lumière<br><a href="https://ticketonli
  ne1.festival-cannes.com/fiche?idproj=uZZT4skV%2BmQ%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:1842858f-6a42-49af-bd0b-3ee19ca9008d
-DTSTART:20250515T063000Z
-DTEND:20250515T081300Z
+UID:ae32d5b1-ff00-46f7-a94b-473b7d421a1f
+DTSTART:20260515T063000Z
+DTEND:20260515T081300Z
 SUMMARY:SANGUINE - Buñuel Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: MARION LE
- CORROLLER<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.fes
+DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: MARION LE
+ CORROLLER<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.fes
  tival-cannes.com/fiche?idproj=ppc4k3xtjoU%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:82158884-f962-406b-93b7-c586e8c90236
-DTSTART:20250515T114500Z
-DTEND:20250515T132800Z
+UID:5ba546ae-eb68-4586-920e-d5eaa90d7bc3
+DTSTART:20260515T114500Z
+DTEND:20260515T132800Z
 SUMMARY:SANGUINE - Cineum Imax
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: MARION LE
- CORROLLER<br>Theater: Cineum Imax<br><a href="https://ticketonline1.festiv
+DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: MARION LE
+ CORROLLER<br>Theater: Cineum Imax<br><a href="https://ticketonline1.festiv
  al-cannes.com/fiche?idproj=ezzrNIHV7zA%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:404e089a-5335-407a-89a1-f46fc3f263d1
-DTSTART:20250515T193000Z
-DTEND:20250515T211300Z
+UID:65ca4ab1-0428-4e85-8ff2-47a199d48f61
+DTSTART:20260515T193000Z
+DTEND:20260515T211300Z
 SUMMARY:SANGUINE - Licorne
 LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: MARION LE
- CORROLLER<br>Theater: Licorne<br><a href="https://ticketonline1.festival-c
+DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: MARION LE
+ CORROLLER<br>Theater: Licorne<br><a href="https://ticketonline1.festival-c
  annes.com/fiche?idproj=KtEVTh7yulU%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:2b7f0eed-0f74-41c1-957f-9d2b574f342b
-DTSTART:20250514T223000Z
-DTEND:20250515T003300Z
+UID:053456ba-9433-4308-bdd6-6bd66e42091f
+DTSTART:20260514T223000Z
+DTEND:20260515T003300Z
 SUMMARY:GUN-CHE (COLONY) - Grand Théâtre Lumière
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: YEON
- SANG-HO<br>Theater: Grand Théâtre Lumière<br><a href="https://ticketonline
+DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: YEON
+ SANG-HO<br>Theater: Grand Théâtre Lumière<br><a href="https://ticketonline
  1.festival-cannes.com/fiche?idproj=qErHB1f%2Bmxg%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:1377e795-26b7-4713-8705-4346d81c6c51
-DTSTART:20250516T084500Z
-DTEND:20250516T104800Z
+UID:5bda2b95-54e1-44d7-9149-b98ae0bedb32
+DTSTART:20260516T084500Z
+DTEND:20260516T104800Z
 SUMMARY:GUN-CHE (COLONY) - Agnès Varda Theatre
 LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
-DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: YEON
- SANG-HO<br>Theater: Agnès Varda Theatre<br><a href="https://ticketonline1.
+DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: YEON
+ SANG-HO<br>Theater: Agnès Varda Theatre<br><a href="https://ticketonline1.
  festival-cannes.com/fiche?idproj=%2FMRhwYgXYIc%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:cf1c684f-0096-499c-bdbe-74a26b4d7b0b
-DTSTART:20250516T093000Z
-DTEND:20250516T113300Z
+UID:d20b94f4-fd75-4790-a740-7133507f967b
+DTSTART:20260516T093000Z
+DTEND:20260516T113300Z
 SUMMARY:GUN-CHE (COLONY) - Cineum Imax
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: YEON
- SANG-HO<br>Theater: Cineum Imax<br><a href="https://ticketonline1.festival
+DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: YEON
+ SANG-HO<br>Theater: Cineum Imax<br><a href="https://ticketonline1.festival
  -cannes.com/fiche?idproj=O1lNGM3%2B9Qs%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:099992c4-2f40-4a16-86c0-b29a0748d290
-DTSTART:20250516T140000Z
-DTEND:20250516T154300Z
+UID:006afe4b-3c01-4e28-b7f7-b25d8337362b
+DTSTART:20260516T140000Z
+DTEND:20260516T154300Z
 SUMMARY:SANGUINE - Cineum Aurore
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: MARION LE
- CORROLLER<br>Theater: Cineum Aurore<br><a href="https://ticketonline1.fest
+DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: MARION LE
+ CORROLLER<br>Theater: Cineum Aurore<br><a href="https://ticketonline1.fest
  ival-cannes.com/fiche?idproj=sNo0MXPJgVk%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:1faa265e-32c9-4263-ab05-a916ceec835e
-DTSTART:20250515T223000Z
-DTEND:20250515T234800Z
+UID:95300af2-28fb-4d21-b343-686bc4592b7d
+DTSTART:20260515T223000Z
+DTEND:20260515T234800Z
 SUMMARY:FULL PHIL - Grand Théâtre Lumière
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: QUENTIN
- DUPIEUX<br>Theater: Grand Théâtre Lumière<br><a href="https://ticketonline
+DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: QUENTIN
+ DUPIEUX<br>Theater: Grand Théâtre Lumière<br><a href="https://ticketonline
  1.festival-cannes.com/fiche?idproj=NAZLISPaR8I%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:4bbdc8e6-0769-4be8-a30c-cb63f8a75753
-DTSTART:20250517T063000Z
-DTEND:20250517T074800Z
+UID:2eb2fb28-f5e4-485e-871b-947477c7f8ea
+DTSTART:20260517T063000Z
+DTEND:20260517T074800Z
 SUMMARY:FULL PHIL - Agnès Varda Theatre
 LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
-DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: QUENTIN
- DUPIEUX<br>Theater: Agnès Varda Theatre<br><a href="https://ticketonline1.
+DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: QUENTIN
+ DUPIEUX<br>Theater: Agnès Varda Theatre<br><a href="https://ticketonline1.
  festival-cannes.com/fiche?idproj=g4nJ%2F%2FFWfQI%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:d9754aee-dcd3-4852-93f4-a56736236d8e
-DTSTART:20250517T121500Z
-DTEND:20250517T133300Z
+UID:5b16242e-f465-458d-938c-768ee02056d6
+DTSTART:20260517T121500Z
+DTEND:20260517T133300Z
 SUMMARY:FULL PHIL - Cineum Salle 3
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: QUENTIN
- DUPIEUX<br>Theater: Cineum Salle 3<br><a href="https://ticketonline1.festi
+DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: QUENTIN
+ DUPIEUX<br>Theater: Cineum Salle 3<br><a href="https://ticketonline1.festi
  val-cannes.com/fiche?idproj=f37DhI1GWZA%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:2d16ced6-0a17-45af-a0da-470281fed88c
-DTSTART:20250517T153000Z
-DTEND:20250517T173300Z
+UID:d41d2870-a912-42f3-ad24-b8d1f2407168
+DTSTART:20260517T153000Z
+DTEND:20260517T173300Z
 SUMMARY:GUN-CHE (COLONY) - Cineum Aurore
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: YEON
- SANG-HO<br>Theater: Cineum Aurore<br><a href="https://ticketonline1.festiv
+DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: YEON
+ SANG-HO<br>Theater: Cineum Aurore<br><a href="https://ticketonline1.festiv
  al-cannes.com/fiche?idproj=illD2eqXqnM%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:21ce2bd0-edb7-499e-95aa-9941f7795c7f
-DTSTART:20250517T191500Z
-DTEND:20250517T203300Z
+UID:937369ca-bbb8-4a1c-af24-c81761ecb259
+DTSTART:20260517T191500Z
+DTEND:20260517T203300Z
 SUMMARY:FULL PHIL - Licorne
 LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: QUENTIN
- DUPIEUX<br>Theater: Licorne<br><a href="https://ticketonline1.festival-can
+DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: QUENTIN
+ DUPIEUX<br>Theater: Licorne<br><a href="https://ticketonline1.festival-can
  nes.com/fiche?idproj=zaToVEQJXwQ%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:3efec296-4149-40db-9c1d-332b7f603ebb
-DTSTART:20250516T223000Z
-DTEND:20250516T235500Z
+UID:8394dffa-863f-4cdf-bd6f-340b51903720
+DTSTART:20260516T223000Z
+DTEND:20260516T235500Z
 SUMMARY:JIM QUEEN - Grand Théâtre Lumière
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: MARCO
- NGUYEN\, NICOLAS ATHANÉ<br>Theater: Grand Théâtre Lumière<br><a href="http
- s://ticketonline1.festival-cannes.com/fiche?idproj=U%2F3G81yIpPQ%3D">Event
+DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: MARCO
+ NGUYEN\, NICOLAS ATHANÉ<br>Theater: Grand Théâtre Lumière<br><a href="http
+ s://ticketonline1.festival-cannes.com/fiche?idproj=U%2F3G81yIpPQ%3D">Event
  link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:35b11b73-24c5-4b26-936e-134f7b660a34
-DTSTART:20250518T063000Z
-DTEND:20250518T075500Z
+UID:083fbb69-1c6b-42ef-867c-e918beee3afe
+DTSTART:20260518T063000Z
+DTEND:20260518T075500Z
 SUMMARY:JIM QUEEN - Buñuel Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: MARCO
- NGUYEN\, NICOLAS ATHANÉ<br>Theater: Buñuel Theatre<br><a href="https://tic
- ketonline1.festival-cannes.com/fiche?idproj=pSix%2BXi4cBs%3D">Event
+DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: MARCO
+ NGUYEN\, NICOLAS ATHANÉ<br>Theater: Buñuel Theatre<br><a href="https://tic
+ ketonline1.festival-cannes.com/fiche?idproj=pSix%2BXi4cBs%3D">Event
  link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:c61bd078-bfdc-449c-89e1-cdbedb3d0a23
-DTSTART:20250518T150000Z
-DTEND:20250518T161800Z
+UID:f3af2c12-918e-4f67-9ca2-743f3c080ca5
+DTSTART:20260518T150000Z
+DTEND:20260518T161800Z
 SUMMARY:FULL PHIL - Cineum Aurore
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: QUENTIN
- DUPIEUX<br>Theater: Cineum Aurore<br><a href="https://ticketonline1.festiv
+DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: QUENTIN
+ DUPIEUX<br>Theater: Cineum Aurore<br><a href="https://ticketonline1.festiv
  al-cannes.com/fiche?idproj=PIuErCLSYDE%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:00971296-77cc-4604-8057-85b13212af7d
-DTSTART:20250518T154500Z
-DTEND:20250518T171000Z
+UID:a1625af0-5ec6-4865-8690-83591eeaa037
+DTSTART:20260518T154500Z
+DTEND:20260518T171000Z
 SUMMARY:JIM QUEEN - Cineum Imax
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: MARCO
- NGUYEN\, NICOLAS ATHANÉ<br>Theater: Cineum Imax<br><a href="https://ticket
+DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: MARCO
+ NGUYEN\, NICOLAS ATHANÉ<br>Theater: Cineum Imax<br><a href="https://ticket
  online1.festival-cannes.com/fiche?idproj=JqdYgsuZ7IQ%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:7afea13b-03bb-4c25-adb6-d1948d65abf5
-DTSTART:20250519T144500Z
-DTEND:20250519T161000Z
+UID:5a7f90ae-9d93-4dc2-bad4-8cd88156d575
+DTSTART:20260519T144500Z
+DTEND:20260519T161000Z
 SUMMARY:JIM QUEEN - Cineum Screen X
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: MARCO
- NGUYEN\, NICOLAS ATHANÉ<br>Theater: Cineum Screen X<br><a href="https://ti
- cketonline1.festival-cannes.com/fiche?idproj=3pO7OfbWOVc%3D">Event
+DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: MARCO
+ NGUYEN\, NICOLAS ATHANÉ<br>Theater: Cineum Screen X<br><a href="https://ti
+ cketonline1.festival-cannes.com/fiche?idproj=3pO7OfbWOVc%3D">Event
  link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:fefe6958-48e9-43e6-a706-30530639e14b
-DTSTART:20250519T200000Z
-DTEND:20250519T212500Z
+UID:9f7c4822-f886-459a-8c74-e1d9f500f5f3
+DTSTART:20260519T200000Z
+DTEND:20260519T212500Z
 SUMMARY:JIM QUEEN - Licorne
 LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: MARCO
- NGUYEN\, NICOLAS ATHANÉ<br>Theater: Licorne<br><a href="https://ticketonli
+DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: MARCO
+ NGUYEN\, NICOLAS ATHANÉ<br>Theater: Licorne<br><a href="https://ticketonli
  ne1.festival-cannes.com/fiche?idproj=SgDm6UT7uAE%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:29dc46d6-0afb-4335-9e5c-64f387ecee0a
-DTSTART:20250519T223000Z
-DTEND:20250520T001700Z
+UID:06adf934-b028-4667-8161-49aafdd208e8
+DTSTART:20260519T223000Z
+DTEND:20260520T001700Z
 SUMMARY:ROMA ELASTICA - Grand Théâtre Lumière
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: BERTRAND
- MANDICO<br>Theater: Grand Théâtre Lumière<br><a href="https://ticketonline
+DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: BERTRAND
+ MANDICO<br>Theater: Grand Théâtre Lumière<br><a href="https://ticketonline
  1.festival-cannes.com/fiche?idproj=lXiY1xq9Yuw%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:e01d454d-4412-4ff4-a2d1-5235f92d4ac5
-DTSTART:20250521T063000Z
-DTEND:20250521T081700Z
+UID:6eee2d28-0e3b-4c73-9f76-9c4e4e41f2ce
+DTSTART:20260521T063000Z
+DTEND:20260521T081700Z
 SUMMARY:ROMA ELASTICA - Buñuel Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: BERTRAND
- MANDICO<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.festi
+DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: BERTRAND
+ MANDICO<br>Theater: Buñuel Theatre<br><a href="https://ticketonline1.festi
  val-cannes.com/fiche?idproj=5W7jwZ0s2Qc%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:2d47f02a-4205-4b82-8d2f-2c75f09a4f4a
-DTSTART:20250521T071500Z
-DTEND:20250521T090200Z
+UID:88c094bb-5df2-44b2-aeed-60ef3d2c5431
+DTSTART:20260521T071500Z
+DTEND:20260521T090200Z
 SUMMARY:ROMA ELASTICA - Cineum Salle 3
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: BERTRAND
- MANDICO<br>Theater: Cineum Salle 3<br><a href="https://ticketonline1.festi
+DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: BERTRAND
+ MANDICO<br>Theater: Cineum Salle 3<br><a href="https://ticketonline1.festi
  val-cannes.com/fiche?idproj=gj%2BP1JdMiPQ%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:455e0660-8f79-4ff1-846d-a3a192298ebb
-DTSTART:20250522T170000Z
-DTEND:20250522T184700Z
+UID:46b9b6aa-3f8c-4a1f-a9a4-183fa464c554
+DTSTART:20260522T170000Z
+DTEND:20260522T184700Z
 SUMMARY:ROMA ELASTICA - Licorne
 LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: BERTRAND
- MANDICO<br>Theater: Licorne<br><a href="https://ticketonline1.festival-can
+DESCRIPTION:Program: Out of Competition - Midnight Screenings<br>Director: BERTRAND
+ MANDICO<br>Theater: Licorne<br><a href="https://ticketonline1.festival-can
  nes.com/fiche?idproj=ThRRtf0m12U%3D">Event link</a>
 END:VEVENT
-
-END:VCALENDAR
+
+END:VCALENDAR

@@ -1,394 +1,394 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//Cannes Film Festival//Screenings//EN
-CALSCALE:GREGORIAN
-METHOD:PUBLISH
-X-WR-CALNAME:Cannes Film Festival Screenings
-X-WR-TIMEZONE:Europe/Paris
-
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cannes Film Festival//Screenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cannes Film Festival Screenings
+X-WR-TIMEZONE:Europe/Paris
+
 BEGIN:VEVENT
-UID:bfbb139a-ea47-49d1-9f52-d377c38d0bb5
-DTSTART:20250513T131500Z
-DTEND:20250513T144600Z
+UID:99351dd1-1ea8-4c68-b434-c62269b9b474
+DTSTART:20260513T131500Z
+DTEND:20260513T144600Z
 SUMMARY:THE MATCH - Debussy Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Cannes Premiere<br>Director: JUAN CABRAL\, SANTIAGO
- FRANCO<br>Theater: Debussy Theatre<br><a href="https://ticketonline1.festi
+DESCRIPTION:Program: Cannes Premiere<br>Director: JUAN CABRAL\, SANTIAGO
+ FRANCO<br>Theater: Debussy Theatre<br><a href="https://ticketonline1.festi
  val-cannes.com/fiche?idproj=PNki3yivS2o%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:5f00dfe2-e636-44b7-95ba-4134aa81e955
-DTSTART:20250514T120000Z
-DTEND:20250514T133100Z
+UID:75036e4f-9bf3-4c10-9d99-9f51ec246d53
+DTSTART:20260514T120000Z
+DTEND:20260514T133100Z
 SUMMARY:THE MATCH - Agnès Varda Theatre
 LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
-DESCRIPTION:Program: Cannes Premiere<br>Director: JUAN CABRAL\, SANTIAGO
- FRANCO<br>Theater: Agnès Varda Theatre<br><a href="https://ticketonline1.f
+DESCRIPTION:Program: Cannes Premiere<br>Director: JUAN CABRAL\, SANTIAGO
+ FRANCO<br>Theater: Agnès Varda Theatre<br><a href="https://ticketonline1.f
  estival-cannes.com/fiche?idproj=6At%2F%2BkZK0LA%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:05d5ec89-52f8-45a5-8cdd-585b301153e3
-DTSTART:20250514T170000Z
-DTEND:20250514T183100Z
+UID:69bb4f3a-f035-4248-a461-587188d18406
+DTSTART:20260514T170000Z
+DTEND:20260514T183100Z
 SUMMARY:THE MATCH - Licorne
 LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Cannes Premiere<br>Director: JUAN CABRAL\, SANTIAGO
- FRANCO<br>Theater: Licorne<br><a href="https://ticketonline1.festival-cann
+DESCRIPTION:Program: Cannes Premiere<br>Director: JUAN CABRAL\, SANTIAGO
+ FRANCO<br>Theater: Licorne<br><a href="https://ticketonline1.festival-cann
  es.com/fiche?idproj=%2Bwf53a8yIBs%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:de05a54d-bf20-4f67-ae4b-a5a824d9f230
-DTSTART:20250514T193000Z
-DTEND:20250514T211300Z
+UID:ef08aa66-c75c-4e9e-8bf0-a0bf6eba1bb5
+DTSTART:20260514T193000Z
+DTEND:20260514T211300Z
 SUMMARY:MARIE-MADELEINE - Debussy Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Cannes Premiere<br>Director: GÉSSICA GÉNÉUS<br>Theater: Debussy
- Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Cannes Premiere<br>Director: GÉSSICA GÉNÉUS<br>Theater: Debussy
+ Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =y9NMw9VHB0s%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:597e7c2e-0c21-4c3d-9ebd-8510564c613d
-DTSTART:20250515T071500Z
-DTEND:20250515T084600Z
+UID:6a873cab-2799-4bba-b4b6-e8b15bd5fe39
+DTSTART:20260515T071500Z
+DTEND:20260515T084600Z
 SUMMARY:THE MATCH - Cineum Screen X
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Cannes Premiere<br>Director: JUAN CABRAL\, SANTIAGO
- FRANCO<br>Theater: Cineum Screen X<br><a href="https://ticketonline1.festi
+DESCRIPTION:Program: Cannes Premiere<br>Director: JUAN CABRAL\, SANTIAGO
+ FRANCO<br>Theater: Cineum Screen X<br><a href="https://ticketonline1.festi
  val-cannes.com/fiche?idproj=CuPTRgmeOE4%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:350052e5-1abe-41e8-b56b-a4e25ea78007
-DTSTART:20250515T140000Z
-DTEND:20250515T154300Z
+UID:9208c1fd-9870-4bd6-9f0f-c26806009bde
+DTSTART:20260515T140000Z
+DTEND:20260515T154300Z
 SUMMARY:MARIE-MADELEINE - Cineum Imax
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Cannes Premiere<br>Director: GÉSSICA GÉNÉUS<br>Theater: Cineum
- Imax<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=N8
+DESCRIPTION:Program: Cannes Premiere<br>Director: GÉSSICA GÉNÉUS<br>Theater: Cineum
+ Imax<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=N8
  eN8dxT5eY%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:b2c9953a-bb33-4699-a325-6a62057234f6
-DTSTART:20250515T151500Z
-DTEND:20250515T165800Z
+UID:223a983a-16f0-41e9-99ad-20a2eafe0719
+DTSTART:20260515T151500Z
+DTEND:20260515T165800Z
 SUMMARY:MARIE-MADELEINE - Agnès Varda Theatre
 LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
-DESCRIPTION:Program: Cannes Premiere<br>Director: GÉSSICA GÉNÉUS<br>Theater: Agnès
- Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+DESCRIPTION:Program: Cannes Premiere<br>Director: GÉSSICA GÉNÉUS<br>Theater: Agnès
+ Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?
  idproj=DdWAZUSt0mk%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:16d17a20-3b53-4fac-a1eb-d78cb0aa251d
-DTSTART:20250515T164500Z
-DTEND:20250515T174600Z
+UID:cd4ac8d3-2c07-45d1-8f1f-cbe38a2ff4c3
+DTSTART:20260515T164500Z
+DTEND:20260515T174600Z
 SUMMARY:PROPELLER ONE-WAY NIGHT COACH (VOL DE NUIT POUR LOS ANGELES) - Debussy Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Cannes Premiere<br>Director: JOHN TRAVOLTA<br>Theater: Debussy
- Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Cannes Premiere<br>Director: JOHN TRAVOLTA<br>Theater: Debussy
+ Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =gX1hgq6Boj8%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:cb0b20b9-70b2-4443-b359-3dc1bc58ae14
-DTSTART:20250515T184500Z
-DTEND:20250515T201900Z
+UID:fb522d44-676c-400b-ac2a-8741c84c32d4
+DTSTART:20260515T184500Z
+DTEND:20260515T201900Z
 SUMMARY:SI TU PENSES BIEN  (THINK GOOD) - Debussy Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Cannes Premiere<br>Director: GÉRALDINE NAKACHE<br>Theater:
- Debussy Theatre<br><a href="https://ticketonline1.festival-cannes.com/fich
+DESCRIPTION:Program: Cannes Premiere<br>Director: GÉRALDINE NAKACHE<br>Theater:
+ Debussy Theatre<br><a href="https://ticketonline1.festival-cannes.com/fich
  e?idproj=p5JlUkF%2B9Qg%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:280bf04c-51b0-4e3a-bbe6-46ef4fb78ef2
-DTSTART:20250516T110000Z
-DTEND:20250516T123400Z
+UID:c4f96702-7754-4e5c-a7b3-d03b957ad464
+DTSTART:20260516T110000Z
+DTEND:20260516T123400Z
 SUMMARY:SI TU PENSES BIEN  (THINK GOOD) - Agnès Varda Theatre
 LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
-DESCRIPTION:Program: Cannes Premiere<br>Director: GÉRALDINE NAKACHE<br>Theater: Agnès
- Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+DESCRIPTION:Program: Cannes Premiere<br>Director: GÉRALDINE NAKACHE<br>Theater: Agnès
+ Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?
  idproj=fbvccnxaqr0%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:06bfeb8f-6fd1-4cf8-bb4a-1eb31c2438cb
-DTSTART:20250516T120000Z
-DTEND:20250516T133400Z
+UID:678dc264-d976-4791-a311-dbf7b4bcc7db
+DTSTART:20260516T120000Z
+DTEND:20260516T133400Z
 SUMMARY:SI TU PENSES BIEN  (THINK GOOD) - Cineum Aurore
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Cannes Premiere<br>Director: GÉRALDINE NAKACHE<br>Theater: Cineum
- Aurore<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=
+DESCRIPTION:Program: Cannes Premiere<br>Director: GÉRALDINE NAKACHE<br>Theater: Cineum
+ Aurore<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=
  LpeRoN5EFas%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:16139731-6dfa-48f5-930d-763105b3ba8b
-DTSTART:20250516T140000Z
-DTEND:20250516T150100Z
+UID:13c65d7e-5aaf-4b09-a1a4-2deba2274f54
+DTSTART:20260516T140000Z
+DTEND:20260516T150100Z
 SUMMARY:PROPELLER ONE-WAY NIGHT COACH (VOL DE NUIT POUR LOS ANGELES) - Bazin Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Cannes Premiere<br>Director: JOHN TRAVOLTA<br>Theater: Bazin
- Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Cannes Premiere<br>Director: JOHN TRAVOLTA<br>Theater: Bazin
+ Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =z9%2FTS2aao3w%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:1bbecc75-e249-403b-8620-b156fe0bd100
-DTSTART:20250516T161500Z
-DTEND:20250516T171600Z
+UID:50b60a12-2584-4ac9-8218-134610918d91
+DTSTART:20260516T161500Z
+DTEND:20260516T171600Z
 SUMMARY:PROPELLER ONE-WAY NIGHT COACH (VOL DE NUIT POUR LOS ANGELES) - Cineum Imax
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Cannes Premiere<br>Director: JOHN TRAVOLTA<br>Theater: Cineum
- Imax<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=Kx
+DESCRIPTION:Program: Cannes Premiere<br>Director: JOHN TRAVOLTA<br>Theater: Cineum
+ Imax<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=Kx
  Ncs%2BoqZu4%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:ee154011-7cb3-404f-b17e-f672beac1955
-DTSTART:20250516T171500Z
-DTEND:20250516T191300Z
+UID:f8e746ec-a0ae-4a64-a6a0-53e71f7f2903
+DTSTART:20260516T171500Z
+DTEND:20260516T191300Z
 SUMMARY:HEIMSUCHUNG (LE BOIS DE KLARA / VISITATION) - Debussy Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Cannes Premiere<br>Director: VOLKER SCHLÖNDORFF<br>Theater:
- Debussy Theatre<br><a href="https://ticketonline1.festival-cannes.com/fich
+DESCRIPTION:Program: Cannes Premiere<br>Director: VOLKER SCHLÖNDORFF<br>Theater:
+ Debussy Theatre<br><a href="https://ticketonline1.festival-cannes.com/fich
  e?idproj=nVWgJRLYvuA%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:b8f4774b-2c61-477e-963d-258b5beb3613
-DTSTART:20250516T174500Z
-DTEND:20250516T191900Z
+UID:e88bd01c-ccfb-4ec6-a391-6e1387ec190e
+DTSTART:20260516T174500Z
+DTEND:20260516T191900Z
 SUMMARY:SI TU PENSES BIEN - Licorne
 LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Cannes Premiere<br>Director: GÉRALDINE NAKACHE<br>Theater:
- Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Cannes Premiere<br>Director: GÉRALDINE NAKACHE<br>Theater:
+ Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =b%2FO3usArTKs%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:49aa9fc1-57db-4b81-be9e-7a3fcddba479
-DTSTART:20250517T130000Z
-DTEND:20250517T145800Z
+UID:60e0fef9-6288-4034-bb69-b3bacb96b733
+DTSTART:20260517T130000Z
+DTEND:20260517T145800Z
 SUMMARY:HEIMSUCHUNG (LE BOIS DE KLARA / VISITATION) - Cineum Aurore
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Cannes Premiere<br>Director: VOLKER SCHLÖNDORFF<br>Theater:
- Cineum Aurore<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+DESCRIPTION:Program: Cannes Premiere<br>Director: VOLKER SCHLÖNDORFF<br>Theater:
+ Cineum Aurore<br><a href="https://ticketonline1.festival-cannes.com/fiche?
  idproj=SGYUCyXHmTc%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:b0cea642-a8f5-4bdc-91f7-5685ede1c595
-DTSTART:20250517T143000Z
-DTEND:20250517T162800Z
+UID:1cbe3eaa-43e1-4f12-b65e-5a9a4c3b6a91
+DTSTART:20260517T143000Z
+DTEND:20260517T162800Z
 SUMMARY:LE BOIS DE KLARA (HEIMSUCHUNG) - Licorne
 LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Cannes Premiere<br>Director: VOLKER SCHLÖNDORFF<br>Theater:
- Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Cannes Premiere<br>Director: VOLKER SCHLÖNDORFF<br>Theater:
+ Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =fCy5uKgmInU%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:989abbd5-7742-44b4-9f92-8d1e5aab0c72
-DTSTART:20250517T171500Z
-DTEND:20250517T185500Z
+UID:98e1671c-3848-4c82-9eeb-8008c5deae10
+DTSTART:20260517T171500Z
+DTEND:20260517T185500Z
 SUMMARY:LA TROISIÈME NUIT (WHEN THE NIGHT FALLS) - Debussy Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Cannes Premiere<br>Director: DANIEL AUTEUIL<br>Theater: Debussy
- Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Cannes Premiere<br>Director: DANIEL AUTEUIL<br>Theater: Debussy
+ Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =VcM4fNHsV5s%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:f9b4cda1-7700-497b-b620-08a1410ac8da
-DTSTART:20250517T190000Z
-DTEND:20250517T205800Z
+UID:b35eb836-ec01-4946-8cb3-6eabc7960e0f
+DTSTART:20260517T190000Z
+DTEND:20260517T205800Z
 SUMMARY:HEIMSUCHUNG (LE BOIS DE KLARA / VISITATION) - Agnès Varda Theatre
 LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
-DESCRIPTION:Program: Cannes Premiere<br>Director: VOLKER SCHLÖNDORFF<br>Theater: Agnès
- Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+DESCRIPTION:Program: Cannes Premiere<br>Director: VOLKER SCHLÖNDORFF<br>Theater: Agnès
+ Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?
  idproj=Js7q8ZAOEQk%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:1601527d-3d92-4d41-b5aa-553d1f419e35
-DTSTART:20250518T114500Z
-DTEND:20250518T132500Z
+UID:5f2f907b-7d4f-4e44-afdb-0da8aad2dba7
+DTSTART:20260518T114500Z
+DTEND:20260518T132500Z
 SUMMARY:LA TROISIÈME NUIT (WHEN THE NIGHT FALLS) - Agnès Varda Theatre
 LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
-DESCRIPTION:Program: Cannes Premiere<br>Director: DANIEL AUTEUIL<br>Theater: Agnès
- Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+DESCRIPTION:Program: Cannes Premiere<br>Director: DANIEL AUTEUIL<br>Theater: Agnès
+ Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?
  idproj=XYZRdp3wvJ8%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:b2e88e17-36de-47f3-b131-cdd4796923fd
-DTSTART:20250518T124500Z
-DTEND:20250518T142500Z
+UID:d96bec9b-cc29-4962-828f-4c3cab89eb91
+DTSTART:20260518T124500Z
+DTEND:20260518T142500Z
 SUMMARY:LA TROISIÈME NUIT (WHEN THE NIGHT FALLS) - Cineum Salle 3
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Cannes Premiere<br>Director: DANIEL AUTEUIL<br>Theater: Cineum
- Salle 3<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Cannes Premiere<br>Director: DANIEL AUTEUIL<br>Theater: Cineum
+ Salle 3<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =ZE2X48zOypI%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:01f9b14b-819f-4f03-832b-f627b85b15da
-DTSTART:20250518T181500Z
-DTEND:20250518T213800Z
+UID:19aea006-d06f-4162-9904-9c17631f46e6
+DTSTART:20260518T181500Z
+DTEND:20260518T213800Z
 SUMMARY:AQUÍ - Debussy Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Cannes Premiere<br>Director: TIAGO GUEDES<br>Theater: Debussy
- Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Cannes Premiere<br>Director: TIAGO GUEDES<br>Theater: Debussy
+ Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =ICFD7AbEtNQ%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:f2742d6e-dbc8-4d7d-b387-eedb452f9042
-DTSTART:20250519T071500Z
-DTEND:20250519T103800Z
+UID:04339002-9d30-470e-a399-9a6d08e418f2
+DTSTART:20260519T071500Z
+DTEND:20260519T103800Z
 SUMMARY:AQUÍ - Cineum Salle 3
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Cannes Premiere<br>Director: TIAGO GUEDES<br>Theater: Cineum
- Salle 3<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Cannes Premiere<br>Director: TIAGO GUEDES<br>Theater: Cineum
+ Salle 3<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =faRg%2FZNcX%2B0%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:41a86603-07e7-4d57-9685-b76b0ef855c1
-DTSTART:20250519T180000Z
-DTEND:20250519T202700Z
+UID:11dffdf5-7712-42e1-801b-9cd6e523e1c2
+DTSTART:20260519T180000Z
+DTEND:20260519T202700Z
 SUMMARY:KOKUROJO (LE CHÂTEAU D'ARIOKA / THE SAMURAI AND THE PRISONER... - Debussy Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Cannes Premiere<br>Director: KUROSAWA KIYOSHI<br>Theater: Debussy
- Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Cannes Premiere<br>Director: KUROSAWA KIYOSHI<br>Theater: Debussy
+ Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =swiaTMgAvNA%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:88ac1e30-ad79-4a69-ba0c-ff70ebff7d25
-DTSTART:20250520T144500Z
-DTEND:20250520T171200Z
+UID:3a0d43fd-ae23-4fd2-88d2-503e7b183a7c
+DTSTART:20260520T144500Z
+DTEND:20260520T171200Z
 SUMMARY:KOKUROJO (LE CHÂTEAU D'ARIOKA / THE SAMURAI AND THE PRISONER... - Cineum Imax
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Cannes Premiere<br>Director: KUROSAWA KIYOSHI<br>Theater: Cineum
- Imax<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=oz
+DESCRIPTION:Program: Cannes Premiere<br>Director: KUROSAWA KIYOSHI<br>Theater: Cineum
+ Imax<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=oz
  v2hiz0JmY%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:1d68816e-c48b-4399-b6d8-f319d67df90b
-DTSTART:20250520T173000Z
-DTEND:20250520T192500Z
+UID:d5e2e34c-3c75-47fe-a8c8-5c77f463df90
+DTSTART:20260520T173000Z
+DTEND:20260520T192500Z
 SUMMARY:MARIAGE AU GOÛT D'ORANGE - Debussy Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Cannes Premiere<br>Director: CHRISTOPHE HONORÉ<br>Theater:
- Debussy Theatre<br><a href="https://ticketonline1.festival-cannes.com/fich
+DESCRIPTION:Program: Cannes Premiere<br>Director: CHRISTOPHE HONORÉ<br>Theater:
+ Debussy Theatre<br><a href="https://ticketonline1.festival-cannes.com/fich
  e?idproj=%2FrNa%2BAfl0LA%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:addba018-4406-4c84-8d59-26330f079cbb
-DTSTART:20250520T191500Z
-DTEND:20250520T214200Z
+UID:49f2d76d-1228-447e-b1eb-e93663330ea5
+DTSTART:20260520T191500Z
+DTEND:20260520T214200Z
 SUMMARY:LE CHÂTEAU D'ARIOKA (KOKUROJO) - Licorne
 LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Cannes Premiere<br>Director: KUROSAWA KIYOSHI<br>Theater:
- Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Cannes Premiere<br>Director: KUROSAWA KIYOSHI<br>Theater:
+ Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =%2FxDUdSK4%2F8Q%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:45347297-774a-4488-850a-32983cd723f1
-DTSTART:20250520T194500Z
-DTEND:20250520T221200Z
+UID:357fc884-eedc-4afe-b44a-e21ac4c2b29b
+DTSTART:20260520T194500Z
+DTEND:20260520T221200Z
 SUMMARY:KOKUROJO (LE CHÂTEAU D'ARIOKA / THE SAMURAI AND THE PRISONER... - Agnès Varda Theatre
 LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
-DESCRIPTION:Program: Cannes Premiere<br>Director: KUROSAWA KIYOSHI<br>Theater: Agnès
- Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+DESCRIPTION:Program: Cannes Premiere<br>Director: KUROSAWA KIYOSHI<br>Theater: Agnès
+ Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?
  idproj=ZwriXZ7Whqc%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:f67ae101-8778-4ce6-a2d9-4116948cc0a6
-DTSTART:20250521T120000Z
-DTEND:20250521T135500Z
+UID:2539f2b9-350e-45e7-a5e0-a95d928657e2
+DTSTART:20260521T120000Z
+DTEND:20260521T135500Z
 SUMMARY:MARIAGE AU GOÛT D'ORANGE - Agnès Varda Theatre
 LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
-DESCRIPTION:Program: Cannes Premiere<br>Director: CHRISTOPHE HONORÉ<br>Theater: Agnès
- Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+DESCRIPTION:Program: Cannes Premiere<br>Director: CHRISTOPHE HONORÉ<br>Theater: Agnès
+ Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?
  idproj=fKhBi9ET8kY%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:4818048c-9385-4483-b1c5-73ddd6e55882
-DTSTART:20250521T151500Z
-DTEND:20250521T171000Z
+UID:0bc36346-97fb-4b07-8211-3a16182b2e26
+DTSTART:20260521T151500Z
+DTEND:20260521T171000Z
 SUMMARY:MARIAGE AU GOÛT D'ORANGE - Cineum Imax
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Cannes Premiere<br>Director: CHRISTOPHE HONORÉ<br>Theater: Cineum
- Imax<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=7E
+DESCRIPTION:Program: Cannes Premiere<br>Director: CHRISTOPHE HONORÉ<br>Theater: Cineum
+ Imax<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=7E
  zrdir7NOQ%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:bdfe7a12-9656-46b8-953d-89f6f6221487
-DTSTART:20250521T173000Z
-DTEND:20250521T191200Z
+UID:8dde0f84-4b13-48cc-81a4-9c65b77c62d8
+DTSTART:20260521T173000Z
+DTEND:20260521T191200Z
 SUMMARY:THE END OF IT - Debussy Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Cannes Premiere<br>Director: MARIA MARTÍNEZ BAYONA<br>Theater:
- Debussy Theatre<br><a href="https://ticketonline1.festival-cannes.com/fich
+DESCRIPTION:Program: Cannes Premiere<br>Director: MARIA MARTÍNEZ BAYONA<br>Theater:
+ Debussy Theatre<br><a href="https://ticketonline1.festival-cannes.com/fich
  e?idproj=i2eX7NdKutc%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:3d795dde-b51b-41e9-9197-ae45b5e8fee9
-DTSTART:20250522T123000Z
-DTEND:20250522T141200Z
+UID:329c4082-9b92-43d3-9ba5-ac22de60c335
+DTSTART:20260522T123000Z
+DTEND:20260522T141200Z
 SUMMARY:THE END OF IT - Agnès Varda Theatre
 LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
-DESCRIPTION:Program: Cannes Premiere<br>Director: MARIA MARTÍNEZ BAYONA<br>Theater:
- Agnès Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/
+DESCRIPTION:Program: Cannes Premiere<br>Director: MARIA MARTÍNEZ BAYONA<br>Theater:
+ Agnès Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/
  fiche?idproj=6WIQqG2VNcQ%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:97352072-c516-4f5f-9ef2-1236de75b69d
-DTSTART:20250522T131500Z
-DTEND:20250522T145700Z
+UID:4abfe8a9-5bf7-4692-987b-671cfbeb2216
+DTSTART:20260522T131500Z
+DTEND:20260522T145700Z
 SUMMARY:THE END OF IT - Cineum Imax
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Cannes Premiere<br>Director: MARIA MARTÍNEZ BAYONA<br>Theater:
- Cineum Imax<br><a href="https://ticketonline1.festival-cannes.com/fiche?id
+DESCRIPTION:Program: Cannes Premiere<br>Director: MARIA MARTÍNEZ BAYONA<br>Theater:
+ Cineum Imax<br><a href="https://ticketonline1.festival-cannes.com/fiche?id
  proj=bZlPDgxGfd0%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:06d5b909-b99e-4708-a322-ec68bca5863f
-DTSTART:20250522T143000Z
-DTEND:20250522T162500Z
+UID:2a2642de-d184-443c-ae1b-ce9c4eeac6f5
+DTSTART:20260522T143000Z
+DTEND:20260522T162500Z
 SUMMARY:MARIAGE AU GOÛT D'ORANGE - Licorne
 LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Cannes Premiere<br>Director: CHRISTOPHE HONORÉ<br>Theater:
- Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Cannes Premiere<br>Director: CHRISTOPHE HONORÉ<br>Theater:
+ Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =wKGmulIA%2FjM%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:8a77be2b-0468-48f0-84c7-840970d0f75a
-DTSTART:20250523T114500Z
-DTEND:20250523T132700Z
+UID:538da797-09d7-4227-94ab-194c0516d5c8
+DTSTART:20260523T114500Z
+DTEND:20260523T132700Z
 SUMMARY:THE END OF IT - Cineum Screen X
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Cannes Premiere<br>Director: MARIA MARTÍNEZ BAYONA<br>Theater:
- Cineum Screen X<br><a href="https://ticketonline1.festival-cannes.com/fich
+DESCRIPTION:Program: Cannes Premiere<br>Director: MARIA MARTÍNEZ BAYONA<br>Theater:
+ Cineum Screen X<br><a href="https://ticketonline1.festival-cannes.com/fich
  e?idproj=f41lv03QtKc%3D">Event link</a>
 END:VEVENT
-
-END:VCALENDAR
+
+END:VCALENDAR

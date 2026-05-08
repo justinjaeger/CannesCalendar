@@ -1,405 +1,405 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//Cannes Film Festival//Screenings//EN
-CALSCALE:GREGORIAN
-METHOD:PUBLISH
-X-WR-CALNAME:Cannes Film Festival Screenings
-X-WR-TIMEZONE:Europe/Paris
-
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cannes Film Festival//Screenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cannes Film Festival Screenings
+X-WR-TIMEZONE:Europe/Paris
+
 BEGIN:VEVENT
-UID:2a1d4e53-7088-4f3e-a185-17807cff3b25
-DTSTART:20250512T170000Z
-DTEND:20250512T200200Z
+UID:eaec5243-8196-46df-ba1b-3bda65aae663
+DTSTART:20260512T170000Z
+DTEND:20260512T200200Z
 SUMMARY:CÉRÉMONIE D'OUVERTURE - LA VÉNUS ÉLECTRIQUE - Grand Théâtre Lumière
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Out of Competition<br>Director: PIERRE SALVADORI<br>Theater:
- Grand Théâtre Lumière<br><a href="https://ticketonline1.festival-cannes.co
+DESCRIPTION:Program: Out of Competition<br>Director: PIERRE SALVADORI<br>Theater:
+ Grand Théâtre Lumière<br><a href="https://ticketonline1.festival-cannes.co
  m/fiche?idproj=iu%2FNgW3mLzU%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:3bc04bb4-0fb7-4427-a77a-6130708ab803
-DTSTART:20250512T170000Z
-DTEND:20250512T200200Z
+UID:4fed6a82-5360-4aeb-9742-01d99b2f4d6e
+DTSTART:20260512T170000Z
+DTEND:20260512T200200Z
 SUMMARY:CÉRÉMONIE D'OUVERTURE - LA VÉNUS ÉLECTRIQUE - Debussy Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Out of Competition<br>Director: PIERRE SALVADORI<br>Theater:
- Debussy Theatre<br><a href="https://ticketonline1.festival-cannes.com/fich
+DESCRIPTION:Program: Out of Competition<br>Director: PIERRE SALVADORI<br>Theater:
+ Debussy Theatre<br><a href="https://ticketonline1.festival-cannes.com/fich
  e?idproj=7%2BixI13DwM0%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:025569bd-c7cc-4ac2-8bcd-275f92a03c8c
-DTSTART:20250512T180000Z
-DTEND:20250512T200200Z
+UID:17889c1b-286c-41dc-bfac-27f1d95a9b6f
+DTSTART:20260512T180000Z
+DTEND:20260512T200200Z
 SUMMARY:LA VÉNUS ÉLECTRIQUE - Bazin Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Out of Competition<br>Director: PIERRE SALVADORI<br>Theater:
- Bazin Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+DESCRIPTION:Program: Out of Competition<br>Director: PIERRE SALVADORI<br>Theater:
+ Bazin Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?
  idproj=NjB1sxzbR2I%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:c1f78b3b-2e40-4234-a362-393749384bfd
-DTSTART:20250512T211500Z
-DTEND:20250512T231700Z
+UID:7ef066f1-6009-40f5-aff6-8ab87aaa1cc7
+DTSTART:20260512T211500Z
+DTEND:20260512T231700Z
 SUMMARY:LA VÉNUS ÉLECTRIQUE - Grand Théâtre Lumière
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Out of Competition<br>Director: PIERRE SALVADORI<br>Theater:
- Grand Théâtre Lumière<br><a href="https://ticketonline1.festival-cannes.co
+DESCRIPTION:Program: Out of Competition<br>Director: PIERRE SALVADORI<br>Theater:
+ Grand Théâtre Lumière<br><a href="https://ticketonline1.festival-cannes.co
  m/fiche?idproj=atAFuvJNCsI%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:96a68e8f-5cfa-4f7b-8fc1-d664660a4fb4
-DTSTART:20250513T070000Z
-DTEND:20250513T090200Z
+UID:46ccea46-a767-466c-8b01-e610938a0559
+DTSTART:20260513T070000Z
+DTEND:20260513T090200Z
 SUMMARY:LA VÉNUS ÉLECTRIQUE - Grand Théâtre Lumière
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Out of Competition<br>Director: PIERRE SALVADORI<br>Theater:
- Grand Théâtre Lumière<br><a href="https://ticketonline1.festival-cannes.co
+DESCRIPTION:Program: Out of Competition<br>Director: PIERRE SALVADORI<br>Theater:
+ Grand Théâtre Lumière<br><a href="https://ticketonline1.festival-cannes.co
  m/fiche?idproj=mMWm%2Bo9Ssag%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:9f5f18dd-7b2e-432e-a2d4-1e0733061cd6
-DTSTART:20250513T090000Z
-DTEND:20250513T110200Z
+UID:90438aa9-54ce-4614-aac9-c36538a801f6
+DTSTART:20260513T090000Z
+DTEND:20260513T110200Z
 SUMMARY:LA VÉNUS ÉLECTRIQUE - Agnès Varda Theatre
 LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
-DESCRIPTION:Program: Out of Competition<br>Director: PIERRE SALVADORI<br>Theater:
- Agnès Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/
+DESCRIPTION:Program: Out of Competition<br>Director: PIERRE SALVADORI<br>Theater:
+ Agnès Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/
  fiche?idproj=ROHKCVznxNE%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:2aff5e09-8518-4448-a5fd-7d52cbc7b9d8
-DTSTART:20250513T100000Z
-DTEND:20250513T104500Z
+UID:42f3b5f6-ce48-4346-84b5-fd143c49b714
+DTSTART:20260513T100000Z
+DTEND:20260513T104500Z
 SUMMARY:LA VÉNUS ÉLECTRIQUE - Presse Conference Room
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Out of Competition<br>Director: PIERRE SALVADORI<br>Theater:
- Presse Conference Room<br><a href="https://ticketonline1.festival-cannes.c
+DESCRIPTION:Program: Out of Competition<br>Director: PIERRE SALVADORI<br>Theater:
+ Presse Conference Room<br><a href="https://ticketonline1.festival-cannes.c
  om/fiche?idproj=j6d0dZ6YlWs%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:6117295e-33e4-4a26-a5e4-7f1a7b3a6e80
-DTSTART:20250513T193000Z
-DTEND:20250513T211000Z
+UID:39d56383-101a-43cd-a64e-6c0a54410684
+DTSTART:20260513T193000Z
+DTEND:20260513T211000Z
 SUMMARY:L'ABANDON (FORSAKEN ) - Grand Théâtre Lumière
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Out of Competition<br>Director: VINCENT GARENQ<br>Theater: Grand
- Théâtre Lumière<br><a href="https://ticketonline1.festival-cannes.com/fich
+DESCRIPTION:Program: Out of Competition<br>Director: VINCENT GARENQ<br>Theater: Grand
+ Théâtre Lumière<br><a href="https://ticketonline1.festival-cannes.com/fich
  e?idproj=JHtBGRdH78Y%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:46648607-2b1e-435e-a9b6-287e3b4dc227
-DTSTART:20250514T063000Z
-DTEND:20250514T081000Z
+UID:a37f04ac-4156-4a06-a8f6-48bacbea48cf
+DTSTART:20260514T063000Z
+DTEND:20260514T081000Z
 SUMMARY:L'ABANDON (FORSAKEN ) - Buñuel Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Out of Competition<br>Director: VINCENT GARENQ<br>Theater: Buñuel
- Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Out of Competition<br>Director: VINCENT GARENQ<br>Theater: Buñuel
+ Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =igZYHShd%2F04%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:7e0f25f5-38e6-45a2-a695-9f2a33f69527
-DTSTART:20250514T070000Z
-DTEND:20250514T090200Z
+UID:acee1477-c0aa-49cd-8e97-caa3d0b064c8
+DTSTART:20260514T070000Z
+DTEND:20260514T090200Z
 SUMMARY:LA VÉNUS ÉLECTRIQUE - Cineum Imax
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Out of Competition<br>Director: PIERRE SALVADORI<br>Theater:
- Cineum Imax<br><a href="https://ticketonline1.festival-cannes.com/fiche?id
+DESCRIPTION:Program: Out of Competition<br>Director: PIERRE SALVADORI<br>Theater:
+ Cineum Imax<br><a href="https://ticketonline1.festival-cannes.com/fiche?id
  proj=7G6BgJmkhDI%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:ec988f51-18db-4941-bb79-f9116ce91631
-DTSTART:20250514T093000Z
-DTEND:20250514T113200Z
+UID:8657f300-819a-448c-9d15-916bf6d24f31
+DTSTART:20260514T093000Z
+DTEND:20260514T113200Z
 SUMMARY:LA VÉNUS ÉLECTRIQUE - Licorne
 LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Out of Competition<br>Director: PIERRE SALVADORI<br>Theater:
- Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Out of Competition<br>Director: PIERRE SALVADORI<br>Theater:
+ Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =3FH5AKgc3DE%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:35fa0d0e-a1f7-464e-b70e-1591df140de1
-DTSTART:20250514T143000Z
-DTEND:20250514T161000Z
+UID:bf932a18-e5a7-48eb-85be-e38d88abb201
+DTSTART:20260514T143000Z
+DTEND:20260514T161000Z
 SUMMARY:L'ABANDON (FORSAKEN ) - Cineum Imax
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Out of Competition<br>Director: VINCENT GARENQ<br>Theater: Cineum
- Imax<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=ar
+DESCRIPTION:Program: Out of Competition<br>Director: VINCENT GARENQ<br>Theater: Cineum
+ Imax<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=ar
  KLixB1Xf0%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:0dd9d33a-d8c6-47ec-b361-388814acc67b
-DTSTART:20250514T193000Z
-DTEND:20250514T211000Z
+UID:c6c1d287-dc1b-469c-84d4-047d66cbec9e
+DTSTART:20260514T193000Z
+DTEND:20260514T211000Z
 SUMMARY:L'ABANDON - Licorne
 LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Out of Competition<br>Director: VINCENT GARENQ<br>Theater:
- Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Out of Competition<br>Director: VINCENT GARENQ<br>Theater:
+ Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =z1IyhVC2IJU%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:ff4996ae-95dc-4287-b568-0dd2a636b258
-DTSTART:20250515T163000Z
-DTEND:20250515T185900Z
+UID:cf358882-e9c1-4611-bc50-a2722a218687
+DTSTART:20260515T163000Z
+DTEND:20260515T185900Z
 SUMMARY:KARMA - Grand Théâtre Lumière
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Out of Competition<br>Director: GUILLAUME CANET<br>Theater: Grand
- Théâtre Lumière<br><a href="https://ticketonline1.festival-cannes.com/fich
+DESCRIPTION:Program: Out of Competition<br>Director: GUILLAUME CANET<br>Theater: Grand
+ Théâtre Lumière<br><a href="https://ticketonline1.festival-cannes.com/fich
  e?idproj=YB1Da7gazc8%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:1bb9d19a-5828-4402-a9f4-9781329a9c14
-DTSTART:20250516T063000Z
-DTEND:20250516T085900Z
+UID:7631d622-5633-4b24-8d4f-b79264fd46c3
+DTSTART:20260516T063000Z
+DTEND:20260516T085900Z
 SUMMARY:KARMA - Buñuel Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Out of Competition<br>Director: GUILLAUME CANET<br>Theater:
- Buñuel Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche
+DESCRIPTION:Program: Out of Competition<br>Director: GUILLAUME CANET<br>Theater:
+ Buñuel Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche
  ?idproj=7wzeJ7Rcg0E%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:cd864aa8-6674-4cbc-8238-633e0cddf2ff
-DTSTART:20250516T093000Z
-DTEND:20250516T115900Z
+UID:3eee56fb-8057-4d10-ae44-9363ae3657ed
+DTSTART:20260516T093000Z
+DTEND:20260516T115900Z
 SUMMARY:KARMA - Cineum Salle 3
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Out of Competition<br>Director: GUILLAUME CANET<br>Theater:
- Cineum Salle 3<br><a href="https://ticketonline1.festival-cannes.com/fiche
+DESCRIPTION:Program: Out of Competition<br>Director: GUILLAUME CANET<br>Theater:
+ Cineum Salle 3<br><a href="https://ticketonline1.festival-cannes.com/fiche
  ?idproj=ScYsRLyEBFY%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:67382fc5-ad97-4cdc-9eff-4e81bf0c6eb0
-DTSTART:20250516T104500Z
-DTEND:20250516T113000Z
+UID:27f75ec0-662b-4beb-b236-0bbb3edcc13d
+DTSTART:20260516T104500Z
+DTEND:20260516T113000Z
 SUMMARY:KARMA - Presse Conference Room
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Out of Competition<br>Director: GUILLAUME CANET<br>Theater:
- Presse Conference Room<br><a href="https://ticketonline1.festival-cannes.c
+DESCRIPTION:Program: Out of Competition<br>Director: GUILLAUME CANET<br>Theater:
+ Presse Conference Room<br><a href="https://ticketonline1.festival-cannes.c
  om/fiche?idproj=9YdqkJbutsA%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:2492039e-a66e-46d5-bc79-144aa000aec7
-DTSTART:20250517T150000Z
-DTEND:20250517T172900Z
+UID:aca43612-e8e9-4340-90d5-a639c7d8d1aa
+DTSTART:20260517T150000Z
+DTEND:20260517T172900Z
 SUMMARY:KARMA - Cineum Imax
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Out of Competition<br>Director: GUILLAUME CANET<br>Theater:
- Cineum Imax<br><a href="https://ticketonline1.festival-cannes.com/fiche?id
+DESCRIPTION:Program: Out of Competition<br>Director: GUILLAUME CANET<br>Theater:
+ Cineum Imax<br><a href="https://ticketonline1.festival-cannes.com/fiche?id
  proj=whDjtQIHeoE%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:7c0a95e6-b7a2-4282-818f-5d008f83d4b7
-DTSTART:20250518T203000Z
-DTEND:20250518T221900Z
+UID:7f8d2812-09e5-4814-8755-aef93cd2ab92
+DTSTART:20260518T203000Z
+DTEND:20260518T221900Z
 SUMMARY:HER PRIVATE HELL - Grand Théâtre Lumière
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Out of Competition<br>Director: NICOLAS WINDING REFN<br>Theater:
- Grand Théâtre Lumière<br><a href="https://ticketonline1.festival-cannes.co
+DESCRIPTION:Program: Out of Competition<br>Director: NICOLAS WINDING REFN<br>Theater:
+ Grand Théâtre Lumière<br><a href="https://ticketonline1.festival-cannes.co
  m/fiche?idproj=uq4bZ0NWdH4%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:dbb35629-da6b-471e-9497-281f3a58d8c3
-DTSTART:20250519T063000Z
-DTEND:20250519T081900Z
+UID:a3b96629-1628-4326-9c1c-85e2063f4fd5
+DTSTART:20260519T063000Z
+DTEND:20260519T081900Z
 SUMMARY:HER PRIVATE HELL - Agnès Varda Theatre
 LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
-DESCRIPTION:Program: Out of Competition<br>Director: NICOLAS WINDING REFN<br>Theater:
- Agnès Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/
+DESCRIPTION:Program: Out of Competition<br>Director: NICOLAS WINDING REFN<br>Theater:
+ Agnès Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/
  fiche?idproj=YKGNWn%2FJn3k%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:5ec200f9-9a49-4e25-afb2-57cdbebf5e5a
-DTSTART:20250519T104500Z
-DTEND:20250519T113000Z
+UID:ff08b17c-4fdf-4395-9312-2aaf011e8b62
+DTSTART:20260519T104500Z
+DTEND:20260519T113000Z
 SUMMARY:HER PRIVATE HELL - Presse Conference Room
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Out of Competition<br>Director: NICOLAS WINDING REFN<br>Theater:
- Presse Conference Room<br><a href="https://ticketonline1.festival-cannes.c
+DESCRIPTION:Program: Out of Competition<br>Director: NICOLAS WINDING REFN<br>Theater:
+ Presse Conference Room<br><a href="https://ticketonline1.festival-cannes.c
  om/fiche?idproj=LvTzWUmYSAA%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:322d9af9-2c5b-4106-8fd8-ed42cb1b46a4
-DTSTART:20250519T124500Z
-DTEND:20250519T143400Z
+UID:62df31cc-e1ca-48ed-aea9-ef703cd42384
+DTSTART:20260519T124500Z
+DTEND:20260519T143400Z
 SUMMARY:HER PRIVATE HELL - Cineum Imax
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Out of Competition<br>Director: NICOLAS WINDING REFN<br>Theater:
- Cineum Imax<br><a href="https://ticketonline1.festival-cannes.com/fiche?id
+DESCRIPTION:Program: Out of Competition<br>Director: NICOLAS WINDING REFN<br>Theater:
+ Cineum Imax<br><a href="https://ticketonline1.festival-cannes.com/fiche?id
  proj=4OqDPHuaBk8%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:5cfbc6f5-f339-44c8-b505-8726a326f2bf
-DTSTART:20250519T200000Z
-DTEND:20250519T215800Z
+UID:cb15a0c3-c0d3-40ce-b301-eaeac9ce5abb
+DTSTART:20260519T200000Z
+DTEND:20260519T215800Z
 SUMMARY:DIAMOND - Grand Théâtre Lumière
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Out of Competition<br>Director: ANDY GARCIA<br>Theater: Grand
- Théâtre Lumière<br><a href="https://ticketonline1.festival-cannes.com/fich
+DESCRIPTION:Program: Out of Competition<br>Director: ANDY GARCIA<br>Theater: Grand
+ Théâtre Lumière<br><a href="https://ticketonline1.festival-cannes.com/fich
  e?idproj=zchYY5hPu5c%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:aa1535d1-7e0d-4a14-804d-25be414d23b0
-DTSTART:20250520T063000Z
-DTEND:20250520T082800Z
+UID:7a0f9bfb-8021-4ca0-a41f-7410ac75d1c5
+DTSTART:20260520T063000Z
+DTEND:20260520T082800Z
 SUMMARY:DIAMOND - Agnès Varda Theatre
 LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
-DESCRIPTION:Program: Out of Competition<br>Director: ANDY GARCIA<br>Theater: Agnès
- Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+DESCRIPTION:Program: Out of Competition<br>Director: ANDY GARCIA<br>Theater: Agnès
+ Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?
  idproj=agjveMPLsJg%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:598769ec-4d46-48da-82b0-5f4e60e4e441
-DTSTART:20250520T093000Z
-DTEND:20250520T101500Z
+UID:533cf009-d63c-42a1-9da7-2fc594621b6a
+DTSTART:20260520T093000Z
+DTEND:20260520T101500Z
 SUMMARY:DIAMOND - Presse Conference Room
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Out of Competition<br>Director: ANDY GARCIA<br>Theater: Presse
- Conference Room<br><a href="https://ticketonline1.festival-cannes.com/fich
+DESCRIPTION:Program: Out of Competition<br>Director: ANDY GARCIA<br>Theater: Presse
+ Conference Room<br><a href="https://ticketonline1.festival-cannes.com/fich
  e?idproj=QBlmzRYWpkI%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:7642bae6-313c-49b8-bbb1-136f1e741c8b
-DTSTART:20250520T121500Z
-DTEND:20250520T141300Z
+UID:db2b3d64-5370-42c0-96a0-830fd8af713a
+DTSTART:20260520T121500Z
+DTEND:20260520T141300Z
 SUMMARY:DIAMOND - Cineum Imax
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Out of Competition<br>Director: ANDY GARCIA<br>Theater: Cineum
- Imax<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=hV
+DESCRIPTION:Program: Out of Competition<br>Director: ANDY GARCIA<br>Theater: Cineum
+ Imax<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=hV
  t2YoVPWZE%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:6822fffa-f304-4b60-a9db-b07a7bec7ba1
-DTSTART:20250520T143000Z
-DTEND:20250520T161900Z
+UID:2eb8e635-5c79-49e7-ac4a-80f7f4ccb77c
+DTSTART:20260520T143000Z
+DTEND:20260520T161900Z
 SUMMARY:HER PRIVATE HELL - Cineum Screen X
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Out of Competition<br>Director: NICOLAS WINDING REFN<br>Theater:
- Cineum Screen X<br><a href="https://ticketonline1.festival-cannes.com/fich
+DESCRIPTION:Program: Out of Competition<br>Director: NICOLAS WINDING REFN<br>Theater:
+ Cineum Screen X<br><a href="https://ticketonline1.festival-cannes.com/fich
  e?idproj=RONzwRXJzEo%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:05ebef82-0879-47fa-bbe1-5bd12cc1158d
-DTSTART:20250520T164500Z
-DTEND:20250520T192500Z
+UID:e0da0dcf-9495-42f6-b205-cdd85e2de8a7
+DTSTART:20260520T164500Z
+DTEND:20260520T192500Z
 SUMMARY:LA BATAILLE DE GAULLE : L'ÂGE DE FER - Grand Théâtre Lumière
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Out of Competition<br>Director: ANTONIN BAUDRY<br>Theater: Grand
- Théâtre Lumière<br><a href="https://ticketonline1.festival-cannes.com/fich
+DESCRIPTION:Program: Out of Competition<br>Director: ANTONIN BAUDRY<br>Theater: Grand
+ Théâtre Lumière<br><a href="https://ticketonline1.festival-cannes.com/fich
  e?idproj=4i6G1aRAPC8%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:01c5b998-052c-458b-9590-9d5e9f002c34
-DTSTART:20250521T063000Z
-DTEND:20250521T091000Z
+UID:e5209b65-7d81-4c7d-900c-5abf6f90db9f
+DTSTART:20260521T063000Z
+DTEND:20260521T091000Z
 SUMMARY:LA BATAILLE DE GAULLE : L'ÂGE DE FER - Agnès Varda Theatre
 LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
-DESCRIPTION:Program: Out of Competition<br>Director: ANTONIN BAUDRY<br>Theater: Agnès
- Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+DESCRIPTION:Program: Out of Competition<br>Director: ANTONIN BAUDRY<br>Theater: Agnès
+ Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?
  idproj=SSMTHu9Q4Uc%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:00ac8df0-92e1-44e6-a1f9-9cf22ab8a8cf
-DTSTART:20250521T093000Z
-DTEND:20250521T101500Z
+UID:bbe0dba5-d537-4dc7-86f9-c58e92c04a39
+DTSTART:20260521T093000Z
+DTEND:20260521T101500Z
 SUMMARY:LA BATAILLE DE GAULLE : L'ÂGE DE FER - Presse Conference Room
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Out of Competition<br>Director: ANTONIN BAUDRY<br>Theater: Presse
- Conference Room<br><a href="https://ticketonline1.festival-cannes.com/fich
+DESCRIPTION:Program: Out of Competition<br>Director: ANTONIN BAUDRY<br>Theater: Presse
+ Conference Room<br><a href="https://ticketonline1.festival-cannes.com/fich
  e?idproj=I5PT1NKzDzs%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:952885ed-fced-4b5d-af00-a0756135a14d
-DTSTART:20250521T121500Z
-DTEND:20250521T145500Z
+UID:c15ecd2e-7e26-4e2b-9f71-5947b81b49ae
+DTSTART:20260521T121500Z
+DTEND:20260521T145500Z
 SUMMARY:LA BATAILLE DE GAULLE : L'ÂGE DE FER - Cineum Imax
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Out of Competition<br>Director: ANTONIN BAUDRY<br>Theater: Cineum
- Imax<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=Dn
+DESCRIPTION:Program: Out of Competition<br>Director: ANTONIN BAUDRY<br>Theater: Cineum
+ Imax<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=Dn
  Las68KZm0%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:74d593d5-1618-484e-965e-2a5d7dbfa4df
-DTSTART:20250521T121500Z
-DTEND:20250521T141300Z
+UID:aa50ba65-f4be-48b9-b20d-90627825dd36
+DTSTART:20260521T121500Z
+DTEND:20260521T141300Z
 SUMMARY:DIAMOND - Cineum Aurore
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Out of Competition<br>Director: ANDY GARCIA<br>Theater: Cineum
- Aurore<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=
+DESCRIPTION:Program: Out of Competition<br>Director: ANDY GARCIA<br>Theater: Cineum
+ Aurore<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=
  U%2BmTjN8%2BYVE%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:30d77404-6604-4a2a-adca-0042fa761ca3
-DTSTART:20250521T173000Z
-DTEND:20250521T194300Z
+UID:c59f5aa0-35d8-4a56-bf00-36d64dbc185f
+DTSTART:20260521T173000Z
+DTEND:20260521T194300Z
 SUMMARY:L’OBJET DU DÉLIT  (CRESCENDO ) - Agnès Varda Theatre
 LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
-DESCRIPTION:Program: Out of Competition<br>Director: AGNÈS JAOUI<br>Theater: Agnès
- Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+DESCRIPTION:Program: Out of Competition<br>Director: AGNÈS JAOUI<br>Theater: Agnès
+ Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?
  idproj=bbGrwfzgnJw%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:3c4ed955-3f31-4971-8858-b0610e423c1c
-DTSTART:20250522T121500Z
-DTEND:20250522T145500Z
+UID:2e18ef55-81e9-48c0-bf28-c2254674c35a
+DTSTART:20260522T121500Z
+DTEND:20260522T145500Z
 SUMMARY:LA BATAILLE DE GAULLE : L'ÂGE DE FER - Cineum Aurore
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Out of Competition<br>Director: ANTONIN BAUDRY<br>Theater: Cineum
- Aurore<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=
+DESCRIPTION:Program: Out of Competition<br>Director: ANTONIN BAUDRY<br>Theater: Cineum
+ Aurore<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=
  l8kWyW1ppOw%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:a7ac1b85-7c0a-47aa-bc1b-84f24328d419
-DTSTART:20250522T200000Z
-DTEND:20250522T221300Z
+UID:aa3411d0-4fee-465c-8dd8-4943c471535c
+DTSTART:20260522T200000Z
+DTEND:20260522T221300Z
 SUMMARY:L’OBJET DU DÉLIT  (CRESCENDO ) - Grand Théâtre Lumière
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Out of Competition<br>Director: AGNÈS JAOUI<br>Theater: Grand
- Théâtre Lumière<br><a href="https://ticketonline1.festival-cannes.com/fich
+DESCRIPTION:Program: Out of Competition<br>Director: AGNÈS JAOUI<br>Theater: Grand
+ Théâtre Lumière<br><a href="https://ticketonline1.festival-cannes.com/fich
  e?idproj=ZvAv2MqmF6s%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:60fe8490-0733-4d97-9b5e-ff463a37b23b
-DTSTART:20250523T130000Z
-DTEND:20250523T151300Z
+UID:e571f97c-5550-4641-b175-92d319fb73d1
+DTSTART:20260523T130000Z
+DTEND:20260523T151300Z
 SUMMARY:L’OBJET DU DÉLIT  (CRESCENDO ) - Cineum Imax
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Out of Competition<br>Director: AGNÈS JAOUI<br>Theater: Cineum
- Imax<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=6r
+DESCRIPTION:Program: Out of Competition<br>Director: AGNÈS JAOUI<br>Theater: Cineum
+ Imax<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=6r
  dpDu997ag%3D">Event link</a>
 END:VEVENT
-
-END:VCALENDAR
+
+END:VCALENDAR

@@ -1,306 +1,306 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//Cannes Film Festival//Screenings//EN
-CALSCALE:GREGORIAN
-METHOD:PUBLISH
-X-WR-CALNAME:Cannes Film Festival Screenings
-X-WR-TIMEZONE:Europe/Paris
-
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cannes Film Festival//Screenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cannes Film Festival Screenings
+X-WR-TIMEZONE:Europe/Paris
+
 BEGIN:VEVENT
-UID:deb7cbd5-783a-4b56-9f26-5603f399fada
-DTSTART:20250514T120000Z
-DTEND:20250514T133900Z
+UID:3ff82741-f069-4392-be18-dedd7ba51da0
+DTSTART:20260514T120000Z
+DTEND:20260514T133900Z
 SUMMARY:LE GARÇON QUI FAISAIT DANSER LES COLLINES - Raimu
 LOCATION:Chemin de la Borde 06150 Cannes La Bocca
-DESCRIPTION:Program: Cannes Cinéma<br>Director: GEORGI M. UNKOVSKI<br>Theater:
- Raimu<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=y
+DESCRIPTION:Program: Cannes Cinéma<br>Director: GEORGI M. UNKOVSKI<br>Theater:
+ Raimu<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=y
  oUmF%2FtvmYA%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:b5340e98-3301-49ef-a74e-93420c45f931
-DTSTART:20250514T143000Z
-DTEND:20250514T154600Z
+UID:1b2e1317-9934-400c-8f0a-40fd4de022b0
+DTSTART:20260514T143000Z
+DTEND:20260514T154600Z
 SUMMARY:CONFIDENTE - Raimu
 LOCATION:Chemin de la Borde 06150 Cannes La Bocca
-DESCRIPTION:Program: Cannes Cinéma<br>Director: ÇAGLA ZENCIRCI\, GUILLAUME
- GIOVANETTI<br>Theater: Raimu<br><a href="https://ticketonline1.festival-ca
+DESCRIPTION:Program: Cannes Cinéma<br>Director: ÇAGLA ZENCIRCI\, GUILLAUME
+ GIOVANETTI<br>Theater: Raimu<br><a href="https://ticketonline1.festival-ca
  nnes.com/fiche?idproj=%2FybZ2qKXmCE%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:d3da64dd-9678-4caf-86c7-704ec28579e0
-DTSTART:20250515T090000Z
-DTEND:20250515T105000Z
+UID:7c0d24bb-5dd1-429a-a2c3-68ac3bc2b37d
+DTSTART:20260515T090000Z
+DTEND:20260515T105000Z
 SUMMARY:LA MAISON DES FEMMES - Alexandre III
 LOCATION:19 Bd Alexandre III 06400 Cannes
-DESCRIPTION:Program: Cannes Cinéma<br>Director: MÉLISA GODET<br>Theater: Alexandre
- III<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=hR%
+DESCRIPTION:Program: Cannes Cinéma<br>Director: MÉLISA GODET<br>Theater: Alexandre
+ III<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=hR%
  2FFCH%2FqqW0%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:9ee4e2ba-7c9f-46a6-a802-e38f450da1df
-DTSTART:20250515T120000Z
-DTEND:20250515T133100Z
+UID:2d49a8aa-71ff-4ce5-a067-cae402871c1c
+DTSTART:20260515T120000Z
+DTEND:20260515T133100Z
 SUMMARY:GRAND CIEL - Raimu
 LOCATION:Chemin de la Borde 06150 Cannes La Bocca
-DESCRIPTION:Program: Cannes Cinéma<br>Director: AKIHIRO HATA<br>Theater: Raimu<br><a
- href="https://ticketonline1.festival-cannes.com/fiche?idproj=SYhJasPymTE%3
+DESCRIPTION:Program: Cannes Cinéma<br>Director: AKIHIRO HATA<br>Theater: Raimu<br><a
+ href="https://ticketonline1.festival-cannes.com/fiche?idproj=SYhJasPymTE%3
  D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:1b3eb1cf-dd81-4b16-9fc5-a9570d9e8ec9
-DTSTART:20250516T120000Z
-DTEND:20250516T134500Z
+UID:196d3f1b-c9d7-4b8c-8e1d-b018c6cd8a45
+DTSTART:20260516T120000Z
+DTEND:20260516T134500Z
 SUMMARY:L'EPREUVE DU FEU - Raimu
 LOCATION:Chemin de la Borde 06150 Cannes La Bocca
-DESCRIPTION:Program: Cannes Cinéma<br>Director: AURÉLIEN PEYRE<br>Theater: Raimu<br><a
- href="https://ticketonline1.festival-cannes.com/fiche?idproj=NiWEwAOD7%2BQ
+DESCRIPTION:Program: Cannes Cinéma<br>Director: AURÉLIEN PEYRE<br>Theater: Raimu<br><a
+ href="https://ticketonline1.festival-cannes.com/fiche?idproj=NiWEwAOD7%2BQ
  %3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:a6779494-37d0-4731-aab8-9716fc96fb98
-DTSTART:20250517T120000Z
-DTEND:20250517T134000Z
+UID:4293d271-4cb5-4822-bd06-3a1418f5857f
+DTSTART:20260517T120000Z
+DTEND:20260517T134000Z
 SUMMARY:SORDA - Raimu
 LOCATION:Chemin de la Borde 06150 Cannes La Bocca
-DESCRIPTION:Program: Cannes Cinéma<br>Director: EVA LIBERTAD GARCIA<br>Theater:
- Raimu<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=R
+DESCRIPTION:Program: Cannes Cinéma<br>Director: EVA LIBERTAD GARCIA<br>Theater:
+ Raimu<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=R
  myTLnvoIM8%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:48924421-de83-4238-8d5a-d35dfa4a1df9
-DTSTART:20250518T070000Z
-DTEND:20250518T082500Z
+UID:88fc046b-4ac6-4ef6-aeae-b7fbfb050b1c
+DTSTART:20260518T070000Z
+DTEND:20260518T082500Z
 SUMMARY:ATLAS OF THE UNIVERSE - Alexandre III
 LOCATION:19 Bd Alexandre III 06400 Cannes
-DESCRIPTION:Program: Cannes Cinéma<br>Director: PAUL NEGOESCU<br>Theater: Alexandre
- III<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=hg6
+DESCRIPTION:Program: Cannes Cinéma<br>Director: PAUL NEGOESCU<br>Theater: Alexandre
+ III<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=hg6
  %2FhQpHldI%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:ca905b95-366f-4529-9c48-04d72b3e7595
-DTSTART:20250518T090000Z
-DTEND:20250518T103900Z
+UID:36729448-ca72-4c53-a8da-88d63d86a8cc
+DTSTART:20260518T090000Z
+DTEND:20260518T103900Z
 SUMMARY:MOSCAS - Raimu
 LOCATION:Chemin de la Borde 06150 Cannes La Bocca
-DESCRIPTION:Program: Cannes Cinéma<br>Director: FERNANDO EIMBCKE<br>Theater:
- Raimu<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=d
+DESCRIPTION:Program: Cannes Cinéma<br>Director: FERNANDO EIMBCKE<br>Theater:
+ Raimu<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=d
  KhK009bdCY%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:7d5a42d3-1cfb-4c4f-ac0b-0b48587639ce
-DTSTART:20250518T093000Z
-DTEND:20250518T110900Z
+UID:cb87793f-1b4b-4f5f-b954-b32b648df795
+DTSTART:20260518T093000Z
+DTEND:20260518T110900Z
 SUMMARY:MOSCAS - Alexandre III
 LOCATION:19 Bd Alexandre III 06400 Cannes
-DESCRIPTION:Program: Cannes Cinéma<br>Director: FERNANDO EIMBCKE<br>Theater: Alexandre
- III<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=YNI
+DESCRIPTION:Program: Cannes Cinéma<br>Director: FERNANDO EIMBCKE<br>Theater: Alexandre
+ III<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=YNI
  lPIv3pkM%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:08f71a58-e316-4e39-9854-a62bcab873e8
-DTSTART:20250518T120000Z
-DTEND:20250518T133900Z
+UID:3f7ad586-5c39-498e-891a-fd6fcaebb533
+DTSTART:20260518T120000Z
+DTEND:20260518T133900Z
 SUMMARY:VANILLA - Alexandre III
 LOCATION:19 Bd Alexandre III 06400 Cannes
-DESCRIPTION:Program: Cannes Cinéma<br>Director: MAYRA RIVERA HERMOSILLO<br>Theater:
- Alexandre III<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+DESCRIPTION:Program: Cannes Cinéma<br>Director: MAYRA RIVERA HERMOSILLO<br>Theater:
+ Alexandre III<br><a href="https://ticketonline1.festival-cannes.com/fiche?
  idproj=2kNg%2BeNnpPM%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:e4d8f0a2-8c24-408c-be53-649475283ce8
-DTSTART:20250518T120000Z
-DTEND:20250518T132500Z
+UID:f3343eac-ca21-4c16-930e-5c55b7d1096b
+DTSTART:20260518T120000Z
+DTEND:20260518T132500Z
 SUMMARY:ATLAS OF THE UNIVERSE - Raimu
 LOCATION:Chemin de la Borde 06150 Cannes La Bocca
-DESCRIPTION:Program: Cannes Cinéma<br>Director: PAUL NEGOESCU<br>Theater: Raimu<br><a
- href="https://ticketonline1.festival-cannes.com/fiche?idproj=r3O%2FNvBOFy0
+DESCRIPTION:Program: Cannes Cinéma<br>Director: PAUL NEGOESCU<br>Theater: Raimu<br><a
+ href="https://ticketonline1.festival-cannes.com/fiche?idproj=r3O%2FNvBOFy0
  %3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:b8755244-3005-43d4-9389-653ff7d77816
-DTSTART:20250519T070000Z
-DTEND:20250519T090900Z
+UID:532c313b-d51e-4635-aa5b-90789e8fad0c
+DTSTART:20260519T070000Z
+DTEND:20260519T090900Z
 SUMMARY:SHAM - Alexandre III
 LOCATION:19 Bd Alexandre III 06400 Cannes
-DESCRIPTION:Program: Cannes Cinéma<br>Director: TAKASHI MIIKE<br>Theater: Alexandre
- III<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=HaG
+DESCRIPTION:Program: Cannes Cinéma<br>Director: TAKASHI MIIKE<br>Theater: Alexandre
+ III<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=HaG
  fNdODX%2Fc%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:13549891-26b9-4352-a68f-9620f0eecc6c
-DTSTART:20250519T090000Z
-DTEND:20250519T110900Z
+UID:a204958d-42fe-4e7d-95d7-f2badbe0df71
+DTSTART:20260519T090000Z
+DTEND:20260519T110900Z
 SUMMARY:SHAM - Raimu
 LOCATION:Chemin de la Borde 06150 Cannes La Bocca
-DESCRIPTION:Program: Cannes Cinéma<br>Director: TAKASHI MIIKE<br>Theater: Raimu<br><a
- href="https://ticketonline1.festival-cannes.com/fiche?idproj=rC0jKfKiFgM%3
+DESCRIPTION:Program: Cannes Cinéma<br>Director: TAKASHI MIIKE<br>Theater: Raimu<br><a
+ href="https://ticketonline1.festival-cannes.com/fiche?idproj=rC0jKfKiFgM%3
  D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:c93c5e36-85a0-47e8-ab6b-749cadf68697
-DTSTART:20250519T093000Z
-DTEND:20250519T111200Z
+UID:a642dd32-3ec9-4bd7-a64c-442fc7f28bd3
+DTSTART:20260519T093000Z
+DTEND:20260519T111200Z
 SUMMARY:UN CŒUR FIDÈLE - Alexandre III
 LOCATION:19 Bd Alexandre III 06400 Cannes
-DESCRIPTION:Program: Cannes Cinéma<br>Director: JULIA DE PAZ SOLVAS<br>Theater:
- Alexandre III<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+DESCRIPTION:Program: Cannes Cinéma<br>Director: JULIA DE PAZ SOLVAS<br>Theater:
+ Alexandre III<br><a href="https://ticketonline1.festival-cannes.com/fiche?
  idproj=Y%2BFzojqzfmM%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:20d03ab5-1a84-4f06-98cb-2f5314f2a79b
-DTSTART:20250519T120000Z
-DTEND:20250519T134200Z
+UID:b0fc6c1d-bff6-4f8c-a2e4-861fac739c69
+DTSTART:20260519T120000Z
+DTEND:20260519T134200Z
 SUMMARY:UNE ANNÉE ITALIENNE - Alexandre III
 LOCATION:19 Bd Alexandre III 06400 Cannes
-DESCRIPTION:Program: Cannes Cinéma<br>Director: LAURA SAMANI<br>Theater: Alexandre
- III<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=VrX
+DESCRIPTION:Program: Cannes Cinéma<br>Director: LAURA SAMANI<br>Theater: Alexandre
+ III<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=VrX
  Vj2A6XWQ%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:c748d21c-272c-4c0a-95b5-1f1bc8d6619d
-DTSTART:20250519T120000Z
-DTEND:20250519T134200Z
+UID:acc9f2a5-62cc-4852-b12e-9280d0c6a014
+DTSTART:20260519T120000Z
+DTEND:20260519T134200Z
 SUMMARY:UN CŒUR FIDÈLE - Raimu
 LOCATION:Chemin de la Borde 06150 Cannes La Bocca
-DESCRIPTION:Program: Cannes Cinéma<br>Director: JULIA DE PAZ SOLVAS<br>Theater:
- Raimu<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=r
+DESCRIPTION:Program: Cannes Cinéma<br>Director: JULIA DE PAZ SOLVAS<br>Theater:
+ Raimu<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=r
  YqMXbKaLkw%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:bc2830ee-6c0d-4a81-ae7e-6f4e410361da
-DTSTART:20250520T120000Z
-DTEND:20250520T133600Z
+UID:d344cc04-142d-4f7c-9e75-fbbad8616cc0
+DTSTART:20260520T120000Z
+DTEND:20260520T133600Z
 SUMMARY:LA GUERRE DES PRIX - Raimu
 LOCATION:Chemin de la Borde 06150 Cannes La Bocca
-DESCRIPTION:Program: Cannes Cinéma<br>Director: ANTHONY DÉCHAUX<br>Theater:
- Raimu<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=f
+DESCRIPTION:Program: Cannes Cinéma<br>Director: ANTHONY DÉCHAUX<br>Theater:
+ Raimu<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=f
  ppwPJo3AKg%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:729df16d-4014-4abf-b469-71e8dcc09996
-DTSTART:20250521T070000Z
-DTEND:20250521T083000Z
+UID:4cc0778b-3ff4-435d-8cc7-9d4ffffba56e
+DTSTART:20260521T070000Z
+DTEND:20260521T083000Z
 SUMMARY:CHICAS TRISTES - Alexandre III
 LOCATION:19 Bd Alexandre III 06400 Cannes
-DESCRIPTION:Program: Cannes Cinéma<br>Director: FERNANDA TOVAR MASVIDAL<br>Theater:
- Alexandre III<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+DESCRIPTION:Program: Cannes Cinéma<br>Director: FERNANDA TOVAR MASVIDAL<br>Theater:
+ Alexandre III<br><a href="https://ticketonline1.festival-cannes.com/fiche?
  idproj=VE8biBZdgRE%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:02b9da1f-c388-4c12-b2ad-e754c5e3a516
-DTSTART:20250521T090000Z
-DTEND:20250521T103000Z
+UID:6cd31ab5-60b4-42d8-b716-d15731541a32
+DTSTART:20260521T090000Z
+DTEND:20260521T103000Z
 SUMMARY:CHICAS TRISTES - Raimu
 LOCATION:Chemin de la Borde 06150 Cannes La Bocca
-DESCRIPTION:Program: Cannes Cinéma<br>Director: FERNANDA TOVAR MASVIDAL<br>Theater:
- Raimu<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=e
+DESCRIPTION:Program: Cannes Cinéma<br>Director: FERNANDA TOVAR MASVIDAL<br>Theater:
+ Raimu<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=e
  nSThUt50iI%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:02156373-1791-46f7-a1e5-21ac511dabf3
-DTSTART:20250521T093000Z
-DTEND:20250521T110300Z
+UID:669cd9d0-663d-4872-b41e-8276c9630401
+DTSTART:20260521T093000Z
+DTEND:20260521T110300Z
 SUMMARY:SUR LA ROUTE D'OMAHA - Alexandre III
 LOCATION:19 Bd Alexandre III 06400 Cannes
-DESCRIPTION:Program: Cannes Cinéma<br>Director: COLE WEBLEY<br>Theater: Alexandre
- III<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=tmw
+DESCRIPTION:Program: Cannes Cinéma<br>Director: COLE WEBLEY<br>Theater: Alexandre
+ III<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=tmw
  gUhEWPKQ%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:833435e2-0916-4087-9cc4-1ede287d0ccf
-DTSTART:20250521T120000Z
-DTEND:20250521T133900Z
+UID:367b5de2-5809-4594-8b00-3e0ad7100e97
+DTSTART:20260521T120000Z
+DTEND:20260521T133900Z
 SUMMARY:MOSCAS - Alexandre III
 LOCATION:19 Bd Alexandre III 06400 Cannes
-DESCRIPTION:Program: Cannes Cinéma<br>Director: FERNANDO EIMBCKE<br>Theater: Alexandre
- III<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=t5Z
+DESCRIPTION:Program: Cannes Cinéma<br>Director: FERNANDO EIMBCKE<br>Theater: Alexandre
+ III<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=t5Z
  Pfzv6iGI%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:124b14a7-2fd9-495c-ab78-e3fd1c65521a
-DTSTART:20250521T120000Z
-DTEND:20250521T133300Z
+UID:54b6996c-6658-4307-a150-f0a7a7abea91
+DTSTART:20260521T120000Z
+DTEND:20260521T133300Z
 SUMMARY:SUR LA ROUTE D'OMAHA - Raimu
 LOCATION:Chemin de la Borde 06150 Cannes La Bocca
-DESCRIPTION:Program: Cannes Cinéma<br>Director: COLE WEBLEY<br>Theater: Raimu<br><a
- href="https://ticketonline1.festival-cannes.com/fiche?idproj=5OUxIr7OmQc%3
+DESCRIPTION:Program: Cannes Cinéma<br>Director: COLE WEBLEY<br>Theater: Raimu<br><a
+ href="https://ticketonline1.festival-cannes.com/fiche?idproj=5OUxIr7OmQc%3
  D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:edfb86ae-44e7-421c-b420-da6d31896cb2
-DTSTART:20250522T070000Z
-DTEND:20250522T083900Z
+UID:6ed26d11-f1e9-4703-8985-2ead8dae8f98
+DTSTART:20260522T070000Z
+DTEND:20260522T083900Z
 SUMMARY:VANILLA - Alexandre III
 LOCATION:19 Bd Alexandre III 06400 Cannes
-DESCRIPTION:Program: Cannes Cinéma<br>Director: MAYRA RIVERA HERMOSILLO<br>Theater:
- Alexandre III<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+DESCRIPTION:Program: Cannes Cinéma<br>Director: MAYRA RIVERA HERMOSILLO<br>Theater:
+ Alexandre III<br><a href="https://ticketonline1.festival-cannes.com/fiche?
  idproj=irU%2BTqNKcg4%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:983fe686-e916-4721-a003-320b1a4d0e18
-DTSTART:20250522T090000Z
-DTEND:20250522T103900Z
+UID:6c061793-0172-4f68-bda3-b8c62336993d
+DTSTART:20260522T090000Z
+DTEND:20260522T103900Z
 SUMMARY:VANILLA - Raimu
 LOCATION:Chemin de la Borde 06150 Cannes La Bocca
-DESCRIPTION:Program: Cannes Cinéma<br>Director: MAYRA RIVERA HERMOSILLO<br>Theater:
- Raimu<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=r
+DESCRIPTION:Program: Cannes Cinéma<br>Director: MAYRA RIVERA HERMOSILLO<br>Theater:
+ Raimu<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=r
  dyQq8gW9w4%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:b3569bed-6494-4550-a771-bff178af7c8f
-DTSTART:20250522T093000Z
-DTEND:20250522T105500Z
+UID:f421c38a-be36-4384-b976-210292618dfa
+DTSTART:20260522T093000Z
+DTEND:20260522T105500Z
 SUMMARY:ATLAS OF THE UNIVERSE - Alexandre III
 LOCATION:19 Bd Alexandre III 06400 Cannes
-DESCRIPTION:Program: Cannes Cinéma<br>Director: PAUL NEGOESCU<br>Theater: Alexandre
- III<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=1%2
+DESCRIPTION:Program: Cannes Cinéma<br>Director: PAUL NEGOESCU<br>Theater: Alexandre
+ III<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=1%2
  Fu2qhcHXow%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:eedf359d-ac54-4390-9338-d99a655acee7
-DTSTART:20250522T120000Z
-DTEND:20250522T140000Z
+UID:7c10be72-e7ca-4b13-94fa-47b60072bb60
+DTSTART:20260522T120000Z
+DTEND:20260522T140000Z
 SUMMARY:REMISE PRIX CEJ 2026 & UNE ANNÉE ITALIENNE - Alexandre III
 LOCATION:19 Bd Alexandre III 06400 Cannes
-DESCRIPTION:Program: Cannes Cinéma<br>Director: LAURA SAMANI<br>Theater: Alexandre
- III<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=qfV
+DESCRIPTION:Program: Cannes Cinéma<br>Director: LAURA SAMANI<br>Theater: Alexandre
+ III<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=qfV
  nDT0wFK0%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:2270b110-0a75-4985-8342-a7b323dbd9f0
-DTSTART:20250522T120000Z
-DTEND:20250522T134200Z
+UID:bf0d973e-9e77-4eb4-9eed-f6990cf3cc5b
+DTSTART:20260522T120000Z
+DTEND:20260522T134200Z
 SUMMARY:UNE ANNÉE ITALIENNE - Raimu
 LOCATION:Chemin de la Borde 06150 Cannes La Bocca
-DESCRIPTION:Program: Cannes Cinéma<br>Director: LAURA SAMANI<br>Theater: Raimu<br><a
- href="https://ticketonline1.festival-cannes.com/fiche?idproj=IwjLTTRi26g%3
+DESCRIPTION:Program: Cannes Cinéma<br>Director: LAURA SAMANI<br>Theater: Raimu<br><a
+ href="https://ticketonline1.festival-cannes.com/fiche?idproj=IwjLTTRi26g%3
  D">Event link</a>
 END:VEVENT
-
-END:VCALENDAR
+
+END:VCALENDAR

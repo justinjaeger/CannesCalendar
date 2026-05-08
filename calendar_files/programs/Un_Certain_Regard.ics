@@ -1,988 +1,988 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//Cannes Film Festival//Screenings//EN
-CALSCALE:GREGORIAN
-METHOD:PUBLISH
-X-WR-CALNAME:Cannes Film Festival Screenings
-X-WR-TIMEZONE:Europe/Paris
-
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cannes Film Festival//Screenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cannes Film Festival Screenings
+X-WR-TIMEZONE:Europe/Paris
+
 BEGIN:VEVENT
-UID:8c1c2ecd-982d-42e7-af87-930d61ebadd5
-DTSTART:20250513T171500Z
-DTEND:20250513T193700Z
+UID:61fe9671-c0e4-400d-9d6f-c1784c3b0913
+DTSTART:20260513T171500Z
+DTEND:20260513T193700Z
 SUMMARY:CÉRÉMONIE D'OUVERTURE - TEENAGE SEX AND DEATH AT CAMP MIASMA - Debussy Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Un Certain Regard<br>Director: JANE SCHOENBRUN<br>Theater:
- Debussy Theatre<br><a href="https://ticketonline1.festival-cannes.com/fich
+DESCRIPTION:Program: Un Certain Regard<br>Director: JANE SCHOENBRUN<br>Theater:
+ Debussy Theatre<br><a href="https://ticketonline1.festival-cannes.com/fich
  e?idproj=AAB%2FOQcNeAk%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:eac190b7-a100-4eb0-b1e2-9fa79bc435fb
-DTSTART:20250514T063000Z
-DTEND:20250514T082200Z
+UID:0e25465f-9d1e-4554-b8c2-4e66cd5b373f
+DTSTART:20260514T063000Z
+DTEND:20260514T082200Z
 SUMMARY:TEENAGE SEX AND DEATH AT CAMP MIASMA - Debussy Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Un Certain Regard<br>Director: JANE SCHOENBRUN<br>Theater:
- Debussy Theatre<br><a href="https://ticketonline1.festival-cannes.com/fich
+DESCRIPTION:Program: Un Certain Regard<br>Director: JANE SCHOENBRUN<br>Theater:
+ Debussy Theatre<br><a href="https://ticketonline1.festival-cannes.com/fich
  e?idproj=24u6%2B%2BICzdU%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:57cad4f0-d5bd-4e26-a88a-81b4a612d6cc
-DTSTART:20250514T093000Z
-DTEND:20250514T110500Z
+UID:3abddf25-cf17-45d4-8950-1204f7b08f32
+DTSTART:20260514T093000Z
+DTEND:20260514T110500Z
 SUMMARY:QUELQUES MOTS D'AMOUR - Debussy Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Un Certain Regard<br>Director: RUDI ROSENBERG<br>Theater: Debussy
- Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Un Certain Regard<br>Director: RUDI ROSENBERG<br>Theater: Debussy
+ Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =6yo6pdy%2FLBc%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:05993265-10fa-4daf-abb1-b4f4d85a289b
-DTSTART:20250514T120000Z
-DTEND:20250514T134800Z
+UID:04e99d8c-3c22-48eb-81af-16345ff80e19
+DTSTART:20260514T120000Z
+DTEND:20260514T134800Z
 SUMMARY:EL DESHIELO (DÉGEL / THE MELTDOWN) - Debussy Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Un Certain Regard<br>Director: MANUELA MARTELLI<br>Theater:
- Debussy Theatre<br><a href="https://ticketonline1.festival-cannes.com/fich
+DESCRIPTION:Program: Un Certain Regard<br>Director: MANUELA MARTELLI<br>Theater:
+ Debussy Theatre<br><a href="https://ticketonline1.festival-cannes.com/fich
  e?idproj=CbjxAbKeNOE%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:6ab2d76b-39d6-48ba-a419-6023e51c2d7d
-DTSTART:20250515T063000Z
-DTEND:20250515T081800Z
+UID:ce3fc3fe-3255-47e7-8656-b93da7df16be
+DTSTART:20260515T063000Z
+DTEND:20260515T081800Z
 SUMMARY:EL DESHIELO (DÉGEL / THE MELTDOWN) - Debussy Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Un Certain Regard<br>Director: MANUELA MARTELLI<br>Theater:
- Debussy Theatre<br><a href="https://ticketonline1.festival-cannes.com/fich
+DESCRIPTION:Program: Un Certain Regard<br>Director: MANUELA MARTELLI<br>Theater:
+ Debussy Theatre<br><a href="https://ticketonline1.festival-cannes.com/fich
  e?idproj=m1qJ8NZm0Z4%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:726f0a14-da18-40f8-acb6-13dd6591987a
-DTSTART:20250515T090000Z
-DTEND:20250515T103500Z
+UID:f165c69f-8c8f-4f57-8aa0-3fec95afcf44
+DTSTART:20260515T090000Z
+DTEND:20260515T103500Z
 SUMMARY:CONGO BOY - Debussy Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Un Certain Regard<br>Director: RAFIKI FARIALA<br>Theater: Debussy
- Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Un Certain Regard<br>Director: RAFIKI FARIALA<br>Theater: Debussy
+ Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =CVpNxSvOdms%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:8bc6fe86-effe-45ad-a57a-026c87bdf3eb
-DTSTART:20250515T111500Z
-DTEND:20250515T130700Z
+UID:ce6e0738-2518-42c0-9c5c-d420e98dfaa9
+DTSTART:20260515T111500Z
+DTEND:20260515T130700Z
 SUMMARY:TEENAGE SEX AND DEATH AT CAMP MIASMA - Cineum Aurore
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: JANE SCHOENBRUN<br>Theater: Cineum
- Aurore<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=
+DESCRIPTION:Program: Un Certain Regard<br>Director: JANE SCHOENBRUN<br>Theater: Cineum
+ Aurore<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=
  fGYwOqMj1iw%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:4f788c38-d346-4526-92cf-8eb6c82d7b62
-DTSTART:20250515T121500Z
-DTEND:20250515T142100Z
+UID:f2f5ab68-7558-483f-83a4-2c1264d63acc
+DTSTART:20260515T121500Z
+DTEND:20260515T142100Z
 SUMMARY:CLUB KID - Debussy Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Un Certain Regard<br>Director: JORDAN FIRSTMAN<br>Theater:
- Debussy Theatre<br><a href="https://ticketonline1.festival-cannes.com/fich
+DESCRIPTION:Program: Un Certain Regard<br>Director: JORDAN FIRSTMAN<br>Theater:
+ Debussy Theatre<br><a href="https://ticketonline1.festival-cannes.com/fich
  e?idproj=HaFk%2BRQtO6c%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:81ba33a2-e2ae-4357-b700-c10b9262495d
-DTSTART:20250515T134500Z
-DTEND:20250515T152000Z
+UID:e3d5cd3a-79f8-4e77-8464-ff8d559b9e94
+DTSTART:20260515T134500Z
+DTEND:20260515T152000Z
 SUMMARY:QUELQUES MOTS D'AMOUR - Cineum Aurore
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: RUDI ROSENBERG<br>Theater: Cineum
- Aurore<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=
+DESCRIPTION:Program: Un Certain Regard<br>Director: RUDI ROSENBERG<br>Theater: Cineum
+ Aurore<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=
  uHakPWQ67qY%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:4f069c10-8ef2-4b3e-875b-f93b01994140
-DTSTART:20250515T134500Z
-DTEND:20250515T153300Z
+UID:3a714ade-2562-410d-b85e-55abf3580c2b
+DTSTART:20260515T134500Z
+DTEND:20260515T153300Z
 SUMMARY:EL DESHIELO (DÉGEL / THE MELTDOWN) - Cineum Screen X
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: MANUELA MARTELLI<br>Theater:
- Cineum Screen X<br><a href="https://ticketonline1.festival-cannes.com/fich
+DESCRIPTION:Program: Un Certain Regard<br>Director: MANUELA MARTELLI<br>Theater:
+ Cineum Screen X<br><a href="https://ticketonline1.festival-cannes.com/fich
  e?idproj=f21BS38DVZ4%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:bc53522c-33b0-4b11-a93f-ad6345c53410
-DTSTART:20250515T143000Z
-DTEND:20250515T160500Z
+UID:c6391308-5aee-479d-ba39-21d58b8b9a75
+DTSTART:20260515T143000Z
+DTEND:20260515T160500Z
 SUMMARY:QUELQUES MOTS D'AMOUR - Licorne
 LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: RUDI ROSENBERG<br>Theater:
- Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Un Certain Regard<br>Director: RUDI ROSENBERG<br>Theater:
+ Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =d0pLAvsYELo%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:cd398101-2d7a-4db4-91d8-4aaccf71ea29
-DTSTART:20250515T161500Z
-DTEND:20250515T175000Z
+UID:1f125f43-2609-4be8-93d9-16312ea465eb
+DTSTART:20260515T161500Z
+DTEND:20260515T175000Z
 SUMMARY:QUELQUES MOTS D'AMOUR - Bazin Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Un Certain Regard<br>Director: RUDI ROSENBERG<br>Theater: Bazin
- Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Un Certain Regard<br>Director: RUDI ROSENBERG<br>Theater: Bazin
+ Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =SoMsUAaF3So%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:e4ca9546-c378-45f1-ae74-02f842c07f17
-DTSTART:20250515T170000Z
-DTEND:20250515T184800Z
+UID:0829dc80-eafd-4e32-8092-5b39a6ef8d2f
+DTSTART:20260515T170000Z
+DTEND:20260515T184800Z
 SUMMARY:DÉGEL (EL DESHIELO) - Licorne
 LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: MANUELA MARTELLI<br>Theater:
- Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Un Certain Regard<br>Director: MANUELA MARTELLI<br>Theater:
+ Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =jFijWRgpQcc%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:424eaaae-d95b-46fb-98ba-74d26357de95
-DTSTART:20250516T063000Z
-DTEND:20250516T083600Z
+UID:06fe580d-c57f-49a1-b581-dc1f42953568
+DTSTART:20260516T063000Z
+DTEND:20260516T083600Z
 SUMMARY:CLUB KID - Debussy Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Un Certain Regard<br>Director: JORDAN FIRSTMAN<br>Theater:
- Debussy Theatre<br><a href="https://ticketonline1.festival-cannes.com/fich
+DESCRIPTION:Program: Un Certain Regard<br>Director: JORDAN FIRSTMAN<br>Theater:
+ Debussy Theatre<br><a href="https://ticketonline1.festival-cannes.com/fich
  e?idproj=YVHI74XUtCs%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:dc40bd06-c134-472a-b454-99dd2e14dfa4
-DTSTART:20250516T071500Z
-DTEND:20250516T085000Z
+UID:a54011da-5405-4c05-b314-122faa3b0181
+DTSTART:20260516T071500Z
+DTEND:20260516T085000Z
 SUMMARY:CONGO BOY - Cineum Salle 3
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: RAFIKI FARIALA<br>Theater: Cineum
- Salle 3<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Un Certain Regard<br>Director: RAFIKI FARIALA<br>Theater: Cineum
+ Salle 3<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =N8bSd4kl9io%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:7dced31d-b8d3-47dc-8df3-d3c978ca8751
-DTSTART:20250516T091500Z
-DTEND:20250516T111200Z
+UID:2cf33acc-f56b-4317-a2e1-90d07cc61861
+DTSTART:20260516T091500Z
+DTEND:20260516T111200Z
 SUMMARY:MEMOIRE DE FILLE (A GIRL'S STORY) - Debussy Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Un Certain Regard<br>Director: JUDITH GODRÈCHE<br>Theater:
- Debussy Theatre<br><a href="https://ticketonline1.festival-cannes.com/fich
+DESCRIPTION:Program: Un Certain Regard<br>Director: JUDITH GODRÈCHE<br>Theater:
+ Debussy Theatre<br><a href="https://ticketonline1.festival-cannes.com/fich
  e?idproj=02qtGGP9kQ8%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:6907e69b-3914-4539-949e-76124a98c490
-DTSTART:20250516T120000Z
-DTEND:20250516T134000Z
+UID:bb3c007f-1fdd-4fcf-934c-e9b708e0721c
+DTSTART:20260516T120000Z
+DTEND:20260516T134000Z
 SUMMARY:SIEMPRE SOY TU ANIMAL MATERNO (TON ANIMAL MATERNEL / FOREVER... - Debussy Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Un Certain Regard<br>Director: VALENTINA MAUREL<br>Theater:
- Debussy Theatre<br><a href="https://ticketonline1.festival-cannes.com/fich
+DESCRIPTION:Program: Un Certain Regard<br>Director: VALENTINA MAUREL<br>Theater:
+ Debussy Theatre<br><a href="https://ticketonline1.festival-cannes.com/fich
  e?idproj=l3VQrQN4p6U%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:39465c27-4705-4541-bc8c-2c0fc68afbc9
-DTSTART:20250516T120000Z
-DTEND:20250516T133500Z
+UID:c265efa5-f261-43e8-b0af-c63a7b469d9a
+DTSTART:20260516T120000Z
+DTEND:20260516T133500Z
 SUMMARY:QUELQUES MOTS D'AMOUR - Cineum Screen X
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: RUDI ROSENBERG<br>Theater: Cineum
- Screen X<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpro
+DESCRIPTION:Program: Un Certain Regard<br>Director: RUDI ROSENBERG<br>Theater: Cineum
+ Screen X<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpro
  j=2q3hIAKn7As%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:ce75a611-ee17-4c04-bc58-0cdada5997bd
-DTSTART:20250516T123000Z
-DTEND:20250516T143600Z
+UID:4b66ec7a-ec24-4365-90c5-439e8f295e8f
+DTSTART:20260516T123000Z
+DTEND:20260516T143600Z
 SUMMARY:CLUB KID - Cineum Salle 3
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: JORDAN FIRSTMAN<br>Theater: Cineum
- Salle 3<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Un Certain Regard<br>Director: JORDAN FIRSTMAN<br>Theater: Cineum
+ Salle 3<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =PBnkOKMKIGg%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:69569427-8732-41d1-b405-63443e5b281f
-DTSTART:20250516T140000Z
-DTEND:20250516T154800Z
+UID:a81b8718-9111-422c-af32-ca15561f4fa2
+DTSTART:20260516T140000Z
+DTEND:20260516T154800Z
 SUMMARY:EL DESHIELO (DÉGEL / THE MELTDOWN) - Cineum Screen X
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: MANUELA MARTELLI<br>Theater:
- Cineum Screen X<br><a href="https://ticketonline1.festival-cannes.com/fich
+DESCRIPTION:Program: Un Certain Regard<br>Director: MANUELA MARTELLI<br>Theater:
+ Cineum Screen X<br><a href="https://ticketonline1.festival-cannes.com/fich
  e?idproj=N85ELMS9RYw%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:1443b909-6fd5-40d7-a223-789ab2472d80
-DTSTART:20250516T151500Z
-DTEND:20250516T165000Z
+UID:f4ac98e6-2ace-452c-8b09-726f8d3b0d0f
+DTSTART:20260516T151500Z
+DTEND:20260516T165000Z
 SUMMARY:CONGO BOY - Agnès Varda Theatre
 LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
-DESCRIPTION:Program: Un Certain Regard<br>Director: RAFIKI FARIALA<br>Theater: Agnès
- Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+DESCRIPTION:Program: Un Certain Regard<br>Director: RAFIKI FARIALA<br>Theater: Agnès
+ Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?
  idproj=HqdbrAG5M4o%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:6392688e-503d-4d78-bc8d-88b477a4aff6
-DTSTART:20250516T151500Z
-DTEND:20250516T170700Z
+UID:88035322-e3f3-4bf2-8e5d-c744f94a0a38
+DTSTART:20260516T151500Z
+DTEND:20260516T170700Z
 SUMMARY:TEENAGE SEX AND DEATH AT CAMP MIASMA - Cineum Salle 3
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: JANE SCHOENBRUN<br>Theater: Cineum
- Salle 3<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Un Certain Regard<br>Director: JANE SCHOENBRUN<br>Theater: Cineum
+ Salle 3<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =IQsb5Q3sxsA%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:3b37eb8f-3641-4eb3-ae12-5d5265ce5134
-DTSTART:20250516T153000Z
-DTEND:20250516T170500Z
+UID:f935353b-1ac3-4023-ba7b-3b2ea51b8048
+DTSTART:20260516T153000Z
+DTEND:20260516T170500Z
 SUMMARY:CONGO BOY - Licorne
 LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: RAFIKI FARIALA<br>Theater:
- Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Un Certain Regard<br>Director: RAFIKI FARIALA<br>Theater:
+ Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =hby%2BnzG4fqM%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:e79d2c10-b529-428f-a878-7abf1d3f8a9b
-DTSTART:20250516T194500Z
-DTEND:20250516T215100Z
+UID:c2717da0-56fd-4b26-8d84-d4bcba15b7b6
+DTSTART:20260516T194500Z
+DTEND:20260516T215100Z
 SUMMARY:CLUB KID - Licorne
 LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: JORDAN FIRSTMAN<br>Theater:
- Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Un Certain Regard<br>Director: JORDAN FIRSTMAN<br>Theater:
+ Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =JQGFjErzD7A%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:96e45ec5-4447-4693-9485-0c5ce7017cc6
-DTSTART:20250517T063000Z
-DTEND:20250517T081000Z
+UID:6c7dc4fd-d224-4026-9e19-924dea5de52b
+DTSTART:20260517T063000Z
+DTEND:20260517T081000Z
 SUMMARY:SIEMPRE SOY TU ANIMAL MATERNO (TON ANIMAL MATERNEL / FOREVER... - Debussy Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Un Certain Regard<br>Director: VALENTINA MAUREL<br>Theater:
- Debussy Theatre<br><a href="https://ticketonline1.festival-cannes.com/fich
+DESCRIPTION:Program: Un Certain Regard<br>Director: VALENTINA MAUREL<br>Theater:
+ Debussy Theatre<br><a href="https://ticketonline1.festival-cannes.com/fich
  e?idproj=%2FOowgPUycOY%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:f9fbe203-4c93-408f-a4d8-e88674490961
-DTSTART:20250517T071500Z
-DTEND:20250517T091200Z
+UID:98abe86a-0029-40d6-a5ee-06ec96f642be
+DTSTART:20260517T071500Z
+DTEND:20260517T091200Z
 SUMMARY:MEMOIRE DE FILLE (A GIRL'S STORY) - Cineum Salle 3
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: JUDITH GODRÈCHE<br>Theater: Cineum
- Salle 3<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Un Certain Regard<br>Director: JUDITH GODRÈCHE<br>Theater: Cineum
+ Salle 3<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =oMJAfqQ7wdo%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:b36e1316-6dab-40f0-93ea-0200b5af3975
-DTSTART:20250517T083000Z
-DTEND:20250517T102700Z
+UID:bfd9925d-8916-4690-af45-75fb965c5b91
+DTSTART:20260517T083000Z
+DTEND:20260517T102700Z
 SUMMARY:MEMOIRE DE FILLE (A GIRL'S STORY) - Agnès Varda Theatre
 LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
-DESCRIPTION:Program: Un Certain Regard<br>Director: JUDITH GODRÈCHE<br>Theater: Agnès
- Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+DESCRIPTION:Program: Un Certain Regard<br>Director: JUDITH GODRÈCHE<br>Theater: Agnès
+ Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?
  idproj=49GOSajajPY%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:0eecb3f7-034e-4499-ab57-b6513c41e1a7
-DTSTART:20250517T090000Z
-DTEND:20250517T111900Z
+UID:972b16f6-b014-4ce6-a94f-5f78e937793f
+DTSTART:20260517T090000Z
+DTEND:20260517T111900Z
 SUMMARY:ALL THE LOVERS IN THE NIGHT (DE TOUTES LES NUITS\, LES AMANTS... - Debussy Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Un Certain Regard<br>Director: SODE YUKIKO<br>Theater: Debussy
- Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Un Certain Regard<br>Director: SODE YUKIKO<br>Theater: Debussy
+ Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =Id9c1dMW%2FuM%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:d0d62c17-3ac4-411c-a573-519407f12a4a
-DTSTART:20250517T093000Z
-DTEND:20250517T111000Z
+UID:a1ab0f33-bb84-4291-8a14-c32ff640579f
+DTSTART:20260517T093000Z
+DTEND:20260517T111000Z
 SUMMARY:SIEMPRE SOY TU ANIMAL MATERNO (TON ANIMAL MATERNEL / FOREVER... - Cineum Salle 3
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: VALENTINA MAUREL<br>Theater:
- Cineum Salle 3<br><a href="https://ticketonline1.festival-cannes.com/fiche
+DESCRIPTION:Program: Un Certain Regard<br>Director: VALENTINA MAUREL<br>Theater:
+ Cineum Salle 3<br><a href="https://ticketonline1.festival-cannes.com/fiche
  ?idproj=%2BActiFA%2B3GU%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:8f358ddf-e8dc-4e55-9756-7d7a8d14cdcd
-DTSTART:20250517T113000Z
-DTEND:20250517T130500Z
+UID:970aa714-54a2-43c1-8020-fefe3dcf6f6b
+DTSTART:20260517T113000Z
+DTEND:20260517T130500Z
 SUMMARY:CONGO BOY - Cineum Screen X
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: RAFIKI FARIALA<br>Theater: Cineum
- Screen X<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpro
+DESCRIPTION:Program: Un Certain Regard<br>Director: RAFIKI FARIALA<br>Theater: Cineum
+ Screen X<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpro
  j=Asxa2lv1VU4%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:cd635c28-ccbe-4e33-9d14-ea93d2b64bb8
-DTSTART:20250517T120000Z
-DTEND:20250517T140500Z
+UID:893de48c-c1ab-4bab-876d-3a43fe2325bb
+DTSTART:20260517T120000Z
+DTEND:20260517T140500Z
 SUMMARY:I'LL BE GONE IN JUNE - Debussy Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Un Certain Regard<br>Director: KATHARINA RIVILIS<br>Theater:
- Debussy Theatre<br><a href="https://ticketonline1.festival-cannes.com/fich
+DESCRIPTION:Program: Un Certain Regard<br>Director: KATHARINA RIVILIS<br>Theater:
+ Debussy Theatre<br><a href="https://ticketonline1.festival-cannes.com/fich
  e?idproj=H2yHx6zpYBo%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:20391246-d615-48fd-967e-e0d6dadb089b
-DTSTART:20250517T121500Z
-DTEND:20250517T135500Z
+UID:8a0e5973-8f48-4bdb-9c4b-6882851c65c0
+DTSTART:20260517T121500Z
+DTEND:20260517T135500Z
 SUMMARY:TON ANIMAL MATERNEL (SIEMPRE SOY TU ANIMAL MATERNO) - Licorne
 LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: VALENTINA MAUREL<br>Theater:
- Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Un Certain Regard<br>Director: VALENTINA MAUREL<br>Theater:
+ Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =Hcvt4nSXnyc%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:b4d2359f-e5bc-4250-8336-8cb13bbbbc37
-DTSTART:20250517T141500Z
-DTEND:20250517T162100Z
+UID:9baafacd-a99b-45ca-a2ac-5abc2653e353
+DTSTART:20260517T141500Z
+DTEND:20260517T162100Z
 SUMMARY:CLUB KID - Cineum Salle 3
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: JORDAN FIRSTMAN<br>Theater: Cineum
- Salle 3<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Un Certain Regard<br>Director: JORDAN FIRSTMAN<br>Theater: Cineum
+ Salle 3<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =JlIEfWb%2FTZU%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:0f1bbbd1-5ee7-4fb0-a6b9-4807956fca7c
-DTSTART:20250518T063000Z
-DTEND:20250518T083500Z
+UID:64a69568-cb18-4d8a-b719-48fcdaa7b401
+DTSTART:20260518T063000Z
+DTEND:20260518T083500Z
 SUMMARY:I'LL BE GONE IN JUNE - Debussy Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Un Certain Regard<br>Director: KATHARINA RIVILIS<br>Theater:
- Debussy Theatre<br><a href="https://ticketonline1.festival-cannes.com/fich
+DESCRIPTION:Program: Un Certain Regard<br>Director: KATHARINA RIVILIS<br>Theater:
+ Debussy Theatre<br><a href="https://ticketonline1.festival-cannes.com/fich
  e?idproj=OfLJ39f07gs%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:e24ba6dd-9c0a-4e6d-8c8d-4aa0958df473
-DTSTART:20250518T071500Z
-DTEND:20250518T091200Z
+UID:465118b7-7450-4c7d-b8c1-40d2d5dc0303
+DTSTART:20260518T071500Z
+DTEND:20260518T091200Z
 SUMMARY:MEMOIRE DE FILLE (A GIRL'S STORY) - Cineum Screen X
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: JUDITH GODRÈCHE<br>Theater: Cineum
- Screen X<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpro
+DESCRIPTION:Program: Un Certain Regard<br>Director: JUDITH GODRÈCHE<br>Theater: Cineum
+ Screen X<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpro
  j=8cHlTsGGhzE%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:e22b097f-0ec6-4906-b45d-dde183027f2e
-DTSTART:20250518T071500Z
-DTEND:20250518T093400Z
+UID:27a25e80-7410-46b1-997c-03acbf0506b7
+DTSTART:20260518T071500Z
+DTEND:20260518T093400Z
 SUMMARY:ALL THE LOVERS IN THE NIGHT (DE TOUTES LES NUITS\, LES AMANTS... - Cineum Salle 3
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: SODE YUKIKO<br>Theater: Cineum
- Salle 3<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Un Certain Regard<br>Director: SODE YUKIKO<br>Theater: Cineum
+ Salle 3<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =GtILZUQIhQU%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:e66cc9e8-8402-4739-9f92-969b0fa78e6e
-DTSTART:20250518T093000Z
-DTEND:20250518T113100Z
+UID:7e25d531-aa89-417c-bcdb-c7e03bebff7b
+DTSTART:20260518T093000Z
+DTEND:20260518T113100Z
 SUMMARY:EVERYTIME - Debussy Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Un Certain Regard<br>Director: SANDRA WOLLNER<br>Theater: Debussy
- Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Un Certain Regard<br>Director: SANDRA WOLLNER<br>Theater: Debussy
+ Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =yiW6wHFlEkc%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:40a7c661-7f0c-403b-a8ed-409ab8dbeaa5
-DTSTART:20250518T094500Z
-DTEND:20250518T112500Z
+UID:8a657b8b-308d-4b89-94f9-9f9c26ebd584
+DTSTART:20260518T094500Z
+DTEND:20260518T112500Z
 SUMMARY:SIEMPRE SOY TU ANIMAL MATERNO (TON ANIMAL MATERNEL / FOREVER... - Cineum Screen X
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: VALENTINA MAUREL<br>Theater:
- Cineum Screen X<br><a href="https://ticketonline1.festival-cannes.com/fich
+DESCRIPTION:Program: Un Certain Regard<br>Director: VALENTINA MAUREL<br>Theater:
+ Cineum Screen X<br><a href="https://ticketonline1.festival-cannes.com/fich
  e?idproj=ErQ1cXnWD4Y%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:9534e2f1-e117-4bb1-a478-8a65e32b1e12
-DTSTART:20250518T100000Z
-DTEND:20250518T120500Z
+UID:a8196fc8-b916-4a71-93e0-e8f4db45f765
+DTSTART:20260518T100000Z
+DTEND:20260518T120500Z
 SUMMARY:I'LL BE GONE IN JUNE - Cineum Salle 3
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: KATHARINA RIVILIS<br>Theater:
- Cineum Salle 3<br><a href="https://ticketonline1.festival-cannes.com/fiche
+DESCRIPTION:Program: Un Certain Regard<br>Director: KATHARINA RIVILIS<br>Theater:
+ Cineum Salle 3<br><a href="https://ticketonline1.festival-cannes.com/fiche
  ?idproj=5g3TVvDW9UU%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:71a1ff5d-969d-41bd-981c-418976b28340
-DTSTART:20250518T120000Z
-DTEND:20250518T141900Z
+UID:149aaabb-f355-4ae7-b5be-9db8913fda14
+DTSTART:20260518T120000Z
+DTEND:20260518T141900Z
 SUMMARY:ALL THE LOVERS IN THE NIGHT (DE TOUTES LES NUITS\, LES AMANTS... - Bazin Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Un Certain Regard<br>Director: SODE YUKIKO<br>Theater: Bazin
- Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Un Certain Regard<br>Director: SODE YUKIKO<br>Theater: Bazin
+ Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =RGeHLQq5Cdc%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:b3aa82a9-0cd8-472b-8a75-7aea4ed42fca
-DTSTART:20250518T123000Z
-DTEND:20250518T141100Z
+UID:2a449b06-6954-4eaa-93fc-4cf68632ae19
+DTSTART:20260518T123000Z
+DTEND:20260518T141100Z
 SUMMARY:LA MÁS DULCE (STRAWBERRIES) - Debussy Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Un Certain Regard<br>Director: LAÏLA MARRAKCHI<br>Theater:
- Debussy Theatre<br><a href="https://ticketonline1.festival-cannes.com/fich
+DESCRIPTION:Program: Un Certain Regard<br>Director: LAÏLA MARRAKCHI<br>Theater:
+ Debussy Theatre<br><a href="https://ticketonline1.festival-cannes.com/fich
  e?idproj=2Kj90fiqs9w%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:dbf022dc-cdae-4524-bf99-0ce6ff2e855c
-DTSTART:20250518T183000Z
-DTEND:20250518T204900Z
+UID:4a884b80-9bca-410d-8ffe-4df8c3d8c7a0
+DTSTART:20260518T183000Z
+DTEND:20260518T204900Z
 SUMMARY:DE TOUTES LES NUITS\, LES AMANTS (SUBETE MAYONAKA NO KOIBITOT... - Licorne
 LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: SODE YUKIKO<br>Theater:
- Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Un Certain Regard<br>Director: SODE YUKIKO<br>Theater:
+ Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =UPE7zzo3ZTA%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:a080a71d-4791-46b5-8244-b1d32fa520f1
-DTSTART:20250519T063000Z
-DTEND:20250519T081100Z
+UID:fd1a2dbf-d67a-4683-9165-bdb8bb47a7ed
+DTSTART:20260519T063000Z
+DTEND:20260519T081100Z
 SUMMARY:LA MÁS DULCE (STRAWBERRIES) - Debussy Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Un Certain Regard<br>Director: LAÏLA MARRAKCHI<br>Theater:
- Debussy Theatre<br><a href="https://ticketonline1.festival-cannes.com/fich
+DESCRIPTION:Program: Un Certain Regard<br>Director: LAÏLA MARRAKCHI<br>Theater:
+ Debussy Theatre<br><a href="https://ticketonline1.festival-cannes.com/fich
  e?idproj=3LG6yv5SARg%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:58c1ee87-b038-4832-932e-3222f78713ca
-DTSTART:20250519T071500Z
-DTEND:20250519T093400Z
+UID:8867a6c0-28e8-41ac-97df-b8940d5ec22f
+DTSTART:20260519T071500Z
+DTEND:20260519T093400Z
 SUMMARY:ALL THE LOVERS IN THE NIGHT (DE TOUTES LES NUITS\, LES AMANTS... - Cineum Screen X
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: SODE YUKIKO<br>Theater: Cineum
- Screen X<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpro
+DESCRIPTION:Program: Un Certain Regard<br>Director: SODE YUKIKO<br>Theater: Cineum
+ Screen X<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpro
  j=C%2F5STvAPQ8k%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:c380cbdd-2c86-433a-9cfa-9b599f38cad5
-DTSTART:20250519T090000Z
-DTEND:20250519T104100Z
+UID:d2a1a160-3d86-478c-922d-655d39e5f6bd
+DTSTART:20260519T090000Z
+DTEND:20260519T104100Z
 SUMMARY:BEN'IMANA - Debussy Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Un Certain Regard<br>Director: MARIE-CLÉMENTINE
- DUSABEJAMBO<br>Theater: Debussy Theatre<br><a href="https://ticketonline1.
+DESCRIPTION:Program: Un Certain Regard<br>Director: MARIE-CLÉMENTINE
+ DUSABEJAMBO<br>Theater: Debussy Theatre<br><a href="https://ticketonline1.
  festival-cannes.com/fiche?idproj=EQDsnvNGHPs%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:6c012eab-dee1-4d20-888f-db1354be5b57
-DTSTART:20250519T111500Z
-DTEND:20250519T131600Z
+UID:b3f56f3e-54de-435b-9e0b-e8b688092c3c
+DTSTART:20260519T111500Z
+DTEND:20260519T131600Z
 SUMMARY:EVERYTIME - Cineum Salle 3
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: SANDRA WOLLNER<br>Theater: Cineum
- Salle 3<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Un Certain Regard<br>Director: SANDRA WOLLNER<br>Theater: Cineum
+ Salle 3<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =VJ29BU6h0TQ%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:949634f1-8751-46a8-b290-c77eb5ac07d2
-DTSTART:20250519T120000Z
-DTEND:20250519T132900Z
+UID:091f5653-6dda-4069-9428-9b1aab342921
+DTSTART:20260519T120000Z
+DTEND:20260519T132900Z
 SUMMARY:LE CORSET (IRON BOY) - Debussy Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Un Certain Regard<br>Director: LOUIS CLICHY<br>Theater: Debussy
- Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Un Certain Regard<br>Director: LOUIS CLICHY<br>Theater: Debussy
+ Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =V%2BC53Tqfzi4%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:ac0bc631-cf05-4c81-a2a8-9ce3874a7048
-DTSTART:20250519T121500Z
-DTEND:20250519T142000Z
+UID:7cd3f989-50a8-4f32-8646-67cc310b0fbb
+DTSTART:20260519T121500Z
+DTEND:20260519T142000Z
 SUMMARY:I'LL BE GONE IN JUNE - Cineum Screen X
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: KATHARINA RIVILIS<br>Theater:
- Cineum Screen X<br><a href="https://ticketonline1.festival-cannes.com/fich
+DESCRIPTION:Program: Un Certain Regard<br>Director: KATHARINA RIVILIS<br>Theater:
+ Cineum Screen X<br><a href="https://ticketonline1.festival-cannes.com/fich
  e?idproj=7Xilkszo5wk%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:22f5b79e-f9b3-4d49-8900-d37a8798c53c
-DTSTART:20250519T134500Z
-DTEND:20250519T152600Z
+UID:7d1a3ab9-d038-44dd-956b-243004790d9e
+DTSTART:20260519T134500Z
+DTEND:20260519T152600Z
 SUMMARY:LA MÁS DULCE (STRAWBERRIES) - Cineum Salle 3
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: LAÏLA MARRAKCHI<br>Theater: Cineum
- Salle 3<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Un Certain Regard<br>Director: LAÏLA MARRAKCHI<br>Theater: Cineum
+ Salle 3<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =6HpqMzmrTAI%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:5cb8a197-0c37-4a51-a132-6e9548fd34ea
-DTSTART:20250519T151500Z
-DTEND:20250519T171600Z
+UID:f4f62349-7a02-4e5d-8f8a-63e0e725c10e
+DTSTART:20260519T151500Z
+DTEND:20260519T171600Z
 SUMMARY:EVERYTIME - Licorne
 LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: SANDRA WOLLNER<br>Theater:
- Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Un Certain Regard<br>Director: SANDRA WOLLNER<br>Theater:
+ Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =oRkxe6Kv9oQ%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:4cab8d87-1253-41ae-afc3-21bbd7592670
-DTSTART:20250519T174500Z
-DTEND:20250519T192600Z
+UID:cb789f53-959b-452e-8d5b-25c3e50223c7
+DTSTART:20260519T174500Z
+DTEND:20260519T192600Z
 SUMMARY:LA MÁS DULCE - Licorne
 LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: LAÏLA MARRAKCHI<br>Theater:
- Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Un Certain Regard<br>Director: LAÏLA MARRAKCHI<br>Theater:
+ Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =A7Yx1Lrrn0I%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:d0f0c156-55b0-4345-b38c-a6864276ffa2
-DTSTART:20250519T183000Z
-DTEND:20250519T203100Z
+UID:add5b811-9f6b-4ff5-b706-a1cfb2d23461
+DTSTART:20260519T183000Z
+DTEND:20260519T203100Z
 SUMMARY:EVERYTIME - Bazin Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Un Certain Regard<br>Director: SANDRA WOLLNER<br>Theater: Bazin
- Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Un Certain Regard<br>Director: SANDRA WOLLNER<br>Theater: Bazin
+ Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =ZD5DseHPiw0%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:0582a6e1-ac73-4181-9d36-815962e01f05
-DTSTART:20250520T063000Z
-DTEND:20250520T075900Z
+UID:f7e584cc-cba1-46d9-9197-0945ff20ac2a
+DTSTART:20260520T063000Z
+DTEND:20260520T075900Z
 SUMMARY:LE CORSET (IRON BOY) - Debussy Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Un Certain Regard<br>Director: LOUIS CLICHY<br>Theater: Debussy
- Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Un Certain Regard<br>Director: LOUIS CLICHY<br>Theater: Debussy
+ Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =SguyQXeFH%2BM%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:c130cf6d-40bd-41ed-904b-e34e4c0a63d5
-DTSTART:20250520T071500Z
-DTEND:20250520T091600Z
+UID:d0105579-e3a6-42fa-87a6-a17b15e6766b
+DTSTART:20260520T071500Z
+DTEND:20260520T091600Z
 SUMMARY:EVERYTIME - Cineum Screen X
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: SANDRA WOLLNER<br>Theater: Cineum
- Screen X<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpro
+DESCRIPTION:Program: Un Certain Regard<br>Director: SANDRA WOLLNER<br>Theater: Cineum
+ Screen X<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpro
  j=DUIALIL6%2Fzo%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:a8fadeba-09d0-473f-98ac-04fb1ff1e260
-DTSTART:20250520T071500Z
-DTEND:20250520T085600Z
+UID:495f3d46-aa5c-4767-955b-f002a79b5030
+DTSTART:20260520T071500Z
+DTEND:20260520T085600Z
 SUMMARY:BEN'IMANA - Cineum Salle 3
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: MARIE-CLÉMENTINE
- DUSABEJAMBO<br>Theater: Cineum Salle 3<br><a href="https://ticketonline1.f
+DESCRIPTION:Program: Un Certain Regard<br>Director: MARIE-CLÉMENTINE
+ DUSABEJAMBO<br>Theater: Cineum Salle 3<br><a href="https://ticketonline1.f
  estival-cannes.com/fiche?idproj=gL5P7HjK9eo%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:81d1cdea-5b54-489f-9391-5623db803c03
-DTSTART:20250520T090000Z
-DTEND:20250520T104300Z
+UID:1c3517b8-6294-4e12-a1e7-84a0826f44d9
+DTSTART:20260520T090000Z
+DTEND:20260520T104300Z
 SUMMARY:ELEPHANTS IN THE FOG (LES ELEPHANTS DANS LA BRUME) - Debussy Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Un Certain Regard<br>Director: ABINASH BIKRAM SHAH<br>Theater:
- Debussy Theatre<br><a href="https://ticketonline1.festival-cannes.com/fich
+DESCRIPTION:Program: Un Certain Regard<br>Director: ABINASH BIKRAM SHAH<br>Theater:
+ Debussy Theatre<br><a href="https://ticketonline1.festival-cannes.com/fich
  e?idproj=dJJRM3TD%2Fxw%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:3bcc0629-bb47-420d-8dc2-17fc1e3beac6
-DTSTART:20250520T093000Z
-DTEND:20250520T105900Z
+UID:4684a267-2675-4c16-8cbe-35d2945d481e
+DTSTART:20260520T093000Z
+DTEND:20260520T105900Z
 SUMMARY:LE CORSET (IRON BOY) - Cineum Salle 3
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: LOUIS CLICHY<br>Theater: Cineum
- Salle 3<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Un Certain Regard<br>Director: LOUIS CLICHY<br>Theater: Cineum
+ Salle 3<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =adSz4rEoFWE%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:157e437f-d4df-423e-8745-75f7066b7dc9
-DTSTART:20250520T095000Z
-DTEND:20250520T113100Z
+UID:bbf61e68-2721-429f-9b03-e925e138650a
+DTSTART:20260520T095000Z
+DTEND:20260520T113100Z
 SUMMARY:LA MÁS DULCE (STRAWBERRIES) - Cineum Screen X
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: LAÏLA MARRAKCHI<br>Theater: Cineum
- Screen X<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpro
+DESCRIPTION:Program: Un Certain Regard<br>Director: LAÏLA MARRAKCHI<br>Theater: Cineum
+ Screen X<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpro
  j=W1%2Fa9n4caYI%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:f6ca95bd-0a6b-42e0-83f4-a1c789db1c01
-DTSTART:20250520T120000Z
-DTEND:20250520T134000Z
+UID:eabe2e5d-f386-4b1f-bd15-196e6d9b4d84
+DTSTART:20260520T120000Z
+DTEND:20260520T134000Z
 SUMMARY:YESTERDAY THE EYE DIDN'T SLEEP - Debussy Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Un Certain Regard<br>Director: RAKAN MAYASI<br>Theater: Debussy
- Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Un Certain Regard<br>Director: RAKAN MAYASI<br>Theater: Debussy
+ Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =aoT3WLssQtQ%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:83a23b8c-d5db-43be-b7b5-cc673ccdd579
-DTSTART:20250520T143000Z
-DTEND:20250520T164000Z
+UID:a10fd83e-44ac-42ac-9090-d0d7e36b8f2a
+DTSTART:20260520T143000Z
+DTEND:20260520T164000Z
 SUMMARY:TITANIC OCEAN - Debussy Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Un Certain Regard<br>Director: KONSTANTINA KOTZAMANI<br>Theater:
- Debussy Theatre<br><a href="https://ticketonline1.festival-cannes.com/fich
+DESCRIPTION:Program: Un Certain Regard<br>Director: KONSTANTINA KOTZAMANI<br>Theater:
+ Debussy Theatre<br><a href="https://ticketonline1.festival-cannes.com/fich
  e?idproj=qYpLbGJzZ7Y%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:f79c1f82-725d-41de-94e2-47cb26ec2406
-DTSTART:20250520T144500Z
-DTEND:20250520T162600Z
+UID:ab19c08a-1507-4ce1-b63e-8712f55bdf85
+DTSTART:20260520T144500Z
+DTEND:20260520T162600Z
 SUMMARY:BEN'IMANA - Licorne
 LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: MARIE-CLÉMENTINE
- DUSABEJAMBO<br>Theater: Licorne<br><a href="https://ticketonline1.festival
+DESCRIPTION:Program: Un Certain Regard<br>Director: MARIE-CLÉMENTINE
+ DUSABEJAMBO<br>Theater: Licorne<br><a href="https://ticketonline1.festival
  -cannes.com/fiche?idproj=EP7sxJJAlVs%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:d53c52bd-e555-4fca-89ba-039a08000ee8
-DTSTART:20250520T164500Z
-DTEND:20250520T182600Z
+UID:ea55c957-8efe-49ca-94e4-4b9875cd539b
+DTSTART:20260520T164500Z
+DTEND:20260520T182600Z
 SUMMARY:BEN'IMANA - Bazin Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Un Certain Regard<br>Director: MARIE-CLÉMENTINE
- DUSABEJAMBO<br>Theater: Bazin Theatre<br><a href="https://ticketonline1.fe
+DESCRIPTION:Program: Un Certain Regard<br>Director: MARIE-CLÉMENTINE
+ DUSABEJAMBO<br>Theater: Bazin Theatre<br><a href="https://ticketonline1.fe
  stival-cannes.com/fiche?idproj=tvoM45OF33o%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:8cee28f8-b573-4456-9b0f-d5a39511cf5b
-DTSTART:20250520T170000Z
-DTEND:20250520T182900Z
+UID:e08ef11b-4f66-48e9-b7da-136b4cf3afde
+DTSTART:20260520T170000Z
+DTEND:20260520T182900Z
 SUMMARY:LE CORSET - Licorne
 LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: LOUIS CLICHY<br>Theater:
- Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Un Certain Regard<br>Director: LOUIS CLICHY<br>Theater:
+ Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =%2BavKOVRH37A%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:dd146a8c-5dc3-4e76-9f6a-054c3b2ca52d
-DTSTART:20250521T063000Z
-DTEND:20250521T081000Z
+UID:e94d6ef4-2a55-4a7c-9867-b3ddf3336277
+DTSTART:20260521T063000Z
+DTEND:20260521T081000Z
 SUMMARY:YESTERDAY THE EYE DIDN'T SLEEP - Debussy Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Un Certain Regard<br>Director: RAKAN MAYASI<br>Theater: Debussy
- Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Un Certain Regard<br>Director: RAKAN MAYASI<br>Theater: Debussy
+ Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =yDXhcQBnbuc%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:ce60dc1c-13ce-46f9-b4e7-80ed075c8fc7
-DTSTART:20250521T071500Z
-DTEND:20250521T085600Z
+UID:afcef1e4-b724-4dc2-a7f9-6b2b46888a54
+DTSTART:20260521T071500Z
+DTEND:20260521T085600Z
 SUMMARY:BEN'IMANA - Cineum Screen X
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: MARIE-CLÉMENTINE
- DUSABEJAMBO<br>Theater: Cineum Screen X<br><a href="https://ticketonline1.
+DESCRIPTION:Program: Un Certain Regard<br>Director: MARIE-CLÉMENTINE
+ DUSABEJAMBO<br>Theater: Cineum Screen X<br><a href="https://ticketonline1.
  festival-cannes.com/fiche?idproj=4zXBDEQ2kPM%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:b5c0701d-cdd9-4320-9aff-7d1290155cc4
-DTSTART:20250521T090000Z
-DTEND:20250521T104200Z
+UID:45ed7afd-83c9-4860-bc69-45fcd58faab6
+DTSTART:20260521T090000Z
+DTEND:20260521T104200Z
 SUMMARY:UĻA (ULYA) - Debussy Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Un Certain Regard<br>Director: VIESTURS KAIRIŠS<br>Theater:
- Debussy Theatre<br><a href="https://ticketonline1.festival-cannes.com/fich
+DESCRIPTION:Program: Un Certain Regard<br>Director: VIESTURS KAIRIŠS<br>Theater:
+ Debussy Theatre<br><a href="https://ticketonline1.festival-cannes.com/fich
  e?idproj=8GQpvoHc7wk%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:98bca347-4bc3-4bf5-8908-c8dd3b987202
-DTSTART:20250521T093000Z
-DTEND:20250521T105900Z
+UID:64972664-bfdf-4834-83e6-36c35cfa6f6f
+DTSTART:20260521T093000Z
+DTEND:20260521T105900Z
 SUMMARY:LE CORSET (IRON BOY) - Cineum Screen X
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: LOUIS CLICHY<br>Theater: Cineum
- Screen X<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpro
+DESCRIPTION:Program: Un Certain Regard<br>Director: LOUIS CLICHY<br>Theater: Cineum
+ Screen X<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpro
  j=jzxavD%2FnB4M%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:731b4c78-2e1a-402d-9b46-d1ce5c3b09f8
-DTSTART:20250521T094500Z
-DTEND:20250521T112800Z
+UID:2ec3d56f-63a5-4d46-8d5d-63d0d5ebc4eb
+DTSTART:20260521T094500Z
+DTEND:20260521T112800Z
 SUMMARY:ELEPHANTS IN THE FOG (LES ELEPHANTS DANS LA BRUME) - Cineum Salle 3
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: ABINASH BIKRAM SHAH<br>Theater:
- Cineum Salle 3<br><a href="https://ticketonline1.festival-cannes.com/fiche
+DESCRIPTION:Program: Un Certain Regard<br>Director: ABINASH BIKRAM SHAH<br>Theater:
+ Cineum Salle 3<br><a href="https://ticketonline1.festival-cannes.com/fiche
  ?idproj=g%2FZ2YpzSwMo%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:d190c1d3-ac7d-4802-8d01-5cd0d33e55e1
-DTSTART:20250521T120000Z
-DTEND:20250521T133000Z
+UID:32d6f186-6158-46b9-9045-9d2fdf9f2ca0
+DTSTART:20260521T120000Z
+DTEND:20260521T133000Z
 SUMMARY:VICTORIAN PSYCHO - Debussy Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Un Certain Regard<br>Director: ZACHARY WIGON<br>Theater: Debussy
- Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Un Certain Regard<br>Director: ZACHARY WIGON<br>Theater: Debussy
+ Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =ZmZAOxfLqjg%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:6c923fd9-5113-4279-98fc-c490a92802e6
-DTSTART:20250521T121500Z
-DTEND:20250521T135500Z
+UID:a0f6ce87-269b-4fce-a9f9-4a868e9c3f59
+DTSTART:20260521T121500Z
+DTEND:20260521T135500Z
 SUMMARY:YESTERDAY THE EYE DIDN'T SLEEP - Cineum Salle 3
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: RAKAN MAYASI<br>Theater: Cineum
- Salle 3<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Un Certain Regard<br>Director: RAKAN MAYASI<br>Theater: Cineum
+ Salle 3<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =OtzvOKGvd4M%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:05d863da-e468-4cfd-99ff-c2798d87ba9d
-DTSTART:20250521T123000Z
-DTEND:20250521T144000Z
+UID:58e9cfb6-82ce-4a99-a02a-6b9c6e7bbe05
+DTSTART:20260521T123000Z
+DTEND:20260521T144000Z
 SUMMARY:TITANIC OCEAN - Bazin Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Un Certain Regard<br>Director: KONSTANTINA KOTZAMANI<br>Theater:
- Bazin Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+DESCRIPTION:Program: Un Certain Regard<br>Director: KONSTANTINA KOTZAMANI<br>Theater:
+ Bazin Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?
  idproj=O9znKSl4upI%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:867ee21f-2dd8-400d-8874-8b6b0effb87d
-DTSTART:20250521T140000Z
-DTEND:20250521T161000Z
+UID:98dbd5ba-33d9-43d4-8470-4069125d36e7
+DTSTART:20260521T140000Z
+DTEND:20260521T161000Z
 SUMMARY:TITANIC OCEAN - Cineum Screen X
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: KONSTANTINA KOTZAMANI<br>Theater:
- Cineum Screen X<br><a href="https://ticketonline1.festival-cannes.com/fich
+DESCRIPTION:Program: Un Certain Regard<br>Director: KONSTANTINA KOTZAMANI<br>Theater:
+ Cineum Screen X<br><a href="https://ticketonline1.festival-cannes.com/fich
  e?idproj=6LBOoYKaIbM%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:a1b88b22-02c2-4da5-8f59-2c73106d4d4a
-DTSTART:20250521T144500Z
-DTEND:20250521T162800Z
+UID:ee8e462f-2d00-4cba-9ea2-aeb189d399da
+DTSTART:20260521T144500Z
+DTEND:20260521T162800Z
 SUMMARY:LES ELEPHANTS DANS LA BRUME (ELEPHANTS IN THE FOG) - Licorne
 LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: ABINASH BIKRAM SHAH<br>Theater:
- Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Un Certain Regard<br>Director: ABINASH BIKRAM SHAH<br>Theater:
+ Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =nBlJcPtMQY8%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:5aa74e1a-98b2-4a02-ad53-03803c340f0a
-DTSTART:20250521T170000Z
-DTEND:20250521T184000Z
+UID:5443353a-aa70-472d-bc8b-1cd45537a1c1
+DTSTART:20260521T170000Z
+DTEND:20260521T184000Z
 SUMMARY:UNE DISPARITION (YESTERDAY THE EYE DIDN'T SLEEP) - Licorne
 LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: RAKAN MAYASI<br>Theater:
- Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Un Certain Regard<br>Director: RAKAN MAYASI<br>Theater:
+ Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =GRVs326FElQ%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:cfd38b0d-e9f4-4c9a-b0f6-a85f402ab136
-DTSTART:20250521T181500Z
-DTEND:20250521T195800Z
+UID:01b7edf1-6c2f-40cf-a8b5-8baa35348ff9
+DTSTART:20260521T181500Z
+DTEND:20260521T195800Z
 SUMMARY:ELEPHANTS IN THE FOG (LES ELEPHANTS DANS LA BRUME) - Bazin Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Un Certain Regard<br>Director: ABINASH BIKRAM SHAH<br>Theater:
- Bazin Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+DESCRIPTION:Program: Un Certain Regard<br>Director: ABINASH BIKRAM SHAH<br>Theater:
+ Bazin Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?
  idproj=SwMlvSQ885c%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:5863a3c5-3efb-4196-b41d-29c459dca853
-DTSTART:20250521T191500Z
-DTEND:20250521T212500Z
+UID:f8dd4eae-8e27-4fbe-9aad-e492ca15dbee
+DTSTART:20260521T191500Z
+DTEND:20260521T212500Z
 SUMMARY:TITANIC OCEAN - Licorne
 LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: KONSTANTINA KOTZAMANI<br>Theater:
- Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Un Certain Regard<br>Director: KONSTANTINA KOTZAMANI<br>Theater:
+ Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =Sq38mgMFPzQ%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:9d786fe7-30f0-4168-8a7f-8a34167177a4
-DTSTART:20250522T063000Z
-DTEND:20250522T080000Z
+UID:0d15834a-060c-4a96-89b9-13dde97300bb
+DTSTART:20260522T063000Z
+DTEND:20260522T080000Z
 SUMMARY:VICTORIAN PSYCHO - Debussy Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Un Certain Regard<br>Director: ZACHARY WIGON<br>Theater: Debussy
- Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Un Certain Regard<br>Director: ZACHARY WIGON<br>Theater: Debussy
+ Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =GyJCaIMlMh0%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:e1b1b367-d8dd-4cd2-b435-7dd26f8b6051
-DTSTART:20250522T071500Z
-DTEND:20250522T085700Z
+UID:1f2ae623-8928-482d-94a5-175ac67ab86b
+DTSTART:20260522T071500Z
+DTEND:20260522T085700Z
 SUMMARY:UĻA (ULYA) - Cineum Salle 3
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: VIESTURS KAIRIŠS<br>Theater:
- Cineum Salle 3<br><a href="https://ticketonline1.festival-cannes.com/fiche
+DESCRIPTION:Program: Un Certain Regard<br>Director: VIESTURS KAIRIŠS<br>Theater:
+ Cineum Salle 3<br><a href="https://ticketonline1.festival-cannes.com/fiche
  ?idproj=g67FVaK234E%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:8fbc45ec-f5c9-4ae0-a6d5-e89f2d53964f
-DTSTART:20250522T071500Z
-DTEND:20250522T085800Z
+UID:5e69d5e1-05f9-425d-9c56-0373f72a4430
+DTSTART:20260522T071500Z
+DTEND:20260522T085800Z
 SUMMARY:ELEPHANTS IN THE FOG (LES ELEPHANTS DANS LA BRUME) - Cineum Screen X
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: ABINASH BIKRAM SHAH<br>Theater:
- Cineum Screen X<br><a href="https://ticketonline1.festival-cannes.com/fich
+DESCRIPTION:Program: Un Certain Regard<br>Director: ABINASH BIKRAM SHAH<br>Theater:
+ Cineum Screen X<br><a href="https://ticketonline1.festival-cannes.com/fich
  e?idproj=1ZPmK5Rb600%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:c4d0f0ca-2292-43f8-a690-aa9b03ded0ad
-DTSTART:20250522T093000Z
-DTEND:20250522T110000Z
+UID:ceef7dae-1f23-4524-a497-f2dc71e3283f
+DTSTART:20260522T093000Z
+DTEND:20260522T110000Z
 SUMMARY:VICTORIAN PSYCHO - Cineum Salle 3
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: ZACHARY WIGON<br>Theater: Cineum
- Salle 3<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Un Certain Regard<br>Director: ZACHARY WIGON<br>Theater: Cineum
+ Salle 3<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =hwlBzd8lySE%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:55b56103-47ee-477a-93f6-cff6b1819311
-DTSTART:20250522T094500Z
-DTEND:20250522T112500Z
+UID:03fa4214-d302-4a7b-88bf-25b87511bea1
+DTSTART:20260522T094500Z
+DTEND:20260522T112500Z
 SUMMARY:YESTERDAY THE EYE DIDN'T SLEEP - Cineum Screen X
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: RAKAN MAYASI<br>Theater: Cineum
- Screen X<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpro
+DESCRIPTION:Program: Un Certain Regard<br>Director: RAKAN MAYASI<br>Theater: Cineum
+ Screen X<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpro
  j=PJspfEv7Beg%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:c67daf1e-f8a5-47c6-a278-aa1e57204b3b
-DTSTART:20250522T120000Z
-DTEND:20250522T141000Z
+UID:e9d7208f-6bb8-489d-8700-c9ec62689365
+DTSTART:20260522T120000Z
+DTEND:20260522T141000Z
 SUMMARY:TITANIC OCEAN - Cineum Screen X
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: KONSTANTINA KOTZAMANI<br>Theater:
- Cineum Screen X<br><a href="https://ticketonline1.festival-cannes.com/fich
+DESCRIPTION:Program: Un Certain Regard<br>Director: KONSTANTINA KOTZAMANI<br>Theater:
+ Cineum Screen X<br><a href="https://ticketonline1.festival-cannes.com/fich
  e?idproj=%2FT8wiESz0Us%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:f66ccece-3452-4818-99f0-ceddebe76388
-DTSTART:20250522T121500Z
-DTEND:20250522T135700Z
+UID:b08bee5b-74bb-48c2-af38-d2d6013b2420
+DTSTART:20260522T121500Z
+DTEND:20260522T135700Z
 SUMMARY:ULYA - Licorne
 LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: VIESTURS KAIRIŠS<br>Theater:
- Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Un Certain Regard<br>Director: VIESTURS KAIRIŠS<br>Theater:
+ Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =dCe34DmtgQY%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:0045ec6a-e59e-4fde-a17c-761b6b95744d
-DTSTART:20250522T144500Z
-DTEND:20250522T162700Z
+UID:b8e75ce6-d4eb-4e46-9481-74faa71cffd7
+DTSTART:20260522T144500Z
+DTEND:20260522T162700Z
 SUMMARY:UĻA (ULYA) - Agnès Varda Theatre
 LOCATION:esplanade Georges Pompidou\, 06400 Cannes\, France
-DESCRIPTION:Program: Un Certain Regard<br>Director: VIESTURS KAIRIŠS<br>Theater: Agnès
- Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?
+DESCRIPTION:Program: Un Certain Regard<br>Director: VIESTURS KAIRIŠS<br>Theater: Agnès
+ Varda Theatre<br><a href="https://ticketonline1.festival-cannes.com/fiche?
  idproj=mgCmIC8xJrk%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:4a9fd5d8-e383-4afc-af8d-4e9598a3817e
-DTSTART:20250522T181500Z
-DTEND:20250522T211200Z
+UID:06810424-c2d2-4625-971d-bf90cd7a4c80
+DTSTART:20260522T181500Z
+DTEND:20260522T211200Z
 SUMMARY:CLÔTURE UN CERTAIN REGARD - ULYSSE - Debussy Theatre
 LOCATION:1 Bd de la Croisette\, 06400 Cannes\, France
-DESCRIPTION:Program: Un Certain Regard<br>Director: LAETITIA MASSON<br>Theater:
- Debussy Theatre<br><a href="https://ticketonline1.festival-cannes.com/fich
+DESCRIPTION:Program: Un Certain Regard<br>Director: LAETITIA MASSON<br>Theater:
+ Debussy Theatre<br><a href="https://ticketonline1.festival-cannes.com/fich
  e?idproj=y9Qa4QC%2FUqA%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:577c0211-e640-487c-a102-1e6c9114977d
-DTSTART:20250523T071500Z
-DTEND:20250523T085700Z
+UID:5a7fd590-eba9-4d1f-9e26-8374f7099967
+DTSTART:20260523T071500Z
+DTEND:20260523T085700Z
 SUMMARY:UĻA (ULYA) - Cineum Screen X
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: VIESTURS KAIRIŠS<br>Theater:
- Cineum Screen X<br><a href="https://ticketonline1.festival-cannes.com/fich
+DESCRIPTION:Program: Un Certain Regard<br>Director: VIESTURS KAIRIŠS<br>Theater:
+ Cineum Screen X<br><a href="https://ticketonline1.festival-cannes.com/fich
  e?idproj=A3ruLd3z%2F84%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:bb5eaf75-1ccf-432b-ba37-b33e65ff7f71
-DTSTART:20250523T093000Z
-DTEND:20250523T110700Z
+UID:56784c7b-d7ab-4ab3-bf22-64e3e920083d
+DTSTART:20260523T093000Z
+DTEND:20260523T110700Z
 SUMMARY:ULYSSE - Licorne
 LOCATION:25 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: LAETITIA MASSON<br>Theater:
- Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
+DESCRIPTION:Program: Un Certain Regard<br>Director: LAETITIA MASSON<br>Theater:
+ Licorne<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj
  =i4LAL6PAZSg%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:a9490f11-ebaa-44f7-aba6-14e710e18e9f
-DTSTART:20250523T093000Z
-DTEND:20250523T110000Z
+UID:6f5749d0-264d-4b37-ae63-aa8825a396a7
+DTSTART:20260523T093000Z
+DTEND:20260523T110000Z
 SUMMARY:VICTORIAN PSYCHO - Cineum Screen X
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: ZACHARY WIGON<br>Theater: Cineum
- Screen X<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpro
+DESCRIPTION:Program: Un Certain Regard<br>Director: ZACHARY WIGON<br>Theater: Cineum
+ Screen X<br><a href="https://ticketonline1.festival-cannes.com/fiche?idpro
  j=hBiC%2BefSreM%3D">Event link</a>
 END:VEVENT
-
+
 BEGIN:VEVENT
-UID:5910bec4-5f86-4374-906b-505d20ff08e8
-DTSTART:20250523T124500Z
-DTEND:20250523T142200Z
+UID:4847ab81-455f-48fa-9c90-170040394b80
+DTSTART:20260523T124500Z
+DTEND:20260523T142200Z
 SUMMARY:ULYSSE - Cineum Aurore
 LOCATION:212 avenue Francis Tonner 06150 Cannes La Bocca
-DESCRIPTION:Program: Un Certain Regard<br>Director: LAETITIA MASSON<br>Theater: Cineum
- Aurore<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=
+DESCRIPTION:Program: Un Certain Regard<br>Director: LAETITIA MASSON<br>Theater: Cineum
+ Aurore<br><a href="https://ticketonline1.festival-cannes.com/fiche?idproj=
  79MAvg1%2B%2BDU%3D">Event link</a>
 END:VEVENT
-
-END:VCALENDAR
+
+END:VCALENDAR
